@@ -1,0 +1,5 @@
+# 70,0
+
+Bag ID: 2150
+ObjectNumber: 11
+Objects size, average, MB: 6,4

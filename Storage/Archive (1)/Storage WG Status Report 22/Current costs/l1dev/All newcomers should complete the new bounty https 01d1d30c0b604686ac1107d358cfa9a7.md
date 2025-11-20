@@ -1,0 +1,1 @@
+# All newcomers should complete the new bounty https://www.notion.so/joystream/Bounty-Storage-WG-Entry-Level-74b13f81a32d4efb811f8259d6fbeee0](https://www.notion.so/Bounty-Storage-WG-Entry-Level-74b13f81a32d4efb811f8259d6fbeee0

@@ -1,0 +1,9 @@
+# Untitled
+
+Utilization: 0%
+bags: 0
+dataObjectsCount: 0
+dataObjectsSize: 0
+dataObjectsSize, GB: 0
+dataObjectsSizeLimit: 1500000000000
+id: 12

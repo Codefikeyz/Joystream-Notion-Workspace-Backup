@@ -1,0 +1,5 @@
+# yyagi (Deputy Lead)
+
+Member ID: 3098
+Reward: 8.0000 JOY
+Worker ID: 7

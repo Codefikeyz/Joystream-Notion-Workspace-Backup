@@ -1,0 +1,5 @@
+# 7,9
+
+Bag ID: 2512
+ObjectNumber: 4
+Objects size, average, MB: 2,0

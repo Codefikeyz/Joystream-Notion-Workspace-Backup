@@ -1,0 +1,5 @@
+# 26,7
+
+Bag ID: 2490
+ObjectNumber: 4
+Objects size, average, MB: 6,7

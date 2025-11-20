@@ -1,0 +1,5 @@
+# 7,7
+
+Bag ID: 2518
+ObjectNumber: 6
+Objects size, average, MB: 1,3

@@ -1,0 +1,7 @@
+﻿Name,3,Negative,Positive,Progress
+HR sourced candidate not hired,No,Yes,No,Complete!
+Inadequate Report,No,No,No,
+Late summary (>6 hours or more),Yes,No,Yes,Complete!
+Workflow Violation,No,No,Yes,Complete!
+Late plan (>6 hours or more),Yes,No,No,
+No openings existed during the term,No,No,Yes,Complete!

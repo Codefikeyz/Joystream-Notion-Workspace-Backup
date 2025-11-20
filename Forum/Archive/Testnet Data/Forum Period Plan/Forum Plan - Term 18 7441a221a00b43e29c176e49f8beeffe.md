@@ -1,0 +1,35 @@
+# Forum Plan - Term 18
+
+**Current group composition :**
+
+Lead name: secret_girl
+
+Worker name: songoku
+
+Worker name: advo
+
+Worker name: Counsellor
+
+Worker name: Black_fish
+
+**Hiring/Firing**
+
+|  | Newcomers | Old Members |
+| --- | --- | --- |
+| Hiring | 0 | 0 |
+| Firing | 0 | 0 |
+
+**Onboarding plans for newcomers**
+
+no onboarding plans this week
+
+**Group Priorities for the Term**
+
+1. Moderate and review threads on Forum.
+2. Move threads and replace categories if needed. 
+3. Choose deputy lead
+4. Make a guide for  Deputy Lead How-to make Summary
+
+**List of Suggestions**
+
+no suggestions this week

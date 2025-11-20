@@ -1,0 +1,5 @@
+# 967,8
+
+Bag ID: 2064
+ObjectNumber: 60
+Objects size, average, MB: 16,1

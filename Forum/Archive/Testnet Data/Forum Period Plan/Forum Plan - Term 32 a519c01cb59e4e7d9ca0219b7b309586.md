@@ -1,0 +1,43 @@
+# Forum Plan - Term 32
+
+**Current group composition :**
+
+Lead: secret_girl
+
+Deputy: songoku
+
+Worker: advo
+
+Worker: Counsellor
+
+Worker: Black_fish
+
+Worker: Iamma
+
+**Hiring/Firing**
+
+|  | Newcomers | Old Members  |
+| --- | --- | --- |
+| Firing | 0 | 0 |
+| Hiring | 0 | 0 |
+
+**Onboarding plan for new hire**
+
+- Train new hires how to do forum tasks (like moving or deleting threads)
+- Give permissions to categories
+
+**Group Priorities for the Term**
+
+1. Moderate and review threads on Forum; (Forum Workers)
+2. Move threads and replace categories if needed; (Forum Workers)
+3. Hire a newcomer every period and fire the most inactive member (if there are applicants)
+4. Quality of opening for position Forum Moderator: add requests and contact details.
+
+**Lead/Deputy Priorities for the Term**
+
+1. Include how many posts/thread exist, and how many were created during the last scoring period for each category (secret_girl, songoku)
+2. Check the data that is reflected in the WG report (secret_girl, songoku)
+3. Provide forum moderator exercises (if applicable)
+4. Update Forum Training Plan (if applicable)
+5. Create opening for position of Forum Moderator Trainees
+6. Update the roadmap of the group (if applicable)

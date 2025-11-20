@@ -1,0 +1,22 @@
+# Forum Plan - Term 22
+
+# **1. Current group composition :**
+
+- Lead name: Songoku
+- Worker: N/A
+
+# 2. Planned Budget for the Term
+
+**Budget Request:** Lead Salary
+
+**Lead Salary:** 0.07 X 14400 X 15 = 15120 Joy
+
+**Budget Request:** 15120 Joy
+
+## 3. Group Tasks
+
+- Create needed new categories/ sub categories on the forum
+- Review forum threads/posts and moderate if necessary
+- Archive inactive, closed or concluded threads
+- Transfer major announcements from Twitter to forum
+- Write summary of pre-proposals with open questions for stale threads.

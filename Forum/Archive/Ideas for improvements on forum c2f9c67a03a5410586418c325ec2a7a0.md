@@ -1,0 +1,12 @@
+# Ideas for improvements on forum
+
+1. If we hire a conversation driver in our working group, it will responsible to start conversations when there aren’t active conversations, this will help to keep forum helpful and energetic
+2. If we gather guides or other things which can help newcomers and place them on a forum in the right category, it will be great..
+3. If we arrange contests or competitions on forums timely, it will be great. Contests should so simple so persons who aren’t familiar with Joystream would like to participate if we do marketing of contest on web 2.0
+4. Add reactions or upvotes to threads create in forum
+5. Try to make official communication through a forum instead of discord
+6. Improve in communication: Foster a sense of community and help members connect with each other more which will help them be more comfortable with the Forum’s features. Sending regular update message that will remind members of the forum’s existence and provide knowledge of the importance of the working group.
+7. Increase engagement with badges: Fun filled activities like quizzes about Joystream will drive competition, bring about motivation and help members improve their retentivity. Also, by encouraging commenting, forums build interactions with members. Each member can post one new discussion topic which everyone can then reply to and leave their comments below.
+8. Create more forums with different functions: A particular forum will undergo specific tasks such as an “introduce yourself” forum which will be a great place for members to start. A forum like Question/Answer Forum where questions are asked and answered or a forum to deal with general requests around admin issues and one for topic discussions.
+9. Active moderation and promoting users: When mediating forums, the working group as a whole should keep track of ideas and workarounds proposed by customers. A specific segment of the forum can be assigned to these posts. When members are actively engaged in Joystream, they help with creative ideas and suggestions that will be beneficial to the platform. Also, by promoting members to special positions, members will take ownership of the community when possible and this ensures long-term viability.
+10. Set more tasks such as completing review exercises: This brings the opportunity for members to work in pairs for a common goal. Group activities facilitate team work and a sense of togetherness among members.
