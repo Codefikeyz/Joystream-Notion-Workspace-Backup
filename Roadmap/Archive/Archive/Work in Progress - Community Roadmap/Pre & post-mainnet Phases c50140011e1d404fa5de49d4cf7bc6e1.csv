@@ -1,0 +1,14 @@
+﻿Name,Type,Scope,Build Phase,Use Phase,Tags
+Gateway “join” button with membership referral embedded,feature build,"Atlas, Gateway, Membership",pre-mainnet,Early Growth,"incentives, join joystream, promotion"
+Channel/Vid “join” button with membership referral embedded,feature build,"Atlas, Gateway, Membership",pre-mainnet,Early Growth,"channels, incentives, join joystream, promotion, videos"
+Token Swapping Routes,"bounty-creation, research, self","Atlas, Documentation, Pioneer",pre-mainnet,All,"instructions, join joystream, onboarding, token swapping, wallets"
+Social Token Swapping Routes,"bounty-creation, research, self",Documentation,pre-mainnet,All,"channels, join joystream, onboarding, social tokens, token swapping, wallets"
+Experimental Atlas forks,"JSG, bounty-creation, feature build","Atlas, Gateway","continuous, post-mainnet, pre-mainnet",All,"channels, gateway tokens, incentives, join joystream, onboarding"
+Gateway Progress,"JSG, feature build",Gateway,"continuous, post-mainnet, pre-mainnet",pre-mainnet,"incentives v3, join joystream, onboarding"
+Integrations,"bounty-creation, research, self","Atlas, Gateway","continuous, post-mainnet, pre-mainnet",All,wallets
+Embedded Video offerings + hosting,"bounty-creation, research, self","Atlas, Gateway","post-mainnet, pre-mainnet",All,"incentives, promotion, sharing, sustainability, videos"
+"“Build a governance system” (Key%20Initiatives/%E2%80%9CBuild%20a%20governance%20system%E2%80%9D%20a2ef75afb89c4d7cbf9d021d0c038132.csv) ","feature build, self","Documentation, Governance",pre-mainnet,All,sustainability
+Post-upload rewards,"research, self","Channels, Governance",pre-mainnet,All,"channels, incentives, sustainability, videos"
+Atlas Music Fork,"bounty-creation, feature build, self","Atlas, Gateway",pre-mainnet,All,features
+"“Build a News Network” (Key%20Initiatives/%E2%80%9CBuild%20a%20News%20Network%E2%80%9D%20340fad63c4fa4f93b83ca710f1ebb06e.csv) ","Project Build, self",,"post-mainnet, pre-mainnet",All,"incentives, join joystream, onboarding, promotion, sustainability"
+"“Build rewards for creating dApps” (Key%20Initiatives/%E2%80%9CBuild%20rewards%20for%20creating%20dApps%E2%80%9D%202b0841873a204ce1b0e499d5f87ae65f.csv) ","Project Build, self",,,,

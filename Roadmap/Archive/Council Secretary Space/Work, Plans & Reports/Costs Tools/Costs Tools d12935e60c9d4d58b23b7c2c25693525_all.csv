@@ -1,0 +1,5 @@
+﻿Name,Maintainer,Price,Status,What/Why?
+Zapier - unused,tomato,$29.99,Inactive,Takes proposals and forum threads from the Council Leaderboard and populates Notion with them
+Council Leaderboard spreadsheet (google sheets),tomato,$0.00,Active,
+API Connector,tomato,$29.00,Active,Automatically runs GraphQL queries to update the Council Leaderboard (and in turn the Community Roadmap)
+n8n,,$0.00,Active,allows for custom workflows/automation with a high degree of flexibility. Allows for graphql queries and Notion integration. Can be self-hosted

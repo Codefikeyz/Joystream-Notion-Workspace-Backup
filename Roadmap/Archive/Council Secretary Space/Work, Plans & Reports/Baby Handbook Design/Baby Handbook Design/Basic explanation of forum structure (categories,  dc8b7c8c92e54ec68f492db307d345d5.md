@@ -1,0 +1,1 @@
+# Basic explanation of forum structure (categories, threads & posts)

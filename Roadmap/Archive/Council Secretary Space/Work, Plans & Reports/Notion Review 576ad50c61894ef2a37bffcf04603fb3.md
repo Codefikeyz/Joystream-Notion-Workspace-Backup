@@ -1,0 +1,61 @@
+# Notion Review
+
+Tags: Notion, Review
+
+- Project Links
+    - Contains many outdated links but still useful because this information isn't stored anywhere else
+        - Contains broken links to [Joystream.org](http://joystream.org/)
+        - Contains broken links to [play.joystream.org](http://play.joystream.org/)
+        - Contains outdated link to JSG video channel
+        - CRM links can be removed
+        - Tools contains a bunch of out of date links
+        - Community links could include [jscan.io](http://jscan.io/)
+- Important Updates
+    - Feels like this is no longer used and could be removed entirely
+- Council
+    - Council Plans should really be a table/database rather than pages
+    - WG Scores from the Council - this is outdated/doesn't appear to be used anymore
+    - Mainnet Council Daily Report - this hasn't been used in almost a month
+    - Scoring section is outdated (FM program)
+    - Workflow is outdated (FM program)
+    - Proposals is outdated (FM program)
+    - Guides page could be a table (like builders QN page)
+    - Testnet documents is outdated (FM program)
+    - Suggestion to put all out of date/unused parts into an archive page
+- Atlas
+    - JSG controls this page
+    - Link is outdated to Atlas--goes to [play.joystream.org](http://play.joystream.org/) but should go to gleev and/or atlas repo
+    - Doesn't look like this has been used much recently
+- Pioneer
+    - JSG controls this page
+    - Mostly blank, hasn't been used in about a year
+- Content Directory
+    - Lots of out of date stuff and references to the FM program within documentation area
+    - Plans and reports should ideally be put into a database view
+- HR
+    - Some outdated/unused areas
+- Builders
+    - Seems to mostly be up to date
+- Marketing
+    - Seems to mostly be up to date
+- Distribution
+    - Seems to be up to date
+- Forum
+    - Seems to be up to date
+- Apps
+    - Seems to be up to date
+- Membership
+    - New page / seems to be up to date
+- Knowledge Base (WIP)
+    - Outdated and not updated
+- Incentives v3 Scoring
+    - Outdated and no longer utilized
+    - Suggest to archive somewhere
+- Incentives resources
+    - Outdated and no longer utilized
+- Tools and resources
+    - Seems to be outdated and no longer used
+- Community Roadmap
+    - Exact current purpose unclear + out of date
+- Working Group Database
+    - New page / seems to be up to date

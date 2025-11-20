@@ -1,0 +1,5 @@
+﻿Name,What/Why?,Price,Maintainer,Status
+API Connector,Automatically runs GraphQL queries to update the Council Leaderboard (and in turn the Community Roadmap),$29.00,tomato,Active
+Zapier - unused,Takes proposals and forum threads from the Council Leaderboard and populates Notion with them,$29.99,tomato,Inactive
+Council Leaderboard spreadsheet (google sheets),,$0.00,tomato,Active
+n8n,allows for custom workflows/automation with a high degree of flexibility. Allows for graphql queries and Notion integration. Can be self-hosted,$0.00,,Active

@@ -1,0 +1,11 @@
+﻿Name,Text,Channels,Roles
+Do you want to get notified of opportunities to earn?,,,
+"Yes, show me developer roles!","You'll get notified of openings for ""Builders"", and technical roles in other working groups.","builders, opportunities and openings",aspiring developer
+"Yes, but only in content distribution.","You'll get notified of opportunities as a Storage Provider, Distributor and App owner.","distributors, opportunities and openings, storage-provider",aspiring server engineer
+"Yes, I want to work with/for the community.","You'll be notified of openings in the HR, Marketing, Moderator and Membership working groups.","content-curator, human-resources, marketing, membership, opportunities and openings",aspiring community worker
+"Yes, I want to work with curating content or apps",You'll be notified of openings as a Curator and App Operator.,"NFTs, apps, content-curator, creator-tokens, creators, opportunities and openings",
+"Yes, I want it all!",You'll get a notification for every new opening.,"creators, opportunities and openings","aspiring community worker, aspiring creator, aspiring developer, aspiring earner, aspiring server engineer"
+Are you a Content Creator?,,,
+,,,
+"Yes, I already have a Joystream Channel",,"NFTs, creator-tokens, creators, ypp-support",Creator
+"Yes, an established one.",But haven't signed up for Joystream yet,"NFTs, creator-tokens, creators, ypp-support",aspiring creator
