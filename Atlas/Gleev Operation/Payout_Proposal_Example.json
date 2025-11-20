@@ -1,0 +1,22 @@
+[
+  {
+    "channelId": 40,
+    "cumulativeRewardEarned": "50000000000000",
+    "reason": "Reward for most views"
+  },
+  {
+    "channelId": 9,
+    "cumulativeRewardEarned": "10000000000000",
+    "reason": "Reward for longest comments thread"
+  },
+  {
+    "channelId": 34,
+    "cumulativeRewardEarned": "11000000000000",
+    "reason": "Reward for most viewed video in Category Sciense & Technnology"
+  },
+  {
+    "channelId": 39,
+    "cumulativeRewardEarned": "8000000000000",
+    "reason": "Reward for most reactions"
+  }
+  ]

@@ -1,0 +1,33 @@
+# Write 500 Words On “History And Achievements Of DAOs” from 3455
+
+### **From** [https://dao.joystream.org/#/bounty/preview/229](https://dao.joystream.org/#/bounty/preview/229)
+
+**3455**
+
+[Joystream Governance App](https://dao.joystream.org/#/forum/thread/787)
+
+[History and Achievements of DAOs](https://medium.com/@hoshigakik487/history-and-achievements-of-daos-858210e58d64)
+
+# **History and Achievements of DAOs**
+
+The DAO (stylized Đ) was a digital decentralized autonomous organization[5] and a form of investor-directed venture capital fund. After launching in April 2016 via a token sale, it became one of the largest crowdfunding campaigns in history. In June 2016, users exploited a vulnerability in The DAO code to enable them to siphon off one-third of The DAO’s funds to a subsidiary account. The Ethereum community controversially decided to hard-fork the Ethereum blockchain to restore approximately all funds to the original contract. This split the Ethereum blockchain into two branches, each with its own cryptocurrency, where the original unforked blockchain continued as Ethereum Classic. Joystreqm DAO, Uniswap are all DAOs whose genesis begins thtough all these.
+
+By September 2016, the value token of The DAO, known by the moniker DAO, was delisted from major cryptocurrency exchanges (such as Poloniex and Kraken) and had, in effect, become defunct.[11][12]The open source computer code behind the organization was written principally by Christoph Jentzsch, and released publicly on GitHub, where other contributors added to and modified the code.[6] Simon Jentzsch, Christoph Jentzsch’s brother, was also involved in the venture. The Joystream native token is know as the Joystream tJOY which is part of their testnet exercise.
+
+The DAO was launched on 30 April 2016 at 01:42:58 AM +UTC on Ethereum Block 1428757,[13] with a website and a 28-day crowdsale to fund the organization.[14] The token sale had raised more than US$34 million by 10 May 2016, and more than US$50 million-worth of Ether (ETH) — the digital value token of the Ethereum network — by 12 May, and over US$100 million by 15 May 2016.[14][15] On 17 May 2016, the largest investor in the DAO held less than 4% of all DAO tokens and the top 100 holders held just over 46% of all DAO tokens.[16] The fund’s Ether value as of 21 May 2016 was more than US$150 million,[17] from more than 11,000 investors.[18]
+
+As of May 2016, The DAO had attracted nearly 14% of all ether tokens issued to date.[1]
+
+On 28 May 2016 the DAO tokens became tradable on various cryptocurrency exchanges.[19][11][12]
+
+A paper published in May 2016 noted a number of security vulnerabilities associated with The DAO, and recommended that investors in The DAO hold off from directing The DAO to invest in projects until the problems had been resolved.[20] An Ethereum developer on GitHub pointed out a flaw relating to “recursive calls”. On June 9 it was blogged about by Peter Vessenes, founder of the Blockchain Foundation.[21] By June 14, fixes had been proposed and were awaiting approval by members of The DAO.
+
+On June 16, further attention was called to recursive call vulnerabilities by bloggers affiliated with the Initiative for CryptoCurrencies & Contracts (IC3).[22]
+
+On June 17, 2016, the DAO was subjected to an attack exploiting a combination of vulnerabilities, including the one concerning recursive calls, that resulted in the transfer of 3.6 million Ether — around a third of the 11.5 million Ether that had been committed to The DAO — valued at the time at around $50M.[2][23] The funds were moved into an account subject to a 28-day holding period under the terms of the Ethereum smart contract so were not actually gone.
+
+Members of The DAO and the Ethereum community debated what to do next, with some calling the attack a valid but unethical maneuver, others calling for the Ether to be re-appropriated, and some calling for The DAO to be shut down.[23][24] Eventually[when?], the Ethereum network was hard forked to move the funds in The DAO to a recovery address where they could be exchanged back to Ethereum by their original owners.[25] However, some continued to use the original unforked Ethereum blockchain, now called Ethereum Classic.On 25 July 2017, the U.S. Securities and Exchange Commission published a report on initial coin offerings (ICOs) and The DAO, examining “whether The DAO and associated entities and individuals violated federal securities laws with unregistered offers and sales of DAO Tokens in exchange for ‘Ether,’ a virtual currency.” The SEC concluded that DAO tokens sold on the Ethereum blockchain were securities and therefore possible violations of U.S. securities laws.[33].
+
+The DAO’s Great Start Gone Wrong. However, on June 17, 2016, a hacker found a loophole in the coding that allowed him to drain funds from The DAO. In the first few hours of the attack, 3.6 million ETH were stolen, the equivalent of $70 million at the time. Once the hacker had done the damage he intended, he withdrew the attack.
+
+In this exploit, the attacker was able to “ask” the smart contract (DAO) to give the Ether back multiple times before the smart contract could update its balance. Two main issues made this possible: the fact that when the DAO smart contract was created the coders did not take into account the possibility of a recursive call and the fact that the smart contract first sent the ETH funds and then updated the internal token balance.It’s important to understand that this bug did not come from Ethereum itself, but from this one application that was built on Ethereum. The code written for The DAO had multiple flaws, and the recursive call exploit was one of them. Another way to look at this situation is to compare Ethereum to the Internet and any application based on Ethereum to a website — If a site is not working, it doesn’t mean that the Internet is not working, it merely says that one website has a problem. The hacker stopped draining The DAO for unknown reasons, even though he could have continued to do so. The Ethereum community and team quickly took control of the situation and presented multiple proposals to deal with the exploit. Surprisingly, the hack was the beginning of the end for the DAO. The hack itself was contested by many Ethereum users, who argued that the hard fork violated the basic tenets of blockchain technology. To make matters worse, on September 5, 2016, the cryptocurrency exchange Poloniex delisted DAO tokens, with Kraken doing the same in December 2016.

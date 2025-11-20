@@ -1,0 +1,727 @@
+# YPP Rewards Payout ending 22.09
+
+<aside>
+💡 Happy Friday yall
+
+We’ve welcomed another 42 channels bringing almost 2mln audience in YT subscribers. Our total crypto community now has circa 700 channels and we are ready to expand to the new horizons. 
+
+As mentioned last week we are working on the YPP 2.0 release which will include:
+- open up to non-crypto categories
+- tiers upgrade to also include quality assessment
+- set of improvements for the channel dashboard
+
+Backend and design are finished now, and we are planning to start testing early next week. Once all the nitty gritty details are clarified I will share the blog post announcing more details. 
+
+Before the release is actually announced the rules remain the same as now, but start getting excited about the changes to come. That would mean more opportunities for referrals and better experience for us and the new joiners.
+
+</aside>
+
+**Channels Count**
+Total verified channels **678** (+42; +6.6%) 
+Total YT subscribers count 14.2 mln **12.25mln** (+1.95mln; +16%)
+
+**Signed up vs Verified**
+
+211 channels signed up in total (134 by referral - 63%)
+
+42 new channels verified since last Friday (30 by referrals - 78%)
+184 suspended
+3- Opted out
+
+**Rewards**
+
+Total videos synced -  711
+Sync rewards -  820 USD
+Sign up rewards  900 USD
+Referral rewards -    345 USD
+
+Weekly payout = 2065 USD
+
+Exchange rate 0.026587
+
+Weekly payout in JOY =  **77,577 k
+Total payout to date in JOY: 6.2 mln ~ $235k USD**
+
+[ypp-rewards-17-22-Sept.csv](YPP%20Rewards%20Payout%20ending%2022%2009/ypp-rewards-17-22-Sept.csv)
+
+| **Channel Title** | **Subscribers YT** | **Gleev Channel ID** | **New Synced Vids** | **Videos Sync Reward in USD** | **Sign Up Reward in USD** | **Latest Referral Reward in USD** | **Latest YPP Reward Status** | **Latest Overall YPP Reward in JOY** | **Total YPP Rewards in JOY** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| CRYPTO PEPE - ВСЕ О ЗАРАБОТКЕ И КРИПТОВАЛЮТЕ | 15,200 | 27126 | 0 | 0 | 0 | 0 | Paid | 0 | 5,904 |
+| FREE_CRIPTO | 204 | 26518 | 0 | 0 | 0 | 0 | Paid | 0 | 9,090 |
+| Investor Manager | 68 | 29073 | 0 | 0 | 0 | 0 | Paid | 0 | 195 |
+| ФИНИСТ AleksP. | 737 | 27428 | 0 | 0 | 0 | 0 | Paid | 0 | 1,292 |
+| $CCC$ - CryptoCurrencyCommunity | 67,800 | 28011 | 1 | 4 | 0 | 0 | Paid | 150 | 7,600 |
+| 0xNina | 185 | 26291 | 0 | 0 | 0 | 0 | Paid | 0 | 5,062 |
+| 10X Kiếm Tiền | 175,000 | 29063 | 1 | 5 | 0 | 0 | Paid | 188 | 2,339 |
+| 1분NFT | 32,000 | 29352 | 0 | 0 | 30 | 0 | Paid | 1,128 | 1,128 |
+| 40 Plus о КРИПТЕ | 12,600 | 26236 | 1 | 2 | 0 | 0 | Paid | 75 | 108,804 |
+| Aahira Chhabra | 28,400 | 28350 | 0 | 0 | 0 | 0 | Paid | 0 | 4,161 |
+| Abdul Aslam | 4,950 | 28157 | 0 | 0 | 0 | 0 | Paid | 0 | 1,251 |
+| Abdykasymov БЛОГ | 848 | 26412 | 0 | 0 | 0 | 0 | Paid | 0 | 5,000 |
+| Abou Haytam أبو هيثم | 8,680 | 29135 | 0 | 0 | 0 | 0 | Paid | 0 | 782 |
+| Abourayhana - أبوريحانة | 2,520 | 28655 | 3 | 3 | 0 | 0 | Paid | 113 | 2,019 |
+| ABUNABIL☬ALBREAM | 164 | 28301 | 0 | 0 | 0 | 0 | Paid | 0 | 316 |
+| Agunk Rejectz | 328,000 | 27862 | 0 | 0 | 0 | 0 | Paid | 0 | 7,762 |
+| Aimaniko_CryptoJob | 225 | 27857 | 1 | 0 | 0 | 0 | Paid | 0 | 1,552 |
+| Ainur Yusupov | 69 | 28853 | 0 | 0 | 0 | 0 | Paid | 0 | 316 |
+| Airdrop Alert Daily: News & Updates | 10,500 | 26425 | 0 | 0 | 0 | 0 | Paid | 0 | 15,448 |
+| Airdrop inside | 16,900 | 29324 | 4 | 6 | 20 | 5 | Paid | 1,166 | 1,165 |
+| AIRDROP ЖДУН | 636 | 27745 | 0 | 0 | 0 | 0 | Paid | 0 | 1,552 |
+| AIRDROPSTAR01 | 133 | 28856 | 0 | 0 | 0 | 0 | Paid | 0 | 316 |
+| Aleksandr | 105 | 22639 | 0 | 0 | 0 | 0 | Paid | 0 | 7,941 |
+| Alex Shchukin - ЗАРАБОТОК В ИНТЕРНЕТЕ | 1,680 | 27319 | 2 | 2 | 0 | 0 | Paid | 75 | 1,808 |
+| ALEX WORK-Заработок и инвестиции в интернете | 831 | 26961 | 0 | 0 | 0 | 0 | Paid | 0 | 2,375 |
+| Alexey Ponomarev | 3,710 | 26665 | 2 | 2 | 0 | 0 | Paid | 75 | 6,850 |
+| ALI_WALID16 | 3,280 | 28842 | 0 | 0 | 0 | 0 | Paid | 0 | 671 |
+| All_in_One | 3,170 | 29362 | 0 | 0 | 10 | 0 | Paid | 376 | 376 |
+| Alzeer mining crypto | 446 | 28180 | 1 | 0 | 0 | 0 | Paid | 0 | 1,251 |
+| AMMONEY | 2,210 | 27340 | 0 | 0 | 0 | 0 | Paid | 0 | 1,218 |
+| Ander Win | 1,190 | 26592 | 4 | 3 | 0 | 0 | Paid | 113 | 41,782 |
+| anton777xd.crypto | 218 | 27229 | 0 | 0 | 0 | 0 | Paid | 0 | 1,218 |
+| Anyobservation | 3,710 | 26761 | 0 | 0 | 0 | 0 | Paid | 0 | 3,652 |
+| APOK MONEY | 1,000 | 27241 | 0 | 0 | 0 | 0 | Paid | 0 | 1,353 |
+| AR-money77 | 462 | 26550 | 0 | 0 | 0 | 0 | Paid | 0 | 25,194 |
+| ArtiTrade про Криптовалюты и Инвестиции | 1,730 | 27893 | 0 | 0 | 0 | 0 | Paid | 0 | 1,893 |
+| ARTUR HASLEY | 12,000 | 27387 | 0 | 0 | 0 | 0 | Paid | 0 | 3,522 |
+| Avseenko-life | 182,000 | 26295 | 1 | 5 | 0 | 0 | Paid | 188 | 215,399 |
+| azhar is | 56 | 28129 | 0 | 0 | 0 | 0 | Paid | 0 | 1,251 |
+| B i t c o | 2,020 | 27520 | 0 | 0 | 0 | 0 | Paid | 0 | 1,665 |
+| BADRE BADREDDINE | 37,400 | 28205 | 2 | 6 | 0 | 0 | Paid | 226 | 5,572 |
+| Baikov Invest | 4,290 | 26653 | 1 | 1 | 0 | 0 | Paid | 38 | 6,615 |
+| Banlife | 36,800 | 27434 | 0 | 0 | 0 | 0 | Paid | 0 | 3,294 |
+| Bassam Maqboul | 6,330 | 27615 | 0 | 0 | 0 | 0 | Paid | 0 | 3,047 |
+| BaTtLeX Crypto | 1,170 | 26607 | 1 | 1 | 0 | 0 | Paid | 38 | 9,005 |
+| BD Technical Hasib | 1,150 | 28304 | 0 | 0 | 0 | 0 | Paid | 0 | 1,516 |
+| Ben Popov | 6,180 | 28214 | 3 | 6 | 0 | 0 | Paid | 226 | 3,083 |
+| Bisnes Planet | 1,040 | 27622 | 3 | 3 | 0 | 0 | Paid | 113 | 1,983 |
+| Bitcoin & Crypto con Maury | 21,700 | 27874 | 6 | 6 | 0 | 0 | Paid | 226 | 6,559 |
+| Bitvisitor | 466 | 26571 | 0 | 0 | 0 | 0 | Paid | 0 | 10,588 |
+| Blockchain Adda | 553 | 29216 | 1 | 0 | 5 | 0 | Paid | 188 | 188 |
+| Blockchain Inside Out | 478 | 28795 | 4 | 0 | 0 | 0 | Paid | 0 | 316 |
+| BLOCKCHAIN MONKEYZ | 4,280 | 29379 | 0 | 0 | 10 | 0 | Paid | 376 | 376 |
+| BLOG CRYPTONA | 307 | 26696 | 1 | 0 | 0 | 0 | Paid | 0 | 7,430 |
+| Boa Dica Cryptomoedas | 10,300 | 27707 | 0 | 0 | 0 | 0 | Paid | 0 | 4,829 |
+| Bon Bon | 223 | 28758 | 0 | 0 | 0 | 0 | Paid | 0 | 316 |
+| Böyük Pullar | 6,980 | 27063 | 2 | 4 | 0 | 0 | Paid | 150 | 9,624 |
+| BP CRYPTO HUB | 1,680 | 28292 | 1 | 1 | 0 | 0 | Paid | 38 | 4,346 |
+| Braavos Wallet on StarkNet | 1,610 | 29370 | 0 | 0 | 10 | 0 | Paid | 376 | 376 |
+| Brandon Duff - The Boring Passive Income Guy | 6,180 | 25941 | 2 | 4 | 0 | 0 | Paid | 150 | 167,350 |
+| Bruel Games | 3,730 | 26320 | 5 | 3 | 0 | 0 | Paid | 113 | 23,172 |
+| BSC MASTER | 122,000 | 26756 | 1 | 5 | 0 | 0 | Paid | 188 | 30,281 |
+| bulevar - AKTIV | 46 | 26055 | 0 | 0 | 0 | 0 | Paid | 0 | 5,000 |
+| Business in trend | 749 | 27567 | 0 | 0 | 0 | 0 | Paid | 0 | 1,218 |
+| byArto | 5,850 | 27725 | 1 | 2 | 0 | 0 | Paid | 75 | 4,279 |
+| Captain Crypto | 10,100 | 29287 | 0 | 0 | 20 | 0 | Paid | 752 | 752 |
+| casperer | 121,000 | 26764 | 2 | 10 | 0 | 0 | Paid | 376 | 22,992 |
+| Cawa Money | 948 | 27149 | 3 | 0 | 0 | 0 | Paid | 0 | 3,672 |
+| Channel KiemtienFree | 1,100 | 28747 | 0 | 0 | 0 | 0 | Paid | 0 | 671 |
+| ClaimDrop | Airdrop Community | 651 | 28872 | 0 | 0 | 0 | 0 | Paid | 0 | 316 |
+| CloudGeo | 23,500 | 27466 | 0 | 0 | 0 | 0 | Paid | 0 | 3,400 |
+| CNMA | 1,030 | 28293 | 0 | 0 | 0 | 0 | Paid | 0 | 632 |
+| CodeBlockLabs | 2,000 | 29057 | 0 | 0 | 0 | 0 | Paid | 0 | 391 |
+| Coin Brain | 2,020 | 26897 | 0 | 0 | 0 | 0 | Paid | 0 | 2,373 |
+| Coin Explain - криптовалюта, блокчейн, NFT | 1,480 | 27190 | 1 | 1 | 0 | 0 | Paid | 38 | 2,896 |
+| COIN POCKET | 50 | 28000 | 0 | 0 | 0 | 0 | Paid | 0 | 1,877 |
+| Coin Review | 8,120 | 28136 | 1 | 2 | 0 | 0 | Paid | 75 | 3,282 |
+| COIN ROOM | 151,000 | 26632 | 0 | 0 | 0 | 0 | Paid | 0 | 25,690 |
+| coinfree | 76,800 | 28809 | 0 | 0 | 0 | 0 | Paid | 0 | 2,528 |
+| COINTROL | 255,000 | 29050 | 0 | 0 | 0 | 0 | Paid | 0 | 1,956 |
+| COOPERXGOD Crypto | 425 | 27012 | 0 | 0 | 0 | 0 | Paid | 0 | 3,007 |
+| Corki Buchek | 167,000 | 28587 | 2 | 10 | 0 | 0 | Paid | 376 | 7,719 |
+| COSMOS Indicator | 128 | 27819 | 0 | 0 | 0 | 0 | Paid | 0 | 1,564 |
+| CRAZY MONEY | 628 | 26765 | 1 | 0 | 0 | 0 | Paid | 0 | 3,777 |
+| Criptoadicto Ruso hablando español | 99 | 26085 | 0 | 0 | 0 | 0 | Paid | 0 | 6,470 |
+| CriptoTime | 4,040 | 26784 | 0 | 0 | 0 | 0 | Paid | 0 | 10,027 |
+| Cristy Verse | 28,100 | 26497 | 0 | 0 | 0 | 0 | Paid | 0 | 124,179 |
+| Crypt-ai | 32,500 | 28251 | 0 | 0 | 0 | 0 | Paid | 0 | 2,874 |
+| CryptInvest | 89 | 27008 | 1 | 0 | 0 | 0 | Paid | 0 | 4,937 |
+| Crypto 4Light | 10,400 | 26759 | 5 | 6 | 0 | 0 | Paid | 226 | 20,641 |
+| Crypto Addict | 38,000 | 29255 | 0 | 0 | 30 | 0 | Paid | 1,128 | 1,128 |
+| crypto alert | 10,700 | 28909 | 3 | 6 | 0 | 35 | Paid | 1,542 | 2,559 |
+| 𝐂𝐫𝐲𝐩𝐭𝐨 𝐀𝐬𝐢𝐚 | 10,000 | 27523 | 1 | 2 | 0 | 0 | Paid | 75 | 3,905 |
+| Crypto Awaz | 3,000 | 25917 | 0 | 0 | 0 | 0 | Paid | 0 | 12,078 |
+| Crypto Aysh | 5,110 | 27966 | 0 | 0 | 0 | 0 | Paid | 0 | 3,725 |
+| Crypto Banan | 163,000 | 26820 | 0 | 0 | 0 | 0 | Paid | 0 | 19,420 |
+| CRYPTO Bang  Boy | 8,780 | 28781 | 0 | 0 | 0 | 0 | Paid | 0 | 1,264 |
+| Crypto Barry | 128,000 | 29373 | 0 | 0 | 50 | 0 | Paid | 1,881 | 1,880 |
+| CRYPTO BASH | 6,360 | 27807 | 0 | 0 | 0 | 0 | Paid | 0 | 3,725 |
+| Crypto Bitcoin | 1,590 | 28334 | 2 | 2 | 0 | 0 | Paid | 75 | 4,110 |
+| Crypto bitcoine | 1,390 | 28994 | 0 | 0 | 0 | 0 | Paid | 0 | 430 |
+| Crypto Bolt | 92,800 | 29421 | 0 | 0 | 40 | 0 | Paid | 1,504 | 1,504 |
+| Crypto Boomer | 22,500 | 26818 | 3 | 6 | 0 | 0 | Paid | 226 | 41,552 |
+| Crypto Borland | 143 | 27952 | 0 | 0 | 0 | 0 | Paid | 0 | 1,490 |
+| Crypto Boy Master | 13,500 | 27942 | 0 | 0 | 0 | 0 | Paid | 0 | 4,967 |
+| Crypto boy T1 | 21,300 | 27870 | 0 | 0 | 0 | 0 | Paid | 0 | 9,459 |
+| Crypto BTalarmus | 1,270 | 28596 | 0 | 0 | 0 | 0 | Paid | 0 | 632 |
+| CRYPTO BULLSEYE | 4,590 | 25965 | 1 | 1 | 0 | 0 | Paid | 38 | 47,477 |
+| CRYPTO CASH - كريبتو كاش | 688 | 28297 | 1 | 0 | 0 | 0 | Paid | 0 | 316 |
+| Crypto Christopher | 134,000 | 28103 | 0 | 0 | 0 | 0 | Paid | 0 | 6,572 |
+| Crypto City | 160,000 | 29399 | 0 | 0 | 50 | 0 | Paid | 1,881 | 1,880 |
+| Crypto Clarity | 601 | 25773 | 1 | 0 | 0 | 0 | Paid | 0 | 86,248 |
+| Crypto Cloxik | Крипто заработок & KTA гильдия | 589 | 28564 | 1 | 0 | 0 | 0 | Paid | 0 | 316 |
+| Crypto Coin Show | 84,800 | 26568 | 2 | 8 | 0 | 0 | Paid | 301 | 44,000 |
+| CRYPTO CORE RAKIB | 1,190 | 25850 | 0 | 0 | 0 | 0 | Paid | 0 | 27,932 |
+| Crypto Credo | 21,100 | 29215 | 6 | 6 | 20 | 0 | Paid | 978 | 977 |
+| Crypto Crow | 142,000 | 28016 | 3 | 15 | 0 | 0 | Paid | 564 | 9,662 |
+| Crypto Currents | 57 | 26195 | 0 | 0 | 0 | 0 | Paid | 0 | 5,000 |
+| Crypto Demiurg | 3,920 | 26297 | 0 | 0 | 0 | 0 | Paid | 0 | 5,178 |
+| Crypto Deni | 8,960 | 28193 | 0 | 0 | 0 | 0 | Paid | 0 | 3,129 |
+| CRYPTO DILLER | 106 | 26522 | 0 | 0 | 0 | 0 | Paid | 0 | 12,273 |
+| CRYPTO DOKTOR | 1,030 | 27075 | 0 | 0 | 0 | 0 | Paid | 0 | 2,919 |
+| CRYPTO DYOR | 449 | 27550 | 0 | 0 | 0 | 0 | Paid | 0 | 1,218 |
+| CRYPTO Dz Boy | 6,360 | 28779 | 0 | 0 | 0 | 0 | Paid | 0 | 1,264 |
+| Crypto earner baba | 14,100 | 28076 | 0 | 0 | 0 | 0 | Paid | 0 | 3,380 |
+| CRYPTO ERA | 1,890 | 27779 | 1 | 1 | 0 | 0 | Paid | 38 | 1,692 |
+| Crypto Fanat | 103,000 | 26486 | 1 | 5 | 0 | 0 | Paid | 188 | 85,274 |
+| Crypto Fish Network | 510 | 27469 | 4 | 0 | 0 | 0 | Paid | 0 | 1,600 |
+| Crypto Flash | 32,300 | 25948 | 0 | 0 | 0 | 0 | Paid | 0 | 11,249 |
+| CRYPTO FLOWING | 8,780 | 27808 | 0 | 0 | 0 | 0 | Paid | 0 | 3,725 |
+| Crypto Franchise | 1,420 | 28899 | 11 | 3 | 0 | 15 | Paid | 677 | 1,387 |
+| Crypto Gamer | 2,520 | 28562 | 0 | 0 | 0 | 0 | Paid | 0 | 632 |
+| Crypto Genius | 1,000 | 26766 | 0 | 0 | 0 | 0 | Paid | 0 | 7,590 |
+| Crypto Goose | 551 | 27105 | 0 | 0 | 0 | 0 | Paid | 0 | 3,067 |
+| Crypto Groot | 778 | 27414 | 0 | 0 | 0 | 0 | Paid | 0 | 1,218 |
+| Crypto Hamster | 7,130 | 26227 | 0 | 0 | 0 | 0 | Paid | 0 | 18,696 |
+| Crypto House | 109,000 | 26503 | 1 | 5 | 0 | 0 | Paid | 188 | 32,061 |
+| crypto hunter - صائد العملات الرقمية | 13,600 | 28199 | 3 | 6 | 0 | 0 | Paid | 226 | 4,253 |
+| CRYPTO HUNTERS | 5,300 | 28837 | 0 | 0 | 0 | 0 | Paid | 0 | 1,264 |
+| CRYPTO HYPE | 2,790 | 28164 | 0 | 0 | 0 | 0 | Paid | 0 | 1,251 |
+| CRYPTO IN | 31,900 | 27485 | 10 | 9 | 0 | 0 | Paid | 339 | 16,657 |
+| Crypto INSIDE | 1,540 | 26105 | 2 | 2 | 0 | 0 | Paid | 75 | 33,611 |
+| Crypto Inversor | 167 | 26667 | 3 | 0 | 0 | 0 | Paid | 0 | 6,941 |
+| crypto islands | 1,410 | 28187 | 0 | 0 | 0 | 0 | Paid | 0 | 1,251 |
+| Crypto Kaha | 31,700 | 26498 | 1 | 3 | 0 | 0 | Paid | 113 | 39,386 |
+| Crypto Kernels | 1,690 | 25955 | 0 | 0 | 0 | 0 | Paid | 0 | 10,104 |
+| Crypto King | 1,020 | 29041 | 1 | 1 | 0 | 0 | Paid | 38 | 506 |
+| Crypto king | 505 | 28312 | 0 | 0 | 0 | 0 | Paid | 0 | 316 |
+| Crypto Kupec | 977 | 27283 | 0 | 0 | 0 | 0 | Paid | 0 | 1,476 |
+| CRYPTO LADY | 156,000 | 27790 | 1 | 5 | 0 | 0 | Paid | 188 | 9,597 |
+| Crypto Lee | 71,700 | 26485 | 1 | 4 | 0 | 0 | Paid | 150 | 53,194 |
+| CRYPTO LIFE | 11,700 | 26177 | 0 | 0 | 0 | 0 | Paid | 0 | 13,245 |
+| CRYPTO LIVE | 1,690 | 28161 | 0 | 0 | 0 | 0 | Paid | 0 | 1,251 |
+| Crypto Locker X | 18,400 | 28848 | 0 | 0 | 0 | 0 | Paid | 0 | 1,264 |
+| Crypto Luciana | 130,000 | 28825 | 0 | 0 | 0 | 0 | Paid | 0 | 3,160 |
+| Crypto M Profit | 98,900 | 28595 | 3 | 12 | 0 | 0 | Paid | 451 | 5,208 |
+| CRYPTO MARKETING OFFICIAL' | 1,560 | 29232 | 1 | 1 | 10 | 0 | Paid | 414 | 413 |
+| CRYPTO MASTER | 37,000 | 29280 | 1 | 3 | 30 | 0 | Paid | 1,241 | 1,241 |
+| Crypto Master TV | 48,300 | 28742 | 1 | 3 | 0 | 0 | Paid | 113 | 2,008 |
+| Crypto Max | 2,780 | 27873 | 0 | 0 | 0 | 0 | Paid | 0 | 1,490 |
+| Crypto Max | 61,400 | 28063 | 0 | 0 | 0 | 0 | Paid | 0 | 6,259 |
+| Crypto Mezox | 1,660 | 28847 | 3 | 3 | 0 | 0 | Paid | 113 | 744 |
+| Crypto Mighelle | 36,000 | 26876 | 2 | 6 | 0 | 0 | Paid | 226 | 11,113 |
+| Crypto Milovat | 793 | 27984 | 0 | 0 | 0 | 0 | Paid | 0 | 1,490 |
+| Crypto Miner | 64,700 | 27950 | 0 | 0 | 0 | 0 | Paid | 0 | 14,272 |
+| Crypto Money - للعملات والأرباح | 2,290 | 28782 | 6 | 3 | 0 | 0 | Paid | 113 | 744 |
+| Crypto Money Machine | 2,270 | 28400 | 0 | 0 | 0 | 0 | Paid | 0 | 1,390 |
+| CRYPTO MOON | 87,100 | 29371 | 0 | 0 | 40 | 0 | Paid | 1,504 | 1,504 |
+| Crypto News | 1,050 | 28033 | 0 | 0 | 0 | 0 | Paid | 0 | 1,490 |
+| Crypto Normally | 1,560 | 28005 | 1 | 1 | 0 | 0 | Paid | 38 | 864 |
+| Crypto Ocean | 7,180 | 28178 | 0 | 0 | 0 | 0 | Paid | 0 | 3,129 |
+| Crypto Panther | 4,180 | 28416 | 0 | 0 | 0 | 0 | Paid | 0 | 632 |
+| Crypto Pepe | 67,000 | 26821 | 0 | 0 | 0 | 0 | Paid | 0 | 31,328 |
+| Crypto Phantom - Karl James Olivar | 16,400 | 29248 | 2 | 4 | 20 | 10 | Paid | 1,279 | 1,278 |
+| Crypto Pharaoh | 403,000 | 29204 | 0 | 0 | 50 | 0 | Paid | 1,881 | 1,880 |
+| Crypto Planet | 2,400 | 27351 | 0 | 0 | 0 | 0 | Paid | 0 | 1,343 |
+| Crypto platform | 24,100 | 26787 | 0 | 0 | 0 | 0 | Paid | 0 | 10,144 |
+| Crypto Pratik | 3,180 | 28845 | 1 | 1 | 0 | 3 | Paid | 113 | 822 |
+| Crypto Pratik Shorts | 61 | 29176 | 0 | 0 | 5 | 0 | Paid | 188 | 188 |
+| Crypto Profit | 107,000 | 28048 | 0 | 0 | 0 | 0 | Paid | 0 | 8,469 |
+| CRYPTO PROJECTS | 257 | 26373 | 0 | 0 | 0 | 0 | Paid | 0 | 5,000 |
+| CRYPTO PULSE | 141 | 26662 | 1 | 0 | 0 | 0 | Paid | 0 | 4,734 |
+| Crypto raki | 215 | 26690 | 0 | 0 | 0 | 0 | Paid | 0 | 3,921 |
+| Crypto Retriever | 13,500 | 26845 | 0 | 0 | 0 | 0 | Paid | 0 | 5,783 |
+| CRYPTO RINA | 1,970 | 26603 | 3 | 3 | 0 | 0 | Paid | 113 | 27,198 |
+| CRYPTO ROM - криптовалюта, финансы и заработок | 783 | 26520 | 2 | 0 | 0 | 0 | Paid | 0 | 19,380 |
+| Crypto Samurai | 163,000 | 29354 | 0 | 0 | 50 | 0 | Paid | 1,881 | 1,880 |
+| Crypto Shark | 73,500 | 26636 | 0 | 0 | 0 | 0 | Paid | 0 | 24,587 |
+| Crypto Sheff | 77,400 | 26561 | 0 | 0 | 0 | 0 | Paid | 0 | 21,688 |
+| Crypto Shved | 728 | 27859 | 0 | 0 | 0 | 0 | Paid | 0 | 1,490 |
+| Crypto Soul | 31,600 | 27954 | 0 | 0 | 0 | 0 | Paid | 0 | 8,149 |
+| Crypto Spaces | 5,840 | 29037 | 4 | 6 | 0 | 0 | Paid | 226 | 1,242 |
+| Crypto Star 105 | 16,200 | 27475 | 1 | 2 | 0 | 0 | Paid | 75 | 3,248 |
+| CRYPTO STUDIO 23 | 19,600 | 26754 | 0 | 0 | 0 | 0 | Paid | 0 | 18,264 |
+| Crypto Svitlana | 523 | 26809 | 2 | 0 | 0 | 0 | Paid | 0 | 4,665 |
+| Crypto Talks-Blockchain & Gamefi | 66,300 | 29109 | 0 | 0 | 0 | 0 | Paid | 0 | 1,564 |
+| CRYPTO TIMES | 1,040 | 26830 | 7 | 3 | 0 | 0 | Paid | 113 | 7,518 |
+| Crypto Triada | 570 | 28145 | 0 | 0 | 0 | 0 | Paid | 0 | 1,439 |
+| Crypto Unveiled | 902 | 26226 | 3 | 0 | 0 | 0 | Paid | 0 | 42,563 |
+| Crypto USDT Boss | 7,580 | 28852 | 0 | 0 | 0 | 0 | Paid | 0 | 1,498 |
+| Crypto Variety | 17,800 | 26556 | 0 | 0 | 0 | 0 | Paid | 0 | 3,725 |
+| Crypto Variety | 17,900 | 26496 | 0 | 0 | 0 | 0 | Paid | 0 | 22,727 |
+| Crypto Verse | 2,080 | 28268 | 0 | 0 | 0 | 0 | Paid | 0 | 1,896 |
+| CRYPTO VZOR - Криптовалюта, трейдинг, NFT | 209 | 28174 | 0 | 0 | 0 | 0 | Paid | 0 | 1,377 |
+| CRYPTO WEB | 1,430 | 27980 | 0 | 0 | 0 | 0 | Paid | 0 | 1,490 |
+| Crypto Webz | 299 | 28140 | 0 | 0 | 0 | 0 | Paid | 0 | 1,567 |
+| Crypto whales | 5,910 | 29081 | 0 | 0 | 0 | 0 | Paid | 0 | 860 |
+| Crypto with Erina | 0 | 28077 | 0 | 0 | 0 | 0 | Paid | 0 | 3,254 |
+| Crypto with Tommy | 8,750 | 27624 | 0 | 0 | 0 | 0 | Paid | 0 | 13,879 |
+| crypto wolf | 1,670 | 28788 | 3 | 3 | 0 | 0 | Paid | 113 | 744 |
+| crypto wolf | 56,900 | 27916 | 0 | 0 | 0 | 0 | Paid | 0 | 8,666 |
+| Crypto World | 182,000 | 27945 | 2 | 10 | 0 | 0 | Paid | 376 | 9,982 |
+| Crypto World | 1,220 | 27863 | 1 | 1 | 0 | 0 | Paid | 38 | 1,856 |
+| Crypto World | 1,230 | 27747 | 1 | 1 | 0 | 0 | Paid | 38 | 1,640 |
+| CRYPTO ГИК | 1,530 | 27330 | 0 | 0 | 0 | 0 | Paid | 0 | 1,890 |
+| CRYPTO ЧАЙНИК | 3,930 | 28555 | 0 | 0 | 0 | 0 | Paid | 0 | 632 |
+| CRYPTO-Inversiones & Trades | 1,070 | 29082 | 3 | 3 | 0 | 0 | Paid | 113 | 581 |
+| Crypto4light Low Cap | 5,550 | 26757 | 2 | 4 | 0 | 0 | Paid | 150 | 9,964 |
+| Crypto4light Market | 3,350 | 26760 | 6 | 3 | 0 | 0 | Paid | 113 | 8,478 |
+| CRYPTO_FATHER | 17,700 | 27082 | 0 | 0 | 0 | 0 | Paid | 0 | 5,783 |
+| Crypto_K1ng | 535 | 26294 | 0 | 0 | 0 | 0 | Paid | 0 | 32,099 |
+| cryptoact | 1,170 | 26484 | 0 | 0 | 0 | 0 | Paid | 0 | 23,781 |
+| CryptoBD School | 3,290 | 27783 | 3 | 3 | 0 | 0 | Paid | 113 | 2,905 |
+| CryptoBD SUPPORT | 1,280 | 28266 | 0 | 0 | 0 | 0 | Paid | 0 | 632 |
+| Cryptobiznes | 833 | 27882 | 0 | 0 | 0 | 0 | Paid | 0 | 6,648 |
+| CryptoBOOM - заработок без вложений | 2,030 | 26304 | 0 | 0 | 0 | 0 | Paid | 0 | 5,000 |
+| CryptoCrafter | 469 | 26184 | 0 | 0 | 0 | 0 | Paid | 0 | 14,549 |
+| CryptoCrazyMan | 548 | 26763 | 2 | 0 | 0 | 0 | Paid | 0 | 5,977 |
+| Cryptocurrency and mining | 16 | 29205 | 0 | 0 | 5 | 0 | Paid | 188 | 188 |
+| Cryptocurrency Free | 243 | 26791 | 0 | 0 | 0 | 0 | Paid | 0 | 5,581 |
+| Cryptocurrency Tamil Guru | 13,900 | 28165 | 0 | 0 | 0 | 0 | Paid | 0 | 4,393 |
+| CryptoFermer | 17,000 | 28451 | 0 | 0 | 0 | 0 | Paid | 0 | 1,264 |
+| Cryptogains | 1,680 | 27634 | 0 | 0 | 0 | 0 | Paid | 0 | 1,218 |
+| CryptoIngener | 2,840 | 28697 | 0 | 0 | 0 | 0 | Paid | 0 | 632 |
+| CryptoInvestor | 148,000 | 26510 | 0 | 0 | 0 | 0 | Paid | 0 | 100,446 |
+| CRYPTOK3SH | 107 | 26372 | 0 | 0 | 0 | 0 | Paid | 0 | 8,671 |
+| CRYPTOLAND | 15,400 | 26871 | 4 | 6 | 0 | 0 | Paid | 226 | 12,890 |
+| CryptoLapochka | 90,500 | 27781 | 2 | 8 | 0 | 0 | Paid | 301 | 13,963 |
+| CRYPTOLOGIST | 100,000 | 28156 | 2 | 8 | 0 | 0 | Paid | 301 | 7,220 |
+| CRYPTOLORE | 118,000 | 26512 | 2 | 10 | 0 | 0 | Paid | 376 | 79,583 |
+| CryptoManiaUA | 183 | 29268 | 2 | 0 | 5 | 0 | Paid | 188 | 188 |
+| CryptoMax Airdrop&Bounty | 1,070 | 27848 | 0 | 0 | 0 | 0 | Paid | 0 | 1,490 |
+| cryptomonKeys - Free NFTs, Fairly Distributed | 1,220 | 27801 | 0 | 0 | 0 | 0 | Paid | 0 | 1,490 |
+| Crypton | 1,030 | 28613 | 0 | 0 | 0 | 0 | Paid | 0 | 632 |
+| CryptoNick | 3,660 | 26057 | 1 | 1 | 0 | 0 | Paid | 38 | 14,587 |
+| Cryptonite | 25,500 | 28278 | 0 | 0 | 0 | 0 | Paid | 0 | 2,130 |
+| Cryptoon | 1,870 | 26279 | 0 | 0 | 0 | 0 | Paid | 0 | 25,875 |
+| cryptoozkan | 8,700 | 27845 | 1 | 2 | 0 | 0 | Paid | 75 | 8,080 |
+| CryptoPM | 62,700 | 26569 | 3 | 12 | 0 | 0 | Paid | 451 | 19,921 |
+| CryptoPositive | 103,000 | 28974 | 0 | 0 | 0 | 0 | Paid | 0 | 1,956 |
+| Cryptor | 28,300 | 26324 | 0 | 0 | 0 | 0 | Paid | 0 | 13,430 |
+| CryptoShock | 1,200 | 28569 | 0 | 0 | 0 | 0 | Paid | 0 | 632 |
+| cryptosign | 31,000 | 27699 | 0 | 0 | 0 | 0 | Paid | 0 | 4,089 |
+| Cryptosorium | 622 | 27778 | 1 | 0 | 0 | 0 | Paid | 0 | 1,764 |
+| CryptoSweeT Company | 156 | 26675 | 1 | 0 | 0 | 0 | Paid | 0 | 4,961 |
+| CryptoTime | 21,100 | 26492 | 0 | 0 | 0 | 0 | Paid | 0 | 22,727 |
+| CryptoToloka | 1,400 | 26276 | 0 | 0 | 0 | 0 | Paid | 0 | 9,827 |
+| CryptoTrainer | 29,300 | 28223 | 0 | 0 | 0 | 0 | Paid | 0 | 3,318 |
+| CryptoTube | 1,430 | 27371 | 0 | 0 | 0 | 0 | Paid | 0 | 2,089 |
+| Cryptoverse | 16,900 | 27524 | 0 | 0 | 0 | 0 | Paid | 0 | 3,047 |
+| CRYPTOVEST | 10,900 | 28960 | 0 | 0 | 0 | 0 | Paid | 0 | 860 |
+| CryptoView | 91,000 | 26275 | 0 | 0 | 0 | 0 | Paid | 0 | 60,994 |
+| CryptoVN Channel | 121,000 | 28720 | 1 | 5 | 0 | 0 | Paid | 188 | 3,348 |
+| CryptoZombies | 2,910 | 28254 | 2 | 2 | 0 | 0 | Paid | 75 | 1,834 |
+| CVN Group | 132,000 | 29064 | 0 | 0 | 0 | 3 | Paid | 75 | 2,422 |
+| D-Group Gems | 43,000 | 28213 | 1 | 3 | 0 | 20 | Paid | 865 | 7,950 |
+| DanMax | 4,450 | 26973 | 1 | 1 | 0 | 0 | Paid | 38 | 3,629 |
+| DARK CRYPTO | 694 | 29343 | 1 | 0 | 5 | 5 | Paid | 376 | 376 |
+| Đầu tư thông minh ist | 752 | 29210 | 5 | 0 | 5 | 0 | Paid | 188 | 188 |
+| DeFi Ascension | 2,340 | 25914 | 1 | 1 | 0 | 0 | Paid | 38 | 17,000 |
+| defigen | 6,170 | 26152 | 0 | 0 | 0 | 0 | Paid | 0 | 17,990 |
+| Dexter Plays PH | 69,500 | 29315 | 1 | 4 | 40 | 0 | Paid | 1,655 | 1,654 |
+| DIỆU LY CHANNEL | 51,300 | 29061 | 0 | 0 | 0 | 50 | Paid | 1,881 | 6,965 |
+| Dil Ki Awaz | 11,300 | 28354 | 0 | 0 | 0 | 0 | Paid | 0 | 4,424 |
+| Dimantyay&Crypto | 157 | 27184 | 0 | 0 | 0 | 0 | Paid | 0 | 3,672 |
+| Dmytro Kraivskyi | Cryptonit | 23,600 | 26256 | 1 | 2 | 0 | 0 | Paid | 75 | 82,097 |
+| Dmytro777 | 109 | 22156 | 0 | 0 | 0 | 0 | Paid | 0 | 6,470 |
+| DOUBLETOP | 68,200 | 26422 | 2 | 8 | 0 | 0 | Paid | 301 | 100,147 |
+| DreamQ | 2,490 | 28456 | 1 | 1 | 0 | 0 | Paid | 38 | 708 |
+| DripCoach - C.H.A.N.G.E. 360 | 5,080 | 28846 | 10 | 6 | 0 | 0 | Paid | 226 | 3,493 |
+| Drops Easy | 1,150 | 26742 | 0 | 0 | 0 | 0 | Paid | 0 | 6,111 |
+| DYOR | 87 | 27331 | 0 | 0 | 0 | 0 | Paid | 0 | 1,367 |
+| Earn World | 1,070 | 28786 | 5 | 3 | 0 | 0 | Paid | 113 | 861 |
+| Earning digital currencies | 5,510 | 28191 | 8 | 6 | 0 | 0 | Paid | 226 | 4,283 |
+| Earning Official 24 | 5,620 | 29294 | 2 | 4 | 20 | 0 | Paid | 903 | 902 |
+| Earning Point | 993 | 28464 | 0 | 0 | 0 | 0 | Paid | 0 | 316 |
+| Earningistic 5M | 2,820 | 28605 | 7 | 3 | 0 | 0 | Paid | 113 | 1,871 |
+| EAZY CSALPING - КРИПТОВАЛЮТА | 12,900 | 26277 | 0 | 0 | 0 | 0 | Paid | 0 | 24,198 |
+| ECOINOMICA | 20,500 | 28186 | 0 | 0 | 0 | 0 | Paid | 0 | 4,107 |
+| EMOTION | 10,200 | 28141 | 0 | 0 | 0 | 0 | Paid | 0 | 3,570 |
+| ENCRYPTOCK | 3,640 | 28790 | 0 | 0 | 0 | 0 | Paid | 0 | 1,023 |
+| EnjoyMaloy | 225,000 | 26729 | 1 | 5 | 0 | 0 | Paid | 188 | 26,011 |
+| Evgeniy May | 13,000 | 26728 | 4 | 6 | 0 | 0 | Paid | 226 | 21,488 |
+| farag ahmed | 57 | 28074 | 0 | 0 | 0 | 0 | Paid | 0 | 1,877 |
+| Farrag kng | 55 | 27611 | 0 | 0 | 0 | 0 | Paid | 0 | 1,218 |
+| FINANCENEWS | 941 | 27981 | 0 | 0 | 0 | 0 | Paid | 0 | 1,490 |
+| Flash Cash | 110,000 | 25947 | 0 | 0 | 0 | 0 | Paid | 0 | 3,870 |
+| Flash Verse | 211,000 | 26491 | 1 | 5 | 0 | 0 | Paid | 188 | 47,571 |
+| FLICKET CRYPTO | 93,700 | 26808 | 0 | 0 | 0 | 0 | Paid | 0 | 23,946 |
+| Floating Monkey | 73 | 26261 | 0 | 0 | 0 | 0 | Paid | 0 | 9,427 |
+| fomen | 594 | 27314 | 2 | 0 | 0 | 0 | Paid | 0 | 1,737 |
+| Forum Crypto Moonlight | 1,110 | 27772 | 0 | 0 | 0 | 0 | Paid | 0 | 1,678 |
+| FRED4TECH | 936 | 28217 | 0 | 0 | 0 | 0 | Paid | 0 |  |
+| FredMiner | 1,870 | 27359 | 0 | 0 | 0 | 0 | Paid | 0 | 1,523 |
+| Free Crypto | 4,690 | 28287 | 6 | 3 | 0 | 0 | Paid | 113 | 4,848 |
+| Free Crypto | 701 | 26833 | 0 | 0 | 0 | 0 | Paid | 0 | 2,660 |
+| Free Earning help | 411 | 28418 | 0 | 0 | 0 | 0 | Paid | 0 | 316 |
+| free money profit | 649 | 28654 | 0 | 0 | 0 | 0 | Paid | 0 | 316 |
+| FREEDOOM | 110 | 22521 | 0 | 0 | 0 | 0 | Paid | 0 | 47,203 |
+| FullPlay | 3,400 | 28331 | 0 | 0 | 0 | 0 | Paid | 0 | 430 |
+| funny_men78 | 981 | 26532 | 0 | 0 | 0 | 0 | Paid | 0 | 520 |
+| Game of Bitcoins | गेम ऑफ़ बिटकॉइंस | 87,200 | 28429 | 2 | 8 | 0 | 0 | Paid | 301 | 8,110 |
+| Game Of Crypto | 99 | 28801 | 1 | 0 | 0 | 0 | Paid | 0 | 316 |
+| GARIBALD NFT | 520 | 27823 | 0 | 0 | 0 | 0 | Paid | 0 | 1,490 |
+| GEM ZONE | 120,000 | 26623 | 0 | 0 | 0 | 0 | Paid | 0 | 20,027 |
+| Ghosts | 132 | 28661 | 1 | 0 | 0 | 0 | Paid | 0 | 2,148 |
+| Go To Work | 47,900 | 26502 | 0 | 0 | 0 | 0 | Paid | 0 | 27,044 |
+| GOLDEGA | 12,600 | 26746 | 0 | 0 | 0 | 0 | Paid | 0 | 10,187 |
+| GOLTEN | 1,300 | 27437 | 0 | 0 | 0 | 0 | Paid | 0 | 1,553 |
+| Gyan Shadow | 6,470 | 25942 | 0 | 0 | 0 | 0 | Paid | 0 | 16,926 |
+| Hamsters In crypto | 4,100 | 28427 | 0 | 0 | 0 | 0 | Paid | 0 | 632 |
+| Happy24 Club | 4,920 | 26281 | 0 | 0 | 0 | 0 | Paid | 0 | 7,106 |
+| Hard Rock Crypto | 18,600 | 29144 | 2 | 4 | 0 | 0 | Paid | 150 | 1,010 |
+| HashOnTube | 5,070 | 25954 | 1 | 2 | 0 | 0 | Paid | 75 | 18,973 |
+| HelpInvest | 3,160 | 26736 | 0 | 0 | 0 | 0 | Paid | 0 | 3,714 |
+| HIMAR LIVE | 304 | 28189 | 0 | 0 | 0 | 0 | Paid | 0 | 1,251 |
+| Hitasyurek | 1,660 | 26635 | 0 | 0 | 0 | 0 | Paid | 0 | 3,921 |
+| Hoàng Giang Share | 288,000 | 29187 | 1 | 5 | 50 | 0 | Paid | 2,069 | 2,068 |
+| Hoàng Văn Giang | 178,000 | 29186 | 1 | 5 | 50 | 0 | Paid | 2,069 | 2,068 |
+| Hussein Crypto | 5,820 | 28285 | 0 | 0 | 0 | 0 | Paid | 0 | 2,780 |
+| Hype Fox | 40,600 | 26495 | 0 | 0 | 0 | 0 | Paid | 0 | 23,092 |
+| Ian Balina | 107,000 | 27907 | 0 | 0 | 0 | 0 | Paid | 0 | 11,175 |
+| IBRAHIM'S CUISINE AND VLOGS | 2,120 | 28355 | 0 | 0 | 0 | 0 | Paid | 0 | 632 |
+| iBTC365club | 2,360 | 27877 | 0 | 0 | 0 | 0 | Paid | 0 | 1,490 |
+| ICO PROJECTS | 539 | 28282 | 0 | 0 | 0 | 0 | Paid | 0 | 6,575 |
+| ICO today | 1,370 | 26191 | 0 | 0 | 0 | 0 | Paid | 0 | 5,000 |
+| ICOline | 1,730 | 26748 | 0 | 0 | 0 | 0 | Paid | 0 | 3,652 |
+| ide uang | 125,000 | 28173 | 5 | 15 | 0 | 0 | Paid | 564 | 9,302 |
+| Il Marchese Del Crypto | 11,100 | 29148 | 6 | 6 | 0 | 0 | Paid | 226 | 1,085 |
+| inchpes gumar ashxatel internetov - InteRPRO | 4,930 | 27342 | 9 | 3 | 0 | 0 | Paid | 113 | 2,229 |
+| infoenot | 1,440 | 27503 | 0 | 0 | 0 | 0 | Paid | 0 | 1,218 |
+| Infosite - только лучшие сайты | 58,000 | 26678 | 3 | 12 | 0 | 0 | Paid | 451 | 70,141 |
+| INFOtime | 120,000 | 28143 | 2 | 10 | 0 | 0 | Paid | 376 | 8,479 |
+| inhabitants | 419 | 27856 | 0 | 0 | 0 | 0 | Paid | 0 | 1,490 |
+| Insane on Crypto | 11,400 | 28475 | 4 | 6 | 0 | 0 | Paid | 226 | 3,161 |
+| INTER БАБКИ | 175 | 26839 | 0 | 0 | 0 | 0 | Paid | 0 | 3,835 |
+| Internetda pul ishlash | 1,530 | 27441 | 3 | 3 | 0 | 0 | Paid | 113 | 1,642 |
+| invesmets | 6,720 | 26487 | 0 | 0 | 0 | 0 | Paid | 0 | 25,732 |
+| Invest in the right place | 733 | 28378 | 3 | 0 | 0 | 0 | Paid | 0 | 316 |
+| InvestDecentralized | 56 | 21874 | 0 | 0 | 0 | 0 | Paid | 0 | 15,500 |
+| INVESTHACKMAN | 125 | 27032 | 0 | 0 | 0 | 0 | Paid | 0 | 2,313 |
+| Investing in cryptocurrency | 1,630 | 28877 | 1 | 1 | 0 | 0 | Paid | 38 | 669 |
+| INVESTKIT | 2,910 | 27834 | 0 | 0 | 0 | 0 | Paid | 0 | 1,827 |
+| InvestМания - CryptoCurrency | 168,000 | 28915 | 0 | 0 | 0 | 0 | Paid | 0 | 1,956 |
+| Ivandro Josefh | 324 | 27499 | 0 | 0 | 0 | 0 | Paid | 0 | 1,218 |
+| Jabed Crypto | 108,000 | 27918 | 0 | 0 | 0 | 0 | Paid | 0 | 7,450 |
+| Japz Divino | 38,900 | 28200 | 0 | 0 | 0 | 45 | Paid | 1,693 | 4,821 |
+| Jess Turner | 90,400 | 28820 | 0 | 0 | 0 | 0 | Paid | 0 | 2,528 |
+| João Farias FX | 18,800 | 26964 | 0 | 0 | 0 | 0 | Paid | 0 | 7,642 |
+| JohnnyTime | 19,800 | 29338 | 1 | 2 | 20 | 0 | Paid | 827 | 827 |
+| Josh Miller Crypto | 7,100 | 27239 | 0 | 0 | 0 | 0 | Paid | 0 | 4,720 |
+| Juliano | 23,200 | 28207 | 1 | 2 | 0 | 0 | Paid | 75 | 3,282 |
+| Juliano | 23,300 | 26494 | 1 | 2 | 0 | 0 | Paid | 75 | 29,131 |
+| Katoch Tubes | 20,100 | 29092 | 7 | 6 | 0 | 0 | Paid | 226 | 1,085 |
+| KeepCrypto | 355 | 26411 | 0 | 0 | 0 | 0 | Paid | 0 | 5,000 |
+| Kelburn Token | 6,920 | 26806 | 0 | 0 | 0 | 0 | Paid | 0 | 9,132 |
+| Kiran crypto | 1,530 | 29364 | 3 | 3 | 10 | 0 | Paid | 489 | 488 |
+| Knowledge is power | 1,430 | 28360 | 0 | 0 | 0 | 0 | Paid | 0 | 632 |
+| KolotyginPRO Crypto | 681 | 27815 | 0 | 0 | 0 | 0 | Paid | 0 | 1,552 |
+| Kozh | 361 | 26326 | 0 | 0 | 0 | 0 | Paid | 0 | 5,000 |
+| Kripto LOL - про инвестиции | 36,700 | 28328 | 3 | 9 | 0 | 0 | Paid | 339 | 5,620 |
+| Kriptograff | 63 | 28139 | 0 | 0 | 0 | 0 | Paid | 0 | 1,314 |
+| KriptoNFT | 1,190 | 26977 | 0 | 0 | 0 | 0 | Paid | 0 | 4,408 |
+| kriptoRU70 | 784 | 26702 | 0 | 0 | 0 | 0 | Paid | 0 | 5,010 |
+| Ktg Official | 8,120 | 25946 | 1 | 2 | 0 | 0 | Paid | 75 | 63,021 |
+| Kyle Chasse | 41,300 | 25838 | 0 | 0 | 0 | 0 | Paid | 0 | 32,750 |
+| La ZiM | 2,990 | 28158 | 0 | 0 | 0 | 0 | Paid | 0 | 1,877 |
+| LADYGIN | 307 | 26770 | 0 | 0 | 0 | 0 | Paid | 0 | 3,652 |
+| LexaKrm - Заработок в интернете | 3,410 | 27985 | 0 | 0 | 0 | 0 | Paid | 0 | 1,490 |
+| Libya VR | 744 | 28876 | 0 | 0 | 0 | 0 | Paid | 0 | 316 |
+| LIFE CRIPTO | 610 | 26517 | 3 | 0 | 0 | 0 | Paid | 0 | 18,962 |
+| LIGHT CONCEPT GROUP | 1,750 | 27230 | 2 | 2 | 0 | 0 | Paid | 75 | 1,616 |
+| LiteLiger | 32,800 | 26072 | 1 | 3 | 0 | 0 | Paid | 113 | 43,944 |
+| Little & Big | 7,390 | 22339 | 0 | 0 | 0 | 0 | Paid | 0 | 22,727 |
+| LLoyD Crypto | 3,770 | 26290 | 0 | 0 | 0 | 0 | Paid | 0 | 6,801 |
+| lofingv | 435 | 21904 | 0 | 0 | 0 | 0 | Paid | 0 | 5,000 |
+| Lora Davis | 19,900 | 26604 | 0 | 0 | 0 | 0 | Paid | 0 | 8,676 |
+| Made in Blockchain | 129,000 | 26664 | 0 | 0 | 0 | 0 | Paid | 0 | 22,273 |
+| Made in Ukraine | 129 | 26098 | 0 | 0 | 0 | 0 | Paid | 0 | 9,280 |
+| Magic Rank | 1,000 | 27534 | 0 | 0 | 0 | 0 | Paid | 0 | 1,354 |
+| Mai Thanh Group | 74,700 | 28722 | 1 | 4 | 0 | 0 | Paid | 150 | 2,834 |
+| make money | 844 | 28907 | 15 | 0 | 0 | 0 | Paid | 0 | 195 |
+| Make money online | 3,700 | 28940 | 1 | 1 | 0 | 0 | Paid | 38 | 1,132 |
+| Marketing Experiments | 2,620 | 28363 | 2 | 2 | 0 | 0 | Paid | 75 | 707 |
+| Martin cash | 34,200 | 26493 | 0 | 0 | 0 | 0 | Paid | 0 | 23,536 |
+| Mas_faii | 1,700 | 28175 | 3 | 3 | 0 | 0 | Paid | 113 | 1,480 |
+| Master Mening | 5,370 | 27774 | 2 | 4 | 0 | 0 | Paid | 150 | 4,920 |
+| Max About All | 1,210 | 27436 | 0 | 0 | 0 | 0 | Paid | 0 | 1,218 |
+| Michael Whitman | 73,000 | 26745 | 0 | 0 | 0 | 0 | Paid | 0 | 44,287 |
+| Mihail Stepanov | 410 | 27452 | 0 | 0 | 0 | 0 | Paid | 0 | 1,662 |
+| Miscellaneous about Crypto | 111 | 26091 | 0 | 0 | 0 | 0 | Paid | 0 | 7,700 |
+| Mo7TRaM | 269 | 28208 | 2 | 0 | 0 | 0 | Paid | 0 | 1,630 |
+| Money Freedom | 2,880 | 27788 | 4 | 3 | 0 | 0 | Paid | 113 | 2,166 |
+| Money Here | 1,780 | 26940 | 0 | 0 | 0 | 0 | Paid | 0 | 1,279 |
+| Money Meadow | 942 | 26843 | 0 | 0 | 0 | 0 | Paid | 0 | 7,910 |
+| Money Start Заработок в интернете | 7,020 | 26819 | 1 | 2 | 0 | 0 | Paid | 75 | 17,723 |
+| MoneyExpress | 1,080 | 27336 | 4 | 3 | 0 | 0 | Paid | 113 | 2,562 |
+| MoneyTime | 116,000 | 27312 | 1 | 5 | 0 | 0 | Paid | 188 | 6,598 |
+| MONITORING PLYS! | 850 | 27104 | 7 | 0 | 0 | 0 | Paid | 0 | 2,660 |
+| Moonway | 62 | 28052 | 0 | 0 | 0 | 0 | Paid | 0 | 1,314 |
+| Mr Crypto | مستر كريبتو | 11,400 | 28092 | 0 | 0 | 0 | 0 | Paid | 0 | 10,411 |
+| Mr nasero | مستر نصرو | 11,200 | 29185 | 0 | 0 | 20 | 0 | Paid | 752 | 752 |
+| MrCrypto PH | 15,200 | 28172 | 0 | 0 | 0 | 0 | Paid | 0 | 4,374 |
+| MrPrince | 123,000 | 26507 | 0 | 0 | 0 | 0 | Paid | 0 | 22,727 |
+| NanekTV | 466 | 26788 | 0 | 0 | 0 | 0 | Paid | 0 | 3,652 |
+| NattyCrypto | 886 | 29292 | 3 | 0 | 5 | 0 | Paid | 188 | 188 |
+| Natum Putat | 374 | 28084 | 3 | 0 | 0 | 0 | Paid | 0 | 1,439 |
+| Natyk Crypto | 288 | 26490 | 5 | 0 | 0 | 0 | Paid | 0 | 10,530 |
+| Nazar Kliuka | 116 | 27017 | 0 | 0 | 0 | 0 | Paid | 0 | 1,490 |
+| Neon | 8,440 | 28298 | 3 | 6 | 0 | 0 | Paid | 226 | 3,745 |
+| NeoNFT | 22,600 | 29369 | 0 | 0 | 20 | 0 | Paid | 752 | 752 |
+| NETWORK CRYPTO | 518 | 28182 | 1 | 0 | 0 | 0 | Paid | 0 | 195 |
+| NeuroCrypt | 243 | 26306 | 0 | 0 | 0 | 0 | Paid | 0 | 5,000 |
+| Nevan JUL | 1,590 | 28250 | 0 | 0 | 0 | 0 | Paid | 0 | 632 |
+| NEWS CRYPTO INDONESIA | 9,870 | 27488 | 7 | 6 | 0 | 0 | Paid | 226 | 4,332 |
+| NFT TIGER BOSS | 103,000 | 27920 | 0 | 0 | 0 | 0 | Paid | 0 | 7,762 |
+| NFT і не тільки | 6,930 | 27366 | 0 | 0 | 0 | 0 | Paid | 0 | 3,443 |
+| nftguru2023 | 1,210 | 28349 | 0 | 0 | 0 | 0 | Paid | 0 | 632 |
+| NFTS UP | 1,020 | 27179 | 5 | 3 | 0 | 0 | Paid | 113 | 2,425 |
+| Nishtyak - заробіток в інтернеті! | 9,430 | 26716 | 1 | 2 | 0 | 0 | Paid | 75 | 12,817 |
+| NS للمعلوميات | 5,160 | 28727 | 0 | 0 | 0 | 0 | Paid | 0 | 4,230 |
+| NTT Chanel | 12,100 | 28629 | 0 | 0 | 0 | 0 | Paid | 0 | 1,264 |
+| Oleg PRO Zarabotok | 1,550 | 26528 | 0 | 0 | 10 | 0 | Paid | 376 | 376 |
+| Oleksandr Moroz | 923 | 28693 | 0 | 0 | 0 | 0 | Paid | 0 | 316 |
+| ompong | 81 | 28284 | 1 | 0 | 0 | 0 | Paid | 0 | 316 |
+| Online Income University | 1,220 | 28147 | 0 | 0 | 0 | 0 | Paid | 0 | 1,251 |
+| Online Money | 5,580 | 27528 | 0 | 0 | 0 | 0 | Paid | 0 | 3,047 |
+| Online1 trading tamil | 11,600 | 28314 | 2 | 4 | 0 | 0 | Paid | 150 | 1,492 |
+| Ovodoff | 3,380 | 26747 | 0 | 0 | 0 | 0 | Paid | 0 | 9,511 |
+| PA Review | 51,700 | 29062 | 1 | 4 | 0 | 0 | Paid | 150 | 1,714 |
+| pagksim | 80 | 27936 | 0 | 0 | 0 | 0 | Paid | 0 | 1,490 |
+| Peca_Crypto | 671 | 26147 | 3 | 0 | 0 | 0 | Paid | 0 | 49,296 |
+| Pinoy Crypto | 5,070 | 28115 | 0 | 0 | 0 | 0 | Paid | 0 | 3,129 |
+| PM TECH-Blockchain & NFT's | 21,900 | 29114 | 0 | 0 | 0 | 3 | Paid | 75 | 857 |
+| Pray To Profit | 22,700 | 26555 | 0 | 0 | 0 | 0 | Paid | 0 | 23,427 |
+| PRO LIFE | 1,120 | 27388 | 0 | 0 | 0 | 0 | Paid | 0 | 3,253 |
+| PRO Mining | 31,300 | 26387 | 0 | 0 | 0 | 0 | Paid | 0 | 12,500 |
+| PRO Tuber | 59,200 | 28230 | 1 | 4 | 0 | 0 | Paid | 150 | 9,346 |
+| Probas | 131 | 26968 | 0 | 0 | 0 | 0 | Paid | 0 | 7,517 |
+| profit maker - حاصد الارباح | 11,700 | 28295 | 3 | 6 | 0 | 0 | Paid | 226 | 1,723 |
+| Profitrole | 1,600 | 27112 | 3 | 3 | 0 | 0 | Paid | 113 | 7,817 |
+| PROSTO MONEY - ЗАРАБОТОК В ИНТЕРНЕТЕ | 2,330 | 27949 | 0 | 0 | 0 | 0 | Paid | 0 | 1,552 |
+| ProTiger Promoter | 23,800 | 27988 | 0 | 0 | 0 | 0 | Paid | 0 | 3,725 |
+| ProxXx | 49 | 26300 | 0 | 0 | 0 | 0 | Paid | 0 | 6,363 |
+| Purple Money | 1,520 | 25761 | 0 | 0 | 0 | 0 | Paid | 0 | 9,900 |
+| QUICK Profit | 53,100 | 27252 | 0 | 0 | 0 | 0 | Paid | 0 | 6,658 |
+| RABOTADOMA | 5,870 | 26798 | 4 | 6 | 0 | 0 | Paid | 226 | 23,434 |
+| Rebooting the world | 119,000 | 29031 | 0 | 0 | 0 | 0 | Paid | 0 | 2,151 |
+| Review Crypto Channel 21 | 124 | 28624 | 0 | 0 | 0 | 0 | Paid | 0 | 316 |
+| RINA CRYPTO | 32,600 | 26608 | 1 | 3 | 0 | 0 | Paid | 113 | 9,685 |
+| Robert Cole | 2,720 | 7692 | 0 | 0 | 0 | 0 | Paid | 0 | 5,000 |
+| Rocket Star | 1,940 | 21903 | 0 | 0 | 0 | 0 | Paid | 0 | 17,000 |
+| Roland Morozov | 2,670 | 26515 | 1 | 1 | 0 | 0 | Paid | 38 | 66,510 |
+| RollerCoinUA | 176 | 26239 | 2 | 0 | 0 | 0 | Paid | 0 | 18,454 |
+| Roman Pushka | 109,000 | 26628 | 0 | 0 | 0 | 0 | Paid | 0 | 3,469 |
+| Royal Gaming & Token | 44,000 | 27840 | 3 | 9 | 0 | 0 | Paid | 339 | 4,676 |
+| Rudy Crypto | 9,580 | 27847 | 1 | 2 | 0 | 0 | Paid | 75 | 5,616 |
+| Ruslan Nestserau | 3,390 | 26873 | 1 | 1 | 0 | 0 | Paid | 38 | 3,342 |
+| Ryan Rotolo | 97,900 | 28219 | 0 | 0 | 0 | 0 | Paid | 0 | 6,511 |
+| Sakolik | 505 | 26992 | 1 | 0 | 0 | 0 | Paid | 0 | 3,190 |
+| SAMU BIT | 10,500 | 29162 | 11 | 6 | 0 | 0 | Paid | 226 | 1,163 |
+| Sanchous Crypto | 57,300 | 27263 | 2 | 8 | 0 | 0 | Paid | 301 | 6,699 |
+| Sbella Trader | 1,900 | 28648 | 3 | 3 | 0 | 0 | Paid | 113 | 744 |
+| ScRooGe | 16,200 | 28603 | 1 | 2 | 0 | 0 | Paid | 75 | 3,011 |
+| Serega Gorbachev | 637 | 27511 | 1 | 0 | 0 | 0 | Paid | 0 | 1,615 |
+| SERGO ПРО КРИПТУ | 7,330 | 27464 | 0 | 0 | 0 | 0 | Paid | 0 | 3,047 |
+| Serhius | 84 | 27219 | 0 | 0 | 0 | 0 | Paid | 0 | 1,218 |
+| SGR Crypto ( Airdrops) | 897 | 28857 | 2 | 0 | 0 | 0 | Paid | 0 | 316 |
+| Shami Sports | 6,670 | 28908 | 0 | 0 | 0 | 0 | Paid | 0 | 782 |
+| SHESTIK | 1,140 | 28448 | 1 | 1 | 0 | 0 | Paid | 38 | 669 |
+| Sistine Research | 29,800 | 28211 | 0 | 0 | 0 | 0 | Paid | 0 | 3,552 |
+| Slash | 2,490 | 28044 | 0 | 0 | 0 | 0 | Paid | 0 | 1,490 |
+| Smart crypto earner | 38,900 | 28073 | 0 | 0 | 0 | 0 | Paid | 0 | 3,505 |
+| Sofia russia | 1,050 | 29353 | 0 | 0 | 10 | 0 | Paid | 376 | 376 |
+| SONAS | 1,250 | 26132 | 0 | 0 | 0 | 0 | Paid | 0 | 8,433 |
+| Soufiane Digital | 14,200 | 28652 | 1 | 2 | 0 | 0 | Paid | 75 | 1,417 |
+| SPIDER TRADING | 2,340 | 28286 | 0 | 0 | 0 | 0 | Paid | 0 | 632 |
+| Spy Mk | 2,080 | 26703 | 0 | 0 | 0 | 0 | Paid | 0 | 3,921 |
+| STAR CRYPTO | 127,000 | 28125 | 2 | 10 | 0 | 0 | Paid | 376 | 6,830 |
+| stpsoo eran | 2,350 | 28422 | 4 | 3 | 0 | 0 | Paid | 113 | 1,745 |
+| Strong Crypto 💪 | 444 | 26581 | 0 | 0 | 0 | 0 | Paid | 0 | 1,218 |
+| SuccessWith Crypto👌 | 3,940 | 28263 | 0 | 0 | 0 | 0 | Paid | 0 | 5,940 |
+| Tamil Crypto Airdrops | 3,150 | 27551 | 0 | 0 | 0 | 0 | Paid | 0 | 1,490 |
+| TAMIL CRYPTO UNIVERSITY | 17,400 | 28299 | 1 | 2 | 0 | 0 | Paid | 75 | 1,417 |
+| Technical Hamza | 9,570 | 28356 | 0 | 0 | 0 | 0 | Paid | 0 | 1,264 |
+| TECHNO TINKU | 1,440 | 26615 | 0 | 0 | 0 | 0 | Paid | 0 | 4,578 |
+| The 100x Podcast | 496 | 27965 | 3 | 0 | 0 | 0 | Paid | 0 | 1,751 |
+| THE TRUST OFFICIAL | 168 | 25744 | 0 | 0 | 0 | 0 | Paid | 0 | 5,000 |
+| Tima Morze | 85 | 26385 | 0 | 0 | 0 | 0 | Paid | 0 | 5,000 |
+| TND Official | 76,600 | 28630 | 1 | 4 | 0 | 0 | Paid | 150 | 2,834 |
+| TOKEN &TRX PROMOTER | 29,200 | 27922 | 0 | 0 | 0 | 0 | Paid | 0 | 4,266 |
+| Token Booster | 55,100 | 28610 | 2 | 8 | 0 | 115 | Paid | 4,626 | 8,092 |
+| Token Metrics | 115,000 | 27909 | 0 | 0 | 0 | 0 | Paid | 0 | 8,075 |
+| Tomket Lovers Reborn | 215,000 | 27832 | 0 | 0 | 0 | 0 | Paid | 0 | 8,195 |
+| Tommy Moon | 94,700 | 28816 | 0 | 0 | 0 | 0 | Paid | 0 | 2,528 |
+| Trade Secret PRO - трейдинг криптовалют | 175 | 28132 | 0 | 0 | 0 | 0 | Paid | 0 | 1,251 |
+| TradeMastermint | 2,120 | 27944 | 0 | 0 | 0 | 0 | Paid | 0 | 1,377 |
+| TRIGS | 142,000 | 26499 | 0 | 0 | 0 | 0 | Paid | 0 | 146,292 |
+| TRON KING | 1,300 | 26872 | 3 | 3 | 0 | 0 | Paid | 113 | 5,058 |
+| Tropimil Money | 1,700 | 27787 | 0 | 0 | 0 | 0 | Paid | 0 | 1,490 |
+| TRX and USDT Promoter | 22,100 | 27989 | 0 | 0 | 0 | 0 | Paid | 0 | 3,803 |
+| TsukuyomiCrypto | 44 | 27925 | 0 | 0 | 0 | 0 | Paid | 0 | 1,490 |
+| Tường Vi Chanel | 83,000 | 29349 | 1 | 4 | 40 | 0 | Paid | 1,655 | 1,654 |
+| TVDCrypto | 1,010 | 29419 | 0 | 0 | 10 | 0 | Paid | 376 | 376 |
+| UANG DIGITAL | 1,060 | 28256 | 0 | 0 | 0 | 0 | Paid | 0 | 632 |
+| UJ СRYPTO | 175,000 | 28821 | 0 | 0 | 0 | 0 | Paid | 0 | 3,160 |
+| UloggersTV | 8,560 | 26727 | 16 | 6 | 0 | 0 | Paid | 226 | 24,110 |
+| UZ OPTION | 1,640 | 27828 | 0 | 0 | 0 | 0 | Paid | 0 | 1,490 |
+| VEN BUSINESS | 3,130 | 26789 | 3 | 3 | 0 | 0 | Paid | 113 | 10,414 |
+| VeryiTech | 416 | 28621 | 0 | 0 | 0 | 0 | Paid | 0 | 316 |
+| Vi Ma | 109 | 26430 | 0 | 0 | 0 | 0 | Paid | 0 | 5,000 |
+| Visco Research | 472 | 27533 | 0 | 0 | 0 | 0 | Paid | 0 | 2,769 |
+| Vladyslav | 63 | 21911 | 0 | 0 | 0 | 0 | Paid | 0 | 20,300 |
+| Vladyslav Yakymenko | 3,030 | 26190 | 0 | 0 | 0 | 0 | Paid | 0 | 5,000 |
+| Web 3 education and investment | 636 | 29312 | 0 | 0 | 5 | 0 | Paid | 188 | 188 |
+| Web3 with Dustin Lee | 725 | 26258 | 0 | 0 | 0 | 3 | Paid | 75 | 5,075 |
+| web3easy | 2,350 | 26785 | 0 | 0 | 0 | 0 | Paid | 0 | 5,736 |
+| When Airdrop | 1,310 | 26733 | 3 | 3 | 0 | 0 | Paid | 113 | 7,437 |
+| World Of Earning | 1,940 | 28316 | 0 | 0 | 0 | 0 | Paid | 0 | 1,390 |
+| X- Ray Crypto | 8,800 | 27833 | 3 | 6 | 0 | 0 | Paid | 226 | 4,941 |
+| Xrypto Yeap | 1,050 | 27734 | 2 | 2 | 0 | 0 | Paid | 75 | 1,565 |
+| XT Review | 80,300 | 29065 | 1 | 4 | 0 | 0 | Paid | 150 | 1,871 |
+| Yan Vazov | 1,230 | 27938 | 0 | 0 | 0 | 0 | Paid | 0 | 1,490 |
+| Yarik Crypto | 58,900 | 29027 | 0 | 0 | 0 | 0 | Paid | 0 | 1,564 |
+| Yevhen про Криптовалюту 💎 | 537 | 27395 | 0 | 0 | 0 | 0 | Paid | 0 | 1,218 |
+| Yulia Gorenshteyn | 127 | 25895 | 0 | 0 | 0 | 0 | Paid | 0 | 7,116 |
+| Yung Dem | 216 | 27866 | 0 | 0 | 0 | 0 | Paid | 0 | 1,490 |
+| Zaki on Bitcoin | 8,150 | 28281 | 1 | 2 | 0 | 0 | Paid | 75 | 1,339 |
+| ZEFIRIUM | 379 | 26053 | 0 | 0 | 0 | 0 | Paid | 0 | 9,525 |
+| Александр BestMoney | 2,270 | 26669 | 3 | 3 | 0 | 0 | Paid | 113 | 14,922 |
+| Алексей Адаменко - Криптовалюта | 3,900 | 26410 | 2 | 2 | 0 | 0 | Paid | 75 | 18,597 |
+| Алексей Волков | 6,000 | 25826 | 0 | 0 | 0 | 0 | Paid | 0 | 90,893 |
+| Бабкина Крипта | 1,320 | 26231 | 4 | 3 | 0 | 0 | Paid | 113 | 49,007 |
+| Бабло⚡️Ток | 404 | 27433 | 0 | 0 | 0 | 0 | Paid | 0 | 1,218 |
+| Блокчейн Разработчик | 2,900 | 28554 | 0 | 0 | 0 | 0 | Paid | 0 | 632 |
+| БРАЦЛАВСКИЙ НИКИТА инвестиции в крипту | 1,150 | 26234 | 3 | 3 | 0 | 0 | Paid | 113 | 49,011 |
+| Бывший Скамер | 6,010 | 27794 | 0 | 0 | 0 | 0 | Paid | 0 | 4,202 |
+| Валерий Жиленко | 56 | 25877 | 0 | 0 | 0 | 0 | Paid | 0 | 38,458 |
+| ВАНЯ VIPER | 8,560 | 27205 | 0 | 0 | 0 | 0 | Paid | 0 | 7,110 |
+| Виктор Белоглазов об инвестициях и криптовалюте | 3,910 | 29056 | 4 | 3 | 0 | 0 | Paid | 113 | 503 |
+| Виктор Подлипаев | 302 | 25731 | 3 | 0 | 0 | 0 | Paid | 0 | 18,278 |
+| Виртуальные Иксы | 406 | 27255 | 0 | 0 | 0 | 0 | Paid | 0 | 1,218 |
+| ВИТЯ НА КРИПТЕ | 314 | 27350 | 1 | 0 | 0 | 0 | Paid | 0 | 1,828 |
+| Влад Прихидный про инвестиции в криптовалюту | 826 | 27507 | 0 | 0 | 0 | 0 | Paid | 0 | 1,218 |
+| Высшая Лига Money | 2,720 | 26911 | 0 | 0 | 0 | 0 | Paid | 0 | 2,313 |
+| ВІД НУЛЯ ДО МІЛЬЙОНУ | 697 | 28245 | 1 | 0 | 0 | 0 | Paid | 0 | 316 |
+| Віктор Романюк | 2,460 | 26803 | 2 | 2 | 0 | 0 | Paid | 75 | 9,628 |
+| ДЕЛАЙ ДЕНЬГИ В ИНТЕРНЕТЕ | 5,810 | 26892 | 0 | 0 | 0 | 0 | Paid | 0 | 9,671 |
+| Денис Скрипник | 129 | 26272 | 0 | 0 | 0 | 0 | Paid | 0 | 5,000 |
+| Деньги здесь и сейчас ! | 645 | 27047 | 0 | 0 | 0 | 0 | Paid | 0 | 2,313 |
+| ДЕТИ БУЛРАНА | Василий Суфидянов | 5,500 | 27487 | 0 | 0 | 0 | 0 | Paid | 0 | 3,047 |
+| Дневник Инвестора | 10,000 | 26988 | 0 | 0 | 0 | 3 | Paid | 75 | 8,089 |
+| Дневник Трейдера | 57 | 27583 | 0 | 0 | 0 | 0 | Paid | 0 | 10,679 |
+| ДохідUA | 17,900 | 26831 | 2 | 4 | 0 | 0 | Paid | 150 | 11,504 |
+| Думай Делай | 2,440 | 27233 | 0 | 0 | 0 | 0 | Paid | 0 | 1,402 |
+| Евгений Вертель | 4,050 | 26985 | 1 | 1 | 0 | 0 | Paid | 38 | 2,822 |
+| Жизнь в интернете | 70 | 28625 | 0 | 0 | 0 | 0 | Paid | 0 | 316 |
+| Жизнь и работа в интернете! | 3,930 | 26786 | 3 | 3 | 0 | 0 | Paid | 113 | 17,042 |
+| Забирай ДеньгиTV | 1,040 | 27448 | 0 | 0 | 0 | 0 | Paid | 0 | 1,672 |
+| Заработай сидя дома | 8,310 | 26594 | 1 | 2 | 0 | 0 | Paid | 75 | 33,263 |
+| Заработать монету | 218 | 27236 | 0 | 0 | 0 | 0 | Paid | 0 | 1,688 |
+| Заработок в интернете | 2,590 | 27226 | 3 | 3 | 0 | 0 | Paid | 113 | 1,771 |
+| ЗАРАБОТОК В ИНТЕРНЕТЕ ЛУЧШИЕ ВИДЕО! | 90 | 26661 | 0 | 0 | 0 | 0 | Paid | 0 | 12,248 |
+| Заработок В Интернете Сидя Дома | 574 | 27356 | 4 | 0 | 0 | 0 | Paid | 0 | 1,218 |
+| Заработок онлайн | 907 | 27337 | 2 | 0 | 0 | 0 | Paid | 0 | 1,551 |
+| Заработок разное. | 1,660 | 26767 | 1 | 1 | 0 | 0 | Paid | 38 | 4,320 |
+| Заробіток в інтернеті | 835 | 27686 | 0 | 0 | 0 | 0 | Paid | 0 | 1,218 |
+| Заробіток з HONTARUK | 500 | 27156 | 0 | 0 | 0 | 0 | Paid | 0 | 3,069 |
+| Заробіток на Криптовалюті | 355 | 26409 | 2 | 0 | 0 | 0 | Paid | 0 | 17,456 |
+| Захаркин Крипта | 12,900 | 27659 | 5 | 6 | 0 | 0 | Paid | 226 | 4,260 |
+| Иван Иванов | 5,650 | 28900 | 0 | 0 | 0 | 0 | Paid | 0 | 1,264 |
+| Изучаем криптопроекты | 246 | 26283 | 2 | 0 | 0 | 0 | Paid | 0 | 15,402 |
+| Илья Торлопов | 141 | 25875 | 0 | 0 | 0 | 30 | Paid | 1,128 | 7,248 |
+| Инвестиции в криптовалюту | 4,170 | 28100 | 1 | 1 | 0 | 0 | Paid | 38 | 1,657 |
+| Инвестиции с Grisha Raven | 29,100 | 26384 | 2 | 6 | 0 | 0 | Paid | 226 | 53,452 |
+| ИнвестицииBY | 2,820 | 26086 | 0 | 0 | 0 | 0 | Paid | 0 | 9,334 |
+| интернет заработок | 1,370 | 26715 | 3 | 3 | 0 | 0 | Paid | 113 | 6,562 |
+| КАК ЗАРАБОТАТЬ В ИНТЕРНЕТЕ | 2,350 | 27596 | 8 | 3 | 0 | 0 | Paid | 113 | 2,112 |
+| КАК ЗАРАБОТАТЬ В ИНТЕРНЕТЕ / BOYKOFF | 9,200 | 27121 | 7 | 6 | 0 | 0 | Paid | 226 | 12,441 |
+| Как заработать в интернете с Artur Knows | 46,000 | 26986 | 5 | 9 | 0 | 0 | Paid | 339 | 18,371 |
+| КАК ЗАРАБОТАТЬ ДЕНЬГИ В ИНТЕРНЕТЕ | 2,300 | 27024 | 5 | 3 | 0 | 0 | Paid | 113 | 8,527 |
+| Котелок инвестора | 10,400 | 26899 | 3 | 6 | 0 | 0 | Paid | 226 | 23,519 |
+| КотлONE | 390 | 26797 | 0 | 0 | 0 | 0 | Paid | 0 | 3,712 |
+| Крипта Для Своїх | 262 | 26816 | 0 | 0 | 0 | 0 | Paid | 0 | 2,313 |
+| Криптач | 79 | 27768 | 0 | 0 | 0 | 0 | Paid | 0 | 1,490 |
+| Крипто Батя | 229,000 | 26621 | 2 | 10 | 0 | 0 | Paid | 376 | 28,344 |
+| Крипто Воля | Apcik | 339 | 28022 | 1 | 0 | 0 | 0 | Paid | 0 | 1,932 |
+| Крипто Гамеры | 1,020 | 26356 | 0 | 0 | 0 | 0 | Paid | 0 | 5,000 |
+| КРИПТО ГНОМ | 8,540 | 27792 | 10 | 6 | 0 | 0 | Paid | 226 | 5,385 |
+| Крипто Инфошум | 51,700 | 26738 | 0 | 0 | 0 | 0 | Paid | 0 | 11,676 |
+| Крипто Козак | 729 | 26877 | 0 | 0 | 0 | 0 | Paid | 0 | 2,720 |
+| Крипто Плечо | 49,800 | 26631 | 0 | 0 | 0 | 0 | Paid | 0 | 23,358 |
+| КРИПТО ФЕРМА | 5,880 | 27892 | 0 | 0 | 0 | 0 | Paid | 0 | 3,976 |
+| КРИПТО ФЕРМА | 795 | 27361 | 1 | 0 | 0 | 0 | Paid | 0 | 2,037 |
+| КРИПТО ХОМЯК | 454 | 26526 | 1 | 0 | 0 | 0 | Paid | 0 | 4,867 |
+| Крипто Хомяк | 345 | 26600 | 0 | 0 | 0 | 0 | Paid | 0 | 3,470 |
+| КРИПТО ХОМЯК | 400 | 26526 | 1 | 0 | 0 | 0 | Paid | 0 | 14,724 |
+| Крипто Эфир | 285 | 25848 | 0 | 0 | 0 | 0 | Paid | 0 | 6,200 |
+| КриптоUA | 5,720 | 26751 | 0 | 0 | 0 | 0 | Paid | 0 | 16,427 |
+| Криптовалюта | 1,040 | 27587 | 0 | 0 | 0 | 0 | Paid | 0 | 1,292 |
+| Криптовалюта & Майнинг | 3,320 | 26622 | 0 | 0 | 0 | 0 | Paid | 0 | 12,342 |
+| КРИПТОВАЛЮТА ДЛЯ ЧАЙНИКОВ | 9,500 | 27933 | 1 | 2 | 0 | 0 | Paid | 75 | 4,333 |
+| Криптовалюта! Лучшие способы заработка в Интернете | 1,030 | 28723 | 0 | 0 | 0 | 0 | Paid | 0 | 632 |
+| КриптоЗарплата | 11,300 | 26627 | 1 | 2 | 0 | 0 | Paid | 75 | 21,597 |
+| КРИПТОМАУЗ | 451 | 27396 | 2 | 0 | 0 | 0 | Paid | 0 | 2,782 |
+| Криптонация LIVE | 75,900 | 27494 | 1 | 4 | 0 | 0 | Paid | 150 | 7,174 |
+| ЛОВИ ЛАВЭ | 1,450 | 26677 | 3 | 3 | 0 | 0 | Paid | 113 | 6,840 |
+| Лунный инвестор | 783 | 25763 | 1 | 0 | 0 | 0 | Paid | 0 | 100,533 |
+| Майним на Крипту | 231 | 29398 | 0 | 0 | 5 | 0 | Paid | 188 | 188 |
+| Максим Колот | 686 | 27407 | 1 | 0 | 0 | 0 | Paid | 0 | 1,478 |
+| Максим Мекекечко про Инвестиции и Криптовалюты | 666 | 27480 | 0 | 0 | 0 | 0 | Paid | 0 | 1,218 |
+| Михаил Степанов и бизнес в интернете | 4,690 | 26851 | 0 | 0 | 0 | 0 | Paid | 0 | 7,439 |
+| МИХАЙЛИШИН MONEY | 2,500 | 26829 | 0 | 0 | 0 | 0 | Paid | 0 | 2,375 |
+| Мутим на Крипте! | 3,690 | 26242 | 1 | 1 | 0 | 0 | Paid | 38 | 17,250 |
+| Обзоры ICO | 1,850 | 28163 | 0 | 0 | 0 | 0 | Paid | 0 | 1,251 |
+| Облачный Майнинг | 730 | 28805 | 3 | 0 | 0 | 0 | Paid | 0 | 316 |
+| Обо всем на свете | 88 | 28709 | 1 | 0 | 0 | 0 | Paid | 0 | 316 |
+| Олежка зарабатывает | 253 | 27408 | 1 | 0 | 0 | 0 | Paid | 0 | 1,828 |
+| Олександр Ганненко | 2,630 | 26545 | 0 | 0 | 0 | 0 | Paid | 0 | 12,645 |
+| Опасные Волны Elliot | 76,900 | 26630 | 0 | 0 | 0 | 0 | Paid | 0 | 22,957 |
+| Первый Биткоин | 8,630 | 26743 | 10 | 6 | 0 | 0 | Paid | 226 | 5,385 |
+| Платіж зараховано | 1,100 | 26758 | 0 | 0 | 0 | 0 | Paid | 0 | 5,039 |
+| После Работы | О крипте | 1,340 | 26269 | 0 | 0 | 0 | 0 | Paid | 0 | 6,341 |
+| ПРО INVESTING | 1,050 | 27482 | 1 | 1 | 0 | 0 | Paid | 38 | 2,000 |
+| Про крипту / українською | 515 | 26744 | 1 | 0 | 0 | 0 | Paid | 0 | 5,972 |
+| ПРО КРИПТУ UA | 281 | 29160 | 0 | 0 | 0 | 0 | Paid | 0 | 195 |
+| Проста Крипта | 1,540 | 26740 | 0 | 0 | 0 | 0 | Paid | 0 | 4,479 |
+| Просто Гаечка | 4,190 | 27244 | 0 | 0 | 0 | 0 | Paid | 0 | 1,218 |
+| Просто Крипто 2023 | 422 | 26753 | 6 | 0 | 0 | 0 | Paid | 0 | 9,448 |
+| Реферал | 4,420 | 27376 | 4 | 3 | 0 | 0 | Paid | 113 | 5,556 |
+| Родион Ионов | 113 | 22851 | 0 | 0 | 0 | 0 | Paid | 0 | 5,300 |
+| Сrypto Deen | 2,740 | 28531 | 0 | 0 | 0 | 0 | Paid | 0 | 632 |
+| Сrypto Porshe | 5,660 | 27708 | 0 | 0 | 0 | 0 | Paid | 0 | 13,433 |
+| СRYPTOPOLOVKA | 8,890 | 26870 | 3 | 6 | 0 | 0 | Paid | 226 | 14,747 |
+| СYBER КРИПТА | 3,070 | 26836 | 1 | 1 | 0 | 0 | Paid | 38 | 2,959 |
+| Сергей П | 124 | 26805 | 0 | 0 | 0 | 0 | Paid | 0 | 4,814 |
+| Спілка диванних криптанів | 224 | 28601 | 0 | 0 | 0 | 0 | Paid | 0 | 316 |
+| Схеми заробітку • Easy Profit | 6,050 | 28390 | 0 | 0 | 0 | 0 | Paid | 0 | 1,264 |
+| ТАБЫС ТАБУ | 3,200 | 27208 | 0 | 0 | 0 | 0 | Paid | 0 | 3,268 |
+| Татьяна Камбулова | 63 | 27176 | 0 | 0 | 0 | 0 | Paid | 0 | 2,313 |
+| Твій Фріланс * заробіток * крипта | 205 | 26730 | 0 | 0 | 0 | 0 | Paid | 0 | 4,345 |
+| ТЕРРИТОРИЯ КРИПТЫ | 1,480 | 26768 | 0 | 0 | 0 | 0 | Paid | 0 | 3,652 |
+| Трейдинг от А до Z | 561 | 27310 | 0 | 0 | 0 | 0 | Paid | 0 | 1,414 |
+| Тут платят | 1,020 | 27065 | 3 | 3 | 0 | 0 | Paid | 113 | 5,366 |
+| Упоротый Лис | 934 | 27375 | 0 | 0 | 0 | 0 | Paid | 0 | 1,218 |
+| Флиппер с завода | 425 | 26442 | 2 | 0 | 0 | 0 | Paid | 0 | 10,035 |
+| ХАЙП МОНИТОРИНГ | 628 | 27098 | 6 | 0 | 0 | 0 | Paid | 0 | 7,762 |
+| ЦИФРОВОЙ КОВБОЙ | 2,850 | 27491 | 0 | 0 | 0 | 0 | Paid | 0 | 2,004 |
+| ЧЕСТНЫЙ ЗАРАБОТОК | 908 | 26774 | 0 | 0 | 0 | 0 | Paid | 0 | 3,652 |
+| Юный Спекулянт | 443 | 27935 | 0 | 0 | 0 | 0 | Paid | 0 | 1,490 |
+| Юный Трейдер | 539 | 27843 | 0 | 0 | 0 | 0 | Paid | 0 | 1,490 |
+| ЮРАШ CRYPTO NFT | 483 | 23788 | 0 | 0 | 0 | 0 | Paid | 0 | 68,241 |
+| إحترف CRYPTO | 1,890 | 28874 | 5 | 3 | 0 | 0 | Paid | 113 | 1,745 |
+| الربح من الاستثمار | 1,140 | 28374 | 0 | 0 | 0 | 0 | Paid | 0 | 1,468 |
+| المتميز في الربح | L'excellence du profit | 743 | 29077 | 0 | 0 | 0 | 0 | Paid | 0 | 195 |
+| بيتكوين للجميع | 10,400 | 28369 | 1 | 2 | 0 | 0 | Paid | 75 | 4,451 |
+| عملات رقمية مجانا | 12,600 | 28840 | 0 | 0 | 0 | 0 | Paid | 0 | 1,342 |
+| فرص استثمارية 2 | 8,500 | 29406 | 0 | 0 | 20 | 0 | Paid | 752 | 752 |
+| قناتي لتعليم الربح للمبتدئين | 8,000 | 29044 | 5 | 6 | 0 | 0 | Paid | 226 | 1,242 |
+| كريبتو العرب2 | 263 | 29413 | 0 | 0 | 5 | 0 | Paid | 188 | 188 |
+| كريبتو فور يو | 6,780 | 28677 | 13 | 6 | 0 | 3 | Paid | 301 | 3,820 |
+| كريبتوMoh | 2,010 | 28817 | 2 | 2 | 0 | 0 | Paid | 75 | 1,708 |
+| ⚡️Криптанчик⚡️ | 291 | 26840 | 0 | 0 | 0 | 0 | Paid | 0 | 2,809 |
+| 열충(YeolChoong) | 10,500 | 29334 | 11 | 6 | 20 | 0 | Paid | 978 | 977 |
+| 청춘의일상 | 13,200 | 29181 | 0 | 0 | 20 | 0 | Paid | 752 | 752 |
+| 코인하려고 백수 된 남자 (코백남) | 37,700 | 28672 | 1 | 3 | 0 | 0 | Paid | 113 | 2,008 |
+| 😍 NFT EUNYO 🔥 | 16,700 | 27136 | 2 | 4 | 0 | 0 | Paid | 150 | 11,615 |
+| 🟡 KOLYAN TREND - NFT and METAVERSE | 5,990 | 26363 | 0 | 0 | 0 | 0 | Paid | 0 | 52,662 |
+| **TOTAL** | **14,180,818** | - | **711** | **820** | **900** | **345** | - | **77,557** | **6,204,791** |

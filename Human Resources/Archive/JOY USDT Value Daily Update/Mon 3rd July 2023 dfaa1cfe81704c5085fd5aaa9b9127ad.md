@@ -1,0 +1,9 @@
+# Mon. 3rd July 2023
+
+Time 09:00 UTC +1
+
+JOYSTREAM/USDT
+
+Price: $0.002073
+
+![IMG-20230703-WA0001.jpg](Mon%203rd%20July%202023/IMG-20230703-WA0001.jpg)

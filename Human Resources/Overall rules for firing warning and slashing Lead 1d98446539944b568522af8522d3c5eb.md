@@ -1,0 +1,11 @@
+# Overall rules for firing/warning and slashing Leads
+
+1. If the WG’s Lead is not responding within 24 hours, they should be issued a warning in the Council Discord channel. If the situation g repeated and the Lead still does not respond within the next 24 hour period, their rewards should be reduced by ***25%***. If the problem repeats again, a reward slashing of ***25%*** should be issued as a final warning before firing them.
+
+Exception: This should not apply when the incident happened on a weekend or when the lead has informed the council that he/she will be unreachable during a certain period.
+
+- This situation should also be reported to HR and the group should contact the Lead to find out what happened, discuss the consequences and come up with a resolution.
+- If the Lead knows he will be unavailable, he must inform Council and HR specialists. He should also designate a responsible worker who will fulfill his duties during that time. This does not apply to groups such as APPs, Distribution, and Storage Leads, who cannot transfer their personal key to another worker.
+1. If the WG plan/report is not provided on Forum within ***6 (or 24) hours*** of the set terms, they will receive a warning. The Council should inform the HR group that the plan/report still hasn't been provided, and HR should contact the group's Lead. Should the report not be provided, the Lead will receive a warning - a notification on the Council's Discord channel. On repeated recurrences, a proposal to reduce the Lead's reward by ***25%*** should be made. If the situation is repeated, it will be the final warning and the reward will be reduced by another ***25%***, followed by firing.
+- If the WG Lead is unable to provide a plan/report for some reason, they must inform the Council in advance, prior to the deadline, and agree to new individual submission dates for the plan/report.
+1. All forms of discretionary spending (in addition to Lead and worker rewards) must be pre-approved by the Council. In the event of any funds being withdrawn without prior consultation with the Council, an investigation must be conducted and after a first warning, the Leader of the group may be dismissed at the discretion of the Council and the HR team.

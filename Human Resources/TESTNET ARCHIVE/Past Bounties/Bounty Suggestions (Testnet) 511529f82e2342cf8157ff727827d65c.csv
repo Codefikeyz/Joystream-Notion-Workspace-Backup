@@ -1,0 +1,40 @@
+﻿Name,Status,Specification,Property 1,Takes time,Reward tJOY,Submited by
+Bind your Joystream account via Discord bot,Ready to use,,,10 min,50000,isonar
+Gather information for salary benchmark,Ready to use,,,,,0x2bc
+Timely greeting of newcomers in the welcome channel,Ready to use,HR WG,,7 d,604800,adovrn
+Help 2 new members create memberships,Ready to use,HR WG,,2 d,172800,adovrn
+Help assign bounty to 2 newcomers,Ready to use,HR WG,,2 d,172800,adovrn
+Generate 5 ideas for improvement on Forum,Ready to use,Forum WG,,1 h,105000,secret_girl
+Help organise 3 threads for forum,Ready to use,Forum WG,,1 h,140000,adovrn
+Collect Storage and Distribution Stats,Ready to use,"Distributors, Storage",,,,l1dev
+Set up test distributor node,Ready to use,Distributors,,~24 h,500000,AlexZNet
+"Prepare traffic report table ",Ready to use,Distributors,,3 h,300000,AlexZNet
+Write automated script that automates disk space cleanup for a distributor node,Ready to use,Distributors,,6h,1500000,AlexZNet
+Create a docker compose installation script for the storage node,Ready to use,Storage,,~24 h,500000,Yasir
+Find content creators,Ready to use,Marketing WG,,,315000,Malik
+Create Joystream Short Intro Video,Ready to use,Marketing WG,,2 h,210000,"Malik, adovrn"
+Create a video on Importance of DAOs and other topics,Ready to use,Marketing WG,,4 h,420000,eclipsingbinary
+Create a clothing template with the project logo,Ready to use,Marketing WG,,1 h,75000,adovrn
+Make short Poem about Joystream,Ready to use,Marketing WG,,1h,105000,secret_girl
+Rewrite Joystream Handbook topic,Ready to use,Marketing WG,,2 h,210000,Malik
+Transcribing and text translation of the AMA session,Done,Marketing WG,,3 h,315000,adovrn
+Twitter thread,Ready to use,Marketing WG,,1 h,105000,adovrn
+Create 10 tweets for Joystream’s twitter account,Ready to use,Marketing WG,,2 h,210000,Robert
+Write 500 words on “What is the importance of DAOs?”,Not finalized,Marketing WG,,2 h,210000,Malik
+Write 500 words on “What are the issues of DAOs?”,Not finalized,Marketing WG,,2 h,210000,adovrn
+Write 500 words on “Why content creator should switch to atlas?”,Not finalized,Marketing WG,,2 h,210000,adovrn
+Write 500 words on “History and achievements of DAOs”,Not finalized,Marketing WG,,2 h,210000,adovrn
+Write 500 words on “Transformation of DAOs”,Not finalized,Marketing WG,,2 h,210000,adovrn
+Write 500 words on “Difference between Joystream and other DAOs”,Not finalized,Marketing WG,,2 h,210000,adovrn
+Publish a news article about the current state of Joystream DAO,Not finalized,Marketing WG,,2 h,210000,adovrn
+Write a pitch to blogger (CTA: Meet(virtually) to joystream team),Ready to use,Marketing WG,,2 h,210000,Malik
+Technical Bounty,Ready to use,Builders WG,,1 h,280000,isonar
+Bug Search,Ready to use,Builders WG,,1 h,50000,isonar
+Translation of MWG guides into different languages,Done,Marketing WG,,2h,210000,Leha Diesel
+Create a animated video “How joystream works as DAO”,Done,Marketing WG,,10 h,1050000,Malik
+"Make A Video Tutorial ""Participating in the Bounty”",Done,Marketing WG,,3 h,315000,adovrn
+Original video content,Not finalized,Content WG,,,,Kira_skipper
+How to free distributor node spacr research,Done,Distributors,,~24 h,1500000,AlexZNet
+Design 4 possible FM avatars,Done,Marketing WG,,2 h,210000,adovrn
+Research - possibility of passing all distributor node responses via some network interface,Done,Distributors,,,2500000,AlexZNet
+Compare all available polkadot based block explorers on the market,Done,,,,,0x2bc

@@ -1,0 +1,23 @@
+# Write 500 Words On “History And Achievements Of DAOs” from tes_hsn
+
+### **From** [https://dao.joystream.org/#/bounty/preview/505](https://dao.joystream.org/#/bounty/preview/505)
+
+**tes_hsn**
+
+[Joystream Governance App](https://dao.joystream.org/#/forum/thread/1426)
+
+[History and achievements of DAOs](https://medium.com/@kosehasan10/history-and-achievements-of-daos-32a236b479d4)
+
+# **History and achievements of DAOs**
+
+Blockchain technology has emerged as a new paradigm to build decentralized systems which do not require a central authority. “Decentralized Autonomous Organizations” (DAOs) have emerged as a new form of collective governance, in which com-munities may organize themselves relying on decentralized infrastructure. It is an organization represented by rules coded as a computer program. It is transparent, controlled by the members of the organization, and unaffected by a central government. The potential of blockchain governance is expressed especially through the so called Decentralized Autonomous Organizations (DAOs). In plain terms, DAOs are organizations where the interac¬tion of members (humans or machines) is mediated by a blockchain application, which is controlled by a set of rules embedded in its source code.
+
+The first references to actual Decentralized Autonomous Organization (DAO) only emerged in the 1990s to describe multi-agent systems in an internet-of-things (IoT) environment or nonviolent decentralised action in the counter-globalisation social movement . However, the modern meaning of DAOs can be traced back to the earlier concept of a Decentralized Autonomous Corporation (DAC), coined a few years after the appearance of Bitcoin . The DAC concept was used mostly informally in online forums and chats by early cryptocurrency enthusiasts, using both “decentralized” and “distributed” autonomous corporations interchangeably. It was only in 2013 that the term became more widely adopted, and publicly discussed in a variety of websites , in particular by the cofounder of Bitcoin Magazine Vitalik Buterin.
+
+While some argue that Bitcoin is effectively the first DAO, the term is today understood as referring not to a blockchain network in and of itself, but rather to organisations deployed as smart contracts on top of an existing blockchain network. Although there have been several attempts at instantiating a DAO on the Ethereum blockchain, the first DAO that attracted widespread attention is a 2016 venture capital fund confusingly called “TheDAO”. Despite the short-life of the experiment 2, TheDAO has inspired a variety of new DAOs, including several platforms aimed at facilitating DAO deployment with a DAO-as-a-service model, such as Aragon, DAOstack, Colony or DAOhaus.
+
+At the beginning of May 2016, a few members of the Ethereum community announced the inception of The DAO, which was also known as Genesis DAO. It was built as a smart contract on the Ethereum blockchain. The coding framework was developed open source by the Slock.It team but it was deployed under “The DAO” name by members of the Ethereum community. The DAO had a creation period during which anyone was allowed to send Ether to a unique wallet address in exchange for DAO tokens on a 1–100 scale. The creation period was an unexpected success as it managed to gather 12.7M Ether (worth around $150M at the time), making it the biggest crowdfund ever. At some point, when Ether was trading at $20, the total Ether from The DAO was worth over $250 million.
+
+A perfectly designed DAO provides all investors with the opportunity to shape the organization. There is no hierarchical structure, so any innovative idea can be put forward by anyone and the views of the whole organization are taken. The pre-written rules and voting system, which every investor learns before joining the organization, leaves no room for discussion. Moreover, since both proposing and voting costs the investor a certain amount of money, it forces them to reconsider their decisions rather than waste time on useless solutions. Finally, DAOs are completely transparent, as all rules, like all financial transactions, are registered on the blockchain for all to see. Everyone involved has a say in deciding how funds are spent, and they can track how those funds are spent.
+
+With the develepment on blockchain and web3 tecnologies, we will see the expending of DAO’a to spread wide among this crypto universe. Video streaming is now on blockchain. It has being able to via web3 projects for quite some time but advantually these is a new project made it possible with a DAO format. It is Joystream DAO and will be on mainnet in 2022.

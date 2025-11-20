@@ -1,0 +1,9 @@
+# Tues. 4th July 2023
+
+Time: 09:00 UTC +1
+
+JOYSTREAM/USDT
+
+Price: $0.002102
+
+![IMG_20230704_090353.jpg](Tues%204th%20July%202023/IMG_20230704_090353.jpg)

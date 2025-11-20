@@ -1,0 +1,5 @@
+# Prontera
+
+: CWG Worker
+ 1: 259.2 $JOY / $15.55
+Number: 40

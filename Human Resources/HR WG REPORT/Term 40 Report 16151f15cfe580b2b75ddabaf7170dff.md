@@ -1,0 +1,64 @@
+# Term 40 Report
+
+HR Working Group Report for Term 40
+
+**Council:** leet_joy, l1dev, Marikjudo
+
+### 1. **Group Composition**
+
+| Worker ID | Member ID | Role |
+| --- | --- | --- |
+| 22 | Codefikeyz | Lead |
+| 23 | Vikan | Community Manager |
+| 26 | Genius | Community Manager |
+| 27 | Zhsojib2020 | Community Manager |
+| 29 | Songoku | Forum Manager |
+
+### 2. Working Group Term Budget
+
+**JOY/USDT EMA30: 0.015**
+
+| Item | USDT (planned) | USDT (actual) | JOY (planned) | JOY (actual) |
+| --- | --- | --- | --- | --- |
+| Starting Budget | 38.5 | 38.5 | 2,565.98 | 2,565.98 |
+| Budget Update | 3,030 | 3,030 | 202,000 | 202,000 |
+| End term Budget | 10.5 | 38.5 | 699.34 | 2,566.01 |
+| Total Spending | 3,058 | 3,029 | 203,866.64 | 201,999.97 |
+
+**Breakdown of Planned Budget for Term 40: 203,866.64 JOY ($3,058)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+
+| Position | Compensation (USD) | Compensation (JOY) | Paid Amount (JOY) | Comment |
+| --- | --- | --- | --- | --- |
+| HR Lead | $2,240 | 149,333.3 | 149,333.3 | Vested for 2 years |
+| HR Community Manager x2 | $790 | 52,666.67 | 52,666.67 | N/A |
+| HR Community Manager x1 | - | - | - | N/A |
+| Forum Moderator | $28 | 1,866.67 | N/A | No activity |
+
+++ Discretionary Spending *are specified  - [here](https://joystream.subscan.io/extrinsic?page=1&time_dimension=date&date_start=2024-12-17&date_end=2024-12-19&signed=signed&module=operationsworkinggroupbeta)*
+
+### 3. Group Tasks
+
+| No. | Objective | Key Results | Remark |
+| --- | --- | --- | --- |
+| 1 | Recruitment | Fiil open vacancies in the DAO | In progress |
+| 2 | Creators Roundtable | Organise a roundtable event with creators to discuss experiences, development, suggestions and ideas for improvement towards Joystream’s growth. | Paused |
+| 3 | Faucet Management | Monitor the Faucet address for replication of funds. Automate balance notification via discord channel | The current balance is sitting at 116,059.837 JOY ≈ $749.05 as at the time of writing this report.
+
+ |
+
+### Progressive Tasks of HR
+
+| No. | Tasks | Brief Description | Remark |
+| --- | --- | --- | --- |
+| 1 | Information Dissemination | Notification of community activities, openings, new events, bounties, etc. | Work is in progress. |
+| 2 | Council Election Facilitation | Facilitate the Council election, by reaching out to potential candidates, setting up interview sessions/initiating questions to candidates and ensuring candidates’ has their manifesto on Forum | Election update is being announced. |
+| 3 | Fill in a Community FAQ Forum thread | Post answers to popular community questions, particularly of a technical nature, which can be hard to answer sometimes. | Progressive. HR has also taken over Gleev YPP support email account. |
+| 4 | Weekly Summary | Prepare a well detailed weekly report | Weekly roundups were submitted promptly. |
+| 5 | Coordinate with JSG and moderate Discord server | (1) Make sure that HR workers check all the channels every 4 hours to delete spam posts. (2) Advise HR workers to check both Discord and TG at the beginning and end of their work (3) Timely announcements and warnings will be done | Progressive. A draft of minor changes to be enacted in the discord server will be submitted in term 39. (Task is yet to be implemented by discord Admin). |
+| 6 | Engagements and meetings: organize, moderate, and provide meeting notes if necessary. Follow up on action items. | (1) Schedule the engagements and workshops (2) Make sure the speakers and agenda are ready a day before the workshop/engagement (3) Document them and publish in a timely manner | Progressive.  |
+| 8 | Update $JOY EMA30 price value | (1) Post the daily $JOY value which is included in daily announcement. (2) Update EMA30 $JOY value 3 days before before the term ends in [https://pioneerapp.xyz/#/forum/thread/459](https://pioneerapp.xyz/#/forum/thread/459) | 0.015 JOY EMA CAP is currently in use. |
+| 9 | Moderate DAO-Daily Standup and main governance meetings | Hold and moderate daily calls from Monday to Friday. Motivate people to share their plans, thoughts, and express themselves. | In progress |
+
+### Forum Moderation Report
+
+- N/A

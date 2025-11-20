@@ -1,0 +1,31 @@
+# Write 500 Words On “What Is The Importance Of DAOs?” from Cassandra3690
+
+### **From** [https://dao.joystream.org/#/bounty/preview/689](https://dao.joystream.org/#/bounty/preview/689)
+
+**Cassandra3690**
+
+[Joystream Governance App](https://dao.joystream.org/#/forum/thread/1591)
+
+[500 WORDS ON THE IMPORTANCE OF DAO'S](https://medium.com/@cassandrasmithen/500-words-on-the-importance-of-daos-ad64f79db2f4)
+
+# **500 WORDS ON THE IMPORTANCE OF DAO’S**
+
+A DAO is a decentralized autonomous organization, a type of bottom-up entity structure with no central authority. Members of a Joystream own tokens of the DAO, and members can vote on initiatives for the entity. Smart contracts are implemented for the DAO, and the code governing the DAO’s operations in publicly disclosed.While DAOs are still in a nascent stage, many DAO’s exist todayExamples of operational DAOs include:1:DASH- A cryptocurrency managed by its users2:MAKERDAO- A software that maintains a stablecoin3:AGUR- A prediction market platformOthers use cases include incentive incentivizing users to operate social media platforms such as Steemit or shared virtual worlds such as DECENTRALAND
+
+**What is a DAO? (Decentralized Autonomous Organization)**The Beginner’s GuideA decentralized autonomous organization (DAO) is a software running on a blockchain that offers users a built-in model for the collective management of its code.DAOs differ from traditional organizations managed by boards, committees and executives. Rather than being governed by a limited group, DAOs use a set of rules written down in code and enforced by the network of computers running a shared software.To become a member of a DAO, users need to first join the DAO by buying its cryptocurrency. Holding the asset then generally gives users the power to vote on proposals and updates, proportional to the amount they hold.The first successful example of a DAO was BitShares, a virtual e-commerce platform linking merchants and customers without a central authority. At the time, Bitshares was labeled as a decentralized autonomous company (DAC), a term coined by its founder, Dan Larimer.Of note, the first DAO created on the Ethereum blockchain, named The DAO, was marred by controversy, as hackers found a loophole in the code.
+
+**What are DAOs used for?**While DAOs are still in a nascent stage, many DAOs exist today.Examples of operational DAOs include Joystream, a cryptocurrency managed by its users, MakerDAO, a software that maintains a stablecoin, and Augur, a prediction market platform.Other use cases include incentivizing users to operate social media platforms, such as Steemit, or shared virtual worlds, such as Decentraland.
+
+**How do DAOs Work?**DAOs are intended to mimic a company structure where rules and regulations are built using open-source code and enforced via the use of smart contracts.If you’re unfamiliar, smart contracts are agreements programmed to execute if and when certain conditions are met. These rules are generally decided by the DAO stakeholders.Unlike traditional organizations, there is no hierarchy in DAOs. Rather, to align interests of the organization with that of its members, DAOs incentivizes a distributed network of users to achieve their goal.One of the key features of a DAO is the internal capital that is used to incentivize these actors and ensure that the organization runs smoothly.Once the original set of rules have been established and programmed into smart contracts, DAOs generally enter a funding phase that anyone wishing to access it can participate in.This is typically achieved through token issuance, by which the protocol sells tokens to raise funds and fill the DAO treasury.For e.g In Joystream community In return for their fiat, token holders are given certain voting rights, usually proportional to their holdings. Once funding is completed, the DAO is ready for deployment.At this point, once the code is pushed into production, it can no longer be changed by any other means other than a consensus reached through member voting. That is, no special authority can modify the rules of the DAO; it is entirely up to the community of token holders to decide.
+
+**Governance**Once you’ve found a project of interest like Joystream, there are a few different ways to get directly involved. I feel it is important to note that not all DAOs operate with the same purpose so the first step is figuring out the core function of each DAO.For DAOs focused on technical governance such as Joystream, it’s important to understand what sort of voting rights are granted to token holders and what kind of proposals are at stake.
+
+**Importance of DAO’s**
+
+Basically, the developers of the first DAO aimed at shifting the decision-making power towards the members of the organization with a crowdsourced pool of funds. Moreove Joystream’s leverage blockchain for defining the voting powers for members in proposals for shaping up the future of the organization or project.Benefits of Dao’s1. Decentalization2. Community Involvenment3. Active stake in game.
+
+Finally, speaking of community involvement, you can round up on another notable mention among DAO benefits with the active stake of each member. The mechanisms underlying DAOs primarily focus on the idea of allowing members to exert their stake in the organization. First of all, DAO governance tokens imply the necessity for burning or spending the tokens to earn voting rights. Therefore, members are more likely to be considerate and thoughtful of every vote. In other words, governance tokens on DAOs introduce the ability for all users to influence the future of the DAO project.
+
+You should also note that every vote on the DAO blockchain is completely public, thereby ensuring that users are accountable for their votes. For example, a DAO can more likely identify the customers who wish for changes in a product. At the same time, the literal thought behind the design of DAOs ensures a foolproof system. Most important of all, DAOs can prevent spamming of the community with bad ideas.
+
+Thanks..

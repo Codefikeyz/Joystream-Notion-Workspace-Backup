@@ -1,0 +1,19 @@
+# Write 500 Words On “Difference Between Joystream And Other DAOs” from 3455
+
+### **From** [https://dao.joystream.org/#/bounty/preview/340](https://dao.joystream.org/#/bounty/preview/340)
+
+**3455**
+
+[Joystream Governance App](https://dao.joystream.org/#/forum/thread/1008?post=1744)
+
+[Difference between joystream and other DAOs](https://medium.com/@hoshigakik487/difference-between-joystream-and-other-daos-b37d0c8d8bce)
+
+# **Difference between joystream and other DAOs**
+
+DAOs present a new way for humans to collaborate in the post-internet age. They remove the corporate ladder from organizations and allow any member to have a saying regardless of their title, educational background, or personal identity.
+
+One simple way to think of DAOs is like an online forum where the members share their own currency and collectively manage a project with pre-encoded rules. To be fully decentralized, any member of the DAO should be able to implement changes without help from a core development team. To be fully autonomous the DAO should be able to auto-update and work towards a predetermined purpose for example by independently seeking out human professionals for help with complex tasks.Today, the DAO nametag is labeled on a mishmash of highly diverse projects, but they
+
+are rarely fully decentralized or autonomous. Instead, DAOs today can be characterized by two other key attributes:
+
+They are open-source which means anyone can inspect the underlying code, propose changes, and even copy it in its entirety to design a competing system.Their governance mechanism allows a community of users to vote on decisions and initiatives. The members of the DAO vote with their share of the platform-agnostic governance token. DAOs are thus, like Bitcoin, leaderless democracies where the popular vote stirs the direction of the project instead of a board of directors or a CEO.The DAO” was the first major DAO project on Ethereum. It launched in April 2016 after an ICO (Initial Coin Offering) where more than $160 million was raised in crowdfunding.[3] The DAO was a virtual venture capital fund, that allowed token holders to submit a proposal for funding of their project. Unfortunately, the DAO had a very short lifespan.Joystream is an uprising and well organized DAO. It is different from othet DAOs on various areas such as organization, native token , Working groups, funding and so on. From the use of atlas as a content sharing tool to the establishment of independent yet voperative Working groups, Joystream has various diferent strategies from other DAOs . The Joystream DAO uses Atlas, a content site to piblish videos that help promote the community. Its members create and publish videos on this platformJoystream also has an organized hierarchy with different leads and their deputy. They include HUman resources, marketing , content curators , contrnt creators, builders, storage providers, forum among others. These groups have various functions and work separately but coperatively for the overall growth of the community.Different from centralized exchanges, Joystream does not depend on order books or market demands to determine and adjust prices. Instead, it uses liquidity pools together with an algorithm called “Constant product formula” (more on that in the next section).The humongous scale of innovation with blockchain technology has dominated the tech landscape and shall continue to do so. Blockchain introduces the promise of taking away control from centralized institutions and placing control in the hands of users. Among the many innovative developments in the blockchain space, Decentralized Autonomous Organizations DAOs have made a solid mark recently. The demand for information on types of DAO has been growing profoundly, particularly on the grounds of decentralization benefits. DAOs give out their meaning in the fact that they are ‘decentralized’ and ‘autonomous.’

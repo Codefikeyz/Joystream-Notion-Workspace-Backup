@@ -1,0 +1,24 @@
+{
+	"applicationDetails": "A leader needs a deputy!",
+	"title": "HR Working Group Deputy Lead",
+	"shortDescription": "A leader needs a deputy!",
+	"description": "The leader of the HR group needs an assistant! \n\n Newcomers are allowed \n\n Lead will give new hires intensive early support. New hires will be assisted until they are fully integrated and able to operate autonomously. \n\n Needed: \n\n 1. Train the tasks of the group leader \n\n 2. Assist the group leader \n\n 3. Be available to replace the leader \n\n The HR working group activities relevant to scoring will generally fall into one of the following categories: \n\n * Greeting: Engage with every new person entering the official Official Discord. \n\n * Onboarding: Get new persons setup with a first membership and added to the . \n\n * Catalyzing: Get persons started with a concrete activity, such as creating a bounty, working on an existing bounty or applying for a role. \n\n * Nurture: To engage and re-engage existing persons in the CRM who are not yet founding members, to encourage them to continue, help them get answers to questions, and gather insights about their experience to support the overall success of the founding member program. \n\n * Bounty management: Get new, and existing, people to work on small one off tasks as a way to get into more permanent and long running roles in the system. \n\n Leader's main tasks: https://www.notion.so/joystream/Lead-responsibilities-531916b24ded47b9bf0440441906aa4d \n\n Main tasks of group workers: https://www.notion.so/joystream/Guide-for-new-integrators-503a46c662f04910be1c153074632d00 \n\n The group leader - adovrn \n\n Discord group channel - https://discord.gg/YDmeTxvV",
+	"applicationFormQuestions": [{
+			"question": "What is your timezone? Please give me the days and time you can be available for this role."
+		},
+		{
+			"question": "What language/s do you speak and write? And level?"
+		},
+		{
+			"question": "When did you join Joystream? How would you describe your knowledge about the project?"
+		},
+		{
+			"question": "Tell me something about yourself and why would you be a good fit for this position."
+		}
+	],
+	"stakingPolicy": {
+		"amount": 25000,
+		"unstakingPeriod": 45000
+	},
+	"rewardPerBlock": 8
+}

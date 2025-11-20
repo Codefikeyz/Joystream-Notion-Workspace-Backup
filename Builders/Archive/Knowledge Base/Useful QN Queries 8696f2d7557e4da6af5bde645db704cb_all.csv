@@ -1,0 +1,68 @@
+﻿Name,Created,Description,Tags
+Election rounds,"May 9, 2022 8:27 PM","All election rounds, all cast votes, revealed votes","Council, Elections, Stake, Voting"
+Stake released events,"May 9, 2022 8:27 PM",Lists all events in which stake was released,"Accounts, Stake"
+Vote Revealed Events,"May 9, 2022 8:27 PM","Lists all revealed votes, address of those who voted, current status of stake (locked or not) and election round","Elections, Voting"
+stateSubscription,"May 9, 2022 8:27 PM",Put this in QN and it’ll tell you if its updating. Doesn’t work on non-JSG QNs right now.,"QN status, Subscription"
+List all bounties,"May 9, 2022 8:27 PM","Show all bounties, status & oracle judgements",Bounties
+Forum Categories,"May 9, 2022 8:27 PM",List all forum categories (including deleted categories),"Categories, Forum"
+Council Stages,"May 9, 2022 8:27 PM","List all council stages (idle, announcing, election)","Council, Elections, Voting"
+voteCastEvents,"May 9, 2022 8:27 PM","List all votes cast, including revealed and unrevealed votes","Council, Elections, Voting"
+CouncilsElectedBlocks,"May 9, 2022 8:29 PM",Blocks at which councils were elected,"Council, Elections"
+Council Member payouts,"May 9, 2022 8:29 PM",Get all payouts for Council Members,"Council, Payments"
+Council Budget Refills,"May 9, 2022 8:30 PM",Get all Council Budget Refills,"Budgets, Council, Proposals"
+Videos created in term,"May 9, 2022 8:31 PM",Get all videos created in Council Term,"Content Directory, Videos"
+WG Budget Refills,"May 9, 2022 8:31 PM",Get all WGs Budget Refills,"Budgets, Proposals, Working Groups (WGs)"
+Channels created in term,"May 9, 2022 8:32 PM",Get all channels created in Council Term,"Channels, Content Directory"
+Forum Payouts,"May 9, 2022 8:33 PM",Get all Forum Worker Payouts,"Forum, Payments, Working Groups (WGs)"
+Worker Payments,"May 10, 2022 9:00 AM",Get all Worker payments,"Payments, Working Groups (WGs)"
+Search for votes from a specific address,"June 2, 2022 1:36 PM",,"Elections, Voting"
+Council Member reward changes,"June 2, 2022 1:54 PM",,"Council, Payments"
+Openings,"June 17, 2022 10:46 PM","new, filled, canceled openings",Working Groups (WGs)
+WG Spending,"June 17, 2022 10:50 PM",payout from budget (non JOY-able),Working Groups (WGs)
+List elections with reasons for failure,"July 30, 2022 3:28 PM",List all elections (successful and failed) and give a reason for the failed election if it failed as well as list the blockheight of the election,"Elections, Failures, Voting"
+List all bounties (extensive),"October 19, 2022 5:26 PM","Lists all bounties and all bounty entries with usernames, contributors. titles and descriptions",Bounties
+List all votes with cap to update council leaderboard spreadsheet,"January 3, 2023 6:58 AM",,
+List all Proposals,"January 6, 2023 3:32 AM",List all proposals,Proposals
+List all forum posts and show whether they are still editable,"January 6, 2023 3:36 AM",,"Deposits, Forum, Forum Posts"
+List all forum threads,"January 7, 2023 5:27 AM","list all forum threads, author handle, title, category, sorted by date (earliest first)","Forum, Forum Threads"
+Workers Payments + WG name + isLead,"January 11, 2023 4:59 AM",,"Leaderboard, Leads, Payments, Workers, Working Groups (WGs)"
+All candidates + electionID + stake,"January 15, 2023 3:46 AM",,"Council, Elections, Leaderboard"
+All Proposals for leaderboard,"January 15, 2023 4:32 AM",,"Council, Funding, Leaderboard, Proposals"
+Council Members + Payments,"January 16, 2023 12:13 AM",,"Council, Leaderboard, Payments"
+All sold NFTs + Price + Video name + buyer name,"January 16, 2023 5:56 AM",,"NFTs, Videos"
+Council Payment events,"January 16, 2023 7:30 AM",,"Council, Leaderboard, Payments, Rewards"
+Council Budget Refill Events,"January 18, 2023 5:21 AM",,"Budgets, Council, Leaderboard"
+WG Budget Refill Events,"January 29, 2023 7:09 AM",,"Budgets, Leaderboard"
+WG Discretionary Spending,"January 30, 2023 6:34 AM",,"Leaderboard, Spending, Working Groups (WGs)"
+Elected Councils,"January 31, 2023 12:01 AM",,"Council, Elected Councils, Leaderboard"
+Workers & Stake,"February 1, 2023 6:06 AM",,"Leaderboard, Leads, Stake, Workers, Working Groups (WGs)"
+NFTs + sale information,"February 1, 2023 6:20 AM",,"NFTs, Videos"
+WG Applications,"February 1, 2023 6:29 AM",,"Applications, Leaderboard, Working Groups (WGs)"
+WG Openings,"February 1, 2023 6:33 AM",,"Leaderboard, Openings, Working Groups (WGs)"
+All Election Stages + Elected Councils,"February 5, 2023 8:24 PM",,"Election Stages, Elections"
+Membership Bought Events,"February 5, 2023 8:38 PM",,"Bought, Membership"
+Membership Gifted Events,"February 5, 2023 8:46 PM",,"Gifted, Membership"
+Members with gifted/bought/invited status,"February 5, 2023 9:38 PM",,"Gifted, Invitation, Membership"
+All proposal votes + rationale,"February 6, 2023 6:02 AM",,"Proposals, Rationale, Votes"
+Worker Reward updates,"February 8, 2023 1:21 AM",,"Rewards, Workers, Working Groups (WGs)"
+Forum Category created events,"February 15, 2023 4:39 AM",,"Categories, Forum, Forum Categories, Leaderboard, Metaprotocol"
+Video categories all,"February 15, 2023 5:07 AM",,"Categories, Videos"
+WG Budgets (current),"February 15, 2023 5:11 AM",,"Budgets, Working Groups (WGs)"
+Video Deleted Events,"February 15, 2023 6:48 AM",,"Curators, Videos"
+Proposal Discussion posts,"February 15, 2023 6:56 AM",,Proposals
+Channel deleted by moderator events,"February 15, 2023 7:11 AM",,"Channels, Curators, Moderation"
+NFT bids,"February 15, 2023 7:13 AM",,"NFTs, auctions, bids"
+Show all slashes from proposals,"February 27, 2023 7:06 AM",Show all slashes from proposals,"Proposals, Slashing, Subsquid"
+Staking Rewards,"February 27, 2023 8:43 AM",,"Nominators, Rewards, Staking, Subsquid, Validators"
+Budget funded by member events,"February 27, 2023 11:34 AM",,"Budgets, Working Groups (WGs)"
+Video likes/reactions by channel,"April 6, 2023 5:28 PM",,"Channels, Likes / Reactions, Orion v2, Videos"
+Video likes/reactions per date,"April 6, 2023 5:29 PM",,"Likes / Reactions, Videos"
+Video comments per date,"April 6, 2023 5:29 PM",,"Comments, Videos"
+Channel Payouts Updated Events,"June 14, 2023 2:35 PM",,
+Subsquid GraphQL Client,"July 10, 2023 1:44 PM",,
+Channel Payment Made Events,"July 10, 2023 1:45 PM",Channel payments made - not claims,"Channels, Payments, Rewards"
+Channel Rewards Claimed Events,"July 10, 2023 1:54 PM",Claimed rewards by channel,"Channels, Payments, Rewards"
+Vesting Extrinsics (subsquid),"July 13, 2023 6:36 PM",,Subsquid
+Staking Reward Payouts (subsquid),"July 13, 2023 8:55 PM",,Subsquid
+Completed NFT Auctions,"July 13, 2023 11:25 PM",,
+NFT Bought Events,"July 13, 2023 11:34 PM",,

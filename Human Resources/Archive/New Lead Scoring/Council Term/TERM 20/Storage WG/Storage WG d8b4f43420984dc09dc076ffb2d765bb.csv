@@ -1,0 +1,5 @@
+﻿OKRs,No,Tasks,Status,Score
+,1,Maintain replication rate of 4,Done,50
+,2,Make sure the failed upload object ration is less than 5%,Done,50
+,3,Setup budget system and worker requirement,Done,50
+,,Total,Null,150

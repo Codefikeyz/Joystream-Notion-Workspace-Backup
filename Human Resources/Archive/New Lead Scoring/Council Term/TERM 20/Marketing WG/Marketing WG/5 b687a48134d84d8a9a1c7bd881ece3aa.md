@@ -1,0 +1,7 @@
+# 5
+
+Communication: 4
+Ehtical Conduct: 4
+Leadership: 4
+Motivation: 4
+Support: 4

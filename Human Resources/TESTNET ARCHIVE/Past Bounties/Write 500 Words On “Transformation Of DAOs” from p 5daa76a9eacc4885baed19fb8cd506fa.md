@@ -1,0 +1,25 @@
+# Write 500 Words On “Transformation Of DAOs” from polaris5766
+
+### **From** [https://dao.joystream.org/#/bounty/preview/667](https://dao.joystream.org/#/bounty/preview/667)
+
+**polaris5766**
+
+[Joystream Governance App](https://dao.joystream.org/#/forum/thread/1748?post=2603)
+
+[TRANSFORMATION OF DAOs](https://medium.com/@umehanno/transformation-of-daos-cdcbee37867c)
+
+# **TRANSFORMATION OF DAOs**
+
+Transformation of Daos
+
+Blockchain technology and smart contracts are catalysts for decentralization and disintermediation. These new technologies reduce transaction costs, agency costs, and offer a basis for trustless social and economic interactions. They are fueling new business models for decentralized platforms and have revolutionized crowdfunding. A recent trend, Decentralized Autonomous Organizations (DAOs), stands to fundamentally transform organizing and governance. DAOs are blockchain-native, decentralized organizations that are collectively owned and managed by their members via smart contracts. In this note, we assess the promises and challenges of DAOs, with a focus on decentralized governance and disintermediation, and offer a first empirical glimpse at the rise and functioning of DAOs. They include Joystream discord and Joystream telegram.
+
+Overall, DAOs may introduce a new era in organizational economics, transforming the global corporate landscape from hierarchical organizations to democratic and distributed organizations powered by organizational entrepreneurship and innovations.
+
+It’s difficult to understand just how revolutionary Decentralized Autonomous Organizations (DAOs) are unless you’ve attempted to navigate financial regulation, set up a payroll or establish a charity. The latter can take years and involve recruiting trustees, choosing an organizational structure, writing a governing document and getting approval from the national Charity Commission with supporting documents and proof of income. In contrast, a fully-operational Aragon DAO with a transparent treasury and direct democracy of all members is a sovereign digital jurisdiction, which can be funding projects within 5 minutes. DAOs are not government-subsidized like charities, but what might be added by subsidies can be subtracted multiple times over in time and administration costs. As society grasps just how easy it is to self-organize in this way, we will see a Cambrian explosion of activity that will do for organizations what the internet did for communication.
+
+The history of DAOs began inauspiciously in 2016 when Slock.it launched ‘TheDAO’ on Ethereum as a way to coordinate investment in, and governance of, a treasury of $theDAO tokens. By the end of the 4-week sale, $150m worth of $ETH had been deposited in exchange for 1.2bn tokens, priced at 0.01 $ETH each. With hindsight, this was an unbearable weight to be placed on such young shoulders: Solidity — the language that TheDAO smart contract was written in — was only a few months old and lacked the documentation and battle-testing needed to be production-ready. On June 17, 2016, attackers used a recursive call to execute a ‘re-entrancy exploit ’ and drained 30% of the treasury funds. In the aftermath, the Ethereum community decided to fork the blockchain from block 1,920,000 — a point prior to the hack — and learn from the experience.
+
+5 years on from TheDAO hack, Solidity has accrued decades of developer time and is used in millions of smart contracts to manage over $100bn in funds. At a protocol level, the sophistication of the space already exceeds traditional finance in the sense that certain operations such as flash loans have no comparable analogue outside of Decentralized Finance (DeFi). DAOs are also superior in application, being customizable to all flavors of governance and voting. Any isomorphism between them is more likely to be driven by normative factors such as proven best practice to attract liquidity and capital, rather than any legal impositions or technological restrictions.
+
+That said, DAOs are still very early on the adoption curve — equivalent to 56k dial-up modems on the internet timeline. This is not just because of how generally alien crypto can be, nor the complexity of choosing a DAO framework — which can be considerable — but in large part because of how legally uncertain the space is. At present, jurisdictions such as Wyoming do permit DAOs to be registered as LLCs but founders still risk the ire of securities laws if they promote a token to unaccredited investors. In theory though, any DAO that manages to fully decentralize all decisions to token holders would hold the same status as Bitcoin or Ethereum: not currently counted as securities by the SEC because of a lack of substantive control by any one person or company. Apart from that (understandable) hesitation on the part of developers to tackle the financial authorities, there are significant technical hurdles to overcome before transactions can be executed entirely collectively and be confidently beyond the scope of securities laws.

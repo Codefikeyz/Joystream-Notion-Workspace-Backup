@@ -1,0 +1,64 @@
+﻿JOYSTREAM WORKING GROUP TASKS,Property," 1",URL Link," 2"," 3"
+07 - February - 2023,,,,,
+,,,,,
+Member Name and ID,Working Group / Role,Task,URL Link,"Timeframe / Deadline ",Status (Executed/WIP/Failed)
+Human Resources,,,,,
+Codefikeyz - 4129,Human Resources / Lead,Working Group Tasks/Database,,24 hours / 07 - 02 - 2023,"Executed "
+Vikan - 4058,Human Resources / Recruiter,"Recruitment for BWG (designer with experience in web design and figma, a developer with experience in js/ts, react js and graphQL, security dev with experience in rust, polkadot, smart contract auditing.",,"Unspecified ",WIP
+,,,,,
+Marketing Working Group,,,,,
+Leet_Joy - 957,Marketing / Lead,1) Working Group Tasks 2) Marketing strategy improvements 3) Gateway provider onboarding program 4) Joy token listing preparations 5) Propose content to JSG for Twitter posts 6) Hiring/interviewing applicants,,1) N/A 2) Q2 3) Q2 4) N/A 5) N/A 6) N/A,
+adovrn - 2502,Marketing / Marketing Representative,1) Discord onboarding plugin research 2) Twitter comments 3) Twitter posting 4) Prepare templates for SMM posts 5) Create content for social media posts and forum announcements/updates 6) Crew3 support/updates,,1) 14/2/23 2) N/A 3) N/A 4) N/A,
+spat_sochi - 1843,Marketing / Marketing Representative,"1) Joy token listing 2) Research on potential collaborations 3) Research on social media platforms, communities, and forums where we can introduce Joystream 4) Crew3 support/updates",,1) N/A 2) N/A 3) N/A 4) 28/2/23,
+Vikan - 4058,Marketing / Research Analyst,Reviewing/uploading MWG video assets (100+) made in testnet to Gleev,,14/2/23,
+itz - 4621,Marketing / Graphic Designer,Studying JS brand guidelines / Create Joystream brand illustrations / Create posts for social media,,10/2/23,
+kate_fm - 1905,Marketing / Content Creator,Studying JS brand guidelines / Creating video content about JOY token / research on content creators,,10/2/23,
+,,,,,
+Content Working Group,,,,,
+,,,,,
+igrex - 1048,Content / Lead,"curating videos, channels and metadata
+Devise Content Rewards Policy
+Discuss about developing curator tools",,According https://docs.google.com/spreadsheets/d/1JBVPN0ES4lZHOgBWC3DiYqBZrwSVBzLmEo35pbS200Q/edit?usp=sharing,
+kira_skipper - 2228,"Content / ","curating videos, channels and metadata",,According https://docs.google.com/spreadsheets/d/1JBVPN0ES4lZHOgBWC3DiYqBZrwSVBzLmEo35pbS200Q/edit?usp=sharing,
+ferdikesh_studio,Content /,"curating videos, channels and metadata",,According https://docs.google.com/spreadsheets/d/1JBVPN0ES4lZHOgBWC3DiYqBZrwSVBzLmEo35pbS200Q/edit?usp=sharing,
+,,,,,
+Apps Working Group,,,,,
+klaudiusz - 2233,Apps / Lead,,,,
+jsmoon - 542,"Apps / ",,,,
+dmtrmltsv - 4401,Apps /,,,,
+,,,,,
+Forum Working Group,,,,,
+songoku - 3336,Forum / Lead,,,,
+,,,,,
+Storage Working Group,,,,,
+yyagi - 3098,Storage / Lead,,,,
+maxlevush - 2130,"Storage / ",,,,
+Craci_BwareLabs - 3886,"Storage / ",,,,
+goksel - 3655,Storage /,,,,
+0x2bc - 2098,Storage /,,,,
+,,,,,
+Distribution Working Group,,,,,
+l1dev - 515,Distribution / Lead,,,,
+0x2bc - 2098,"Distribution / ",DP EU,,,operational
+sieemma - 458,"Distribution / ",DP EU,,,operational
+klaudiusz - 2233,Distribution /,DP EU,,,operational
+goksel - 3655,Distribution /,DP India,,,operational
+Craci_BwareLabs - 3886,Distribution /,DP SEA,,,operational
+lkskrn,Distribution /,,,,inactive
+deathx,Distribution /,DP EU,,,operational
+ImStaked,Distribution /,"devops, monitoring",,,break
+,,,,,
+Builders Working Group,,,,,
+" chaos77 - 4406",Builders / Lead,Voter Dashboard,http://thememestoken.com/,EOT,
+Ivant - 3089,Builders / QA tester,QA,,EOT,
+l1dev - 515,Builders / Dev,"Add validation ""Spaces and special characters are not supported""",https://github.com/Joystream/pioneer/issues/3342https://github.com/Joystream/pioneer/issues/3263,EOT,
+mkblockchaindev - 4278,Builders / Dev,,,,
+freakstatic - 306,Builders / Dev,https://github.com/Joystream/pioneer/issues/4121,https://github.com/Joystream/pioneer/issues/4121https://github.com/Joystream/pioneer/issues/4125,EOT,
+gyroflaw - 4141,Builders / Dev,"Add error boundaries, discord bot update",https://github.com/Joystream/pioneer/issues/4052,EOT,
+polikosi - 2673,Builders / QA tester,QA,,EOT,
+lkskrn - 644,Builders / Dev,Funding Request Proposal for Multiple Recipients,https://github.com/Joystream/pioneer/issues/2365https://github.com/Joystream/pioneer/issues/2321,EOT,
+ninjafire - 4254,Builders / Designer,validator page design,https://github.com/Joystream/pioneer/issues/3819,EOT,
+TheGrimSavage - 4407,Builders / Dev,Funding Request Proposal for Multiple Recipients,https://github.com/Joystream/pioneer/issues/2365,EOT,
+SpiceTank - 4572,Builders / Designer,financial page design,https://github.com/Joystream/pioneer/issues/46,EOT,
+RogueTemplar2 - 4469,Builders / Dev,Rename GatewaysIcon to AppIcon,https://github.com/Joystream/pioneer/issues/3954https://github.com/Joystream/pioneer/issues/3382,EOT,
+dapplooker - 2183,Builders / Service,"DappLooker Dashboard ",https://dapplooker.com/dashboard/joystream-mainnet-dashboard-328,EOT,

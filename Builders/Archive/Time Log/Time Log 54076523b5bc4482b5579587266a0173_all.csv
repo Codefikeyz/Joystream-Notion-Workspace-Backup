@@ -1,0 +1,134 @@
+﻿Worker handle,Date,Hours,Tasks
+"@lkskrn ","April 12, 2022",3,"https://github.com/Joystream/pioneer/pull/2853 "
+"@lkskrn ","April 2, 2022",1,https://github.com/Joystream/pioneer/pull/2767
+@freakstatic,"April 16, 2022",2,"Review the https://github.com/Joystream/community-repo/pull/679 and test the provider-test script 
+Discussed how to process about “https://github.com/Joystream/community-repo/issues/744” issue"
+@l1dev,"April 21, 2022",1,"investigate Make election stake reusable
+https://github.com/Joystream/pioneer/issues/2826#issuecomment-1105810260https://github.com/Joystream/pioneer/pull/2856#issuecomment-1105825529"
+@l1dev,"April 12, 2022 → April 22, 2022",5,"facilitated communication to find solution for assigned issue + PR
+https://github.com/Joystream/community-repo/issues/744
+https://github.com/Joystream/community-repo/pull/679
+https://discord.com/channels/811216481340751934/963365664180027412/963384015224709120"
+@l1dev,"April 1, 2022 → April 8, 2022",6,"bug reports pioneer atlas https://github.com/issues?q=author%3Atraumschule
+3PRs https://discord.com/channels/811216481340751934/812344874099277824/962000711330201700
+https://github.com/Joystream/pioneer/pull/2699
+https://github.com/Joystream/pioneer/pull/2656
+https://github.com/Joystream/atlas/pull/2325
+"
+@l1dev,"March 29, 2022",1,"Pioneer WG View
+https://github.com/Joystream/pioneer/issues/2713
+
+research atlas issue
+https://github.com/Joystream/atlas/blob/master/packages/atlas/src/views/studio/VideoWorkspace/VideoForm/VideoForm.tsx#L152https://github.com/Joystream/atlas/blob/c8af8bc1c2013d8852ccccffda42c1d7783c27dd/packages/atlas/src/views/studio/VideoWorkspace/VideoWorkspaceForm/VideoWorkspaceForm.tsx#L286"
+"@isonar ","May 6, 2022",22,Repairing the WG Bot: https://github.com/Joystream/community-repo/issues/754
+"@freakstatic ","May 6, 2022",1,"Review Discord Bot: 
+https://github.com/Joystream/community-repo/issues/754"
+"@lkskrn ","May 9, 2022",1,"Additional fixes for gh issue:
+https://github.com/Joystream/pioneer/pull/2960"
+"@lkskrn ","May 4, 2022",4,"Pioneer fix:
+https://github.com/Joystream/pioneer/pull/2961
+Pioneer fix:
+https://github.com/Joystream/pioneer/pull/2960"
+"@freakstatic ","May 14, 2022",5,"Find the issue causing:
+https://github.com/Joystream/pioneer/issues/2362 
+Notes: had to deploy a dev chain to be able to reproduce it"
+"@lkskrn ","May 14, 2022",8,"Sorting of proposal implementation:
+https://github.com/Joystream/pioneer/pull/3060"
+"@lkskrn ","May 23, 2022",1,Additional fixes for PR: https://github.com/Joystream/pioneer/pull/3060
+"@freakstatic ","May 30, 2022",3,"Add proposal ID to proposal card
+https://github.com/Joystream/pioneer/issues/2296"
+"@lkskrn ","May 30, 2022",1,"Exclude moderated threads from forum overview:
+https://github.com/Joystream/pioneer/pull/3128"
+"@lkskrn ","May 31, 2022",2,"Markdown Preview Fix:
+https://github.com/Joystream/pioneer/pull/3129"
+"@lkskrn ","May 31, 2022",1,"Markdown Preview PR process review comments:
+https://github.com/Joystream/pioneer/pull/3129"
+"@freakstatic ","June 2, 2022",3,"Additional fixes based on PR review feedback
+https://github.com/Joystream/pioneer/pull/3126"
+"@Meliso ","May 31, 2022",5,Expand drop down issue fixing https://github.com/Joystream/pioneer/pull/3127
+"@Meliso ","May 28, 2022",5,Adding previous step button https://github.com/Joystream/pioneer/issues/2445
+"@freakstatic ","May 28, 2022",1,"Fix required stake on WG openings
+https://github.com/Joystream/pioneer/pull/3101/commits"
+"@lkskrn ","June 5, 2022",2,"Markdown improvements:
+https://github.com/Joystream/pioneer/pull/3178 "
+"@lkskrn ","June 6, 2022",1,"Styling for Markdown Tables: 
+https://github.com/Joystream/pioneer/pull/3178#issuecomment-1147367466"
+"@freakstatic ","June 10, 2022",5,"Fix invalid council term duration when new council was elected
+https://github.com/Joystream/pioneer/pull/3221"
+"@lkskrn ","June 16, 2022",2,"Opened 2 PR’s:
+https://github.com/Joystream/pioneer/pull/3252
+https://github.com/Joystream/pioneer/pull/3250"
+"@freakstatic ","June 16, 2022",1,"Create PR to update #3118 to fix #2445
+https://github.com/Joystream/pioneer/pull/3249"
+"@freakstatic ","June 17, 2022",3,"Additional Fixes to #2445
+https://github.com/Joystream/pioneer/pull/3221"
+"@lkskrn ","June 10, 2022",3,"Research related to the forum:moderateThread showing previous lead:
+https://discord.com/channels/811216481340751934/812344874099277824/984758366985420830"
+"@lkskrn ","June 24, 2022",2,"Investigation and debugging of joystream cli to understand the logic of fetching forum lead when trying to moderate thread, the outcome: https://discord.com/channels/811216481340751934/812344874099277824/988817696781135932"
+"@freakstatic ","June 30, 2022",1,"Investigate QN and chain info about opening bug
+https://github.com/Joystream/pioneer/issues/2833#issuecomment-1171771855"
+"@freakstatic ","July 1, 2022",1,"Create PR to fix #2833 (withdraw applications appearing on openings)
+https://github.com/Joystream/pioneer/pull/3317"
+"@lkskrn ","June 30, 2022",4,"Joystream CLI Status Check (WIP):
+https://github.com/Joystream/community-repo/issues/781"
+"@lkskrn ","July 1, 2022",4,"Joystream CLI Status Check (WIP):
+https://github.com/Joystream/community-repo/issues/781"
+"@lkskrn ","July 4, 2022",4,"Joystream CLI Status Check (WIP):
+https://github.com/Joystream/community-repo/issues/781"
+"@freakstatic ","July 5, 2022",4,"Fix bounties modals resize
+https://github.com/Joystream/pioneer/pull/3322"
+"@freakstatic ","July 6, 2022",1,"Review bounty PR:
+https://github.com/Joystream/pioneer/pull/3320#issuecomment-1175985006"
+"@lkskrn ","July 9, 2022",3,"Joystream CLI Status Check
+https://github.com/Joystream/joystream/pull/3996"
+"@lkskrn ","July 10, 2022",2,"Joystream CLI Status Check
+https://github.com/Joystream/joystream/pull/3996"
+"@lkskrn ","July 11, 2022",3,"Joystream CLI Status Check
+https://github.com/Joystream/joystream/pull/3996"
+"@freakstatic ","July 10, 2022",3,Investigate QN timestamp bug https://github.com/Joystream/community-repo/issues/797)
+"@freakstatic ","July 12, 2022",2,"More investigation about QN timestamp bug
+https://github.com/Joystream/community-repo/issues/797#issuecomment-1182603414"
+"@freakstatic ","July 13, 2022",1,"PR changes requested by reviewer
+https://github.com/Joystream/pioneer/pull/3317
+
+Investigated if the scope of #2793 had change
+https://github.com/Joystream/pioneer/issues/2793#issuecomment-1183761426"
+"@freakstatic ","July 18, 2022",1,"Created a new PR to fix a problem cause by a previous PR on modals
+https://github.com/Joystream/pioneer/issues/3201#issuecomment-1188351573
+https://github.com/Joystream/pioneer/pull/3367
+
+Also helped @Counsellor and @songoku with CLI setup (Forum WG) and @Palllke (Builders) with mockup data doubts"
+"@freakstatic ","July 29, 2022",1,Help create/assign bounties to newcomers to bring new builders to the group (from 23 to 29 July)
+"@freakstatic ","July 31, 2022",2,"Carthage Testing
+https://github.com/Joystream/pioneer/issues/3431
+https://github.com/Joystream/pioneer/issues/3430"
+"@lkskrn ","July 30, 2022",2,"Carthage Testing
+https://github.com/Joystream/pioneer/issues/3413"
+"@lkskrn ","July 31, 2022",2,"Carthage Testing
+https://github.com/Joystream/pioneer/issues/3413"
+"@freakstatic ","August 3, 2022",1,"Carthage Testing
+https://github.com/Joystream/pioneer/issues/3411#issuecomment-1204464028
+https://github.com/Joystream/joystream/issues/4119"
+"@freakstatic ","August 4, 2022",1,"Carthage Testing Testing Curators:
+https://github.com/Joystream/pioneer/issues/3411#issuecomment-1204964403"
+"@freakstatic ","August 9, 2022",1,Helped @oig_res to compile the carthage joystream-cli
+"@freakstatic ","August 14, 2022",3,"Carthage Testing
+https://github.com/Joystream/pioneer/issues/3405#issuecomment-1214439240"
+"@lkskrn ","August 11, 2022",3,"Carthage Testing Vesting:
+https://github.com/Joystream/pioneer/issues/3404#issuecomment-1212508873"
+"@lkskrn ","August 16, 2022",3,"Carthage Testing Vesting:
+https://github.com/Joystream/pioneer/issues/3404#issuecomment-1217110664
+https://github.com/Joystream/pioneer/issues/3404#issuecomment-1217151143"
+"@lkskrn ","August 18, 2022",3,"Testing Vesting Locks are non-rivalrous and can also cover tx fees:
+https://github.com/Joystream/pioneer/issues/3495"
+"@freakstatic ","August 23, 2022",2,"Carthage Testing: Curators
+https://github.com/Joystream/pioneer/issues/3411"
+"@lkskrn ","September 1, 2022",4,"Carthage Testing: Genesis Vesting Locks
+https://github.com/Joystream/pioneer/issues/3452"
+"@freakstatic ","September 7, 2022",3,"Carthage Testing: Curators
+https://github.com/Joystream/pioneer/issues/3411#issuecomment-1240031273"
+"@freakstatic ","September 11, 2022",3,"Complete Carthage Testing: Curators
+https://github.com/Joystream/pioneer/issues/3411#issuecomment-1243004118"
+"@lkskrn ","October 6, 2022",4,https://github.com/Joystream/pioneer/issues/3470
+"@lkskrn ","October 17, 2022",1,Process review comments: https://github.com/Joystream/pioneer/issues/3470
+,,,

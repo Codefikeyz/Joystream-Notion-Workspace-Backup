@@ -1,0 +1,24 @@
+{
+	"applicationDetails": "HIRING INTEGRATORS! Let's help people get involve",
+	"title": "Integrator",
+	"shortDescription": "HR is looking for people who will help new and existing members get involve in the project and push them to become Founding Members! Devoting at least 24 hrs a week is needed for this role. Knowledge of the project is needed, though for newcomers the lead is willing to train you. Fast responsiveness in Discord is A MUST when welcoming new comers.",
+	"description": "HR is looking for people who will help new and existing members get involve in the project and push them to become Founding Members! Devoting at least 24 hrs a week is needed for this role. Knowledge of the project is needed, though for newcomers the lead is willing to train you. Fast responsiveness in Discord is A MUST when welcoming new comers. \n\n Main tasks: \n\n 1. Greeting; \n\n 2. Onboarding; \n\n 3. Catalyzing; \n\n 4. Person logging; \n\n 5. Interaction Logging. \n\n The tasks of integrators are described here - https://www.notion.so/joystream/Guide-for-new-integrators-503a46c662f04910be1c153074632d00 \n\n The group lead - adovrn \n\n Discord group channel - https://discord.gg/jbD4NNG5 ",
+	"applicationFormQuestions": [{
+			"question": "What is your timezone? Please give me the days and time you can be available for this role."
+		},
+		{
+			"question": "What language/s do you speak and write? And level?"
+		},
+		{
+			"question": "When did you join Joystream? How would you describe your knowledge about the project?"
+		},
+		{
+			"question": "Tell me something about yourself and why would you be a good fit for this position."
+		}
+	],
+	"stakingPolicy": {
+		"amount": 25000,
+		"unstakingPeriod": 45000
+	},
+	"rewardPerBlock": 6
+}

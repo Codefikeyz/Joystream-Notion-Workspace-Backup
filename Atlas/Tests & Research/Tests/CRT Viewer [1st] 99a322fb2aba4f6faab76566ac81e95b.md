@@ -1,0 +1,4 @@
+# CRT Viewer [1st]
+
+Sessions: Jesse, Jul 01, 07:30 (../Sessions/Jesse,%20Jul%2001,%2007%2030%2006d548b8b8964b5fbabab66114da3a67.md), Mikhail Firsov, Jul 01, 11:00 (../Sessions/Mikhail%20Firsov,%20Jul%2001,%2011%2000%20be263f362f554448b4c8705801aa25ff.md), ömer özdemir, Jul 01, 14:00 (../Sessions/%C3%B6mer%20%C3%B6zdemir,%20Jul%2001,%2014%2000%203dc2102aa2de4cc5860f3bf226fa05f9.md), Alex (eclipsingbinary), Jul 01, 15:00 (../Sessions/Alex%20(eclipsingbinary),%20Jul%2001,%2015%2000%20fb0a5856e9314dc2a03f6396e4924b36.md), Zach, Jul 01, 16:15 (../Sessions/Zach,%20Jul%2001,%2016%2015%20066e5e4cac134d048b7bbda82c1e227c.md)
+Test conducted: 0

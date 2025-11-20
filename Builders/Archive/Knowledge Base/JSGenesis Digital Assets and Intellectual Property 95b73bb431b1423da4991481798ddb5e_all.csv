@@ -1,0 +1,22 @@
+﻿Name,Cost,Description,Tags
+Twitter account,Free,"https://mobile.twitter.com/joystreamdao ",Social Media
+AWS Infra,Billable by AWS,We use it for testing,Infra
+Domain,?,https://www.joystream.org/,Domains
+Discord Server,Free (?),https://discord.gg/DE9UN3YpRP,Tools
+ReTool CRM,Licence cost (?),https://joystream.retool.com/embedded/public/9478bcc0-f6d6-4f74-bd0a-0637535e75b1,Tools
+Github Codebase,Free for all 🙂,https://github.com/orgs/Joystream,Code
+Notion Space,"Current plan: 
+
+$8 per member per month","https://www.notion.so/joystream
+",Tools
+Joystream Sudo Key,Free,,Blockchain
+"Identity, brand",Free (?),https://www.joystream.org/brand/guides,Branding
+Validators,Infra costs TBD,,Blockchain
+Distributor node(s),Infra costs TBD,,Blockchain
+Storage Nodes,Infra costs TBD,,Blockchain
+Faucet backend,Infra costs TBD,,Memberships
+Query Node(s),Infra costs TBD,,Blockchain
+Zenhub,non-free,Project management tool,Tools
+Figma,Subscription (?),UI Wireframing Tool,Tools
+Asana,Subscription (?),Project management tool.,Tools
+UserSnap,Subscription (?),Bug Reporting Tool,Tools

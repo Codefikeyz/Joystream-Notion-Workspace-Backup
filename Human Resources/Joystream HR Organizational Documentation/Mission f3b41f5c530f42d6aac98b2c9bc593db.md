@@ -1,0 +1,3 @@
+# Mission
+
+The goal of Joystream HR is to draw in top talent and keep them on board with Joystream's expansion and success, Our aim is to provide a diverse and welcoming workplace culture that encourages cooperation, creativity, and excellence. The HR WG is dedicated to providing members with the resources and support they need to thrive in their roles and achieve their unique goals on Joystream. This includes developing strategies for recruitment, training and development, compensation and benefits administration, employee relations management, diversity initiatives and other HR activities.

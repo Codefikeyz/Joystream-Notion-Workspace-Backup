@@ -1,0 +1,68 @@
+﻿Name,Description,Tags
+NFT Bought Events,,
+Completed NFT Auctions,,
+Staking Reward Payouts (subsquid),,Subsquid
+Vesting Extrinsics (subsquid),,Subsquid
+Channel Rewards Claimed Events,Claimed rewards by channel,"Channels, Payments, Rewards"
+Channel Payment Made Events,Channel payments made - not claims,"Channels, Payments, Rewards"
+Subsquid GraphQL Client,,
+Channel Payouts Updated Events,,
+Video comments per date,,"Comments, Videos"
+Video likes/reactions per date,,"Likes / Reactions, Videos"
+Video likes/reactions by channel,,"Channels, Likes / Reactions, Orion v2, Videos"
+Budget funded by member events,,"Budgets, Working Groups (WGs)"
+Staking Rewards,,"Nominators, Rewards, Staking, Subsquid, Validators"
+Show all slashes from proposals,Show all slashes from proposals,"Proposals, Slashing, Subsquid"
+NFT bids,,"NFTs, auctions, bids"
+Channel deleted by moderator events,,"Channels, Curators, Moderation"
+Proposal Discussion posts,,Proposals
+Video Deleted Events,,"Curators, Videos"
+WG Budgets (current),,"Budgets, Working Groups (WGs)"
+Video categories all,,"Categories, Videos"
+Forum Category created events,,"Categories, Forum, Forum Categories, Leaderboard, Metaprotocol"
+Worker Reward updates,,"Rewards, Workers, Working Groups (WGs)"
+All proposal votes + rationale,,"Proposals, Rationale, Votes"
+Members with gifted/bought/invited status,,"Gifted, Invitation, Membership"
+Membership Gifted Events,,"Gifted, Membership"
+Membership Bought Events,,"Bought, Membership"
+All Election Stages + Elected Councils,,"Election Stages, Elections"
+WG Openings,,"Leaderboard, Openings, Working Groups (WGs)"
+WG Applications,,"Applications, Leaderboard, Working Groups (WGs)"
+NFTs + sale information,,"NFTs, Videos"
+Workers & Stake,,"Leaderboard, Leads, Stake, Workers, Working Groups (WGs)"
+Elected Councils,,"Council, Elected Councils, Leaderboard"
+WG Discretionary Spending,,"Leaderboard, Spending, Working Groups (WGs)"
+WG Budget Refill Events,,"Budgets, Leaderboard"
+Council Budget Refill Events,,"Budgets, Council, Leaderboard"
+Council Payment events,,"Council, Leaderboard, Payments, Rewards"
+All sold NFTs + Price + Video name + buyer name,,"NFTs, Videos"
+Council Members + Payments,,"Council, Leaderboard, Payments"
+All Proposals for leaderboard,,"Council, Funding, Leaderboard, Proposals"
+All candidates + electionID + stake,,"Council, Elections, Leaderboard"
+Workers Payments + WG name + isLead,,"Leaderboard, Leads, Payments, Workers, Working Groups (WGs)"
+List all forum threads,"list all forum threads, author handle, title, category, sorted by date (earliest first)","Forum, Forum Threads"
+List all forum posts and show whether they are still editable,,"Deposits, Forum, Forum Posts"
+List all Proposals,List all proposals,Proposals
+List all votes with cap to update council leaderboard spreadsheet,,
+List all bounties (extensive),"Lists all bounties and all bounty entries with usernames, contributors. titles and descriptions",Bounties
+Election rounds,"All election rounds, all cast votes, revealed votes","Council, Elections, Stake, Voting"
+Stake released events,Lists all events in which stake was released,"Accounts, Stake"
+Council Stages,"List all council stages (idle, announcing, election)","Council, Elections, Voting"
+Vote Revealed Events,"Lists all revealed votes, address of those who voted, current status of stake (locked or not) and election round","Elections, Voting"
+Forum Categories,List all forum categories (including deleted categories),"Categories, Forum"
+List all bounties,"Show all bounties, status & oracle judgements",Bounties
+stateSubscription,Put this in QN and it’ll tell you if its updating. Doesn’t work on non-JSG QNs right now.,"QN status, Subscription"
+voteCastEvents,"List all votes cast, including revealed and unrevealed votes","Council, Elections, Voting"
+CouncilsElectedBlocks,Blocks at which councils were elected,"Council, Elections"
+Council Member payouts,Get all payouts for Council Members,"Council, Payments"
+List elections with reasons for failure,List all elections (successful and failed) and give a reason for the failed election if it failed as well as list the blockheight of the election,"Elections, Failures, Voting"
+WG Spending,payout from budget (non JOY-able),Working Groups (WGs)
+Openings,"new, filled, canceled openings",Working Groups (WGs)
+Council Member reward changes,,"Council, Payments"
+Search for votes from a specific address,,"Elections, Voting"
+Worker Payments,Get all Worker payments,"Payments, Working Groups (WGs)"
+Forum Payouts,Get all Forum Worker Payouts,"Forum, Payments, Working Groups (WGs)"
+Channels created in term,Get all channels created in Council Term,"Channels, Content Directory"
+WG Budget Refills,Get all WGs Budget Refills,"Budgets, Proposals, Working Groups (WGs)"
+Videos created in term,Get all videos created in Council Term,"Content Directory, Videos"
+Council Budget Refills,Get all Council Budget Refills,"Budgets, Council, Proposals"

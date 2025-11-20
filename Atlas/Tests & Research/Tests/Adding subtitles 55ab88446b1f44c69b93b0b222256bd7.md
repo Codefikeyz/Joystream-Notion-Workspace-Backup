@@ -1,0 +1,4 @@
+# Adding subtitles
+
+Sessions: Andrew, Mar 23, 09:00 (../Sessions/Andrew,%20Mar%2023,%2009%2000%20b4917c2405fc4ec2a448f48123869760.md), Rafał, Mar 23, 14:00 (../Sessions/Rafa%C5%82,%20Mar%2023,%2014%2000%2050c33aebd15a4b9daabbfd3e1a555054.md), Wojciech, Mar 23, 11:30 (../Sessions/Wojciech,%20Mar%2023,%2011%2030%2058f3497398654dedb5f301d55f399b10.md), Arseniy, Mar 23, 17:00 (../Sessions/Arseniy,%20Mar%2023,%2017%2000%206e3a3c162b6f47e4a687bf9bbce9b76b.md), Matei, Mar 23, 17:30 (../Sessions/Matei,%20Mar%2023,%2017%2030%2091c809f2209a49b7b0cbe83e3ecd5f8b.md), Nick Soldo, Mar 23, 18:00 (../Sessions/Nick%20Soldo,%20Mar%2023,%2018%2000%20803f439d8ddc4daaab93297e1df902ea.md)
+Test conducted: 0

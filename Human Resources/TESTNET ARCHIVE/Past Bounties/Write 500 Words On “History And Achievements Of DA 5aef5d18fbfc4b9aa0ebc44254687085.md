@@ -1,0 +1,25 @@
+# Write 500 Words On “History And Achievements Of DAOs” from vladiv
+
+### **From** [https://dao.joystream.org/#/bounty/preview/461](https://dao.joystream.org/#/bounty/preview/461)
+
+**vladiv**
+
+[Joystream Governance App](https://dao.joystream.org/#/forum/thread/1248)
+
+[Write 500 words on "History and achievements of DAO](https://medium.com/@kkddd743/write-500-words-on-history-and-achievements-of-dao-9502d0263332)
+
+# **Write 500 words on “History and achievements of DAO**
+
+Do you know how big companies like Amazon or Netflix or Walmart have board meetings? At these board meetings, shareholders of the companies will meet together and they get to vote and make decisions for the company. Then the CEOs of this company get to make sure that the decisions are actually followed through using the chain of command in that company. In a DAO there are no CEOs instead once a decision is made the code of a platform is changed so that the entire company so to say is changed immediately.
+
+Now the purpose of this is so that computers and code will perform many of the decisions and simple routine operations that companies like Amazon or Netflix or Walmart require to function. Now you may be wondering if code can’t improve itself and you’d be wrong. DAOs can continually improve and grow just like people, because their shareholders can submit and then even vote on changes to them.
+
+Usually in the world of crypto, a DAO may launch with a few million tokens. Every token is a vote and whoever holds. The most tokens can have the largest votes. This gives the tokens a price and it also gives them use. It also allows the DAO to improve make changes and evolve as the world evolves. Now this includes actually hiring and voting on a salary and then technically even employing certain developers. Within the autonomous organization, it would then just pay them with cryptocurrency.
+
+In the case of a vending machine, we can say if that vending machine made any profits it would redistribute all of those profits to the shareholders through its native DAO token. Now there are many ways this could happen but any token holder would supposedly get an increase in value if the vending machine dial made a profit so this potential profit along with voting rights makes holding a DAO token much more valuable than any other useless token you might see.
+
+Now I want to go over some of the benefits of a DAO. Benefit number one is that it’s trustless and this is probably the biggest benefit of a DAO, in fact, you do not need to trust any CEO or manager, or leader with your decision-making skills. The program or the whole organization will continue no matter if a major developer stops working on the project or even if the funding goes away. Another benefit is that they cannot shut DAOs in the case of major corporations the CIA or the FBI or any major government service can technically step in and be like we’re shutting you DAOs or even give us all the information you have on this guy and if you’re in the United States you’d be forced to comply in a DAO. The only way they could make this happen is if they had a very large amount of tokens and then submitted a proposal to be voted on and then went through the voting process fairly in other words a government cannot skip the line. The last benefit of a DAO is that it is open source. DAOs are also open source which means that their code is out there for anyone to look at and even improve upon open source projects are usually much more reliable simply because other programmers can help the main developers find some bugs in their code and then even propose ways to fix them.
+
+Here are a few real-life examples of DAOs: Maker DAO, Aragon, Metacartel, Gitcoin, Dash, and the famous The DAO. Probably the most important and most famous DAO is one called The DAO. The DAO is a venture capital fund created in 2016 that was well known for its failure in fact around 20 000 investors pooled around 150 million dollars into this project. In short, the account of the DAO was actually hacked and 50 million dollars worth of Ethereum was lost due to the attackers. Now, this is actually why we have Ethereum and Ethereum Classic. Ethereum Classic is actually the original blockchain that still has the money hacked. However, developers who took the blockchain and realized that it wasn’t right for someone to steal 50 million dollars then also realized they could make a new blockchain where the money was given back. This is how we have Ethereum today in fact the main developers of Ethereum did what is called a hard fork.
+
+The Joystream project is a new generation of DAO projects that focuses on a real specific sector of people’s life. Art is the most important driver of human development. To make it decentralized and therefore independent is a small step for all mankind and a huge leap for the crypto industry and the entire culture of people.

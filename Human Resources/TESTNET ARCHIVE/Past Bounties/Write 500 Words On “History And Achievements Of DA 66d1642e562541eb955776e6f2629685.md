@@ -1,0 +1,61 @@
+# Write 500 Words On “History And Achievements Of DAOs” from Cassandra3690
+
+### **From** [https://dao.joystream.org/#/bounty/preview/688](https://dao.joystream.org/#/bounty/preview/688)
+
+**Cassandra3690**
+
+[Joystream Governance App](https://dao.joystream.org/#/forum/thread/1580)
+
+[Write 500 Words On "History And Achievements Of DAOs"](https://medium.com/@cassandrasmithen/write-500-words-on-history-and-achievements-of-daos-757b893d8b55)
+
+# **Write 500 Words On “History And Achievements Of DAOs”**
+
+A decentralized autonomous organization (DAO) is an entity with no central leadership. Decisions get made from the bottom-up, governed by a community organized around a specific set of rules enforced on a blockchain.DAOs are internet-native organizations collectively owned and managed by their members. They have built-in treasuries that are only accessible with the approval of their members. Decisions are made via proposals the group votes on during a specified period.Joystream works without hierarchical management and can have a large number of purposes. Freelancer networks where contracts pool their funds to pay for software subscriptions, charitable organizations where members approve donations and venture capital firms owned by a group are all possible with these organizations.Before moving on, it’s important to distinguish a DAO, an internet-native organization, from The DAO, one of the first such organizations ever created. The DAO was a project founded in 2016 that ultimately failed and led to a dramatic split of the Ethereum network.
+
+The main advantage of DAOs is that they offer a solution to the [](https://www.investopedia.com/terms/p/principal-agent-problem.asp)principal-agent dilemma. This dilemma is a conflict in priorities between a person or group (the principal) and those making decisions and acting on their behalf (the agent).
+
+Problems can occur in some situations, with a common one being in the relationship between stakeholders and a CEO. The agent (the CEO) may work in a way that’s not in line with the priorities and goals determined by the principal (the stakeholders) and instead act in their own self-interest.
+
+Another typical example of the principal-agent dilemma occurs when the agent takes excessive risk because the principal bears the burden. For example, a trader can use extreme leverage to chase a performance bonus, knowing the organization will cover any downside.
+
+DAO’s solve the principal-agent dilemma through community governance. Stakeholders aren’t forced to join a DAO and only do so after understanding the rules that govern it. They don’t need to trust any agent acting on their behalf and instead work as part of a group whose incentives are aligned.
+
+Token holders’ interests align as the nature of a DAO incentivizes them not to be malicious. Since they have a stake in the network, they will want to see it succeed. Acting against it would be acting against their self-interests.
+
+# **What was The DAO?**
+
+The DAO was an early iteration of modern decentralized autonomous organizations. It was launched back in 2016 and designed to be an automated organization that acted as a form of venture capital fund.
+
+Those who owned DAO tokens could profit from the organization’s investments by either reaping dividends or benefitting from price appreciation of the tokens. The DAO was initially seen as a revolutionary project and raised $150 million in Ether ([ETH](https://cointelegraph.com/ethereum-price)), one of the greatest crowdfunding efforts of the time.
+
+The DAO launched on April 30, 2016, after Ethereum protocol engineer Christoph Jentzsch released the open-source code for an Ethereum-based investment organization. Investors bought DAO tokens by moving Ether to its smart contracts.
+
+A few days into the token sale, some developers expressed concerns that a bug in The DAO’s smart contracts could allow malicious actors to drain its funds. While a governance proposal was set forth to fix the bug, an attacker took advantage of it and siphoned over $60 million worth of ETH from The DAO’s wallet.**Disadvantages of DAOs**Decentralized autonomous organizations aren’t perfect. They are an extremely new technology that has attracted much criticism due to lingering concerns regarding their legality, security and structure.
+
+MIT Technology Review has, for example, [revealed](https://www.technologyreview.com/2016/05/17/160160/the-autonomous-corporation-called-the-dao-is-not-a-good-way-to-spend-130-million/) it considers it a bad idea to trust the masses with important financial decisions. While MIT shared its thoughts back in 2016, the organization appears to have never changed its mind on DAOs — at not least publicly. The DAO hack also raised security concerns, as flaws in smart contracts can be hard to fix even after they are spotted.
+
+DAOs can be distributed across multiple jurisdictions, and there’s no legal framework for them. Any legal issues that may arise will likely require those involved to deal with numerous regional laws in a complicated legal battle.
+
+In July 2017, for example, the United States Securities and Exchange Commission issued a report in which it [determined](https://www.sec.gov/news/press-release/2017-131) that The DAO sold securities in the form of tokens on the Ethereum blockchain without authorization, violating portions of securities law in the country.
+
+# **Examples of DAOs**
+
+Decentralized autonomous organizations have gained traction over the last few years and are now fully incorporated into many blockchain projects. The decentralized finance (DeFi) space uses DAOs to allow applications to become fully decentralized, for example.
+
+To some, the Bitcoin ([BTC](https://cointelegraph.com/bitcoin-price)) network is the earliest example of a DAO there is. The network scales via community agreement, even though most network participants have never met each other. It also does not have an organized governance mechanism, and instead, miners and nodes have to signal support.
+
+However, Bitcoin is not seen as a DAO by today’s standards. By current measures, [Dash](https://cointelegraph.com/dash-price-index) would be the first true DAO, as the project has a governance mechanism that allows stakeholders to vote on the use of its treasury.
+
+Other, more advanced DAOs like Joystream, including decentralized networks built on top of the Ethereum blockchain, are responsible for launching cryptocurrency-backed stablecoins. In some cases, the organizations that initially launched these DAOs slowly give away control of the project to one day become irrelevant. Token holders can actively vote on governance proposals to hire new contributors, add new tokens as collateral for their coins or adjust other parameters.
+
+ganizations, DAOs have the potential to change the way corporate governance works completely. While the concept matures and the legal gray area they operate in is cleared, more and more organizations may adopt a DAO model to help govern some of their activities.
+
+# **Why do we need DAOs?**
+
+Being internet-native organizations, DAOs have several advantages over traditional organizations. One significant advantage of DAOs is the lack of trust needed between two parties. While a traditional organization requires a lot of trust in the people behind it — especially on behalf of investors — with DAOs, only the code needs to be trusted.
+
+Trusting that code is easier to do as it’s publicly available and can be extensively tested before launch. Every action a DAO takes after being launched has to be approved by the community and is completely transparent and verifiable.
+
+Such an organization has no hierarchical structure. Yet, it can still accomplish tasks and grow while being controlled by stakeholders via its native token. The lack of a hierarchy means any stakeholder can put forward an innovative idea that the entire group will consider and improve upon. Internal disputes are often easily solved through the voting system, in line with the pre-written rules in the smart contract.Joystream is one of the best Dao’s out there because With no central governing body, every member within a DAO typically shares a common goal and attempt to act in the best interest of the entity. Popularized through cryptocurrency enthusiasts and blockchain technology, DAOs are used to make decisions in a bottoms-up management approach.
+
+thanks…

@@ -1,0 +1,18 @@
+﻿Name,Testing Status,Platforms,Joystream Support,Balance Support,Extrinsic Support (Desktop Browser),Notes,Can we get added?
+polkadot-js,Done,"Browser, Web",Yes,No,Yes,,
+Talisman,Done,"Browser, Mobile",Yes,Yes,Yes,,
+Subwallet,Done,"Browser, Mobile",Yes,Yes,Yes,Joystream must be enabled as a network manually,
+Polkagate,Done,Browser,Partial,No,Yes,Works - the user must enable “Test networks” in the settings. Would not suggest it though until better support is added.,We should probably request full support
+Ledger Hardware Wallet,Done,Hardware,No,No,No,A ledger wallet can currently receive Joystream assets but will not be able to do anything with them. A custom extension has to be created for support.,"Yes, but it requires coding of a custom extension."
+Nova Wallet,Done,Mobile,No,No,No,,
+Math Wallet,Done,"Browser, Hardware, Mobile, Web",No,No,No,Has the ability to add custom substrate networks but doesn’t accept the Joystream RPC address,"Yes, have requested marketing WG fill in the form to request adding"
+Fearless Wallet,Done,Browser,No,No,Yes,"Works, but it doesn’t list Joystream. Mobile wallet untested.",
+Enkrypt,Done,Browser,No,No,No,,"Yes, have requested builders WG create a PR as their website asks for "
+Trust Wallet,Done,"Browser, Mobile",No,No,No,,
+Trezor Model One,Done,Hardware,No,No,No,,
+Trezon Model T,Not started,Hardware,,,,,
+Safepal S1 Hardware Wallet,Not started,Hardware,,,,,
+Metamask,Done,"Browser, Mobile, Web",No,No,No,,
+Tangem,Not started,Hardware,No,No,No,,
+Parity Vault,Not started,Hardware,Yes,No,Yes,,
+OneKey Wallet,Not started,"Browser, Hardware, Mobile, Web",No,No,No,,

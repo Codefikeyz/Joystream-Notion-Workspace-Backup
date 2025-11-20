@@ -1,0 +1,23 @@
+# Write 500 Words On “What Is The Importance Of DAOs?” from codervv
+
+### **From** [https://dao.joystream.org/#/bounty/preview/408](https://dao.joystream.org/#/bounty/preview/408)
+
+**codervv**
+
+[Joystream Governance App](https://dao.joystream.org/#/forum/thread/1208)
+
+[❗️ We are witnessing the creation of a new form of management of companies and organizations - His...](https://medium.com/@pavellcheh/%EF%B8%8F-we-are-witnessing-the-creation-of-a-new-form-of-management-of-companies-and-organizations-his-b1347a40510c)
+
+![](https://miro.medium.com/max/1400/1*HbVgSwJi2nqvTc83s63Bzw.png)
+
+❗️ We are witnessing the creation of a new form of management of companies and organizations — His Majesty DAO! If you try to describe briefly, then DAO is a decentralized autonomous organization. Which is not managed by one person or group of stakeholders, but is managed by code. The code is based on smart contracts and allows DAOs to work differently from traditional organizations.This event may soon affect everyone. DAO can be implemented everywhere. Starting from small enterprises and businesses, ending with large corporations and government agencies. At least we hope so 🙏
+
+We list the possible positive aspects of DAO — as a way to manage an organization:■ True democracy■ New type of employment relationship■ Possibility to influence the decisions made by EACH member of the DAO■ Difficulty in creating fraudulent schemes
+
+Let’s start in order:■ True democracyThe capitalist world taught us long ago that decisions are made by someone at the top. Someone who doesn’t think too much about the impact of their decision on the people below them in the ranks. Unfair right? DAO rules out this possibility, give every member a vote.■ Possibility to influence the decisions made by EACH member of the DAOSimilar to the point above, but with a small difference. Even in an ideal picture of the world, a democracy is a selection of people from every area or department that represents their interests. It is within the power of the DAO to give voice to even its smallest members.■ New type of employment relationshipAll the same world of capitalism is arranged according to the principle “The employer hires an employee and dictates to him the conditions of work and payment.” There is little chance for maneuver, pressure from the leadership. Any question about increasing wages or changing working conditions can lead to a negative reaction. Regardless of your performance.DAO can eliminate this disadvantage as well. The DAO device itself gives motivation for work, a person who has become a full-fledged member of a team is interested in its success. Everyone sees the result of your work and no one can diminish it.■ Difficulty in creating fraudulent schemes due to the openness of the codeDAOs built on blockchain technology must use open source to keep track of any actions and decisions it makes.
+
+It’s time to talk about the cons:■ Now there are examples of unscrupulous DAOs where there is only the appearance of decentralization. This is achieved in this way — all governance tokens are held by one person or group of people (usually the founders). They do not give a full right to manage their audience of users and make decisions that are beneficial only to them. Scammers 😕■ In the opinion of many people with extensive experience in creating crypto projects, DAOs should devote a large proportion of their time and resources to ensuring that their code is “clean” and secure. Fraudsters do not sleep and are always trying to find vulnerabilities in the codes of successful projects.
+
+✅ Speaking of successful projects! As an example of a real DAO and the right way to create it, consider Joysrteam. Decentralized video platform powered by the native $JOY token. The project is being created over a long period of time, gradually gaining people interested in its success. By completing test bounties, Genesis selects the most creative, talented, tech-savvy participants. Of which DAO Joystream will consist when the project enters the market in full force. You can read more about it on the resources of the project itself. Be sure to go to Discord and take a look at the very process of how this community works. It’s impressive, really!A vivid example of a successful project and a DAO that has a future. I advise you to carefully follow his updates;)
+
+Joystream Website [https://www.joystream.org/](https://www.joystream.org/)Joystream Discord Server [https://discord.gg/DE9UN3YpRP](https://discord.gg/DE9UN3YpRP)Joystream Twitter Account [https://twitter.com/joystreamdao](https://twitter.com/joystreamdao)

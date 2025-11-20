@@ -1,0 +1,464 @@
+# YPP Rewards Payout ending 25.08
+
+Record week for the new sign ups and % of referred verified channels. Whopping 70% of verified channels came from referrals last week! Top referring channel has earned **270 USD** in one week, 125 and 100 made by the runner ups.  
+
+The week was remarkable in terms of the YT audience metric, we’ve added 2.2 mln which was 40% growth from 5.5 mln in just 7 days❗
+
+The above dynamic impacted the total payout, but for a great cause. Excited to see us growing at this pace.
+
+**Channels Count**
+Total verified channels **429** (+82; +18%)
+Total YT subscribers count **7.7mln** (+2.2mln; +40%)
+
+**Signed up vs Verified**
+
+Signed up - 222 (down from 299, 26%)
+Sign up by Referral 148 (68%, up from 60%)
+Verified - 82 
+Verified by referral - 55 (70%, up from 67% )
+Suspended - 137 (down from 211, 64%)
+Opted out - 2
+
+**Rewards**
+156 channels synced 378 videos - 378 USD (7.4%)
+82 new channels signed up - total 3480 USD (14 x100; 24x50; 44x20)  - 68% 
+30 channels qualified for referral rewards - 1180 USD (top 5: 270, 125, 100, 85, 65) - 23%
+
+Total paid **5105 USD.**
+Exchange rate: 0.01348
+Total Paid in JOY tokens:  **380,735** 
+
+[ypp-rewards-18-25-Aug.csv](YPP%20Rewards%20Payout%20ending%2025%2008/ypp-rewards-18-25-Aug.csv)
+
+| **Channel Title** | **Channel_URL** | **Subscribers YT** | **Gleev Channel ID** | **New Synced Vids** | **Videos Sync Reward in USD** | **Sign Up Reward in USD** | **Latest Referral Reward in USD** | **Latest YPP Reward Status** | **Latest Overall YPP Reward in JOY** | **Total YPP Rewards in JOY** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| CRYPTO PEPE - ВСЕ О ЗАРАБОТКЕ И КРИПТОВАЛЮТЕ | channel/UCKt1poZcDgcx5C1QLHTMp-g | 15,200 | 27126 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,904 |
+| FREE_CRIPTO | channel/UCSIh4BLHIGSaye81yQIJa3g | 204 | 26518 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 9,090 |
+| ФИНИСТ AleksP. | channel/UCF-zjsSa1ov-9k4jMyK88lg | 741 | 27428 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 1,292 |
+| ⚡️Криптанчик⚡️ | channel/UCnPgVBg-lNRvjfKit9MfSiA | 290 | 26840 | 2.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 2,809 |
+| 😍 NFT EUNYO 🔥 | channel/UCxunR_Kr_TDglJTGsP3zKGQ | 16,800 | 27136 | 1.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 11,136 |
+| 🟡 KOLYAN TREND - NFT and METAVERSE | channel/UChkaWsI-P3LULw2Ptm0Ck2g | 5,910 | 26363 | 1.0 | 2.0 | 0.0 | 0.0 | Paid | 154 | 52,662 |
+| $CCC$ - CryptoCurrencyCommunity | channel/UCDuWTfkAk4ctUSEcCWdW8cQ | 68,200 | 28011 | 0.0 | 0.0 | 100.0 | 0.0 | Paid | 7,450 | 7,450 |
+| 0xNina | channel/UChX-0k8y13GVAyhNTXlrrJA | 179 | 26291 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,000 |
+| 40 Plus о КРИПТЕ | channel/UCTZ8tVJs7J-rAHm-9ylO3iw | 12,400 | 26236 | 1.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 108,729 |
+| Abdykasymov БЛОГ | channel/UCu_7tdKgKYjP3z4RSXEZQyg | 850 | 26412 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,000 |
+| Agunk Rejectz | channel/UClJNVh0QZyrtmV41PZEmtqw | 328,000 | 27862 | 0.0 | 0.0 | 100.0 | 0.0 | Paid | 7,450 | 7,450 |
+| Aimaniko_CryptoJob | channel/UCR3qHNfvmyb8dl0MyNqOkgA | 210 | 27857 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| Airdrop Alert Daily: News & Updates | channel/UC4eiyVT7hjkJ2EuTbzYMRhQ | 10,500 | 26425 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 15,448 |
+| AIRDROP ЖДУН | channel/UCYJZtoJgW07CuzEQi7WjEVQ | 561 | 27745 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| Aleksandr | channel/UCScG4B1Nd4t7xKVo2K4zLsA | 106 | 22639 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 7,941 |
+| Alex Shchukin - ЗАРАБОТОК В ИНТЕРНЕТЕ | channel/UCYSAJF7fJMEHgKAg1znIRQA | 1,640 | 27319 | 2.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 1,428 |
+| ALEX WORK-Заработок и инвестиции в интернете | channel/UCWu2sm68OB7HVyMcZ0qLy2A | 822 | 26961 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 2,313 |
+| Alexey Ponomarev | channel/UCy23kJgN4U106T2wmFU9w5g | 3,710 | 26665 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 6,423 |
+| AMMONEY | channel/UCXbdplhVyqi8GqnFWUhGCgw | 2,210 | 27340 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,218 |
+| Ander Win | channel/UCdyFZm8tYbCQwxozhJmAtKA | 1,180 | 26592 | 3.0 | 3.0 | 0.0 | 0.0 | Paid | 224 | 41,050 |
+| anton777xd.crypto | channel/UCC_eor1KbcNRXg6pPlXbPgw | 207 | 27229 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,218 |
+| Anyobservation | channel/UCsqfZJRzNitVnWrWqlfIs6A | 3,720 | 26761 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,652 |
+| APOK MONEY | channel/UCtMzJ-KhLE2PqKIL8M44wcg | 1,000 | 27241 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 1,353 |
+| AR-money77 | channel/UCv3xUzWZ7q2QGpdBdIAeqhw | 463 | 26550 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 25,132 |
+| ArtiTrade про Криптовалюты и Инвестиции | channel/UCarBJLgxVEUKXliQaoj72bA | 1,720 | 27893 | 1.0 | 1.0 | 20.0 | 0.0 | Paid | 1,565 | 1,564 |
+| ARTUR HASLEY | channel/UCONybEVWzs6F0dH51VGTGlw | 11,700 | 27387 | 1.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 3,318 |
+| Avseenko-life | channel/UCyUf82PMw5yzVNhogI4vSng | 182,000 | 26295 | 2.0 | 10.0 | 0.0 | 0.0 | Paid | 769 | 213,681 |
+| B i t c o | channel/UC6IbD92Jwh2KkZ9uyP7CnKw | 1,920 | 27520 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 1,414 |
+| Baikov Invest | channel/UC6EPjiPIHhXhXG3KOoCAAnw | 4,270 | 26653 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 6,500 |
+| Banlife | channel/UCSpqXUeE2DhKlWNwLjNVG8g | 36,800 | 27434 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,169 |
+| Bassam Maqboul | channel/UCx0yPxMR9hTuGCcv34WIYCg | 6,320 | 27615 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,047 |
+| BaTtLeX Crypto | channel/UCkRVPXOK4ywXGf7W0c0hj8g | 1,130 | 26607 | 0.0 | 0.0 | 0.0 | 25.0 | Paid | 1,863 | 7,654 |
+| Bisnes Planet | channel/UCZ9zoxNxjLEYeoSzuDJK_vA | 1,050 | 27622 | 5.0 | 3.0 | 0.0 | 0.0 | Paid | 224 | 1,441 |
+| Bitcoin & Crypto con Maury | channel/UCZMeRQyofiRmEtlE5CvLvfg | 21,700 | 27874 | 4.0 | 6.0 | 50.0 | 0.0 | Paid | 4,172 | 4,172 |
+| Bitvisitor | channel/UCVUXyDByKwMeda6RG4HUHzQ | 425 | 26571 | 4.0 | 3.0 | 0.0 | 0.0 | Paid | 224 | 10,526 |
+| BLOG CRYPTONA | channel/UCzOsVkR4JEPKYeilY6ybmiw | 222 | 26696 | 1.0 | 1.0 | 0.0 | 25.0 | Paid | 1,937 | 7,305 |
+| Boa Dica Cryptomoedas | channel/UCgUZ3tUl8cjQDWRWDDckRLw | 10,300 | 27707 | 4.0 | 6.0 | 50.0 | 0.0 | Paid | 4,172 | 4,172 |
+| Böyük Pullar | channel/UCkOuHL2gknWnVHANtWM-29Q | 6,960 | 27063 | 2.0 | 4.0 | 0.0 | 0.0 | Paid | 298 | 8,990 |
+| Brandon Duff - The Boring Passive Income Guy | channel/UCxZiNvPRrI7yprbcY91euxg | 6,110 | 25941 | 1.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 166,542 |
+| Bruel Games | channel/UC4VK0tvNdIhFRw-nOh3K5Hg | 3,630 | 26320 | 6.0 | 3.0 | 0.0 | 0.0 | Paid | 231 | 22,629 |
+| BSC MASTER | channel/UCjpfBQV3n4m6n4ut5rBwEZw | 122,000 | 26756 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 28,644 |
+| bulevar - AKTIV | channel/UC5sy1YrkaIRksKj0seGdgOA | 47 | 26055 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,000 |
+| Business in trend | channel/UCODHWlE1jLeEPYqNujw6dNQ | 749 | 27567 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,218 |
+| byArto | channel/UCNtkpZmbRCwrLWsnwEVtMNA | 5,720 | 27725 | 1.0 | 2.0 | 50.0 | 0.0 | Paid | 3,874 | 3,874 |
+| casperer | channel/UCvOdcNsj4xrmvFJDCgM5obQ | 121,000 | 26764 | 1.0 | 5.0 | 0.0 | 0.0 | Paid | 373 | 22,105 |
+| Cawa Money | channel/UCrdoibcjmSyPZATWf4gq7bA | 886 | 27149 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 3,610 |
+| CloudGeo | channel/UChUEbXw4jvLW-GWPCI3uf2Q | 23,400 | 27466 | 1.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 3,196 |
+| Coin Brain | channel/UCCLfX0ilNu5yFXAU_VBjnRg | 2,000 | 26897 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 2,373 |
+| Coin Explain - криптовалюта, блокчейн, NFT | channel/UCwNzO9IfupXIJo3oLhz0kEg | 975 | 27190 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 2,734 |
+| COIN ROOM | channel/UCwO6cxPZNmHuRwO-h25InVg | 151,000 | 26632 | 1.0 | 5.0 | 0.0 | 0.0 | Paid | 373 | 25,183 |
+| COOPERXGOD Crypto | channel/UCJkiYNeUDb1yft35z8FqioA | 370 | 27012 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,007 |
+| COSMOS Indicator | channel/UCcEu6sNoWF6dTKrWEHCz1fg | 125 | 27819 | 1.0 | 1.0 | 20.0 | 0.0 | Paid | 1,565 | 1,564 |
+| CRAZY MONEY | channel/UCv2JfgVgUfWLmKOLK06Y-qg | 604 | 26765 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,652 |
+| Criptoadicto Ruso hablando español | channel/UC92h-uFTHLscifAm3L8AW-Q | 96 | 26085 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 6,470 |
+| CriptoTime | channel/UCHejOkoxSpaJ-iXFEhuK3oA | 4,040 | 26784 | 5.0 | 3.0 | 0.0 | 0.0 | Paid | 224 | 9,840 |
+| Cristy Verse | channel/UCJZfnLD8sz-Ty1GB0VGCogg | 28,200 | 26497 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 124,179 |
+| CryptInvest | channel/UC1wr8p1hUSGWghSr-heiJ7A | 67 | 27008 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 4,937 |
+| Crypto 4Light | channel/UCf_wDGkiubpH4Ms1MLj2h5w | 10,100 | 26759 | 3.0 | 6.0 | 0.0 | 0.0 | Paid | 447 | 19,428 |
+| 𝐂𝐫𝐲𝐩𝐭𝐨 𝐀𝐬𝐢𝐚 | channel/UC2ZkXfNIbO9FaaqqsHzK5YQ | 9,930 | 27523 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,047 |
+| Crypto Awaz | channel/UCbhnmbaBxV71OCWuzaJFmzA | 2,960 | 25917 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 0 | 12,015 |
+| Crypto Aysh | channel/UCVa8768Spsh4ywCoZCETNpA | 5,120 | 27966 | 0.0 | 0.0 | 50.0 | 0.0 | Paid | 3,725 | 3,725 |
+| Crypto Banan | channel/UCz_qgof179F0Vk7TIISqcBA | 163,000 | 26820 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 19,420 |
+| CRYPTO BASH | channel/UCDmprCZalKuzi855uMnpS0w | 6,360 | 27807 | 0.0 | 0.0 | 50.0 | 0.0 | Paid | 3,725 | 3,725 |
+| Crypto Boomer | channel/UCsD2WawybVZxgULMryuNZ_g | 22,500 | 26818 | 0.0 | 0.0 | 0.0 | 270.0 | Paid | 20,116 | 33,648 |
+| Crypto Borland | channel/UCEac4l3Nh2dkV--cd0_ZlxQ | 129 | 27952 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| Crypto Boy Master | channel/UCkcQPCNeWMZC5ujy8iaF3mQ | 13,500 | 27942 | 0.0 | 0.0 | 50.0 | 0.0 | Paid | 3,725 | 3,725 |
+| Crypto boy T1 | channel/UCCBi5PRiHWiB5qEa2fgapWw | 21,300 | 27870 | 0.0 | 0.0 | 50.0 | 0.0 | Paid | 3,725 | 3,725 |
+| CRYPTO BULLSEYE | channel/UCWR66mkt9ovREiEyI3xC_Yg | 4,600 | 25965 | 0.0 | 0.0 | 0.0 | 50.0 | Paid | 3,725 | 47,174 |
+| Crypto Clarity | channel/UCqliJEiBb3KvHqd7pM0nR-w | 595 | 25773 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 86,248 |
+| Crypto Coin Show | channel/UC1ULGWsmJNqbNbMJ1MdNRjQ | 79,600 | 26568 | 2.0 | 10.0 | 0.0 | 0.0 | Paid | 745 | 42,161 |
+| CRYPTO CORE RAKIB | channel/UCXU3HntXoWP43cQj5UuBFxA | 1,190 | 25850 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 27,932 |
+| Crypto Crow | channel/UCwsRWmIL5XKqFtdytBfeX0g | 141,000 | 28016 | 0.0 | 0.0 | 100.0 | 0.0 | Paid | 7,450 | 7,450 |
+| Crypto Currents | channel/UCKdJhTkIoVVJEXun7zn2tGg | 57 | 26195 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,000 |
+| Crypto Demiurg | channel/UCbaU_2DOB76Gp2yWLLsZoKQ | 3,910 | 26297 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 77 | 5,076 |
+| CRYPTO DILLER | channel/UCeQ14fCvpj7pD-21gpxVqXA | 105 | 26522 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 12,273 |
+| CRYPTO DOKTOR | channel/UCwDxM8U311LvQjYE0hSWwPg | 1,020 | 27075 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 2,794 |
+| CRYPTO DYOR | channel/UCOhqckC4FpveC1LFCPQMyzA | 446 | 27550 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,218 |
+| CRYPTO ERA | channel/UCxvpX9RNbFHpd8kKf8KDcog | 1,880 | 27779 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| Crypto Fanat | channel/UCrB1ZCQLUamth2JmBY39pDA | 103,000 | 26486 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 84,145 |
+| Crypto Fish Network | channel/UCmu25FmqrnNfNUR-TGpA9PQ | 441 | 27469 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 1,475 |
+| Crypto Flash | channel/UCnu664XillgYpD2xaRGeO8g | 32,300 | 25948 | 0.0 | 0.0 | 0.0 | 25.0 | Paid | 1,863 | 10,826 |
+| CRYPTO FLOWING | channel/UC99XrvvAE-MyEBHBEQZXOIg | 8,780 | 27808 | 0.0 | 0.0 | 50.0 | 0.0 | Paid | 3,725 | 3,725 |
+| Crypto Genius | channel/UCqnOLtouUfO-USoY1w9BwUQ | 1,000 | 26766 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 7,528 |
+| Crypto Goose | channel/UCxI2v9GlrJPkrJKoCMXLvdQ | 508 | 27105 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,067 |
+| Crypto Groot | channel/UCSGIxsAgID60ar9cF9h-h6A | 776 | 27414 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,218 |
+| Crypto Hamster | channel/UCkIWYu3wPQuy6BqAxZ3tGIw | 7,050 | 26227 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 18,444 |
+| Crypto House | channel/UCIozniIWiKTFIH7E5NXZbjA | 109,000 | 26503 | 1.0 | 5.0 | 0.0 | 0.0 | Paid | 385 | 31,561 |
+| CRYPTO IN | channel/UCsmsCNa-A-fwtIIiE-mH__A | 31,900 | 27485 | 9.0 | 6.0 | 0.0 | 100.0 | Paid | 7,897 | 12,833 |
+| Crypto INSIDE | channel/UCIGRe0omWgl7vqZgc7fh9aw | 1,510 | 26105 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 74 | 33,231 |
+| Crypto Inversor | channel/UC_Rv4xZN-djAmQJXtUXe-og | 160 | 26667 | 3.0 | 3.0 | 0.0 | 0.0 | Paid | 224 | 6,754 |
+| Crypto Kaha | channel/UC_VdG0VPxJhaMS1_J4-PYzA | 31,900 | 26498 | 1.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 39,274 |
+| Crypto Kernels | channel/UCvwgazR7TXRMPBxC4YSNRtw | 1,690 | 25955 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 10,104 |
+| Crypto Kupec | channel/UCoQFfyhWLZ77mWPNwJ6YzXg | 977 | 27283 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 1,414 |
+| CRYPTO LADY | channel/UCyvo2BDJwcflkXbtJopdXoA | 148,000 | 27790 | 2.0 | 10.0 | 100.0 | 0.0 | Paid | 8,195 | 8,195 |
+| Crypto Lee | channel/UCrG3Xbd1TGAPTYHdD9b6qzA | 71,700 | 26485 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 52,576 |
+| CRYPTO LIFE | channel/UCPC3f6oAGifVPbB84dnVTeg | 11,700 | 26177 | 0.0 | 0.0 | 0.0 | 10.0 | Paid | 745 | 13,245 |
+| Crypto Max | channel/UCJsvz6txs-9PbWm16vdcBxA | 2,790 | 27873 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| Crypto Mighelle | channel/UCmnT9QT1yU9XApYPKLgqgQw | 36,000 | 26876 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 7,517 |
+| Crypto Milovat | channel/UC1m4iyFxdsGg_Sp2sR8hAwg | 792 | 27984 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| Crypto Miner | channel/UCXxc5vHMY7J0qIJUaFLMEZQ | 64,900 | 27950 | 0.0 | 0.0 | 100.0 | 25.0 | Paid | 9,313 | 9,313 |
+| Crypto News | channel/UC3tlXbW8appBctZUuA0JMOQ | 1,050 | 28033 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| Crypto Pepe | channel/UCTDs_fS45YWE8JxRWpT7IcQ | 67,000 | 26821 | 3.0 | 15.0 | 0.0 | 0.0 | Paid | 1,118 | 30,704 |
+| Crypto Planet | channel/UCldDBIsMwtE-4bAAFBPd3yA | 2,400 | 27351 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,218 |
+| Crypto platform | channel/UCTavOTxu3Vi8-jvYQGL0TJA | 24,100 | 26787 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 9,941 |
+| Crypto Profit | channel/UC7Ur1JsjMcqikYg09dunhsQ | 107,000 | 28048 | 0.0 | 0.0 | 100.0 | 0.0 | Paid | 7,450 | 7,450 |
+| CRYPTO PROJECTS | channel/UCg7nPTkh-1pwPzZ5d7ty4Lg | 259 | 26373 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,000 |
+| CRYPTO PULSE | channel/UCEaobf3T2KFWj71spA8GZPQ | 139 | 26662 | 4.0 | 3.0 | 0.0 | 0.0 | Paid | 224 | 4,672 |
+| Crypto raki | channel/UCY1j4XSuAyFqEtSQqhUjICw | 207 | 26690 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,921 |
+| Crypto Retriever | channel/UC_D14rRbluQP-JhiMWvx2PQ | 13,500 | 26845 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,783 |
+| CRYPTO RINA | channel/UCHX6DiG-13v1W4s5QgRZ0vw | 1,980 | 26603 | 3.0 | 3.0 | 0.0 | 0.0 | Paid | 224 | 26,593 |
+| CRYPTO ROM - криптовалюта, финансы и заработок | channel/UCA_NV7rWc0etEoaujxT5Fsw | 690 | 26520 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 19,193 |
+| Crypto Shark | channel/UCgRj_t6gFdVLm48c-mrVbJg | 73,500 | 26636 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 24,587 |
+| Crypto Sheff | channel/UCYTur8Idl9srcmksclRbVkw | 77,400 | 26561 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 21,688 |
+| Crypto Shved | channel/UCycHmdU0zYg5MJXMoIsT6JA | 731 | 27859 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| Crypto Soul | channel/UCDwD6eGzuDhFqahH73RP-2w | 31,700 | 27954 | 0.0 | 0.0 | 50.0 | 0.0 | Paid | 3,725 | 3,725 |
+| Crypto Star 105 | channel/UCJwucJOOYS1F4NeGIR-__6A | 16,200 | 27475 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,047 |
+| CRYPTO STUDIO 23 | channel/UCklXE7EgY8DlBWzEiwUTI5Q | 19,600 | 26754 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 18,264 |
+| Crypto Svitlana | channel/UCZbldZQZZQQkWhGl3SQUpSQ | 502 | 26809 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 4,540 |
+| CRYPTO TIMES | channel/UC7q7TvmFkCF7ZpCjB1E2C-A | 922 | 26830 | 3.0 | 3.0 | 0.0 | 0.0 | Paid | 224 | 6,913 |
+| Crypto Unveiled | channel/UCLM_Y5m1Vug6Ytr0I2stq9w | 804 | 26226 | 2.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 42,501 |
+| Crypto Variety | channel/UCG2lmsR6Vv1Pe2txpRHyuZw | 17,900 | 26556 | 0.0 | 0.0 | 50.0 | 0.0 | Paid | 3,725 | 3,725 |
+| Crypto Variety | channel/UCG2lmsR6Vv1Pe2txpRHyuZw | 17,900 | 26496 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 22,727 |
+| CRYPTO WEB | channel/UC09Mpp1_R2iqFRsI2sCs01w | 1,430 | 27980 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| Crypto with Tommy | channel/UCjdvmcZcw6bQS5cVpZ6KfJQ | 8,760 | 27624 | 1.0 | 2.0 | 0.0 | 125.0 | Paid | 9,462 | 12,509 |
+| crypto wolf | channel/UClUrTKN3OXOuJyJrRGx15Ug | 56,900 | 27916 | 0.0 | 0.0 | 100.0 | 0.0 | Paid | 7,692 | 7,692 |
+| Crypto World | channel/UCq4nMYc0nKGOFmqIQRoIXkA | 182,000 | 27945 | 0.0 | 0.0 | 100.0 | 0.0 | Paid | 7,450 | 7,450 |
+| Crypto World | channel/UChujlfQzZ02OPSTjPtjqfDg | 1,210 | 27747 | 1.0 | 1.0 | 20.0 | 0.0 | Paid | 1,565 | 1,564 |
+| Crypto World | channel/UCeL_3I6AAh6Kd_8vfK2e-Tg | 1,160 | 27863 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| CRYPTO ГИК | channel/UCGvWPlI1walFKRFTFhoLX8g | 1,490 | 27330 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,828 |
+| CRYPTO_FATHER | channel/UC4Eav1yMV7_kCUEtnUi-PDg | 17,700 | 27082 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,783 |
+| Crypto_K1ng | channel/UC9t4NQe7hQ1Se6Aa9X5VdZQ | 535 | 26294 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 77 | 31,974 |
+| Crypto4light Low Cap | channel/UCv-FN2BNG0DQ61QyPbnMjsA | 5,520 | 26757 | 1.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 9,281 |
+| Crypto4light Market | channel/UCq_djmBJhZo5t7_YGk8hhjg | 3,120 | 26760 | 5.0 | 3.0 | 0.0 | 0.0 | Paid | 224 | 7,873 |
+| cryptoact | channel/UCYmpZJyfXz3Bz3xYKqm2E6A | 1,140 | 26484 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 23,554 |
+| CryptoBD School | channel/UCBnMJqWibBtzElsKQ9sGkIg | 3,290 | 27783 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| Cryptobiznes | channel/UCkKyva-IkKPG5o8jyl7RBZQ | 768 | 27882 | 0.0 | 0.0 | 20.0 | 65.0 | Paid | 6,333 | 6,332 |
+| CryptoBOOM - заработок без вложений | channel/UCRJr1Ke5wFIAcKLLjccoJ5A | 2,030 | 26304 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,000 |
+| CryptoCrafter | channel/UCnasCo4UG84TVZke7bHJrHg | 470 | 26184 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 14,549 |
+| CryptoCrazyMan | channel/UCQcP2esw55_d-1r9gmjV3EQ | 529 | 26763 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,915 |
+| Cryptocurrency Free | channel/UCj6GeGiKuZR83uv_283Ihhw | 243 | 26791 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 5,581 |
+| Cryptogains | channel/UCO8kVMQ5YWqLA_NITYR6Fkw | 1,680 | 27634 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,218 |
+| CryptoInvestor | channel/UCUjgSFoW1XhFxaYpdC-TGPA | 148,000 | 26510 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 100,446 |
+| CRYPTOK3SH | channel/UCywTLeUAlTdK8-FhuU8zgww | 106 | 26372 | 0.0 | 0.0 | 0.0 | 20.0 | Paid | 1,538 | 8,671 |
+| CRYPTOLAND | channel/UCmnPerGbwOJA2ncnzguPovw | 15,400 | 26871 | 3.0 | 6.0 | 0.0 | 0.0 | Paid | 447 | 11,677 |
+| CryptoLapochka | channel/UCxp909G_ms65Ecut1eNkHVA | 72,500 | 27781 | 0.0 | 0.0 | 100.0 | 0.0 | Paid | 7,450 | 7,450 |
+| CRYPTOLORE | channel/UCkMxXxO38-V-dyqZkdWafPw | 118,000 | 26512 | 3.0 | 15.0 | 0.0 | 0.0 | Paid | 1,154 | 77,872 |
+| CryptoMax Airdrop&Bounty | channel/UCbRY27FxFSzbbnVfLH6Z7ZQ | 1,080 | 27848 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| cryptomonKeys - Free NFTs, Fairly Distributed | channel/UCL1jxazX8KLST7ntLiftP0w | 1,220 | 27801 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| CryptoNick | channel/UCTYNeqEcVDHCgcbPT0zvB5g | 3,200 | 26057 | 2.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 14,260 |
+| Cryptoon | channel/UCKsTKoNOFCSsHeKiQ8pWCDw | 1,860 | 26279 | 0.0 | 0.0 | 0.0 | 10.0 | Paid | 769 | 25,875 |
+| cryptoozkan | channel/UCRQp_UeIeewRRjxpQjdW58Q | 6,670 | 27845 | 0.0 | 0.0 | 50.0 | 0.0 | Paid | 3,725 | 3,725 |
+| CryptoPM | channel/UCOxBUBKIrtxrUEWgl9KQluA | 62,800 | 26569 | 1.0 | 5.0 | 0.0 | 0.0 | Paid | 373 | 18,028 |
+| Cryptor | channel/UCU2jqei6GZGOfvekDZU6AuQ | 28,300 | 26324 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 13,430 |
+| cryptosign | channel/UCGqkXFvVBbZniT9JQaDFu8w | 31,100 | 27699 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,169 |
+| Cryptosorium | channel/UCLkIEzFaJ9OPCeVBXsirHuA | 564 | 27778 | 2.0 | 2.0 | 20.0 | 0.0 | Paid | 1,639 | 1,639 |
+| CryptoSweeT Company | channel/UCNIkqPi-UD5pimJY75JgEOQ | 155 | 26675 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 4,961 |
+| CryptoTime | channel/UChQ2QwGks4ZQkFzb6kDE23A | 21,200 | 26492 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 22,727 |
+| CryptoToloka | channel/UCryB98FzjZ3KbhdVjCSGYsw | 1,360 | 26276 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 9,764 |
+| CryptoTube | channel/UCn24mXbKxpPE3oNcs_Cohdg | 1,430 | 27371 | 0.0 | 0.0 | 0.0 | 10.0 | Paid | 745 | 1,963 |
+| Cryptoverse | channel/UCpKBv7oQf1debJOMSccDheA | 16,900 | 27524 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,047 |
+| CryptoView | channel/UC4toQkkJ6_rxuh-QzzHqrYw | 88,700 | 26275 | 1.0 | 5.0 | 0.0 | 0.0 | Paid | 385 | 60,430 |
+| DanMax | channel/UCwXLtFo-jdEj2Ru26gmsrrg | 4,380 | 26973 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 3,428 |
+| DeFi Ascension | channel/UCnx0s2QlUgTrkPxNDWQdqFQ | 2,300 | 25914 | 2.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 16,470 |
+| defigen | channel/UC-jcoJHLP9IlzjDs2jt1g4A | 6,120 | 26152 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 17,990 |
+| Dimantyay&Crypto | channel/UCmwfyNIkMHGDha8y9qxMq8g | 102 | 27184 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 3,610 |
+| Dmytro Kraivskyi | Cryptonit | channel/UCUYH2JZ6evdS4CzARwc2obQ | 23,300 | 26256 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 81,693 |
+| Dmytro777 | channel/UCSy1Q0IK5raxbqNk6_wXnrQ | 109 | 22156 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 6,470 |
+| DOUBLETOP | channel/UCdvuYT--R9DlEGDImbzXu-w | 68,200 | 26422 | 1.0 | 5.0 | 0.0 | 0.0 | Paid | 385 | 98,308 |
+| Drops Easy | channel/UCqL6Yozn5jO-7nao7mhvSyA | 1,160 | 26742 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,479 |
+| DYOR | channel/UCX568eIVcex6k_Z_F4zWxDA | 64 | 27331 | 2.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 1,367 |
+| EAZY CSALPING - КРИПТОВАЛЮТА | channel/UCZxVg_-jxTJ_uqMEGZL1ZKg | 12,600 | 26277 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 23,947 |
+| EnjoyMaloy | channel/UCEgqBmHS4TSYYPqYWR7MkRA | 223,000 | 26729 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 25,507 |
+| Evgeniy May | channel/UCCyXluCtH3Pm-6VaDthZjEg | 12,900 | 26728 | 3.0 | 6.0 | 0.0 | 0.0 | Paid | 447 | 20,353 |
+| Farrag kng | channel/UCRgeE2TTNWwLV_rvoR0uprw | 55 | 27611 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,218 |
+| FINANCENEWS | channel/UCJa8t01Xql8fQCoMTBaLq6w | 951 | 27981 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| Flash Cash | channel/UCouVb9db41hnaWt7RF5cc0Q | 110,000 | 25947 | 1.0 | 5.0 | 0.0 | 0.0 | Paid | 372 | 2,972 |
+| Flash Verse | channel/UCppMkXqJJcywvf2g782lcHg | 212,000 | 26491 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 47,188 |
+| FLICKET CRYPTO | channel/UCcBiTzxaTvZyYevT4IFAOTA | 93,900 | 26808 | 2.0 | 10.0 | 0.0 | 0.0 | Paid | 745 | 23,790 |
+| Floating Monkey | channel/UCi0xEPi3qDuawHqBeiMyq8w | 74 | 26261 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 9,427 |
+| fomen | channel/UCRvwZx17tIJnQh5yzK49Kmw | 514 | 27314 | 2.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 1,550 |
+| Forum Crypto Moonlight | channel/UC2OUYGcE5Q-AOraHx75ga0w | 1,120 | 27772 | 2.0 | 2.0 | 20.0 | 0.0 | Paid | 1,639 | 1,639 |
+| FredMiner | channel/UCASYY3y4Iv9CIUQgwkfEvpA | 1,770 | 27359 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,218 |
+| Free Crypto | channel/UCqDu5CByuvEOYNV135t7-4Q | 702 | 26833 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 2,660 |
+| FREEDOOM | channel/UCFTLeWV8iJTjn1Pv_dSCj-w | 113 | 22521 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 47,016 |
+| funny_men78 | channel/UCsCPOBjyK0e5e1Sh9V7itHA | 987 | 26532 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 520 |
+| GARIBALD NFT | channel/UCuyexsz7Uip9szsycVs015Q | 521 | 27823 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| GEM ZONE | channel/UC1vdmx6PsycoSyrPUiLFxGQ | 120,000 | 26623 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 19,086 |
+| Go To Work | channel/UCPYj2gGxUG02Q8OQZ8QgodQ | 42,800 | 26502 | 1.0 | 2.0 | 0.0 | 0.0 | Paid | 154 | 26,685 |
+| GOLDEGA | channel/UCw_MQ1w5dfEN5JaaRxDOifQ | 11,500 | 26746 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 10,062 |
+| GOLTEN | channel/UC0ty-kRoVNyNll4eD812WZQ | 1,150 | 27437 | 2.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 1,428 |
+| Gyan Shadow | channel/UCgBM3qNKNzH2k7G7MEBH7nw | 6,470 | 25942 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 16,926 |
+| Happy24 Club | channel/UC3PL8FtJojmo72ZCsuVSz5Q | 4,930 | 26281 | 2.0 | 2.0 | 0.0 | 0.0 | Paid | 154 | 7,044 |
+| HashOnTube | channel/UCFVfxIntmF_fSFLQhygGcGA | 4,950 | 25954 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 18,443 |
+| HelpInvest | channel/UC5G0DH35dB8Ic3TIyv_liJA | 3,160 | 26736 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,652 |
+| Hitasyurek | channel/UCMNKSRXQneNk1kXuvafYZ0A | 1,660 | 26635 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,921 |
+| Hype Fox | channel/UCB9C1HluZ8YOLOYobU0SrYw | 40,600 | 26495 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 23,092 |
+| Ian Balina | channel/UCT5IB8qqnIolnkuUj8a1kEQ | 108,000 | 27907 | 0.0 | 0.0 | 100.0 | 50.0 | Paid | 11,176 | 11,175 |
+| iBTC365club | channel/UCSZkw6NiWrE4nFcDxg55eYw | 2,360 | 27877 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| ICO today | channel/UCNt6FYvI4hx6JhIuro6cD_g | 1,370 | 26191 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,000 |
+| ICOline | channel/UCcs5JTQEcTQnYSKeWIyXcwQ | 1,730 | 26748 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,652 |
+| inchpes gumar ashxatel internetov - InteRPRO | channel/UCCW3EhQ_bd5pVhH0Cw6qiVQ | 4,730 | 27342 | 6.0 | 3.0 | 0.0 | 0.0 | Paid | 224 | 1,624 |
+| infoenot | channel/UCCHJEgnccP5bsAz0_6qwUwQ | 1,430 | 27503 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,218 |
+| Infosite - только лучшие сайты | channel/UCj7jWO1FlRE95kvSl323e8g | 57,900 | 26678 | 1.0 | 5.0 | 0.0 | 0.0 | Paid | 373 | 68,440 |
+| inhabitants | channel/UC71tTCoBvyuyt7Zk1MB5plA | 421 | 27856 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| INTER БАБКИ | channel/UCgOcZHMJuL-tUFeY6M_nNZQ | 144 | 26839 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 3,835 |
+| Internetda pul ishlash | channel/UCHz9j-koN5pHuntmxVhSpVw | 1,510 | 27441 | 2.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 1,428 |
+| invesmets | channel/UCKjyJ-zdJWf5bNCZ8OBrlgw | 6,740 | 26487 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 25,732 |
+| InvestDecentralized | channel/UCOsfDFdYiRYtoMq3nWrWZ6g | 57 | 21874 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 15,500 |
+| INVESTHACKMAN | channel/UCIfl1M2YLHQrcP3T1utz_fA | 125 | 27032 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 2,313 |
+| INVESTKIT | channel/UCzfpRuUmxD9rt2nwRQ27blw | 2,850 | 27834 | 2.0 | 2.0 | 20.0 | 0.0 | Paid | 1,639 | 1,639 |
+| Ivandro Josefh | channel/UCnVObWrYi5qcw_bAMLMSxyA | 315 | 27499 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,218 |
+| Jabed Crypto | channel/UCgRji1ZIpU_QbYXcFI_Q1zQ | 108,000 | 27918 | 0.0 | 0.0 | 100.0 | 0.0 | Paid | 7,450 | 7,450 |
+| João Farias FX | channel/UC13y436Cf73F3PbANH8bEJw | 18,800 | 26964 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 7,517 |
+| Josh Miller Crypto | channel/UCvGfOR6j5BfhctzH8sCVtLw | 7,060 | 27239 | 6.0 | 6.0 | 0.0 | 0.0 | Paid | 447 | 3,859 |
+| Juliano | channel/UCmAYuDl9iOKeNK4r_gus47w | 23,300 | 26494 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 28,978 |
+| KeepCrypto | channel/UC34VKKEwDPJQwOa5lf07PTA | 353 | 26411 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,000 |
+| Kelburn Token | channel/UCMbFtzlw_UUMv9ArbwY2FnA | 6,920 | 26806 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 9,132 |
+| KolotyginPRO Crypto | channel/UCdJAfAJxUMGx-xp4xcFh30A | 681 | 27815 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| Kozh | channel/UCp1aoqFzyGaMx4s7-PuZAMQ | 361 | 26326 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,000 |
+| KriptoNFT | channel/UCDr0163lj5GgGC0Wz_8DorQ | 1,150 | 26977 | 2.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 4,032 |
+| kriptoRU70 | channel/UC5tHcpXAIKiA-U598TWGG1g | 762 | 26702 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 4,948 |
+| Ktg Official | channel/UCOwMPtEBSdP954d6SE1ci_w | 8,050 | 25946 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 62,695 |
+| Kyle Chasse | channel/UCYLxoSziVePq9rpptc8lEwA | 41,300 | 25838 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 32,750 |
+| LADYGIN | channel/UCHUJTsEhwx3NkmW62Lk4Mtw | 308 | 26770 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,652 |
+| LexaKrm - Заработок в интернете | channel/UC0ReNoXhgMZEU_p9RDh7vdQ | 3,400 | 27985 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| LIFE CRIPTO | channel/UCKMF1kgUT6GzD3XDkGkPanw | 558 | 26517 | 2.0 | 2.0 | 0.0 | 25.0 | Paid | 2,012 | 18,775 |
+| LIGHT CONCEPT GROUP | channel/UCqBqvGaQYkOP0UNHmksE94w | 1,730 | 27230 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 1,353 |
+| LiteLiger | channel/UCiz9xt9vtTRD2FMd-J6l_CQ | 32,700 | 26072 | 0.0 | 0.0 | 0.0 | 20.0 | Paid | 1,490 | 43,518 |
+| Little & Big | channel/UChm7HLvQbEC58HAyJFpngDg | 7,400 | 22339 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 22,727 |
+| LLoyD Crypto | channel/UCFBVLdQwE5tHEPEyCtCZaqw | 3,750 | 26290 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 6,801 |
+| lofingv | channel/UCyl0lJPGkJl4kQKHj5doonA | 433 | 21904 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,000 |
+| Lora Davis | channel/UCTeW98JGSO-ih1lomuru7IA | 19,900 | 26604 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 8,676 |
+| Made in Blockchain | channel/UCAGjLNaKfcRcoAdIfFClKZA | 129,000 | 26664 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 21,645 |
+| Made in Ukraine | channel/UC5rFFLCXAsE0YWyqjVlHkvw | 129 | 26098 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 9,280 |
+| Magic Rank | channel/UCimWmf1VH3xhH1ql1X2yhqw | 967 | 27534 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 1,292 |
+| Martin cash | channel/UCn8IDQAma_e9ma_7gw2D_ow | 34,200 | 26493 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 23,536 |
+| Master Mening | channel/UCfQ_MypG9WTf9lTuRvm3T_w | 5,360 | 27774 | 1.0 | 2.0 | 50.0 | 0.0 | Paid | 3,874 | 3,874 |
+| Max About All | channel/UC3n0Xh954PMLIbySHKfuEmg | 1,220 | 27436 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,218 |
+| Michael Whitman | channel/UCnf_4MBIr--PcLdQyKuGzPQ | 73,000 | 26745 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 44,287 |
+| Mihail Stepanov | channel/UCOjEZnHO8Pwf3jDfv9NMrmw | 389 | 27452 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 1,475 |
+| Miscellaneous about Crypto | channel/UCMFOGK79SpscsziFQiJP5rw | 113 | 26091 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 7,700 |
+| Money Freedom | channel/UCZueb--OIh5IF240UVap5Vg | 2,830 | 27788 | 2.0 | 2.0 | 20.0 | 0.0 | Paid | 1,639 | 1,639 |
+| Money Here | channel/UCan71mgZZfP-mwwI0Drr25A | 1,780 | 26940 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,279 |
+| Money Meadow | channel/UC94ulZpoqM5QcYgGaY-9I9g | 876 | 26843 | 2.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 7,848 |
+| Money Start Заработок в интернете | channel/UCz-aZc2OzYPBlDmbpTYcrrA | 7,020 | 26819 | 1.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 17,272 |
+| MoneyExpress | channel/UCLKV8X6WIMvhkkwA-fQLO3w | 1,070 | 27336 | 3.0 | 3.0 | 0.0 | 10.0 | Paid | 969 | 2,247 |
+| MoneyTime | channel/UCnoH97B7aNiwxB-xgSfC5JQ | 115,000 | 27312 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 6,094 |
+| MONITORING PLYS! | channel/UCRM8Fa-04KcawdaR1U9NErw | 850 | 27104 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 2,660 |
+| MrPrince | channel/UCKEwV2GANCcgTKNcNdaoqdQ | 124,000 | 26507 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 22,727 |
+| NanekTV | channel/UCLgw3i-z7BsUT8Tw4KV9k4w | 465 | 26788 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,652 |
+| Natyk Crypto | channel/UCIGV6xOcdwETvvb-pnmn3iw | 230 | 26490 | 2.0 | 2.0 | 0.0 | 0.0 | Paid | 154 | 10,343 |
+| Nazar Kliuka | channel/UCh6aqfv0zBHRkFkhdEVi4Sg | 116 | 27017 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| NeuroCrypt | channel/UC7tLP1VS3KDGYwisrCNuj_w | 128 | 26306 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,000 |
+| NEWS CRYPTO INDONESIA | channel/UCPsx-9syQs2OkC-Zn-gg3Lg | 9,880 | 27488 | 3.0 | 6.0 | 0.0 | 0.0 | Paid | 447 | 3,494 |
+| NFT TIGER BOSS | channel/UCXMdcXX0cVR0ZvGQaxAgD2w | 103,000 | 27920 | 0.0 | 0.0 | 100.0 | 0.0 | Paid | 7,450 | 7,450 |
+| NFT і не тільки | channel/UCMSa_Lj7JqEQvf4R0xVE_QA | 6,930 | 27366 | 1.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 3,318 |
+| NFTS UP | channel/UCqvg2BplX8aEyXis4Xbe_jg | 1,020 | 27179 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 2,313 |
+| Nishtyak - заробіток в інтернеті! | channel/UCPLb2mmJjI2ajvB9hrFNpYA | 9,060 | 26716 | 1.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 12,539 |
+| Online Money | channel/UCv9PxxTGGtu8T6oEjirgpgQ | 5,590 | 27528 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,047 |
+| Ovodoff | channel/UC4V2TIqV-rnBncBovskE1eA | 3,130 | 26747 | 8.0 | 3.0 | 0.0 | 0.0 | Paid | 224 | 9,261 |
+| pagksim | channel/UCgMKCNz1AJh25ZzgRf2iB3Q | 80 | 27936 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| Peca_Crypto | channel/UCFzuGkFOLjgX7Pzf-m8b5BQ | 584 | 26147 | 5.0 | 3.0 | 0.0 | 0.0 | Paid | 223 | 49,109 |
+| Pray To Profit | channel/UC6PUBYKPcfLKpuNrclNz2QA | 22,700 | 26555 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 23,427 |
+| PRO LIFE | channel/UC67UGcJYLc0H57jQLfOK93g | 1,040 | 27388 | 4.0 | 3.0 | 0.0 | 0.0 | Paid | 224 | 1,563 |
+| PRO Mining | channel/UCviqKxlMnZqBipTzwixkGyg | 31,400 | 26387 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 12,500 |
+| Probas | channel/UCCx8u7K4DQoY6ZD6QtB1BXw | 117 | 26968 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 7,517 |
+| Profitrole | channel/UCr-rC0r-SLlvPbZoVc_91Lg | 1,480 | 27112 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 7,517 |
+| PROSTO MONEY - ЗАРАБОТОК В ИНТЕРНЕТЕ | channel/UCxyy8wZZYBi-mxig7PGdVsA | 2,280 | 27949 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| ProTiger Promoter | channel/UCXqMvxpqGO0k2wJk501S49g | 23,800 | 27988 | 0.0 | 0.0 | 50.0 | 0.0 | Paid | 3,725 | 3,725 |
+| ProxXx | channel/UC6B6aRwo4h3YD3XDgGRnKzg | 50 | 26300 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 6,363 |
+| Purple Money | channel/UCjWMMPgMdJ9Fwt4kIJsM4pA | 1,520 | 25761 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 9,900 |
+| QUICK Profit | channel/UCiVTm6_Zte_expeglj_CqaA | 53,300 | 27252 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 6,094 |
+| RABOTADOMA | channel/UCMmX3c45aAabOzsbhagai4g | 5,840 | 26798 | 4.0 | 6.0 | 0.0 | 0.0 | Paid | 447 | 22,897 |
+| RINA CRYPTO | channel/UC98xJsERn9k8xLWMS5LQx0g | 32,700 | 26608 | 3.0 | 6.0 | 0.0 | 0.0 | Paid | 447 | 9,017 |
+| Robert Cole | channel/UCr3LtGXe6BNvwmHploLx0vg | 2,680 | 7692 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,000 |
+| Rocket Star | channel/UCvCiZbbWp0qA0fPjMXAb9zw | 1,940 | 21903 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 17,000 |
+| Roland Morozov | channel/UC9uzALcD31qfiM-75R5Cqlw | 2,650 | 26515 | 2.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 66,121 |
+| RollerCoinUA | channel/UCyflZ_DirN8SLl2-QES3g6g | 149 | 26239 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 18,329 |
+| Roman Pushka | channel/UCQDpSeGqIjwnn_FN-hDy25Q | 110,000 | 26628 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,469 |
+| Royal Gaming & Token | channel/UC5pzqQoPBGoDUX13cHp17SQ | 44,000 | 27840 | 0.0 | 0.0 | 50.0 | 0.0 | Paid | 3,725 | 3,725 |
+| Rudy Crypto | channel/UCdy-YTnCaMZ2nSWpMu6PHeA | 9,480 | 27847 | 0.0 | 0.0 | 50.0 | 0.0 | Paid | 3,725 | 3,725 |
+| Ruslan Nestserau | channel/UCCCcvO8nyuClolGVMSu5_uw | 2,800 | 26873 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 3,141 |
+| Sakolik | channel/UCOMGZkhTqLeY_paj3_Y9zvA | 477 | 26992 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,128 |
+| Sanchous Crypto | channel/UC1xeIRAMdfgdmyR4cYMfkZQ | 57,600 | 27263 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 6,399 |
+| Serega Gorbachev | channel/UCsPeilAjUfB0qhbBOrdicBw | 634 | 27511 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| SERGO ПРО КРИПТУ | channel/UC-hEoMnUynAQHPsa6yRmiXg | 7,330 | 27464 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,047 |
+| Serhius | channel/UCknct8a-zHuW_-8AeD5Ht3g | 85 | 27219 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,218 |
+| Slash | channel/UC5yqTDa4fLznQNEoeSRRFsg | 2,500 | 28044 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| SONAS | channel/UCsnshC5psdqB6laFJS8mIiA | 1,220 | 26132 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 74 | 8,268 |
+| Spy Mk | channel/UCom0QOVrkZSQ1MqnIzdWZhg | 2,080 | 26703 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,921 |
+| Strong Crypto 💪 | channel/UCiN29cZ2PRa9PwZh2B5z1gA | 430 | 26581 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,218 |
+| Tamil Crypto Airdrops | channel/UCdQLNL4E-E4-ihp-eNGEj6g | 3,160 | 27551 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| TECHNO TINKU | channel/UC5T9b4lEmZ6kNlBFrwHMLjw | 1,430 | 26615 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 4,578 |
+| The 100x Podcast | channel/UCV9lg8-PNvLRUx-yNiclQ6w | 439 | 27965 | 1.0 | 1.0 | 20.0 | 0.0 | Paid | 1,565 | 1,564 |
+| THE TRUST OFFICIAL | channel/UCQ-NZpfQ6nrH4YYR814nIKg | 170 | 25744 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,000 |
+| Tima Morze | channel/UC95WXno_pfeqegxv6xC0x3Q | 86 | 26385 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,000 |
+| TOKEN &TRX PROMOTER | channel/UCG5w85DyANVN7I1riKiNDZQ | 29,200 | 27922 | 0.0 | 0.0 | 50.0 | 0.0 | Paid | 3,725 | 3,725 |
+| Token Metrics | channel/UCH9MOLQ_KUpZ_cw8uLGUisA | 113,000 | 27909 | 0.0 | 0.0 | 100.0 | 0.0 | Paid | 7,450 | 7,450 |
+| Tomket Lovers Reborn | channel/UCjPZSVcXjUoUGMwa3Vp628w | 215,000 | 27832 | 2.0 | 10.0 | 100.0 | 0.0 | Paid | 8,195 | 8,195 |
+| TRIGS | channel/UCOYoVj20SuXCmDuEuctgrbA | 143,000 | 26499 | 0.0 | 0.0 | 0.0 | 50.0 | Paid | 3,725 | 145,032 |
+| TRON KING | channel/UCPPkhjnLfICwOZqQJZDgsag | 1,300 | 26872 | 3.0 | 3.0 | 0.0 | 0.0 | Paid | 223 | 4,453 |
+| Tropimil Money | channel/UC2fIE1sdNwJNgwfBjIBLm0w | 1,700 | 27787 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| TRX and USDT Promoter | channel/UC8RnBxOl0-OWApoD6gbREEA | 22,100 | 27989 | 0.0 | 0.0 | 50.0 | 0.0 | Paid | 3,725 | 3,725 |
+| TsukuyomiCrypto | channel/UCAK97vnM5jp6Kpz43wgM6zg | 44 | 27925 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| UloggersTV | channel/UCzI3Rjamg7zSe_o0BwSeIQQ | 8,370 | 26727 | 19.0 | 6.0 | 0.0 | 0.0 | Paid | 447 | 22,897 |
+| UZ OPTION | channel/UCH8Ljb4yB9FZ5Hccjk2SA7w | 1,640 | 27828 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| VEN BUSINESS | channel/UC4L0SjMBOA3NfvIK_V0Pgsg | 2,760 | 26789 | 9.0 | 3.0 | 0.0 | 0.0 | Paid | 224 | 9,871 |
+| Vi Ma | channel/UCw4PyXd7dF9CT95oDrkPKTg | 108 | 26430 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,000 |
+| Visco Research | channel/UCo8ft39sumUNsR2xnxmExSw | 465 | 27533 | 0.0 | 0.0 | 0.0 | 20.0 | Paid | 1,490 | 2,769 |
+| Vladyslav | channel/UCbehDkiZtVDh4821XpnlCyQ | 63 | 21911 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 20,300 |
+| Vladyslav Yakymenko | channel/UCqlrEb-eMHHN4uaPNQHSNRA | 3,030 | 26190 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,000 |
+| Web3 with Dustin Lee | channel/UC9XRynABG-YSiGh1iLSk18g | 725 | 26258 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,000 |
+| web3easy | channel/UCxVy-VGaiFXX7-GDsO_PYQw | 2,270 | 26785 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 5,697 |
+| When Airdrop | channel/UCzyfgzUt3R0PRPf319LHIRQ | 1,270 | 26733 | 4.0 | 3.0 | 0.0 | 0.0 | Paid | 224 | 6,832 |
+| X- Ray Crypto | channel/UCLWTaEkH4VXGWYkuj3k_r0Q | 8,810 | 27833 | 0.0 | 0.0 | 50.0 | 0.0 | Paid | 3,725 | 3,725 |
+| Xrypto Yeap | channel/UCR8I2VhB-Al4yNDyrDGz1Og | 1,050 | 27734 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| Yan Vazov | channel/UCX39_PcW1KjgFrofhVqaAXA | 1,230 | 27938 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| Yevhen про Криптовалюту 💎 | channel/UCpR9SoMGjNwAAU6kLAO4JsQ | 540 | 27395 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,218 |
+| Yulia Gorenshteyn | channel/UCwpYJlHrMcLpWtTWZOi-1Nw | 128 | 25895 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 7,116 |
+| Yung Dem | channel/UCViyCG7ZTlV8YjPWqyaxJbA | 216 | 27866 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| ZEFIRIUM | channel/UCgCg8S1W7nwhAqS7EGzDa-Q | 374 | 26053 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 9,525 |
+| Александр BestMoney | channel/UCaPVc5uD9O6eLeORhP1c-7w | 2,230 | 26669 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 14,190 |
+| Алексей Адаменко - Криптовалюта | channel/UCewSTV1XOp_mUos_pSFaGCQ | 3,890 | 26410 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 77 | 18,319 |
+| Алексей Волков | channel/UCVDqk5ZHu4kVOof7gJeG3cQ | 6,000 | 25826 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 90,893 |
+| Бабкина Крипта | channel/UCQ8FnfuhT1sSilMUSSUC0-A | 1,220 | 26231 | 5.0 | 3.0 | 0.0 | 0.0 | Paid | 223 | 48,402 |
+| Бабло⚡️Ток | channel/UCiEbgDEEJ7LsutQlNOKGG_Q | 405 | 27433 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,218 |
+| БРАЦЛАВСКИЙ НИКИТА инвестиции в крипту | channel/UCWGjEkcrfaAAKOnlqbQfWwQ | 1,120 | 26234 | 4.0 | 3.0 | 0.0 | 0.0 | Paid | 231 | 48,406 |
+| Бывший Скамер | channel/UCg_LuKKYITOXj5MHUGvNZZw | 5,490 | 27794 | 1.0 | 2.0 | 50.0 | 0.0 | Paid | 3,874 | 3,874 |
+| Валерий Жиленко | channel/UCTHwXt9F44uhhbwqy8Y9iAQ | 56 | 25877 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 38,458 |
+| ВАНЯ VIPER | channel/UCIjL1WYEpMcgH43fo5zeSMA | 8,580 | 27205 | 1.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 6,984 |
+| Виктор Подлипаев | channel/UCuJX__5z-t00r_lqsYuMyNA | 287 | 25731 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 18,153 |
+| Виртуальные Иксы | channel/UCfjcRy_QQRyUBzbNUb7qMqw | 396 | 27255 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,218 |
+| ВИТЯ НА КРИПТЕ | channel/UC-A2yA2IYzOqLY0G-PBdaUg | 308 | 27350 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,828 |
+| Віктор Романюк | channel/UC0L6pv7DhtWBlGS7Cq9ZNNg | 2,450 | 26803 | 3.0 | 3.0 | 0.0 | 0.0 | Paid | 224 | 9,122 |
+| Влад Прихидный про инвестиции в криптовалюту | channel/UC64tsh2khuXxKGBcmtoN6nw | 827 | 27507 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,218 |
+| Высшая Лига Money | channel/UC5DoJFn6-8ctJm8JNcRGcqw | 2,730 | 26911 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 2,313 |
+| ДЕЛАЙ ДЕНЬГИ В ИНТЕРНЕТЕ | channel/UCqkhunEN9ZZSJmlghLlK3EQ | 5,800 | 26892 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 8,795 |
+| Денис Скрипник | channel/UCVxnIxHp7teDXamg5eUyFlw | 128 | 26272 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,000 |
+| Деньги здесь и сейчас ! | channel/UCcHBogFSl_RWhYoAD-GkYZA | 645 | 27047 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 2,313 |
+| ДЕТИ БУЛРАНА | Василий Суфидянов | channel/UCa4TfHud0sTrV_wr4eGK7yg | 5,490 | 27487 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,047 |
+| Дневник Инвестора | channel/UClC1O_cpUmTnM23nIqMO10w | 9,880 | 26988 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 7,638 |
+| Дневник Трейдера | channel/UC6MOZ8OtbKtMo9vjW3WIzCw | 57 | 27583 | 0.0 | 0.0 | 0.0 | 85.0 | Paid | 6,333 | 7,550 |
+| ДохідUA | channel/UCdJS8PJMWiQhl66_rOt3Bow | 17,700 | 26831 | 0.0 | 0.0 | 0.0 | 10.0 | Paid | 745 | 10,900 |
+| Думай Делай | channel/UCVsVIypK01cfcEZO64Al5Pw | 2,420 | 27233 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,340 |
+| Евгений Вертель | channel/UCWv0EXT0T6lHFZGNeTq8uPQ | 4,050 | 26985 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 2,660 |
+| Жизнь и работа в интернете! | channel/UC2Kl7D5Q-XNxdkVzsKAdyuw | 3,900 | 26786 | 6.0 | 3.0 | 0.0 | 10.0 | Paid | 969 | 16,515 |
+| Забирай ДеньгиTV | channel/UC8meYNZhKVMxg8nTd1lAZ5w | 1,010 | 27448 | 2.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 1,367 |
+| Заработай сидя дома | channel/UClyspqT5QnlI1roLYle9wFw | 8,250 | 26594 | 1.0 | 2.0 | 0.0 | 10.0 | Paid | 894 | 31,951 |
+| Заработать монету | channel/UC4UfUW5EXr3b_5sAMxEGihg | 172 | 27236 | 4.0 | 3.0 | 0.0 | 0.0 | Paid | 224 | 1,563 |
+| Заработок в интернете | channel/UC4RA_d8tq188kRzbQnuvk-g | 2,530 | 27226 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 1,353 |
+| ЗАРАБОТОК В ИНТЕРНЕТЕ ЛУЧШИЕ ВИДЕО! | channel/UCKVy5BoBOQr1vBKzFDGo2ww | 90 | 26661 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 12,248 |
+| Заработок В Интернете Сидя Дома | channel/UC7K8yw4XjCrCb3Qa4WWK7Uw | 568 | 27356 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,218 |
+| Заработок онлайн | channel/UCtTkbp_7K7UR8b6RzfXInUA | 880 | 27337 | 2.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 1,489 |
+| Заработок разное. | channel/UCuGb9FMnNMCk5IDTS4U97ZA | 1,620 | 26767 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 4,119 |
+| Заробіток в інтернеті | channel/UCJez2Gp0ozhVToFI33sO89A | 836 | 27686 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,218 |
+| Заробіток з HONTARUK | channel/UCUO_GkYubu_YMcwFdR_l3Vw | 500 | 27156 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,007 |
+| Заробіток на Криптовалюті | channel/UCgW-WZKYnVFTYP66MVaOx9A | 328 | 26409 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 17,331 |
+| Захаркин Крипта | channel/UCWd-OAskxBDQJa8gVC2dvEA | 12,900 | 27659 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,047 |
+| Изучаем криптопроекты | channel/UC2J5kCOEI-LRppTb202inXQ | 244 | 26283 | 2.0 | 2.0 | 0.0 | 0.0 | Paid | 154 | 15,340 |
+| Илья Торлопов | channel/UC8fnxB0yg1EQ8BqF7yEla5A | 141 | 25875 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 6,120 |
+| Инвестиции с Grisha Raven | channel/UCLXsgYxMoqH5AoPc4mM64og | 29,000 | 26384 | 2.0 | 4.0 | 0.0 | 0.0 | Paid | 308 | 52,436 |
+| ИнвестицииBY | channel/UCPU9wV5arBWrVoYeMLM__kA | 2,830 | 26086 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 9,334 |
+| интернет заработок | channel/UCmvLwQrGUjTm5o4DPiIigdg | 1,360 | 26715 | 2.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 6,333 |
+| КАК ЗАРАБОТАТЬ В ИНТЕРНЕТЕ | channel/UCRcXYaCH-qe629N9Bsq9faA | 2,330 | 27596 | 3.0 | 3.0 | 0.0 | 0.0 | Paid | 224 | 1,624 |
+| КАК ЗАРАБОТАТЬ В ИНТЕРНЕТЕ / BOYKOFF | channel/UCgulwyHieRpATZWlE82Palg | 9,180 | 27121 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 11,384 |
+| Как заработать в интернете с Artur Knows | channel/UCK95A90P0zy6-OaHQ6TI8WQ | 45,700 | 26986 | 1.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 16,738 |
+| КАК ЗАРАБОТАТЬ ДЕНЬГИ В ИНТЕРНЕТЕ | channel/UCMNnkkWdBK9F-ISWm_DRgvA | 2,200 | 27024 | 5.0 | 3.0 | 0.0 | 0.0 | Paid | 224 | 7,922 |
+| Котелок инвестора | channel/UCIxnu9EOgbClosHB0Ox6aCA | 10,400 | 26899 | 0.0 | 0.0 | 0.0 | 10.0 | Paid | 745 | 21,370 |
+| КотлONE | channel/UCRJYt_uIBFlCSh8b6byaTlg | 390 | 26797 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,712 |
+| Крипта Для Своїх | channel/UCS0vXgDC1_Rd8VubgAcZDfg | 263 | 26816 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 2,313 |
+| Криптач | channel/UCiIdH5P3OUY2iYlxQloPywA | 82 | 27768 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| Крипто Батя | channel/UCNdVwrx4lc_41fJRLN9D5CQ | 229,000 | 26621 | 1.0 | 5.0 | 0.0 | 0.0 | Paid | 373 | 26,398 |
+| Крипто Воля | Apcik | channel/UCGvjef1y7vcIwe91A9etc2Q | 322 | 28022 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| Крипто Гамеры | channel/UC_HY84x6rLmbn3whQZkqYCQ | 1,020 | 26356 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,000 |
+| КРИПТО ГНОМ | channel/UCm3AHFMOLA31FiKapZD722g | 8,550 | 27792 | 8.0 | 6.0 | 50.0 | 0.0 | Paid | 4,172 | 4,172 |
+| Крипто Инфошум | channel/UCKDWAuL1gv9BdI0LeN3tcKg | 47,100 | 26738 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 11,676 |
+| Крипто Козак | channel/UCMwhnUwh8F1EVEz6Adt4DfQ | 718 | 26877 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 2,720 |
+| Крипто Плечо | channel/UCSGqZutLQWuwN88nafALkwg | 49,900 | 26631 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 23,358 |
+| КРИПТО ФЕРМА | channel/UCR-Bk0A-rhTv72pNVeIfRMA | 5,570 | 27892 | 0.0 | 0.0 | 50.0 | 0.0 | Paid | 3,725 | 3,725 |
+| КРИПТО ФЕРМА | channel/UCbarRI3Pdb5_Dw_U5FSHxRg | 786 | 27361 | 1.0 | 1.0 | 0.0 | 10.0 | Paid | 820 | 2,037 |
+| КРИПТО ХОМЯК | channel/UCR6TqzqVoyL__ISWOJXws6Q | 429 | 26526 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 4,742 |
+| Крипто Хомяк | channel/UCJkRzypvKA8GJmscr89IjOw | 345 | 26600 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,470 |
+| КРИПТО ХОМЯК | channel/UCR6TqzqVoyL__ISWOJXws6Q | 400 | 26526 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 14,599 |
+| Крипто Эфир | channel/UCgcEbCF5h2YQlC3AWrj7tuQ | 287 | 25848 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 6,200 |
+| КриптоUA | channel/UCXp_bONfbkEpeX4KgInGS8Q | 5,680 | 26751 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 16,302 |
+| Криптовалюта | channel/UCtWJzJX07vOpjQ-NyLQ3z0w | 1,040 | 27587 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 1,292 |
+| Криптовалюта & Майнинг | channel/UCRA7ospWlvISutPG2UueQaw | 3,260 | 26622 | 1.0 | 1.0 | 0.0 | 50.0 | Paid | 3,800 | 11,284 |
+| КРИПТОВАЛЮТА ДЛЯ ЧАЙНИКОВ | channel/UCIyspqXV9vSwvlnAl5z6wMg | 9,390 | 27933 | 0.0 | 0.0 | 50.0 | 0.0 | Paid | 3,725 | 3,725 |
+| КриптоЗарплата | channel/UC2tZw78IrgFL7mybkKqdlBw | 11,400 | 26627 | 1.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 20,940 |
+| КРИПТОМАУЗ | channel/UC5FmNhBDxbXzgX4A5lnqaAw | 448 | 27396 | 1.0 | 1.0 | 0.0 | 20.0 | Paid | 1,565 | 2,782 |
+| Криптонация LIVE | channel/UC80BwD0EtVxwnErB2AX2fUw | 76,000 | 27494 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 6,399 |
+| ЛОВИ ЛАВЭ | channel/UCmmfPs-4OnHsgUzR6XWYKdg | 1,410 | 26677 | 2.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 6,211 |
+| Лунный инвестор | channel/UCsKbgGh3FHKuGN6guiNPwcQ | 741 | 25763 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 74 | 100,471 |
+| Максим Колот | channel/UC79yqShrG1QyTx2qyZnKEYg | 693 | 27407 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 1,353 |
+| Максим Мекекечко про Инвестиции и Криптовалюты | channel/UCUqpHK5OP--FWvcZn4NLGbA | 667 | 27480 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,218 |
+| Михаил Степанов и бизнес в интернете | channel/UCYPZmFzHR_ZHhYAO5s6m0FQ | 4,640 | 26851 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 7,111 |
+| МИХАЙЛИШИН MONEY | channel/UCniP2eHfOdsTW9wX0ef7pRw | 2,500 | 26829 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 2,313 |
+| Мутим на Крипте! | channel/UCo5siezhTr9mAA5umYHYG1A | 3,640 | 26242 | 1.0 | 1.0 | 0.0 | 10.0 | Paid | 820 | 16,893 |
+| Олежка зарабатывает | channel/UC9w6PwNHH5lR4r19i-s3HyA | 252 | 27408 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,828 |
+| Олександр Ганненко | channel/UCJgj6KNE_D7ysstHV-DPIbQ | 2,610 | 26545 | 2.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 12,543 |
+| Опасные Волны Elliot | channel/UCPzeJCl2XeVgETMK4UZnYuA | 76,900 | 26630 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 22,549 |
+| Первый Биткоин | channel/UC7Y2kyLVBRBBTY7t5l42EyA | 8,540 | 26743 | 10.0 | 6.0 | 50.0 | 0.0 | Paid | 4,172 | 4,172 |
+| Платіж зараховано | channel/UCCTNQRN8dr-YuLL-GEYPdcw | 1,090 | 26758 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,039 |
+| После Работы | О крипте | channel/UC02pb5FR05nOUmyJo3w_vzA | 1,320 | 26269 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 6,341 |
+| ПРО INVESTING | channel/UC5nitve59tYRKQ96U7yReZA | 1,040 | 27482 | 0.0 | 0.0 | 0.0 | 10.0 | Paid | 745 | 1,963 |
+| Про крипту / українською | channel/UCWbJOoh3obEBmKLMg5nJg-A | 387 | 26744 | 2.0 | 2.0 | 0.0 | 0.0 | Paid | 149 | 5,656 |
+| Проста Крипта | channel/UCs5y5P3mx73c-vQkmsoAMjQ | 1,510 | 26740 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 4,479 |
+| Просто Гаечка | channel/UCmzFeTq7N9BdTfi0gYIgrIw | 4,190 | 27244 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,218 |
+| Просто Крипто 2023 | channel/UCbtSmLHc7WyHp2Zj8Dx7a1Q | 419 | 26753 | 23.0 | 3.0 | 0.0 | 0.0 | Paid | 224 | 9,261 |
+| Реферал | channel/UC268IjVZYsec5V_tQYUmRPQ | 4,370 | 27376 | 1.0 | 1.0 | 0.0 | 20.0 | Paid | 1,565 | 5,342 |
+| Родион Ионов | channel/UC4qLyF7BVMy3zvyWukNp3FQ | 112 | 22851 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 5,300 |
+| Сrypto Porshe | channel/UChPa3CA5eO16N-j5reCq9Qg | 5,600 | 27708 | 0.0 | 0.0 | 50.0 | 0.0 | Paid | 3,725 | 3,725 |
+| СRYPTOPOLOVKA | channel/UCEJaxJjNq51sze9aVWdCdXQ | 8,900 | 26870 | 3.0 | 6.0 | 0.0 | 0.0 | Paid | 447 | 13,534 |
+| СYBER КРИПТА | channel/UCbJFURAIRr4rPAntTcjI7TQ | 3,060 | 26836 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 2,922 |
+| Сергей П | channel/UC_8CGrmesPd4IJTXGCNG2Yw | 124 | 26805 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 4,752 |
+| ТАБЫС ТАБУ | channel/UCL3ZKJzaXbk4eaFDB0s-WlA | 3,180 | 27208 | 4.0 | 3.0 | 0.0 | 0.0 | Paid | 224 | 3,065 |
+| Татьяна Камбулова | channel/UCd-NxIWe9YqhpXxCwDw8l5g | 63 | 27176 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 2,313 |
+| Твій Фріланс * заробіток * крипта | channel/UC-6lC77WcUi0V-V7HtIjVgA | 186 | 26730 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 4,345 |
+| ТЕРРИТОРИЯ КРИПТЫ | channel/UCE7AoyeGCqKNkPQYDgl9neQ | 1,450 | 26768 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,652 |
+| Трейдинг от А до Z | channel/UCx-fJzqO84nn3HWU1oLfNMQ | 549 | 27310 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 1,414 |
+| Тут платят | channel/UCv5W5t0jacHqCrb9-01QS-w | 1,010 | 27065 | 3.0 | 3.0 | 0.0 | 0.0 | Paid | 224 | 4,800 |
+| Упоротый Лис | channel/UC4YQ7XDCbn8zriG_-ygIxew | 906 | 27375 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 1,218 |
+| Флиппер с завода | channel/UCZY1N_-NDakRGIXa-zZeDkg | 422 | 26442 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 77 | 10,035 |
+| ХАЙП МОНИТОРИНГ | channel/UCL4Bl3HhOJOepeENZs5hL_A | 566 | 27098 | 3.0 | 3.0 | 0.0 | 0.0 | Paid | 224 | 7,575 |
+| ЦИФРОВОЙ КОВБОЙ | channel/UCWe3uCkBcxQuS6a-7DMFLGg | 2,700 | 27491 | 1.0 | 1.0 | 0.0 | 0.0 | Paid | 75 | 1,902 |
+| ЧЕСТНЫЙ ЗАРАБОТОК | channel/UCtZr8sRX-EmxA3s0boR0MVg | 909 | 26774 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 3,652 |
+| Юный Спекулянт | channel/UCYFT8C5jGT9qvdSf8dDyCLQ | 438 | 27935 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| Юный Трейдер | channel/UCyTQW4AS5tVa6rY7Xy5LHwQ | 537 | 27843 | 0.0 | 0.0 | 20.0 | 0.0 | Paid | 1,490 | 1,490 |
+| ЮРАШ CRYPTO NFT | channel/UCUZvhqKErj2tseXJUvzjUkQ | 482 | 23788 | 0.0 | 0.0 | 0.0 | 0.0 | Paid | 0 | 68,241 |
+| **TOTAL** | - | **7,709,177** | - | **378** | **445** | **3,480** | **1,180** | - | **380,735** | **5,563,630** |
