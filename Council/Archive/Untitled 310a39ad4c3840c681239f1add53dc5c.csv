@@ -1,0 +1,29 @@
+﻿Name,Dates,Network Score,Blockheight Start,Blockheight End,BUILDER_SCORE,CONTENT_SCORE,STORAGE_SCORE,DISTRIBUTOR_SCORE,FORUM_SCORE,HANDOVER_SCORE (MEETING_SCORE),HR_SCORE,LEAD_OPPORTUNITIES_SCORE,PLAN_SCORE,SUMMARY_SCORE,MARKETER_SCORE,Catastrophic errors,Score Results Link,Property
+Council 0,"March 23, 2022 2:29 PM (GMT+1) → March 26, 2022 3:04 PM (GMT+1)",,1,43200,,,,,,,,,,,,,,"March 23, 2022 5:29 PM (GMT+4) → March 26, 2022 6:04 PM (GMT+4)"
+Council 1,"March 26, 2022 3:04 PM (GMT+1) → April 2, 2022 6:30 PM (GMT+1)",0.396,43200,144000,0.1,0.1,0.3125,0.487,0.073,,1,,,,,,,"March 26, 2022 2:04 PM (UTC) → April 2, 2022 5:30 PM (UTC)"
+Council 2,"April 2, 2022 6:30 PM (GMT+1) → April 9, 2022 8:36 PM (GMT+1)",0.586,144000,244800,0.827,0.03,0.37,0.86,0.8,,0.49,,,,,,,"April 2, 2022 5:30 PM (UTC) → April 9, 2022 7:36 PM (UTC)"
+Council 3,"April 9, 2022 8:36 PM (GMT+1) → April 16, 2022 8:57 PM (GMT+1)",0.565,244800,345600,0.692,0.175,0.48125,0.84,0.7,,0.494,,,,,,,"April 9, 2022 7:36 PM (UTC) → April 16, 2022 7:57 PM (UTC)"
+Council 4,"April 16, 2022 8:57 PM (GMT+1) → April 23, 2022 10:48 PM (GMT+1)",0.573,345600,446400,0.433,0.2,0.575,0.749,0.925,0.9,0.529,0,0.75,0.3,,,https://github.com/Joystream/founding-members/blob/main/council-scoring-period-results/4.md,"April 16, 2022 7:57 PM (UTC) → April 23, 2022 9:48 PM (UTC)"
+Council 5,"April 23, 2022 10:48 PM (GMT+1) → April 30, 2022 11:17 PM (GMT+1)",0.447,446400,547200,0.342,0.021,0.525,0.629,,0.6,0.367,0,1,1,,,https://github.com/Joystream/founding-members/blob/main/council-scoring-period-results/5.md,"April 23, 2022 9:48 PM (UTC) → April 30, 2022 10:17 PM (UTC)"
+Council 6,"April 30, 2022 11:17 PM (GMT+1) → May 7, 2022 11:30 PM (GMT+1)",0.612,547200,648000,0.613,0.188,0.502,0.609,,0.5,0.83,0.25,1,1,,,,"April 30, 2022 10:17 PM (UTC) → May 7, 2022 10:30 PM (UTC)"
+Council 7,"May 7, 2022 11:30 PM (GMT+1) → May 14, 2022 11:51 PM (GMT+1)",0.514,648000,748800,0.533,0.452,0.556,0.35,0.633,0.9,0.829,0.2,0,0,,,,"May 7, 2022 10:30 PM (UTC) → May 14, 2022 10:51 PM (UTC)"
+Council 8,"May 14, 2022 11:51 PM (GMT+1) → May 22, 2022 12:07 AM (GMT+1)",0.623,748800,849600,0.677,0.117,0.711,0.644,0.375,0.706,0.805,0.167,0.475,1,,,,"May 14, 2022 10:51 PM (UTC) → May 21, 2022 11:07 PM (UTC)"
+Council 9,"May 22, 2022 12:07 AM (GMT+1) → May 29, 2022 12:23 AM (GMT+1)",0.596,849600,950400,0.64,0.18,0.568,0.444,0.327,0.6,0.837,0.143,1,1,,,,"May 21, 2022 11:07 PM (UTC) → May 28, 2022 11:23 PM (UTC)"
+Council 10,"May 29, 2022 12:23 AM (GMT+1) → June 5, 2022 12:41 AM (GMT+1)",0.514,950400,1051200,0.668,0.215,0.444,0.168,0.47,0.896,0.798,0.2,0.8,0.65,0.298,,,"May 28, 2022 11:23 PM (UTC) → June 4, 2022 11:41 PM (UTC)"
+Council 11,"June 5, 2022 12:41 AM (GMT+1) → June 12, 2022 12:48 AM (GMT+1)",0.622,1051200,1152000,0.717,0.358,0.772,0.228,0.615,0.934,0.79,0.167,0.8,0.9,0.65,,,"June 4, 2022 11:41 PM (UTC) → June 11, 2022 11:48 PM (UTC)"
+Council 12,"June 12, 2022 12:48 AM (GMT+1) → June 19, 2022 1:03 AM (GMT+1)",0.671,1152000,1252800,0.513,0.413,0.657,0.4458,0.676,1,0.869,1,0.9,1,0.652,,,"June 11, 2022 11:48 PM (UTC) → June 19, 2022 12:03 AM (UTC)"
+Council 13,"June 19, 2022 1:03 AM (GMT+1) → June 28, 2022 1:34 AM (GMT+1)",,1252800,1382400,,,,,,,,,,,,,,"June 19, 2022 12:03 AM (UTC) → June 28, 2022 12:34 AM (UTC)"
+Council 14,"June 28, 2022 1:34 AM (GMT+1) → July 5, 2022 1:41 AM (GMT+1)",,1382400,1483200,,,,,,,,,,,,,,"June 28, 2022 12:34 AM (UTC) → July 5, 2022 12:41 AM (UTC)"
+Council 15,"July 5, 2022 1:41 AM (GMT+1) → July 13, 2022 1:48 AM (GMT+1)",,1483200,1598400,,,,,,,,,,,,,,"July 5, 2022 12:41 AM (UTC) → July 13, 2022 12:48 AM (UTC)"
+Council 16,"July 13, 2022 1:48 AM (GMT+1) → July 23, 2022 1:53 AM (GMT+1)",,1598400,1742400,,,,,,,,,,,,,,"July 13, 2022 12:48 AM (UTC) → July 23, 2022 12:53 AM (UTC)"
+Council 17,"July 23, 2022 1:53 AM (GMT+1) → August 1, 2022 2:05 AM (GMT+1)",,1742400,1872000,,,,,,,,,,,,,,"July 23, 2022 12:53 AM (UTC) → August 1, 2022 1:05 AM (UTC)"
+Council 18,"August 1, 2022 12:05 AM (GMT+1) → August 10, 2022 12:40 AM (GMT+1)",,1872000,2001600,,,,,,,,,,,,,,"August 1, 2022 1:05 AM (GMT+2) → August 10, 2022 1:40 AM (GMT+2)"
+Council 19,"August 10, 2022 12:40 AM (GMT+1) → August 18, 2022 12:56 AM (GMT+1)",,2001600,2116800,,,,,,,,,,,,,,"August 10, 2022 1:40 AM (GMT+2) → August 18, 2022 1:56 AM (GMT+2)"
+Council 20,"August 18, 2022 12:56 AM (GMT+1) → August 25, 2022 1:38 AM (GMT+1)",,2116800,2217600,,,,,,,,,,,,,,"August 18, 2022 1:56 AM (GMT+2) → August 25, 2022 2:38 AM (GMT+2)"
+Council 21,"August 25, 2022 1:38 AM (GMT+1) → September 2, 2022 2:01 AM (GMT+1)",,2217600,2332800,,,,,,,,,,,,,,"August 25, 2022 2:38 AM (GMT+2) → September 2, 2022 3:01 AM (GMT+2)"
+Council 22,"September 2, 2022 2:01 AM (GMT+1) → September 9, 2022 2:17 AM (GMT+1)",,2332800,2433600,,,,,,,,,,,,,,"September 2, 2022 3:01 AM (GMT+2) → September 9, 2022 3:17 AM (GMT+2)"
+Council 23,,,2433600,2534400,,,,,,,,,,,,,,
+Council 24,,,2534400,2635200,,,,,,,,,,,,,,
+Council 25,,,2635200,2736000,,,,,,,,,,,,,,
+Council 26,,,2736000,2836800,,,,,,,,,,,,,,
+Council 27,,,2836800,2937600,,,,,,,,,,,,,,

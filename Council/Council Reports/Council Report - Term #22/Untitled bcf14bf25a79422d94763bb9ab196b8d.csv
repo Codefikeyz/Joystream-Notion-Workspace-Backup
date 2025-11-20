@@ -1,0 +1,79 @@
+﻿Name,Status,Progress,Assignee
+[2024 Q1] O-1-1 Improve Joystream as a Video Platform,,,
+[2024 Q1] O-1-2 Maintain Security of the Joystream Blockchain,,,
+[2024 Q1] O-1-3 Improve Joystream DAO Governance,,,
+[2024 Q1] O-1-4 Enhance Joystream user adoption,,,
+KR-1.1 [Distributors] Ensure median bandwidth > 20 Mbps and median TTFB < 350 ms for all deployment locations (across multiple tests).,Completed ⭐️,◾️◾️◾️◾️◾️◾️◾️◾️◾️◾️ 100%,Distributor WG
+KR-1.2 [Storage] Maintain percentage of lost objects 0%. Maintain percentage of unaccepted objects < 1%. Maintain a replication rate of not lower 2 for all objects. Maintain an average node availability of 99.9%,At risk ⚠️,◾️◽️◽️◽️◽️◽️◽️◽️◽️◽️10%,Storage WG
+" KR-1.3  [Builders] Atlas SDK: development of functional design specification",Excluded,◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️ 0%,Builders WG
+KR-2.1 [Council] Average block time is less than 6.1s,On track ✅,◾️◾️◾️◾️◾️◾️◾️◾️◽️◽️80%,Council
+KR-3.1 [HumanResources] Conduct 2 anonymous surveys to understand whether DAO workers are satisfied with governance and working conditions.,Completed ⭐️,◾️◾️◾️◾️◾️◾️◾️◾️◾️◾️ 100%,HR WG
+KR-3.2 [Builders] Pioneer Validator dashboard,Completed ⭐️,◾️◾️◾️◾️◾️◾️◾️◾️◾️◾️ 100%,Builders WG
+KR-3.3 [HumanResources] Develop prototype of council and lead scoring system,Excluded,◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️ 0%,HR WG
+KR-3.4 [Council] DAO pay structure,Completed ⭐️,◾️◾️◾️◾️◾️◾️◾️◾️◾️◾️ 100%,Council
+"KR-4.1 [Marketing] Joystream is listed on at least 2 more CEX: Achieve social media metrics required for exchange listing, Execute listing with DAO provided funds",Completed ⭐️,◾️◾️◾️◾️◾️◾️◾️◾️◾️◾️ 100%,Marketing WG
+KR-4.2 [Marketing] At least 25 new Joystream-related review videos targeted at crypto audiences are posted on Youtube,Completed ⭐️,◾️◾️◾️◾️◾️◾️◾️◾️◾️◾️ 100%,Marketing WG
+KR-4.3 [Marketing] At least 3 new interviews with Joystream team are conducted and published,Postponed,◾️◾️◾️◽️◽️◽️◽️◽️◽️◽️30%,Marketing WG
+"KR-4.4 [Marketing] Reach 32,000 non-empty channels and 1,400,000 non-spam videos on Joystream by the end of Q1",On track ✅,◾️◾️◾️◾️◽️◽️◽️◽️◽️◽️40%,Marketing WG
+KR-4.5 [Marketing] Onboard 10 Marketing Ambassadors,Completed ⭐️,◾️◾️◾️◾️◾️◾️◾️◾️◾️◾️ 100%,Marketing WG
+KR-4.6 [HumanResources] Conduct NPS survey for content creators 2 times per quarter. Use the similar survey template as was used in Q4 2023,Excluded,◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️ 0%,HR WG
+KR-4.7 [HumanResources] At least 3 community events or workshops are organized aimed at/for content creators during the quarter. The total views of the event recordings should not be fewer than 500 views across all platform for all 5 videos.,On track ✅,◾️◾️◾️◽️◽️◽️◽️◽️◽️◽️30%,HR WG
+KR-4.8 [Marketing] Achieve a 20% increase in total social media impressions compared to the previous quarter,On track ✅,◾️◾️◾️◾️◾️◾️◽️◽️◽️◽️60%,Marketing WG
+KR 4.9 [Content] At least 5 gold+ tier creators have created a creator token,Postponed,◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️ 0%,Content WG
+[2024 Q2] DAO,,,
+KR2.1: NPS ≥ 7,,,
+KR2.2: MAU and DAU to increase by 30%,,,
+KR2.3: Average session duration increase by 30%,,,
+KR2.4: Avg session number per user per month by 30%,,,
+KR2.5: 30D retention rate increased by 30%,,,
+[2024 Q2] Builders WG,,,
+[2024 Q2] Marketing WG,,,
+[2024 Q2] Distributors WG,,,Distributor WG
+[2024 Q2] Storage WG,,,
+[2024 Q2] Content WG,,,
+O1: Grow market capitalisation,,,
+O2: Strive for product-market fit,,,
+O3: Efficiency,,,
+KR1.1: Deliver Argo Ethereum bridge.,At risk ⚠️,◾️◾️◾️◾️◾️◾️◾️◾️◽️◽️80%,"Builders WG, Council, Marketing WG"
+KR2.1: Deliver Metamask support for Atlas and Pioneer.,On track ✅,◾️◾️◾️◾️◾️◾️◾️◾️◽️◽️80%,Builders WG
+KR3.1: Deliver S3 support and archival mode support for storage node to drive costs down.,At risk ⚠️,◾️◾️◾️◾️◾️◾️◾️◾️◽️◽️80%,Builders WG
+KR3.2: Deliver improvements to the report tool (CRT metrics),On track ✅,◾️◾️◾️◾️◾️◾️◾️◾️◾️◽️90%,Builders WG
+O1:  The MCAP vs Benchmark group grew by 50% by the end of the quarter (CMC).,,,
+O2: Get not less than 100 M JOY transaction volume on all CRTs.,,,Marketing WG
+O3: MAU and DAU increased by 30%.,,,
+KR1.1: Not less than 40 new ambassadors were onboarded to the program.,On track ✅,◾️◾️◾️◾️◾️◾️◾️◾️◾️◽️90%,Marketing WG
+"KR1.2: Not less than 3,000 users joined the Zealy campaign and completed not less than 30,000 quests.",Completed ⭐️,◾️◾️◾️◾️◾️◾️◾️◾️◾️◾️ 100%,Marketing WG
+KR1.3: Average volume on all exchanges is not less than $100K/day.,Excluded,,Marketing WG
+KR1.4: Not less than 100 Joystream x Tangem hardware wallets sold from the lending page within 4 weeks after start of sale.,At risk ⚠️,,Marketing WG
+KR2.1: Not less than 10 detailed videos highlighting CRTs were uploaded on YouTube in not fewer than 5 different languages.,On track ✅,◾️◾️◾️◾️◾️◾️◾️◾️◾️◽️90%,Marketing WG
+KR2.2: CRTs were promoted on not less than 5 popular YouTube channels (not less than 50K views per video).,Completed ⭐️,◾️◾️◾️◾️◾️◾️◾️◾️◾️◾️ 100%,Marketing WG
+KR3.1: MWG campaigns drove not less than 20% of new users to Joystream apps on average.,Completed ⭐️,◾️◾️◾️◾️◾️◾️◾️◾️◾️◾️ 100%,Marketing WG
+— // — // —,,,
+"O1: Provide quality values for bandwidth and latency (TTFB) accross geographical regions for which we are having sufficient traffic, keeping the cost of operation minimal.",,,Distributor WG
+KR1.1: https://www.notion.so/2e583262bea940009bb26799a55c832c?pvs=21,At risk ⚠️,◾️◾️◽️◽️◽️◽️◽️◽️◽️◽️20%,Distributor WG
+" KR1.1: Maintain percentage of lost objects 0%",On track ✅,◾️◾️◾️◾️◾️◾️◾️◾️◽️◽️80%,Storage WG
+KR1.2: Maintain percentage of unaccepted objects < 2%,At risk ⚠️,◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️ 0%,Storage WG
+KR1.3: Maintain a replication rate of not lower 2 for all objects,On track ✅,◾️◾️◾️◾️◾️◾️◾️◾️◾️◽️90%,Storage WG
+" KR1.4: Maintain a storage objects availability of 100%",At risk ⚠️,◾️◾️◾️◾️◾️◾️◾️◾️◽️◽️80%,Storage WG
+[2024 Q2] HR WG,,,
+O1: Grow market capitalisation,,,Content WG
+KR1.1: Ship incremental improvements of CRTs,On track ✅,◾️◾️◾️◾️◾️◾️◾️◽️◽️◽️70%,Content WG
+KR1.2: ChangeNow modal in Gleev is visited by 5% of all users,At risk ⚠️,◾️◽️◽️◽️◽️◽️◽️◽️◽️◽️10%,Content WG
+KR1.3: Hold 2 creator roundtable events,At risk ⚠️,◾️◾️◾️◾️◾️◽️◽️◽️◽️◽️50%,Content WG
+KR1.4: Grow creators Discord community to 300 participants (role = creator),Completed ⭐️,◾️◾️◾️◾️◾️◾️◾️◾️◾️◾️ 100%,Content WG
+O2: Strive for product-market fit,,,Content WG
+KR2.1: Measure NPS and create roadmap targeting critical feedback items. (comment: I don't think NPS can be substantially increased over the course of 1.5 months),Completed ⭐️,◾️◾️◾️◾️◾️◾️◾️◾️◾️◾️ 100%,Content WG
+"KR2.2: MAU and DAU to increase by 30% not less than 30,000 quests.",At risk ⚠️,◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️ 0%,Content WG
+KR2.3: Average session duration increase by 30%,At risk ⚠️,◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️ 0%,Content WG
+KR2.4: Avg session number per user per month by 30% 4 weeks after start of sale.,At risk ⚠️,◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️ 0%,Content WG
+KR2.5: 30D retention rate increased by 30%,At risk ⚠️,◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️ 0%,Content WG
+O1: Keeping community informed and engaged,,,
+KR1.1: Draft a backlog of 5 high-quality ideas (and implement 2 of them) to enhance token holders' community engagement.,At risk ⚠️,◾️◾️◾️◾️◾️◽️◽️◽️◽️◽️50%,HR WG
+KR1.2: Develop scripts for 2 videos on the JOY token purchase process. Oversee video creation and ensure 2 videos are completed within Q2.,At risk ⚠️,◾️◾️◾️◾️◾️◽️◽️◽️◽️◽️50%,HR WG
+"KR1.3: Gain hands-on experience for community managers in minting, buying, and selling CRT, and testing all new creator token features.",On track ✅,◾️◾️◾️◾️◾️◾️◾️◾️◾️◾️ 100%,HR WG
+"KR1.4: Co-facilitate 2 Creator roundtable events in collaboration with CWG, scheduled for 4 weeks after the start of the sale.",On track ✅,◾️◾️◾️◾️◾️◽️◽️◽️◽️◽️50%,HR WG
+"KR1.5: Review Discord onboarding and enhance the experience for token holders, prospective buyers, and creators. Draft a backlog of 5 high-quality ideas (and implement 2 of them).",At risk ⚠️,◾️◾️◾️◾️◾️◽️◽️◽️◽️◽️50%,HR WG
+O1: Grow market capitalisation,,,
+KR1.1: MCAP vs Benchmark group grew by 50% by end of quarter (CMC),,,
+O2: Strive for product-market fit,,,
+KR1.1.1: Get not less than 100 M JOY tx volume on all CRTs,At risk ⚠️,◾️◽️◽️◽️◽️◽️◽️◽️◽️◽️10%,"Council, Marketing WG"

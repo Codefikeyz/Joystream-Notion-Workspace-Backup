@@ -1,0 +1,35 @@
+﻿Name,C/O,Date,Tags,Text
+Runtime Upgrade execution,Council,"June 17, 2024",Done,
+UI Basic Completion (MVP),Builders,,Cancelled,Was decided to use polished UI
+UI Full Completion,"Builders, Dmitry, JSG","July 19, 2024",In progress,"- first lofi will be available ~28th June, feedback meeting will happen
+- ETA of 2 weeks from 27th June"
+Deployment of smart contract,Builders,,,Multisigs should be done first
+JOYops multisig election + launch,Council,"July 15, 2024",In progress,"Needs to be a bit higher given risk, should be 4/7"
+BASEadmin multisig election + launch,Council,"July 15, 2024",In progress,
+BASEops multisig election + launch,Council,"July 15, 2024",In progress,council should define the incentive scheme
+DEX/AMM Launches,"Builders, People who know about this stuff","July 19, 2024",,"- needs review of smart contracts, takes about a day"
+Marketing Start,Marketing,"July 12, 2024",,
+ARGO pallet unfrozen,Council,,,
+Review of smart contract,"Builders, Smart Contract Reviewers",,,
+Parameters Proposal,Council,"June 28, 2024",Done,
+Liquidity proposal / decision,"Council, liquidity","July 5, 2024",,- needs to be 2 weeks before AMM launch
+Liqudity Transfers,Council,"July 19, 2024",,
+"Update website, CMC etc",,,,
+Communicate with exchanges (whether they will accept wJOY deposits),,,,
+LP initiative launch,,,,
+LP initiative (promo) research,"Council, Marketing, People who know about this stuff, liquidity",,,
+DEX aggregator listing research,"Marketing, People who know about this stuff",,,
+Decision on domain to be used (joystream.org vs others),"Council, JSG","June 24, 2024",Done,
+Arbitrage/MM/bot Research / Decision,"Council, People who know about this stuff",,,
+Regular calls: Thursday Weekly,Council,,Done,
+Set up http://bridge.joystream.org subdomain,JSG,,,JSG has said subdomain use is ok
+Tutorial creation,Marketing,,,
+Argo Bridge on website,JSG,,,
+Template for issuing instructions to BaseAdmin multisig + test TXs,Council,"July 19, 2024",,
+Marketing Plan / Draft tweets etc,Marketing,,,
+Klaudiusz is away,,"July 3, 2024 → July 7, 2024",,
+"Testing (LIVE) phase of bridge, small TXs, multisig ops",,,,
+"Testing (TESTNET) of bridge, TXs + multisig ops","Builders, Multisig",,,
+Pauser address elections,Council,,,
+Liquidity: incentives for DAO participants to provide liquidity,"Council, leet_joy, liquidity","July 11, 2024",,
+Liquidity: OTC,liquidity,,,

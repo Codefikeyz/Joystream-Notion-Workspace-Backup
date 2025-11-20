@@ -1,0 +1,244 @@
+{
+  "name": "Proposals 2 Notion",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "2ff2da4b-6330-49e3-9964-a49de2abf8a1",
+      "name": "When clicking \"Execute Workflow\"",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        1080,
+        360
+      ]
+    },
+    {
+      "parameters": {
+        "endpoint": "https://query.joystream.org/graphql",
+        "requestFormat": "json",
+        "query": "{  proposals(limit: 25, orderBy: createdAt_ASC) {    id      title    description    councilApprovals    statusSetAtBlock    isFinalized    details {        __typename}    createdInEvent {      inBlock    }    status {      __typename    }      creator {      handle    }    createdAt          }    }"
+      },
+      "id": "032ef6d2-a87c-4797-b0fd-14ebec3f0b5a",
+      "name": "GraphQL",
+      "type": "n8n-nodes-base.graphql",
+      "typeVersion": 1,
+      "position": [
+        1260,
+        360
+      ]
+    },
+    {
+      "parameters": {
+        "resource": "databasePage",
+        "databaseId": {
+          "__rl": true,
+          "value": "a9310867b1b24283ba552c6a69d715f8",
+          "mode": "id",
+          "__regex": "^([0-9a-f]{8}-?[0-9a-f]{4}-?4[0-9a-f]{3}-?[89ab][0-9a-f]{3}-?[0-9a-f]{12})"
+        },
+        "title": "={{ $json.title }}",
+        "simple": false,
+        "propertiesUi": {
+          "propertyValues": [
+            {
+              "key": "Title|title",
+              "title": "={{ $json.title }}"
+            },
+            {
+              "key": "Proposal Number|number",
+              "numberValue": "={{ Number($json[\"id\"] )}}"
+            },
+            {
+              "key": "Council Approvals|number",
+              "numberValue": "={{ $json.councilApprovals }}"
+            },
+            {
+              "key": "Author (Handle)|rich_text"
+            },
+            {
+              "key": "Created at Blockheight|number",
+              "numberValue": "={{ $json.createdInEvent.inBlock }}"
+            },
+            {
+              "key": "Proposal Type|rich_text",
+              "textContent": "={{ $json.details.__typename }}"
+            },
+            {
+              "key": "isFinalized|rich_text",
+              "textContent": "={{ $json.isFinalized }}"
+            },
+            {
+              "key": "Proposal Status|rich_text",
+              "textContent": "={{ $json.status.__typename }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "a21287b1-218a-4de2-be23-dedfbe81def0",
+      "name": "Notion (Beta)",
+      "type": "n8n-nodes-base.notion",
+      "typeVersion": 2,
+      "position": [
+        2080,
+        440
+      ],
+      "credentials": {
+        "notionApi": {
+          "id": "KhWnPLU2AlyyWKX7",
+          "name": "Notion account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "const prs = items[0].json.data.proposals\nreturn prs.map(pr => ({ json: pr }))"
+      },
+      "id": "cccab764-568f-4c32-83b8-19e5d24050cd",
+      "name": "Code",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 1,
+      "position": [
+        1460,
+        360
+      ]
+    },
+    {
+      "parameters": {
+        "resource": "database",
+        "operation": "getAll",
+        "returnAll": true,
+        "simple": false
+      },
+      "id": "802668ec-522d-4a31-b15d-dff24b25e370",
+      "name": "Notion (Beta)1",
+      "type": "n8n-nodes-base.notion",
+      "typeVersion": 2,
+      "position": [
+        1540,
+        800
+      ],
+      "credentials": {
+        "notionApi": {
+          "id": "KhWnPLU2AlyyWKX7",
+          "name": "Notion account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "mergeByFields": {
+          "values": [
+            {
+              "field1": "id",
+              "field2": "property_proposal_number"
+            },
+            {
+              "field1": "title",
+              "field2": "name"
+            }
+          ]
+        },
+        "resolve": "mix",
+        "options": {
+          "fuzzyCompare": true
+        }
+      },
+      "id": "4d1e2266-ddec-4c0a-8ec8-9b60692e8e94",
+      "name": "Compare Datasets",
+      "type": "n8n-nodes-base.compareDatasets",
+      "typeVersion": 1,
+      "position": [
+        1700,
+        580
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Loop over input items and add a new field called 'myNewField' to the JSON of each one\nfor (const item of $input.all()) {\n  item.json.myNewField = 1;\n}\n\nreturn $input.all();"
+      },
+      "id": "ac1b2c7c-27c2-4b7c-b138-8a1e3ec710ef",
+      "name": "Code1",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1900,
+        340
+      ]
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "When clicking \"Execute Workflow\"": {
+      "main": [
+        [
+          {
+            "node": "GraphQL",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "GraphQL": {
+      "main": [
+        [
+          {
+            "node": "Code",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code": {
+      "main": [
+        [
+          {
+            "node": "Compare Datasets",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Notion (Beta)1": {
+      "main": [
+        [
+          {
+            "node": "Compare Datasets",
+            "type": "main",
+            "index": 1
+          }
+        ]
+      ]
+    },
+    "Compare Datasets": {
+      "main": [
+        [
+          {
+            "node": "Notion (Beta)",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Code1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "29068c78-2fd1-4a34-912b-0f3d6838cce3",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "0e7a8f2ab39cf026d087ffb1614489fbb0edfbf4d09a0ec2b292a21e37c34a83"
+  },
+  "id": "Q2R7Dydvc6XBiMx7",
+  "tags": []
+}

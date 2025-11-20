@@ -1,0 +1,35 @@
+﻿Name,Date,Tags,C/O,Text
+UI Basic Completion (MVP),,Cancelled,Builders,Was decided to use polished UI
+Runtime Upgrade execution,"June 17, 2024",Done,Council,
+Regular calls: Thursday Weekly,,Done,Council,
+Parameters Proposal,"June 28, 2024",Done,Council,
+Decision on domain to be used (joystream.org vs others),"June 24, 2024",Done,"Council, JSG",
+BASEadmin multisig election + launch,"July 15, 2024",In progress,Council,
+BASEops multisig election + launch,"July 15, 2024",In progress,Council,council should define the incentive scheme
+JOYops multisig election + launch,"July 15, 2024",In progress,Council,"Needs to be a bit higher given risk, should be 4/7"
+Pauser address elections,,,Council,
+Klaudiusz is away,"July 3, 2024 → July 7, 2024",,,
+Template for issuing instructions to BaseAdmin multisig + test TXs,"July 19, 2024",,Council,
+"Testing (TESTNET) of bridge, TXs + multisig ops",,,"Builders, Multisig",
+DEX aggregator listing research,,,"Marketing, People who know about this stuff",
+Arbitrage/MM/bot Research / Decision,,,"Council, People who know about this stuff",
+LP initiative (promo) research,,,"Council, Marketing, People who know about this stuff, liquidity",
+Liquidity: incentives for DAO participants to provide liquidity,"July 11, 2024",,"Council, leet_joy, liquidity",
+Liquidity: OTC,,,liquidity,
+Liquidity proposal / decision,"July 5, 2024",,"Council, liquidity",- needs to be 2 weeks before AMM launch
+Review of smart contract,,,"Builders, Smart Contract Reviewers",
+UI Full Completion,"July 19, 2024",In progress,"Builders, Dmitry, JSG","- first lofi will be available ~28th June, feedback meeting will happen
+- ETA of 2 weeks from 27th June"
+Tutorial creation,,,Marketing,
+Marketing Plan / Draft tweets etc,,,Marketing,
+Marketing Start,"July 12, 2024",,Marketing,
+Set up http://bridge.joystream.org subdomain,,,JSG,JSG has said subdomain use is ok
+Argo Bridge on website,,,JSG,
+ARGO pallet unfrozen,,,Council,
+Deployment of smart contract,,,Builders,Multisigs should be done first
+"Testing (LIVE) phase of bridge, small TXs, multisig ops",,,,
+DEX/AMM Launches,"July 19, 2024",,"Builders, People who know about this stuff","- needs review of smart contracts, takes about a day"
+Liqudity Transfers,"July 19, 2024",,Council,
+LP initiative launch,,,,
+"Update website, CMC etc",,,,
+Communicate with exchanges (whether they will accept wJOY deposits),,,,

@@ -1,0 +1,1 @@
+# Communicate with exchanges (whether they will accept wJOY deposits)

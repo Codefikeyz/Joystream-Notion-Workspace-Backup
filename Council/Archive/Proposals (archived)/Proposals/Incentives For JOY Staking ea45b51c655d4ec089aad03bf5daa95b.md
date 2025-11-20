@@ -1,0 +1,7 @@
+# Incentives For JOY Staking
+
+Assigned: 0x2bc (https://www.notion.so/0x2bc-08e9cea9c431408fb7e38dd2643c33de?pvs=21)
+Related to JS DAO Workers sheet (Tasks): 0x2bc (https://www.notion.so/0x2bc-5dc9e9cef011453687e92f91efddb954?pvs=21)
+Related to JS DAO Workers sheet (Tasks) 1: Untitled (https://www.notion.so/1ece8576156f4e31b4d49912d7b60644?pvs=21)
+Status: Pre-Proposal
+URL: https://pioneerapp.xyz/#/forum/thread/381
