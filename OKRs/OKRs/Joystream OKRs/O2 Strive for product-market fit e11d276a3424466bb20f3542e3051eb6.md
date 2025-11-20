@@ -1,0 +1,6 @@
+# O2: Strive for product-market fit
+
+Assignee: Content WG
+Parent item: [2024 Q2] Content WG (%5B2024%20Q2%5D%20Content%20WG%20b5a08073208e4559a5018b0c6ab326f7.md)
+Sub-item: KR2.1: Measure NPS and create roadmap targeting critical feedback items. (comment: I don't think NPS can be substantially increased over the course of 1.5 months) (KR2%201%20Measure%20NPS%20and%20create%20roadmap%20targeting%20cri%2038942660fbdd49fb8a51edbe16861d11.md), KR2.2: MAU and DAU to increase by 30% not less than 30,000 quests. (KR2%202%20MAU%20and%20DAU%20to%20increase%20by%2030%25%20not%20less%20than%20f97f5f89bb504176adcb0371db1e953f.md), KR2.3: Average session duration increase by 30% (KR2%203%20Average%20session%20duration%20increase%20by%2030%25%20400c4addb1474637951dcf51f7ac3972.md), KR2.4: Avg session number per user per month by 30% 4 weeks after start of sale. (KR2%204%20Avg%20session%20number%20per%20user%20per%20month%20by%2030%25%2083e5b37bc6f24c5c8a6e72b58ceb4325.md), KR2.5: 30D retention rate increased by 30% (KR2%205%2030D%20retention%20rate%20increased%20by%2030%25%2067c93aadbbc145f994e5eec428b80840.md)
+Last edited time: June 20, 2024 10:30 AM

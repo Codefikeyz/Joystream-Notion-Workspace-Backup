@@ -1,0 +1,5 @@
+# O2: Strive for product-market fit
+
+Parent item: [2024 Q2] DAO (%5B2024%20Q2%5D%20DAO%20c728e00e54634f72a3c9aefcccf08005.md)
+Sub-item: KR2.1: NPS ≥ 7 (KR2%201%20NPS%20%E2%89%A5%207%207fa059187dcd4978a7f273b4515ed0c8.md), KR2.2: MAU and DAU to increase by 30% (KR2%202%20MAU%20and%20DAU%20to%20increase%20by%2030%25%207117e0d6113d41398c1288e667919d49.md), KR2.3: Average session duration increase by 30% (KR2%203%20Average%20session%20duration%20increase%20by%2030%25%20827ae8d016c846dca4ff0098113876be.md), KR2.4: Avg session number per user per month by 30% (KR2%204%20Avg%20session%20number%20per%20user%20per%20month%20by%2030%25%2032217fad6c5448ceba28f407c10ba527.md), KR2.5: 30D retention rate increased by 30% (KR2%205%2030D%20retention%20rate%20increased%20by%2030%25%20ddb580c5dce44481b95c2aeb056497d5.md)
+Last edited time: June 18, 2024 6:49 PM

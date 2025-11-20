@@ -1,0 +1,4 @@
+# [2024 Q1] O-1-1 Improve Joystream as a Video Platform
+
+Sub-item: KR-1.1 [Distributors] Ensure median bandwidth > 20 Mbps and median TTFB < 350 ms for all deployment locations (across multiple tests). (KR-1%201%20%5BDistributors%5D%20Ensure%20median%20bandwidth%2020%20M%208ca03adb44a74ec8b05a78d5c4f6ed44.md), KR-1.2 [Storage] Maintain percentage of lost objects 0%. Maintain percentage of unaccepted objects < 1%. Maintain a replication rate of not lower 2 for all objects. Maintain an average node availability of 99.9% (KR-1%202%20%5BStorage%5D%20Maintain%20percentage%20of%20lost%20objec%20f6966e283433485fa228408dfc31cedd.md),  KR-1.3  [Builders] Atlas SDK: development of functional design specification (KR-1%203%20%5BBuilders%5D%20Atlas%20SDK%20development%20of%20functio%20a7d244b2f8ba46f6b308947638649d1e.md)
+Last edited time: June 18, 2024 6:31 PM

@@ -1,0 +1,4 @@
+# [2024 Q1] O-1-3 Improve Joystream DAO Governance
+
+Sub-item: KR-3.1 [HumanResources] Conduct 2 anonymous surveys to understand whether DAO workers are satisfied with governance and working conditions. (KR-3%201%20%5BHumanResources%5D%20Conduct%202%20anonymous%20survey%2005a7d49037d64c32b111737965089271.md), KR-3.2 [Builders] Pioneer Validator dashboard (KR-3%202%20%5BBuilders%5D%20Pioneer%20Validator%20dashboard%2023fc1bfaf8e54454b111379c973df2ac.md), KR-3.3 [HumanResources] Develop prototype of council and lead scoring system (KR-3%203%20%5BHumanResources%5D%20Develop%20prototype%20of%20counc%203d204c871093480a8d2af963ccb7f725.md), KR-3.4 [Council] DAO pay structure (KR-3%204%20%5BCouncil%5D%20DAO%20pay%20structure%2047c0478596ee4b20942f21df5fd0ee96.md)
+Last edited time: June 18, 2024 6:25 PM

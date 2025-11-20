@@ -1,0 +1,5 @@
+# O1:  The MCAP vs Benchmark group grew by 50% by the end of the quarter (CMC).
+
+Parent item: [2024 Q2] Marketing WG (%5B2024%20Q2%5D%20Marketing%20WG%2028d1bcd324e540c7904c6d59f985fd03.md)
+Sub-item: KR1.1: Not less than 40 new ambassadors were onboarded to the program. (KR1%201%20Not%20less%20than%2040%20new%20ambassadors%20were%20onboar%207c61bbae50bd453d946ec46ace2fc9e2.md), KR1.2: Not less than 3,000 users joined the Zealy campaign and completed not less than 30,000 quests. (KR1%202%20Not%20less%20than%203,000%20users%20joined%20the%20Zealy%20c%20a7b02f0a8eba4f22814ac91a2aa5067e.md), KR1.3: Average volume on all exchanges is not less than $100K/day. (KR1%203%20Average%20volume%20on%20all%20exchanges%20is%20not%20less%20%20cca39ec7eaad4a558c18250432fea12d.md), KR1.4: Not less than 100 Joystream x Tangem hardware wallets sold from the lending page within 4 weeks after start of sale. (KR1%204%20Not%20less%20than%20100%20Joystream%20x%20Tangem%20hardwar%209083f868c4fb4d6f828eba9aaa292fc8.md)
+Last edited time: June 18, 2024 6:40 PM
