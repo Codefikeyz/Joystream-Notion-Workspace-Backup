@@ -1,0 +1,8 @@
+# Violation of Content Policy
+
+Group: Forum
+JSG Grading Status: Completed
+Score: 0
+Attributes: Catastrophic Errors
+Handbook Link: https://github.com/Joystream/handbook/blob/e9747eb6c4501b603f85bd35993faa8a057ac673/testnet/council-period-scoring/forum-score.md#catastrophic-errors
+Spot Check Completed: No

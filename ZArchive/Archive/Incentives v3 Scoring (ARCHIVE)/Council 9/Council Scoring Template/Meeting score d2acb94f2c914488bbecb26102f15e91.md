@@ -1,0 +1,45 @@
+# Meeting score
+
+Group: Council
+JSG Grading Status: Not Completed
+Attributes: Forum Post, Subscore
+Reports Gathered: No
+Grade Name: MEETING_SCORE
+Handbook Link: https://joystream.gitbook.io/testnet-workspace/testnet/council-period-scoring#council-handover-meeting
+Score Type: Main Score
+Spot Check Completed: No
+
+Was there a “ticket tracker” board?
+
+Standups:
+
+- Held: Mon-Fri
+- Participants: 3/5 every time ex friday (2/5)
+- Minutes: excellent, but not on the forum?
+
+Handover 1:
+
+- Participation:
+    - All
+- Minutes: missing attendance. Not on the forum?
+
+Handover 2:
+
+- Participation:
+    - kirill, l1dev, freakstatic (igrex not part of that council)
+- Minutes: excellent, but not on the forum?
+
+A little tough to grade as first time:
+
+```markdown
+Daily Standup: [(0.75*4+0.5) + (0.8*5)]/12 = 0.625
+Handover: [(1+0.75) + (0.6+0.8)]/4 = 0.7875
+MEETING_SCORE = (0.625 + 0.7875)/2 = 0.70625
+```
+
+---
+
+- Turnout of council members (n/m), for all handover and standups, where 80% is required to achieve a full score
+- The quality and promptness of publishing the minutes of meeting,
+where the score falls linearly from 1 to 0 if minutes are published
+between 2 hour and 8 hours after the meeting started

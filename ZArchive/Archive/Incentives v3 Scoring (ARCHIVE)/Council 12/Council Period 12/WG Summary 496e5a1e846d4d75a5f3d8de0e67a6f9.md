@@ -1,0 +1,34 @@
+# WG Summary
+
+Group: Distributors
+Attributes: Document, Forum Post, General WG Score, Grade, Subscore, Summary
+Score Notes: On time
+Score: 1
+Submitted [Block]: 1259619
+JSG Grading Status: Completed
+Handbook Link: https://joystream.gitbook.io/testnet-workspace/testnet/council-period-scoring/general-working-group-score#working-group-summary
+Forum Link: https://dao.joystream.org/#/forum/thread/296
+Grade Name: SUMMARY_SCORE
+Parent Score: General WG Score (General%20WG%20Score%205052b5752f794d3386b1117850b7d15d.md)
+Spot Check Completed: No
+
+### **Scope**
+
+All working group summaries have the same "core" scope
+
+- Accounting of how much was spent on what.
+    - Completed. Although the budget data matches and timesheets were included, it doesn’t provide a breakdown of how much each worker & the lead made during the term which would be optimal to have.
+- Actual hires made.
+    - Completed
+- Actual slashes imposed.
+    - Completed
+- Actual firings done.
+    - Completed
+- Changes made to the corresponding notion board.
+    - Completed
+- A summary on how well the working group served it's intended purpose.
+    - Completed
+- Recommendations for what should be focused on in next council period in order to make group more effective.
+    - Completed
+- Suggested changes to the purpose or practices built in to this working group, other working groups, the council or Jsgenesis' role, in order to increase overall effectiveness of the group or the project.
+    - Completed

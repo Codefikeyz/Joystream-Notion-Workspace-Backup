@@ -1,0 +1,43 @@
+# Opening Score
+
+Group: Content
+Attributes: General WG Score, Subscore
+JSG Grading Status: Not Completed
+Handbook Link: https://github.com/Joystream/handbook/blob/master/testnet/council-period-scoring/general-working-group-score.md#score
+Grade Name: OPENING_SCORE
+Parent Score: General WG Score (General%20WG%20Score%20e6d753f703d946bfba011f48e154ef21.md)
+Spot Check Completed: No
+
+```markdown
+# Curators
+## Openings
+**18**
+- 1245976-1277399
+- 3 applicants -> 1 hired
+**17**
+- (cancelled)
+**15**
+- 1206547->1244964
+- 1 applicant -> 1 hired (
+
+### Grading
+* No "downtime" without any openings, even just after filling or closing the old one
+  * (1252800-1206547)/100800 = 0.458859127
+* Quality of opening, in terms of information, requests and questions
+  * Not the best set of questions, but decent. No forum posts, but other good references (discord)
+    * 0.6
+* Inquires and applications dealt with in a reasonable time and manner
+  * Assuming discord is ok here.
+  * 1
+
+-> 0.6862863757
+```
+
+---
+
+- `OPENING_SCORE` is a score computed by Jsgenesis staff
+based on the quality (and existance) of the groups openings, which will
+be in the range [0, 1], and will emphasize things like
+    - No "downtime" without any openings, even just after filling or closing the old one
+    - Quality of opening, in terms of information, requests and questions
+    - Inquires and applications dealt with in a reasonable time and manner

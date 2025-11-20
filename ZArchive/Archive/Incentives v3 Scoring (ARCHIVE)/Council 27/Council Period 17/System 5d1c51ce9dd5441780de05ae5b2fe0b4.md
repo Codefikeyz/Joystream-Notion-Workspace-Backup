@@ -1,0 +1,52 @@
+# System
+
+Group: Distributors
+Attributes: Grade, Group Specific Scores, Spot Check, Subscore
+JSG Grading Status: Not Completed
+Handbook Link: https://joystream.gitbook.io/testnet-workspace/testnet/council-period-scoring/distributors-score#system_score
+Grade Name: SYSTEM_SCORE
+Parent Score: Distributor Score (Distributor%20Score%203e9db6de6c0d4849ba90d7575ca211dd.md)
+Spot Check Completed: No
+
+```markdown
+All subscores are graded binary
+
+coverage_score = 0
+// False
+redundancy_score = 0
+// Plenty of families not having 3+ buckets/operators
+version_score = 1
+/*
+	- 13 nodes running version 0.1.2
+  - 0 nodes were either not up, or not displaying the version
+  - 1 nodes running OTHER versions 
+*(Not reachable, so not counted)
+*/
+transparancy_score = 0
+// 1 operating node does not display this
+excess_capacity_score = 0
+// All buckets seem to distribute everything, or close to that.
+response_score = 0
+// No opening
+
+  SYSTEM_SCORE = (1/6)*(coverage_score + redundancy_score + version_score + transparancy_score + excess_capacity_score + response_score)
+=0.16666
+	
+```
+
+### Parameters
+
+- All families/buckets well distributed across Europe and the CIS (`coverage_score`)
+- All objects must be available from at least 2 buckets in each family
+    - The top 10 most videos must be available from at least 3 buckets in each family (`redundancy_score`)
+- All distributor nodes are on the latest version of `argus` (`version_score`)
+- All distributor nodes displays their location coordinates and node capacity in the metadata, (`transparancy_score`)
+- No distributor node stores more than 60% of their capacity (`excess_capacity_score`)
+- The maximum response time is 2h (`response_score)`
+
+The first five subscores are measured at some point during the last 14400 blocks.
+
+The latter will be measured by creating an opening for `@bwhm`
+ without any rewards, that should be invited to a bucket and set as 
+serving, but not accept any bags. If the node goes down, it must be set 
+to not serving.

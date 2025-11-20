@@ -1,0 +1,24 @@
+# WG Period Plan
+
+Group: Distributors
+Attributes: Document, Forum Post, General WG Score, Grade, Proposal
+JSG Grading Status: Not Completed
+Handbook Link: https://joystream.gitbook.io/testnet-workspace/testnet/council-period-scoring/general-working-group-score#working-group-period-plan
+Grade Name: PLAN_SCORE
+Parent Score: General WG Score (General%20WG%20Score%201b76731bdc864035b9d49b07fceb8d53.md)
+Spot Check Completed: No
+
+### **Scope**
+
+All working group period plans have the same scope:
+
+- Current group composition.
+    - Completed
+- Plan for hirings (emphasizing newcomers).
+    - Completed
+- Planned firings.
+    - Completed
+- Onboarding plans for newcomers.
+    - Completed - although it would be better to highlight exactly how newcomers would be integrated into the WG’s operations. This could include plans for training and other things.
+- Ranked list of suggestions for problems groups should attempt to tackle, and how, with corresponding budgeting, marketing or other resources needed from council or Jsgenesis.
+    - Completed.

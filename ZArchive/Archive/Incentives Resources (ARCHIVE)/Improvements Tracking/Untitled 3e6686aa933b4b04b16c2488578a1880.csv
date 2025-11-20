@@ -1,0 +1,25 @@
+﻿Title,Column 1,Status
+Add budget data,,
+Add Membership numbers,,Completed
+Add Forum Posts,,Completed
+Add WG sizes,,Completed
+Add total issuance ($tJOY),,Completed
+Add total workers,,Completed
+Add Workers per WG,,Completed
+Add UGC,,Completed
+Add candidates (both winners/not winners),,
+Add blockhash of endblock,,Completed
+Add video count,,Completed
+Add channel count,,Completed
+Add number of inducted FMs,,
+Add data from storage reports,,
+Add data from Distributor reports,,
+Add data from CRM,,
+Separate Council Parameters into actual number/unique fields,,
+Integrate with Google Sheets,,
+Add number of new interactions from HR WG,,
+Add data from builder reports/story points,,
+Add $JOY issuance,,
+Add formula to auto select actual deadline from 12:00 PM CEST deadline vs blockheight,,Completed
+Add deadline formulas for reports,,Completed
+Add deadline formulas for plans,,

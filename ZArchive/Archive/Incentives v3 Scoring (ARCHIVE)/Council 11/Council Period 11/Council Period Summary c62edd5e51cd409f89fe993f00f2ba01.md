@@ -1,0 +1,25 @@
+# Council Period Summary
+
+Group: Council
+Attributes: Document, Forum Post, Grade, Master Score, Proposal
+Score Notes: Late submission
+Score: 0.9
+Submitted [Block]: 1171986
+JSG Grading Status: Completed
+Handbook Link: https://github.com/Joystream/handbook/blob/e9747eb6c4501b603f85bd35993faa8a057ac673/testnet/council-period-scoring/README.md#council-period-summary
+Forum Link: https://dao.joystream.org/#/forum/thread/226?post=520
+Forum Report Source: https://dao.joystream.org/#/forum/category/4
+Grade Name: SUMMARY_SCORE
+Parent Score: Network Performance Score (Network%20Performance%20Score%20db78fbeb45634d608012158a1465abbd.md)
+Spot Check Completed: No
+
+### **Scope**
+
+- Accounting of how much was spent on what.
+- Actual hires made.
+- Actual firings done.
+- Spending proposals passed.
+- Changes made to the notion board.
+- A summary on how well the network as a whole performed, and what problems occurred.
+- Recommendations for what should be focused on in next council period in order to make the network more effective.
+- Feedback on the Council Period Parameters during their term.

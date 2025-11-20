@@ -1,0 +1,13 @@
+# Marketing Score
+
+Group: Marketing
+Attributes: Master Score
+Score: 0.738
+JSG Grading Status: Completed
+Grade Name: MARKETER_SCORE
+Spot Check Completed: No
+
+```markdown
+MARKETING_SCORE = [2*GENERAL_WG_SCORE + REPORT_SCORE + RECRUITING_SCORE + DOCUMENTATION_SCORE]/(5*2^{N})
+= [2*0.795 + 0.8 + 1 + 0.3]/(5*2^{0}) = 0.738
+```

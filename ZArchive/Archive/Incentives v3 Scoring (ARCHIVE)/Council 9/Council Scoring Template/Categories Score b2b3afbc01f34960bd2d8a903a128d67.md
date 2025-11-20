@@ -1,0 +1,9 @@
+# Categories Score
+
+Group: Content
+JSG Grading Status: Not Completed
+Reports Gathered: No
+Grade Name: CATEGORIES_SCORE
+Handbook Link: https://github.com/Joystream/handbook/blob/master/testnet/council-period-scoring/content-directory-score.md#scoring-calculations
+Parent Score: Featuring Score (Featuring%20Score%20bdfd23d080284db5bc7960510244d41d.md)
+Spot Check Completed: No

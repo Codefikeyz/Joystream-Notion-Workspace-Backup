@@ -1,0 +1,7 @@
+# Untitled
+
+Controller Account: j4Ud852LsFi6tY9pGcm6XGepW4aAymvMQ1pE2YJqUiK5jVf2R
+Stash Account: j4SN5kYTmCLJFcointTgYFexNRSnJa9KqGb9RcSquVsNMLUVC
+Email: armadonmk2.atreya@gmail.com
+Description: I've been working in IT for more than 15 years. At the current moment, I work as a senior DevOps engineer and starting my career as Python Developer. Since the last year, I've become a crypto enthusiast and started participating in many different projects and testnets. JoyStream is the project I dedicate most of my time to and I already have experience as a validator and part/Lead of a distributors work group
+Name : Deathix

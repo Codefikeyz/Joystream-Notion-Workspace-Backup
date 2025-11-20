@@ -1,0 +1,12 @@
+# Performance Logging
+
+Group: Distributors
+Score Status: Ready for review
+Score: 0
+Score Notes: No Submission found (at all)
+Attributes: Document, Grade
+Reports Gathered: No
+Grade Name: PERFORMANCE_LOGGING
+Parent Score: Research (Research%20f1148177ee474cc4994ab65abe4b7f5f.md)
+Score Type: Subscore
+Spot Check Completed: No

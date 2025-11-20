@@ -1,0 +1,21 @@
+# General Development
+
+Group: Builders
+Attributes: Grade, Group Specific Scores, Spot Check, Subscore
+Score: 1
+JSG Grading Status: Completed
+Handbook Link: https://joystream.gitbook.io/testnet-workspace/testnet/council-period-scoring/builders-score#general_development_score
+Grade Name: GENERAL_DEVELOPMENT_SCORE
+Parent Score: Builder Score (Builder%20Score%20aebe8f9e28764203a96bb8a568d786f5.md)
+Spot Check Completed: No
+
+```markdown
+DEVELOPMENT_SCORE:
+  If STORY_POINTS >= 10:       1
+  If 0 < STORY_POINTS < 10:   STORY_POINTS/10
+
+STORY_POINTS=15
+-> 1
+```
+
+Note:

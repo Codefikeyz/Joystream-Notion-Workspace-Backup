@@ -1,0 +1,1 @@
+# General WG Score

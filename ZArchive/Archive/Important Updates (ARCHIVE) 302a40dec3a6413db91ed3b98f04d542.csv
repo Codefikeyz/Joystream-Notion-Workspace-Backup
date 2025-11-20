@@ -1,0 +1,7 @@
+﻿Last Updated,Severity,Current Status,Name,Type,Areas Impacted,ETA / Resolved,Created at,Time of incident,Time reported,Time of solution,Github Issue Link,URL,Children,Parent
+"May 25, 2022 8:47 AM","Low, PSA",Ongoing,Video Playback Issue,Infrastructure,"Atlas, Video Playback",,"May 25, 2022 8:33 AM","May 24, 2022 7:00 PM (GMT+1)",,,,,,
+"May 16, 2022 8:03 AM","Low, PSA",Ongoing,Problems with releasing stake from voting,"Bug, Information","Elections, Pioneer, Query Node, Voting",,"May 9, 2022 6:46 PM",,,,,,,
+"May 9, 2022 10:30 PM","Medium, PSA",Ongoing,Election vote count issues,Bug,"Council, Elections, Runtime, Voting",,"May 9, 2022 10:07 AM",,,,https://github.com/Joystream/joystream/issues/3530,,,
+"April 25, 2022 10:01 AM",PSA,Ongoing,Carthagne Runtime Upgrade,Runtime Upgrade,Runtime,,"April 25, 2022 9:58 AM",,,,https://github.com/Joystream/joystream/issues/3666,,,
+"April 25, 2022 10:01 AM",PSA,Ongoing,Ephesus Runtime Upgrade,Runtime Upgrade,Runtime,,"April 25, 2022 9:55 AM",,,,,,,
+"April 12, 2022 3:46 PM",PSA,Ongoing,Bounties V2 upgrade,Upgrade,"Bounties, Pioneer, Runtime",,"April 12, 2022 3:37 PM",,,,,,,

@@ -1,0 +1,40 @@
+﻿Test Condition,Actual Result,Blocker?,Comment,Expected Result,Github Link,Page,Status,Use Case
+,,,,,,,,Create Bounty
+,,,,,,,,
+" ""if a contribution is made that brings the cumulative funding to or above the lower bound (minimal range), the bounty proceeds to Working Period stage.""
+",,,,,,Funding Period,to-test,
+"F funding period is limited and the time passes this time, and there was at least one contribution made,",,,,then the bounty proceeds to the Bounty Failed stage,,Funding Period - Failed Stage,to-test,
+""" If a contribution is made that brings the cumulative funding equal to or above the upper bound (maximal range), ",,,,"then the difference is returned, and the bounty proceeds to the Working Period stage. ",,Funding Period,to-test,
+Copy and Tooltips >,,,,,https://github.com/Joystream/pioneer/issues/2390,,change request,
+Exceed limit ot characters in bounty title,Validation error shows but user can continue flow,no,,Validation error shows and CTA is disabled,https://github.com/Joystream/pioneer/issues/2390,,failed,UI
+,,,,,,,,
+If bounty fails and cherry is set up,,,,"cherry is split between all contributors equally, 1 remaining Joy in some cases are burned, based on balances.existentialDeposit setting If undevidable equally, the first funder in the list gets an extra 1 Joy.",,Cherry,passed,
+"F funding period is limited and the time passes this time, and no contributions were made ",,,,it proceeds to the Expried Funding Period stage.,,Funding Period - Expired Funding Stage,to-test,
+Entrant stake is defined during bounty creation,"Right now we have a pre-defined input on work entrant modal, which is equal to minimum work entrant stake entry.",,❓ Right now we have a pre-defined minimum value. What is rationale for worker to enter higher amount to stake? Will Oracle base judgement on staking amoun that worker puts? Is this impacting slashing?,Minimum entrant stake validation applies to member entering Work Entry,,Entrant Stake,to-confirm,
+,,,,,,Not more than 50 members can be whitelisted,to-test,
+Only Whitelisted members can take part,,,,,,Working Period - Whitelisted,to-test,
+,,,,,https://github.com/Joystream/pioneer/issues/2520,Tooltips,change request,Bounty Details Page
+,,,"Signing, create thread> do not allow to select accounts that are not bound to other members. ❓
+<img width=""535"" alt=""Screenshot 2022-03-10 at 19 07 23"" src=""https://user-images.githubusercontent.com/93924525/157736969-7f3c10b7-b3c6-46e9-ac6d-8f31380966b2.png"">",,https://github.com/Joystream/pioneer/issues/2390,Account bound to other member cannot be selected for creating bounty,to-confirm,
+condition is set to >,user is informed about minimum range,,,user must be informed to enter value strictly above,https://github.com/Joystream/pioneer/issues/2390,Entrant stake field,failed,
+if bounty proceeds to work period and cherry is set up,,,,cherry is returned to creator automatically,,Cherry Return to Creator,to-test,
+,,,,,,,,Working Period
+only staking account bound to member can be selected,any account can be selected resulting in transaction failed,,"bwhm confirms:
+from to-confirm → change requested",unsuitable accounts would not be available for selection,https://github.com/Joystream/pioneer/issues/2546,Announce work entry,change request,
+Works >0,,,,"Bounty ",,Working period expires and works submitted,,
+"Works < 0 ",,,,Bounty transitions to Failed,,Working period expires and no works submitted (to submit work you need to submit work entry),,
+,,,,,,,,Bounty Failed
+,,,,,https://github.com/Joystream/pioneer/issues/2510,Confirmatiom modal and failure toaster notiuff are designed for Cancel transaction,failed,Submit Work
+"when bounty fails and active member made contribution the Withdraw Contribution button is shown, when user clicks on “Withdraw contribution”",goes to blank page before modal shown,yes,,Withdraw contribution modal is shown and transaction can be signed > contribution - transaction fees returned to account,https://github.com/Joystream/pioneer/issues/2488,Withdraw contribution,failed,
+,,,,,,,,Funding Period
+,,,,,,,,
+Limited funding period; working and judging period duration must be shown as countdown on details and card. RN is static,,,,,https://github.com/Joystream/pioneer/issues/2523,Display funding period countdown,failed,
+,,,,,,,,
+,Could not selec the winner ><,yes,This is probably due to Judging period expired but QN not updated as after refresh bounty was failed.,,,,to-retest,Judgement Period
+Withdraw stake when bounty judgement period expired and no winners selected,incorrect modal shown. You have successfully withdrawn contribution. Button keeps showing after stake withdrawn,no,,,,,failed,
+Withdraw contribution when bounty judgement period expired and no winners selected,,yes,,,https://github.com/Joystream/pioneer/issues/2488,,failed,
+Split reward if odd funding and even participants (does not perfectly split),,,,the first worker in the list gets extra 1 Joy,,,to-test,
+Slash worker,,,,,,,to-test,
+No workers won (actively selected from interface)- bounty fails,,,,,,,to-test,
+Oracle cherry is set up during create bounty Flow,Oracle cherry is not visible in GUI -  Not Implemented?,no?,"Was not implemented, ","Oracle cherry is credited to Oracle, once judgement is exerted",https://github.com/Joystream/pioneer/issues/2529,Oracle Cherry,failed,
+Use a staking account ≠ controller,Requires controller,,bwhm,That it works,https://github.com/Joystream/pioneer/issues/2545,Contribute,change request,

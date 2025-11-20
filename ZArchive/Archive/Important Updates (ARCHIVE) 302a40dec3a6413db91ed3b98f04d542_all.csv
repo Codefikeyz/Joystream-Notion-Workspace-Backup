@@ -1,0 +1,21 @@
+﻿Name,Areas Impacted,Children,Created at,Current Status,ETA / Resolved,Github Issue Link,Last Updated,Parent,Severity,Time of incident,Time of solution,Time reported,Type,URL
+New changes to runtime vs before,,,"March 23, 2022 9:07 AM",Resolved,"March 28, 2022",,"April 18, 2022 11:04 AM",,PSA,,,,,
+New network rollout (Olympia),,,"March 23, 2022 9:10 AM",Resolved,"March 28, 2022",,"April 18, 2022 11:04 AM",,PSA,,,,,
+Query Node server down,"Atlas, Pioneer, Query Node, Services",,"April 2, 2022 9:31 AM",Resolved,"April 7, 2022",,"April 18, 2022 11:03 AM",,CRITICAL,"April 1, 2022 2:48 PM (GMT+1)","April 2, 2022 5:00 PM (GMT+1)","April 2, 2022 8:04 AM (GMT+1)",Downtime,
+Some users unable to release vote stake,"Elections, Runtime, Staking, Voting",,"April 2, 2022 9:31 AM",Resolved,"April 22, 2022",https://github.com/Joystream/joystream/issues/3559,"April 22, 2022 9:55 AM",,Medium,,,"April 5, 2022",Bug,
+Council unable to hire new lead due to `leave_unstaking_period`,"Council, Hiring/Firing, Openings, Pioneer, Working Groups",,"April 7, 2022 5:51 PM",Resolved,"April 7, 2022",https://github.com/Joystream/pioneer/issues/2818,"April 18, 2022 11:03 AM",,Low,"April 7, 2022",,"April 7, 2022","Bug, Information",
+"Scam messages, private sale offerings and other scams",Users,,"April 7, 2022 6:27 PM",Resolved,"April 7, 2022",,"April 18, 2022 11:03 AM",,PSA,"April 7, 2022",,,"Information, PSA, Scams",
+Rhodes runtime upgrade,"Atlas, Builders, Council, Everyone, Query Node, Runtime, Validators",NFTs rollout (Important%20Updates%20(ARCHIVE)/NFTs%20rollout%20fbc93bb83a2049dd837be0ea7b7a4fec.csv),"April 7, 2022 7:36 PM",Resolved,,https://github.com/Joystream/joystream/issues/3296,"May 16, 2022 7:59 AM",,PSA,,"May 11, 2022",,"PSA, Runtime Upgrade, Upcoming event, Upgrade",
+CRM Rollout,"Everyone, FM Program, Users",,"April 7, 2022 8:48 PM",Resolved,,,"April 28, 2022 4:55 PM",,PSA,,,,"Information, Official Sources, PSA, Rollout, Upcoming event",https://www.notion.so/joystream/d56f4087a3cf4f66a17eb3f254982c54?v=b8d42819b45d4582baccc6fa160fabe8
+$tJOY/BCH automated exchange feature,"Services, Users, tJOY exchange",,"April 7, 2022 11:26 PM",Resolved,"April 9, 2022",https://github.com/Joystream/joystream-org/pull/436,"April 18, 2022 11:01 AM",,PSA,,,,"Information, Official Sources, Rollout, Upcoming event",https://www.joystream.org/cashout
+Testnet Bounties Rollout,"Bounties, CRM, FM Program",,"April 8, 2022 9:47 AM",Resolved,,,"April 28, 2022 4:55 PM",,PSA,,,,Rollout,
+Bounties V2 upgrade,"Bounties, Pioneer, Runtime",,"April 12, 2022 3:37 PM",Ongoing,,,"April 12, 2022 3:46 PM",,PSA,,,,Upgrade,
+NFTs rollout,"Atlas, NFTs, Pioneer, Query Node, Runtime",,"April 12, 2022 3:46 PM",Resolved,"April 29, 2022",,"May 16, 2022 7:48 AM",Rhodes runtime upgrade (Important%20Updates%20(ARCHIVE)/Rhodes%20runtime%20upgrade%200813eb7666384cabb4d33f14e03c77e9.csv),PSA,"April 18, 2022",,,"Information, Rollout, Runtime Upgrade, Upgrade",
+Block Finalization issue,"Atlas, Everyone, Pioneer, Query Node, Status Server, Validators",,"April 20, 2022 12:07 AM",Resolved,"April 22, 2022",,"April 22, 2022 9:46 AM",,CRITICAL,"April 19, 2022 2:00 PM (GMT+1)",,"April 20, 2022 12:00 AM (GMT+1)",Downtime,
+Ephesus Runtime Upgrade,Runtime,,"April 25, 2022 9:55 AM",Ongoing,,,"April 25, 2022 10:01 AM",,PSA,,,,Runtime Upgrade,
+Carthagne Runtime Upgrade,Runtime,,"April 25, 2022 9:58 AM",Ongoing,,https://github.com/Joystream/joystream/issues/3666,"April 25, 2022 10:01 AM",,PSA,,,,Runtime Upgrade,
+Query Node reliability issues,"Bounties, Elections, Pioneer, Query Node, Voting",,"April 28, 2022 10:30 PM",Resolved,,,"May 1, 2022 8:20 AM",,High,,,,"Bug, Downtime",
+Severity rankings of problems,,,"April 29, 2022 1:14 AM",,,,"April 29, 2022 1:17 AM",,,,,,,
+Election vote count issues,"Council, Elections, Runtime, Voting",,"May 9, 2022 10:07 AM",Ongoing,,https://github.com/Joystream/joystream/issues/3530,"May 9, 2022 10:30 PM",,"Medium, PSA",,,,Bug,
+Problems with releasing stake from voting,"Elections, Pioneer, Query Node, Voting",,"May 9, 2022 6:46 PM",Ongoing,,,"May 16, 2022 8:03 AM",,"Low, PSA",,,,"Bug, Information",
+Video Playback Issue,"Atlas, Video Playback",,"May 25, 2022 8:33 AM",Ongoing,,,"May 25, 2022 8:47 AM",,"Low, PSA","May 24, 2022 7:00 PM (GMT+1)",,,Infrastructure,
