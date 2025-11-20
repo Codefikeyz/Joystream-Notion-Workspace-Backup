@@ -1,0 +1,3 @@
+# COUNTRY / TIME ZONE
+
+: Nigeria GMT +1

@@ -1,0 +1,3 @@
+# EXPERIENCE
+
+: experience working remotely, particularly as a social media manager and community moderator. Previously, I was employed at Jsgenesis, where I focused on the Gleev/YPP project. Initially, I served as an outreach specialist before transitioning to verification and eventually becoming the primary community manager. My role involved providing support to creators through Discord channels and managing support tickets on GitHub. I'm passionate about providing assistance and building connections with the audience.

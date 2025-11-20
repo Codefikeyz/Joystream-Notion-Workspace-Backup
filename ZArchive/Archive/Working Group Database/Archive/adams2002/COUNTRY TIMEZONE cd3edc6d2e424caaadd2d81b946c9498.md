@@ -1,0 +1,3 @@
+# COUNTRY / TIMEZONE
+
+Tags: Ghana - GMT

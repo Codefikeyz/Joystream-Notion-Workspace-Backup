@@ -1,0 +1,3 @@
+# COUNTRY / TIME ZONE
+
+: Turkey /UTC+3

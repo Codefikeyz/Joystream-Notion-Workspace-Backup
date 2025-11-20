@@ -1,0 +1,3 @@
+# CORE SKILLS
+
+: React, GraphQL/REST, SQL/NoSQL, RUST

@@ -1,0 +1,3 @@
+# WORKER INFO
+
+: Songoku

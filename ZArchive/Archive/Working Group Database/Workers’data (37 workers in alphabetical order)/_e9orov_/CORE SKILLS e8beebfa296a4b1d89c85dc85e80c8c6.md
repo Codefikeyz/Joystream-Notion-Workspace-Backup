@@ -1,0 +1,3 @@
+# CORE SKILLS
+
+: design, sales

@@ -1,0 +1,3 @@
+# COUNTRY / TIME ZONE
+
+: UTC+6

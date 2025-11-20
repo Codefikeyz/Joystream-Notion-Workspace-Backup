@@ -1,0 +1,3 @@
+# COUNTRY / TIMEZONE
+
+: gmt +1

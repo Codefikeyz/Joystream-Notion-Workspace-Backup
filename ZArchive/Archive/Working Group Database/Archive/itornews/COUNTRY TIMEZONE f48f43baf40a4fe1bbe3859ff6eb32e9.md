@@ -1,0 +1,3 @@
+# COUNTRY/TIMEZONE
+
+: Russia/ UTC+3

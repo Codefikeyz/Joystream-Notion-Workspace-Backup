@@ -1,0 +1,3 @@
+# CORE SKILLS
+
+:  UX/UI, JS, HTML, CSS
