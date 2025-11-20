@@ -1,0 +1,15 @@
+# What is joystream? Simply defined
+
+Category: Science & Technology
+Category id: 14
+Chanel name: MWG Official
+Duration: 288
+Id: 26963
+Language: en
+License: CC0
+License code: 1002
+Original License: Original video for JoyStream
+Original Link: Original Video for Joystream
+Owner: MWG
+Size: 154772248
+URL: https://play.joystream.org/video/26963

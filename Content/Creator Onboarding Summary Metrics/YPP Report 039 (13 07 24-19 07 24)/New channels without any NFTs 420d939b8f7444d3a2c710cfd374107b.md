@@ -1,0 +1,47 @@
+# New channels without any NFTs
+
+| Status | Link YT | Link Channel |
+| --- | --- | --- |
+| Silver | https://www.youtube.com/channel/UCsncvGgAFVzREn8YhulcoSg | https://gleev.xyz/channel/64668 |
+| Bronze | https://www.youtube.com/channel/UCdMQYqkC9fE7Dn3CnAiU2OA | https://gleev.xyz/channel/25898 |
+| Bronze | https://www.youtube.com/channel/UCTn7_C_iwvFCu2cZhCxKGkg | https://gleev.xyz/channel/64523 |
+| Bronze | https://www.youtube.com/channel/UCeoP7Xm8yRNVUlmDjLMsy7Q | https://gleev.xyz/channel/64563 |
+| Bronze | https://www.youtube.com/channel/UCh-3Q-tXnL6Mw25C1NaZliA | https://gleev.xyz/channel/64564 |
+| Bronze | https://www.youtube.com/channel/UCUdoEHxd9k4ssej-w0_8KtQ | https://gleev.xyz/channel/64565 |
+| Bronze | https://www.youtube.com/channel/UCGbLlycfvjBuB6b8w-Q8c5g | https://gleev.xyz/channel/64566 |
+| Bronze | https://www.youtube.com/channel/UCBObhpbFZ7nDSZUjUoxYHvA | https://gleev.xyz/channel/64568 |
+| Bronze | https://www.youtube.com/channel/UCWHg-q_LENK2zUcSeGShPuA | https://gleev.xyz/channel/64572 |
+| Bronze | https://www.youtube.com/channel/UC-NkeUWoCkr-3_T_R1INjNA | https://gleev.xyz/channel/64591 |
+| Bronze | https://www.youtube.com/channel/UCHJgD0VXwvHLJh4FpTyKSHg | https://gleev.xyz/channel/64598 |
+| Bronze | https://www.youtube.com/channel/UCqqGRXMdeYYAZy7d7op2aBg | https://gleev.xyz/channel/64602 |
+| Bronze | https://www.youtube.com/channel/UC82AxlwTgyw_RUDLkrOQJnQ | https://gleev.xyz/channel/64607 |
+| Bronze | https://www.youtube.com/channel/UC_AEf9_7aWBBEetnqcLoEww | https://gleev.xyz/channel/64612 |
+| Bronze | https://www.youtube.com/channel/UCib028IRalw604HGq1kdwPQ | https://gleev.xyz/channel/64617 |
+| Bronze | https://www.youtube.com/channel/UCjeKQBQdBFIzjhPAv0dVpGQ | https://gleev.xyz/channel/64620 |
+| Bronze | https://www.youtube.com/channel/UCZZhdIFgpM1FnBOR5vJbNRw | https://gleev.xyz/channel/64621 |
+| Bronze | https://www.youtube.com/channel/UCv0c_AvYORx58Q9rijBvkWw | https://gleev.xyz/channel/64622 |
+| Bronze | https://www.youtube.com/channel/UCtVQmVJP-s3y61o8Xg-aOvg | https://gleev.xyz/channel/64643 |
+| Bronze | https://www.youtube.com/channel/UC4ZpYWXKD1IlYPusFd7xa6Q | https://gleev.xyz/channel/64645 |
+| Bronze | https://www.youtube.com/channel/UCKOSzKW1j-2mBW2QWSv_bpQ | https://gleev.xyz/channel/64648 |
+| Bronze | https://www.youtube.com/channel/UCjH-KmoJfWfv61K64M__jcQ | https://gleev.xyz/channel/64650 |
+| Bronze | https://www.youtube.com/channel/UCwQgHQhikTCxJfMpDQIRI2A | https://gleev.xyz/channel/64652 |
+| Bronze | https://www.youtube.com/channel/UC4I9vhoyC7vknz0a-CwGblw | https://gleev.xyz/channel/64658 |
+| Bronze | https://www.youtube.com/channel/UChsMz5JtZjSFO-Ug4ASTS0g | https://gleev.xyz/channel/64659 |
+| Bronze | https://www.youtube.com/channel/UCf2m7RcXZujw3ErJlZliuMg | https://gleev.xyz/channel/64662 |
+| Bronze | https://www.youtube.com/channel/UCXbRFhJHnsHHuAii5QjxRYA | https://gleev.xyz/channel/64666 |
+| Bronze | https://www.youtube.com/channel/UCjHm60HjSyYkIzdQVx4y1Gw | https://gleev.xyz/channel/64667 |
+| Bronze | https://www.youtube.com/channel/UCDIP_etpH0LHo_rbfsWx7Ag | https://gleev.xyz/channel/64669 |
+| Bronze | https://www.youtube.com/channel/UCtS6KowQTFPq9J2DnRLRuJQ | https://gleev.xyz/channel/64670 |
+| Bronze | https://www.youtube.com/channel/UCZBXrAYgBA8nrC_k6F53yLQ | https://gleev.xyz/channel/64676 |
+| Bronze | https://www.youtube.com/channel/UC9wQfmyw6eTNgqBXG1e2IsQ | https://gleev.xyz/channel/64677 |
+| Bronze | https://www.youtube.com/channel/UCrKr4OAmYFTca3W0_vfw2mA | https://gleev.xyz/channel/64678 |
+| Bronze | https://www.youtube.com/channel/UC-oJtUPVpVogkJN_5ttaIgw | https://gleev.xyz/channel/64680 |
+| Bronze | https://www.youtube.com/channel/UC8__6WBjyg_py4ToV0M6SzA | https://gleev.xyz/channel/64686 |
+| Bronze | https://www.youtube.com/channel/UCAR5lebbN5TTk8uU1PR-QRQ | https://gleev.xyz/channel/64688 |
+| Bronze | https://www.youtube.com/channel/UCMi5gHSg5re2z9ne9dgxthw | https://gleev.xyz/channel/64694 |
+| Bronze | https://www.youtube.com/channel/UC19_qUygUmF8OKUrHeYAxRw | https://gleev.xyz/channel/64696 |
+| Bronze | https://www.youtube.com/channel/UCyVs7_fRpQ72cmPYUihLi-A | https://gleev.xyz/channel/64697 |
+| Bronze | https://www.youtube.com/channel/UC24hrpoa3ggRGH58FoDbW-g | https://gleev.xyz/channel/64698 |
+| Bronze | https://www.youtube.com/channel/UC-39zAact29LTvo62kTnRPg | https://gleev.xyz/channel/64702 |
+| Bronze | https://www.youtube.com/channel/UCZksp-2wz2lz30KwypXWp2Q | https://gleev.xyz/channel/64708 |
+| Bronze | https://www.youtube.com/channel/UCjTIml0WW9MDOkrDDfKx6Og | https://gleev.xyz/channel/64709 |

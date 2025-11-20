@@ -1,0 +1,13 @@
+# REPORT TERM-24
+
+[**Video statistics**](REPORT%20TERM-24/Video%20statistics%20716f75405cc54055abd10d5a3fa5fe10.md)
+
+[CWG summary](REPORT%20TERM-24/CWG%20summary%2082686ef294b1487d8a4fe5da1cb058bb.md)
+
+[Content moderation](REPORT%20TERM-24/Content%20moderation%20917db2dbb03943c584db148252c38c64.md)
+
+---
+
+[WORKING GROUP PLAN. TERM-17](REPORT%20TERM-24/WORKING%20GROUP%20PLAN%20TERM-17%20bfbafa31b58e4fedb2f6539f1820e44a.md)
+
+[Updates](REPORT%20TERM-24/Updates%20f6bec335e71e4729a1b365f3245ff86e.md)

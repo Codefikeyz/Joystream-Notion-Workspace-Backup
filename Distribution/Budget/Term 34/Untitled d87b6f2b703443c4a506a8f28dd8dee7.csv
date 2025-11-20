@@ -1,0 +1,12 @@
+﻿Worker ID,Contact handle,Payment HAPI per round,First Round TX,Second Round TX
+27,0x2bc (Discord),163500000000000,https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.joyutils.org#/extrinsics/decode/0x280f4066ef173950225f69317b0fb40078dce2a77a86d62e76e325cad87ce58ddf2d00c4d92ceb7b0000000000000000000000,https://joystream.subscan.io/extrinsic?module=distributionworkinggroup&call=spend_from_budget
+24,sieemma (Discord),204375000000000,https://joystream.subscan.io/extrinsic/8881503-1,
+20,mrbovo (Discord),0,,
+26,https://t.me/Deathlx (Telegram),204375000000000,,
+25,"spoonbender_mms.team (Discord)
+@spoonbenderMMS (Telegram)",34375000000000,,
+29,klaudiusz.eth (Discord),116875000000000,https://joystream.subscan.io/extrinsic/8881506-1,
+28,klaudiusz.eth (Discord),204375000000000,https://joystream.subscan.io/extrinsic/8881500-1,
+30,p0k(Discord),204375000000000,https://joystream.subscan.io/extrinsic/8881499-1,
+23,mmx(Discord),204375000000000,https://joystream.subscan.io/extrinsic/8881496-1,
+,,,,

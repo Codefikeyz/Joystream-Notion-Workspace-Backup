@@ -1,0 +1,4 @@
+﻿Comment,Id,Title,Language,Chanel name,Owner,Duration,Size,Category id,Category,License code,Original License,Original Link,Create,Update,URL,NFT,License,Curator,Date
+test video,26865,video1_bucket10,en,Bucket 10,joystream_test,24,13208090,7,Gaming,1002,original video,,"June 13, 2022 5:09 PM (GMT+1)","June 13, 2022 5:09 PM (GMT+1)",https://play.joystream.org/video/26865,,CC0,prontera,"June 15, 2022"
+test video (dublicate) - Censored,26866,Bucket_11_video_1,en,Bucket 11,joystream_test,24,13208090,8,People & Blogs,1002,original video,,"June 13, 2022 5:12 PM (GMT+1)","June 13, 2022 5:12 PM (GMT+1)",https://play.joystream.org/video/26866,,CC0,prontera,"June 15, 2022"
+Video not found (https://dao.joystream.org/#/forum/thread/35?post=613),26895,Attempt 5,en,ISO 400,isonar,52,9038747,13,Education,1004,,,"June 17, 2022 1:08 PM (GMT+1)","June 17, 2022 1:08 PM (GMT+1)",https://play.joystream.org/video/26895,,,,"June 17, 2022"

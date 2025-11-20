@@ -1,0 +1,31 @@
+﻿Worker ID,Bucket,Contact handle,Contact on,Extra,First Round TX,Location,Member ID,Member handle,Monthly cost,Operator Type,Payment HAPI per round,Salary JOY,Salary USD,Second Round TX,Server specs,Service,Status,Status endpoint,ema30
+27,1:0,0x2bc (Discord),Discord,,https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.joyutils.org#/extrinsics/decode/0x280f4066ef173950225f69317b0fb40078dce2a77a86d62e76e325cad87ce58ddf2d00c4d92ceb7b0000000000000000000000,"Tokyo, JP",209,0x2bc,$185.00,Operator,163500000000000,"32,700",$327.00,https://joystream.subscan.io/extrinsic?module=distributionworkinggroup&call=spend_from_budget,"CPU: Xeon E-2286G
+RAM: 32 GB
+Disk: 960 GB SATA (RAID 1)","Vultr, dedicated",Inactive,https://tokyo.0x2bc.com/distributor/api/v1/status,0.01
+24,2:0,sieemma (Discord),Discord,,https://joystream.subscan.io/extrinsic/8881503-1,"Sao Paolo, BR",458,sieemma,$216.00,Operator,204375000000000,"40,875",$327.00,,"CPU: Xeon E-2288G CPU @ 3.70GHz (8 cores)
+RAM: 64 GB
+Disk: 2 X 500 GB SSD","http://latitude.sh , dedicated",Active,https://sieemmanodes.com/distributor/api/v1/status,0.008
+20,0:3,mrbovo (Discord),Discord,,,"Helsinki, FI",2502,mrbovo,$50.00,Lead Operator,0,"5,875",$47.00,,"CPU: Ryzen 5 3400G
+RAM: 32 GB
+Disk: 960GB SATA ","Hetzner, dedicated",Active,https://ru.joystreamstats.live/distributor/api/v1/status,0.008
+26,0:2,https://t.me/Deathlx (Telegram),Telegram,Server shared with other services (not Joystream exclusive),,"Naaldwijk, NL",4236,Deathix,$200.00,Operator,204375000000000,"40,875",$327.00,,"CPU: 4 cores (adjustable)
+RAM: 16 GB (adjustable)
+Disk: 800 GB SATA (adjustable)","Worldstream, dedicated virtualized",Active,https://jstrm.numisma.cc/distributor/api/v1/status,0.008
+25,5:0,"spoonbender_mms.team (Discord)
+@spoonbenderMMS (Telegram)",Discord,,,"Singapore, SG",11765,spoonbender,$55.00,Operator,34375000000000,"6,875",$55.00,,"CPU: i7-7700K
+RAM: 64GB
+Disk: 900GB NVMe","OVH, dedicated",Active,https://distributor-node.mms.team/distributor/api/v1/status,0.008
+29,,klaudiusz.eth (Discord),Discord,,https://joystream.subscan.io/extrinsic/8881506-1,,2233,klaudiusz,,Monitoring Operator,116875000000000,"23,375",$187.00,,"CPU: Ryzen 5 3600
+RAM: 64 GB DDR4
+Disk: 1TB NVMe",?,Active,https://dist1.joyutils.org/distributor/api/v1/status,0.008
+28,0:0,klaudiusz.eth (Discord),Discord,,https://joystream.subscan.io/extrinsic/8881500-1,"Nuremberg, DE",2233,klaudiusz,$50.00,Operator,204375000000000,"40,875",$327.00,,"CPU: Ryzen 5 3600
+RAM: 64 GB DDR4
+Disk: 1TB NVMe","Hetzner, dedicated",Active,https://dist1.joyutils.org/distributor/api/v1/status,0.008
+30,5:0,p0k(Discord),Discord,,https://joystream.subscan.io/extrinsic/8881499-1,"LA, US",11765,spoonbender,$98.00,Operator,204375000000000,"40,875",$327.00,,"CPU: i7-7700K
+RAM: 64GB
+Disk: 900GB NVMe","OVH, dedicated",Active,https://distributor-node.mms.team/distributor/api/v1/status,0.008
+23,3:0,mmx(Discord),Discord,,https://joystream.subscan.io/extrinsic/8881496-1,"Mumbai, IN",3085,mmx,$98.00,Operator,204375000000000,"40,875",$327.00,,"Intel(R) Xeon(R) E-2386G CPU @ 3.50GHz
+32GB RAM
+960GB NVME SSD
+1Gbps NIC","OVH, dedicated",Active,https://dw1.js.8k.pm/distributor/api/v1/status,0.008
+,,,,,,,,,,Lead,,,,,,,,,

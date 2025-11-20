@@ -1,0 +1,49 @@
+# CWG summary
+
+### The budget was spent on salary of the lead and worker.
+
+| Lead’s salary | 57.7200 ktJOY |
+| --- | --- |
+| Worker’s salary: | 144.3000 ktJOY |
+| Deputy Leader: | 216.4500 ktJOY |
+
+### Summary
+
+The working group completed its task on time:
+
+- The staff performed a detailed statistics and moderation report.
+
+### Created:
+
+<aside>
+📌 @spat_sochi 
+[https://docs.google.com/spreadsheets/d/1m00m76QvzFCdPiyY8ugXhTgxA2ePM4IYa-lsY98Fof0/edit#gid=1848792995](https://docs.google.com/spreadsheets/d/1m00m76QvzFCdPiyY8ugXhTgxA2ePM4IYa-lsY98Fof0/edit#gid=1848792995)
+
+</aside>
+
+<aside>
+📌 @Kira_skipper
+
+[Content moderation](../../../Operational%20Rules/Content%20moderation%204bf3a2f01e6049d283e7973a6586a1e1.md)
+
+[**Featured content in Atlas**](../../../Onboarding%20for%20new%20leads/Featured%20content%20in%20Atlas%20e02d7fccd1a14e2ba674ad46e702660a.md)
+
+[Bounty №3](../../../Ideas/Bounty%20%E2%84%963%20ec85bfc4f62d4773ae071c3a1c10d21b.md)
+
+[Legal relations in the NFT market](../../../NFT/Legal%20relations%20in%20the%20NFT%20market%20481a6a69b10e46339cd8bf38f2ad654c.md)
+
+</aside>
+
+[Based on: https://docs.google.com/spreadsheets/d/1wEW-edUKKdxoTckmMGTnNYId9du-_ypd2HdeKbzZhYU/edit#gid=504642660](CWG%20summary/Based%20on%20https%20docs%20google%20com%20spreadsheets%20d%201wEW%20487cb8f9480042428bca9a6f943acffd.csv)
+
+### Actual hires made.
+
+- None
+
+### Actual slashes imposed.
+
+- None
+
+### Actual firings done
+
+- None
