@@ -1,0 +1,11 @@
+# Lutata
+
+Address: 5EFN6CXHShib8QDnjp6FcLRy7pDA71gGsHKsmX326qpHsFHX
+Date: February 19, 2023
+Discord: Lutata#1581
+DiscordId: 982100000000000000
+Quest: Tweet about us
+Reward: 83 XP
+Status: success
+Twitter: cilliantom1
+answer: https://twitter.com/cilliantom1/status/1627324647149830144?s=20

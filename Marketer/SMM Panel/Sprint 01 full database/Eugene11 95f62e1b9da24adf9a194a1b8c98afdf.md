@@ -1,0 +1,10 @@
+# Eugene11
+
+Address: 5CJkC6v7m71rDrSVzeJ1ojczskf29P7Re3oMtjM7MG5ga2wa
+Date: November 3, 2023
+Discord: dp1105#2882
+DiscordId: 887741613323980800
+Quest: Like, retweet ❤️#37
+Reward: 15 XP
+Status: success
+Twitter: nichego_strash

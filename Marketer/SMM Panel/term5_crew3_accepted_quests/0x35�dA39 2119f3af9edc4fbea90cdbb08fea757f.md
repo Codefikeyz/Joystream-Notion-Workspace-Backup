@@ -1,0 +1,10 @@
+# 0x35�dA39
+
+Address: 163NChuscF5QffkMq392JpEZN5Y7RYYsstPDfQVTmd7GetE1
+Date: February 19, 2023
+Discord: sj9880#9902
+DiscordId: 447008000000000000
+Quest: Follow Joystream on Twitter??
+Reward: 33 XP
+Status: success
+Twitter: Sj9880

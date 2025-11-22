@@ -1,0 +1,10 @@
+# Gslava
+
+Address: 14zLdq24pkcWEYRknuNQH9kNDPw9K3mhU2Gdf1HDQSoG7heV
+Date: February 18, 2023
+Discord: slava#8137
+DiscordId: 913391000000000000
+Quest: Follow Joystream on Twitter??
+Reward: 33 XP
+Status: success
+Twitter: slavagorvat

@@ -1,0 +1,11 @@
+# 0xFe…D90A
+
+Address: 14TYX5A9nLLxbe3WLrDvr45k9x2X5YwrcnEdD2jg2hmhwZiD
+Date: February 20, 2023
+Discord: Jamespark#0096
+DiscordId: 843943088418455600
+Quest: Tweet about us
+Reward: 83 XP
+Status: success
+Twitter: YGCHANFAMILY
+answer: https://twitter.com/YGCHANFAMILY/status/1627523443280445440?t=VfxJmU8o-FFX3bVa7LjzKQ&s=19

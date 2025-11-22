@@ -1,0 +1,10 @@
+# capsig.hotrannt
+
+Address: 6234
+Date: February 3, 2023
+Discord: Capsig#5899
+DiscordId: 989360000000000000
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: MistyFi97908206

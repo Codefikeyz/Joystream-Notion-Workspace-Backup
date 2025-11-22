@@ -1,0 +1,10 @@
+# gotorich
+
+Address: 1seGRsRKQVXix1NpQytFtCPYStY51nXVAN6cjeZvb1KXXt5
+Date: February 21, 2023
+Discord: ???#6588
+DiscordId: 902389000000000000
+Quest: Like, reply, retweet ??#14
+Reward: 33 XP
+Status: success
+Twitter: ms0405Kim

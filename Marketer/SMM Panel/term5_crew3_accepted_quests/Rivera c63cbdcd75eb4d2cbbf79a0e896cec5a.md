@@ -1,0 +1,11 @@
+# Rivera
+
+Address: j4SxZGDhRw8mNvz1TDwag1WwoMgniSD6UXQfKxZTY6FpRKWZu
+Date: February 22, 2023
+Discord: Rivera#7748
+DiscordId: 957720000000000000
+Quest: Question 7
+Reward: 8 XP
+Status: success
+Twitter: riveracrypto
+answer: 15 days

@@ -1,0 +1,11 @@
+# 1yuno
+
+Address: 1Km9VfkKizLK6YM1Zv6FwPwHnaxgReP7NVBGCxTTbwQYgdC
+Date: February 24, 2023
+Discord: 1yuno#4542
+DiscordId: 334591569913053200
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: Atik54068989
+answer: joined

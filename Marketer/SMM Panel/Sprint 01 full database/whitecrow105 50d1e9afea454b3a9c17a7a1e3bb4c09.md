@@ -1,0 +1,11 @@
+# whitecrow105
+
+Address: 5DefGfnPiPXgxYEBu44G8CSkEjPezofiZLFgWER8Y5w5QsQz
+Date: February 18, 2023
+Discord: whitecrow105#8827
+DiscordId: 911596970601234400
+Quest: High-Quality Twitter thread 🐦
+Reward: 250 XP
+Status: success
+Twitter: whitecrow105
+answer: https://twitter.com/whitecrow105/status/1626766872950738945?s=20

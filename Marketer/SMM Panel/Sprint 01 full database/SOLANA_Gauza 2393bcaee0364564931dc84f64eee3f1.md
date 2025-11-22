@@ -1,0 +1,10 @@
+# SOLANA_Gauza
+
+Address: 129qce2RcGtCWH8wY7SKnmV8jRcMT514E9Rnni1CXfkPW5C8
+Date: March 13, 2023
+Discord: SOLANA_Gauza#6576
+DiscordId: 377460875625365500
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: SuperRooky83

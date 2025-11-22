@@ -1,0 +1,11 @@
+# mainnerin
+
+Address: 136sqvCxQCJUX1j8RLLApgwTx8Z9vN3DkoNZ77VbVbHp1JeT
+Date: February 25, 2023
+Discord: mainnerin#8020
+DiscordId: 960999817423781900
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: EricaLo42913572
+answer: Digital Currency Group (DCG)

@@ -1,0 +1,11 @@
+# Amos
+
+Address: j4VG73X169vHixxrvBCE7mpvzJgfGfumQcKjLe17cEn82iDMk
+Date: February 22, 2023
+Discord: Amos#3029
+DiscordId: 957664000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: Amos15Amos
+answer: Digital Currency Group (DCG)

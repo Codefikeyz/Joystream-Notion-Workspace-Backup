@@ -1,0 +1,11 @@
+# Azoshi
+
+Address: 12LKYxXoZQQFeFqPRvUSYWjGQjQh19rf8BS3AvevsgL5exNf
+Date: February 18, 2023
+Discord: Azoshi#7468
+DiscordId: 624121620654719000
+Quest: Question 9
+Reward: 8 XP
+Status: success
+Twitter: Aazza1904
+answer: 1,000,000,000 $JOY

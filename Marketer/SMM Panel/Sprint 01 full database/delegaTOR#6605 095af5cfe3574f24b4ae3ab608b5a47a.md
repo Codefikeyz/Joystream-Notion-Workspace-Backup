@@ -1,0 +1,13 @@
+# delegaTOR#6605
+
+Address: 5GsKafCU3z97oTKAiSn8Wxp338mkjBTU8uUMC9Bw1CZVxD8b
+Date: February 20, 2023
+Discord: delegaTOR#6605
+DiscordId: 758021451944034400
+Quest: Subscribe to YouTube channel
+ReviewDate: February 20, 2023 2:42 PM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 33 XP
+Status: success
+Twitter: Wafou36813661
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-7W6nlzeedr_PqOl_PlAfJ-YT.jpg

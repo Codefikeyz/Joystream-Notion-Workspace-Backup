@@ -1,0 +1,10 @@
+# GivGid
+
+Address: 131Fd6qAzEAGdBjap81zU5encTpjD7WtegkopNgTCakUN8a9
+Date: February 19, 2023
+Discord: GivGid#4871
+DiscordId: 895777337570910200
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: givgid

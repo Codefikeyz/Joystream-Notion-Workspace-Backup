@@ -1,0 +1,13 @@
+# Tanjore
+
+Address: 5FvXeSZF2FpXcmdmUtgkTRvWVfJHBRSe5T1TxvLFjXH6zCwP
+Date: February 17, 2023
+Discord: sergei | Alchemist#4069
+DiscordId: 812782508432687100
+Quest: Share video 
+ReviewDate: February 16, 2023 10:24 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: SergeyS10998715
+answer: https://twitter.com/SergeyS10998715/status/1626262657589190660?s=20

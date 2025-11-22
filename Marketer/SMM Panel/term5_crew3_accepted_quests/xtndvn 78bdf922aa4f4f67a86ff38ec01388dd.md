@@ -1,0 +1,11 @@
+# xtndvn
+
+Address: 5F7fn3oL3TmkLVbx6BagasnU7ZKstmtoCWPpZkfWjgRvH7wZ
+Date: February 20, 2023
+Discord: xtndvn#5946
+DiscordId: 1001080000000000000
+Quest: High-Quality Twitter thread ??
+Reward: 250 XP
+Status: success
+Twitter: MMagnus111
+answer: https://twitter.com/MMagnus111/status/1627343686123274240?s=20

@@ -1,0 +1,3 @@
+# Forum Moderator
+
+A Forum Moderator promotes the interest of Joystream workers by means of consultation and making joint decisions by facilitating discussions and employing an orderly conduct. Encourage members to speak out, share their experiences and discuss topics of mutual interest and these create social connections and a stronger bond in the Joystream community. The Forum Moderator make possible for a place where maximum decisions that are beneficial to the platform can take place amicably.

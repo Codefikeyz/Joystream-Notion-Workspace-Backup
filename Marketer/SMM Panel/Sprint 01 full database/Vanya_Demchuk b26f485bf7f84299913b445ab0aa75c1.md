@@ -1,0 +1,11 @@
+# Vanya_Demchuk
+
+Address: 14gCxeEmde9ce3QspJ9M45UQG7twbxns9hNVegu6Tc87WyiH
+Date: February 21, 2023
+Discord: Vanya_Demchuk#6085
+DiscordId: 677918355503710200
+Quest: Question 9
+Reward: 8 XP
+Status: success
+Twitter: IvanDemchuk0_0
+answer: 1,000,000,000 $JOY

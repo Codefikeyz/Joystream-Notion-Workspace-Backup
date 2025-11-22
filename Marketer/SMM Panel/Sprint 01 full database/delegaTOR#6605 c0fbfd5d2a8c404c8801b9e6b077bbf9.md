@@ -1,0 +1,13 @@
+# delegaTOR#6605
+
+Address: 5GsKafCU3z97oTKAiSn8Wxp338mkjBTU8uUMC9Bw1CZVxD8b
+Date: February 20, 2023
+Discord: delegaTOR#6605
+DiscordId: 758021451944034400
+Quest: Meme for Joystream
+ReviewDate: February 19, 2023 8:36 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 15 XP
+Status: success
+Twitter: Wafou36813661
+answer: https://discord.com/channels/811216481340751934/812346722113814538/1076911484665335828

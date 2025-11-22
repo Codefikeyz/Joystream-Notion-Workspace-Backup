@@ -1,0 +1,10 @@
+# p_auk
+
+Address: 13QLqso6ZdoN5WvtBF6nDUiFyyVs218LGC2Q7xEpHzcUKMZZ
+Date: September 2, 2023
+Discord: p_auk#6110
+DiscordId: 656200342828089300
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: codervv

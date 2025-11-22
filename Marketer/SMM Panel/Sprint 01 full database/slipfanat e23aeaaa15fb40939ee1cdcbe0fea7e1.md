@@ -1,0 +1,11 @@
+# slipfanat
+
+Address: 5DtrH9JULT26t6AipWfw15qSsQV1EpAgWkDRq3w7ZBjhPkVb
+Date: February 25, 2023
+Discord: slipfanat#9519
+DiscordId: 972221061104025600
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: dineOUTRVA
+answer: joined

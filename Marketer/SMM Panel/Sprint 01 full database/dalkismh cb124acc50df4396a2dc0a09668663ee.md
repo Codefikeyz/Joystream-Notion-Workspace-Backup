@@ -1,0 +1,11 @@
+# dalkismh
+
+Address: 5CcPU1uTqGHVrERT7r94kHSvYBjEWNZ8Pfrw2L7V1vV25bRq
+Date: February 19, 2023
+Discord: ttorong#8702
+DiscordId: 914337737061072900
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: hanmihye1
+answer: Digital Currency Group (DCG)

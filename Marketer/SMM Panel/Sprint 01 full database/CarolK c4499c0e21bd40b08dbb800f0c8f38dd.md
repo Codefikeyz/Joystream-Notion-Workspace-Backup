@@ -1,0 +1,11 @@
+# CarolK
+
+Address: 5GQeKHDeG14tGNGXEkS5ExBiJRDvVVFD7RtvbEKVbUw82fs5
+Date: February 21, 2023
+Discord: Carol1401#1825
+DiscordId: 1013122967087095900
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: CarolKapoor10
+answer: joined

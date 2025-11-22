@@ -1,0 +1,17 @@
+# dedust
+
+Address: 5E46bG57orjoyhEAD6SCPHetBa4d3Eypww1BhmcNLr6NBhPs
+Date: February 23, 2023
+Discord: Denus#3857
+DiscordId: 1066330000000000000
+Quest: Post comments under different videos
+ReviewDate: February 23, 2023 9:00 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 83 XP
+Status: success
+Twitter: DBagyta
+answer: https://gleev.xyz/video/838
+https://gleev.xyz/video/834
+https://gleev.xyz/video/793
+https://gleev.xyz/video/836
+https://gleev.xyz/video/792

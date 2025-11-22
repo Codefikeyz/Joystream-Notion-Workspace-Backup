@@ -1,0 +1,11 @@
+# Jaden
+
+Address: 5FNbGxFw8NPvudTEmhDPVFiYC1PskxJVvtaakYvVV3h6AGuj
+Date: February 18, 2023
+Discord: Jaden#1097
+DiscordId: 755841000000000000
+Quest: Question 9
+Reward: 8 XP
+Status: success
+Twitter: olive_jaden
+answer: 1,000,000,000 $JOY

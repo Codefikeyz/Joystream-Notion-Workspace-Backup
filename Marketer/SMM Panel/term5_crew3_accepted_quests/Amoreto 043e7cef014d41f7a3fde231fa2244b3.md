@@ -1,0 +1,11 @@
+# Amoreto
+
+Address: 5D2SNJmKLeoQLVUy7a8V9aCQQcd3p85hnNtH7qJd8aW5K1WC
+Date: February 28, 2023
+Discord: Amoreto#1542
+DiscordId: 901230000000000000
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: DakArtem
+answer: joined

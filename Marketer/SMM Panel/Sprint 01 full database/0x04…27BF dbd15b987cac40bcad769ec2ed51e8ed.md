@@ -1,0 +1,11 @@
+# 0x04…27BF
+
+Address: 15za6j918zkzPxhJMvfM8Fvd3QuZh8bKMfwVNE39gu2jMgmZ
+Date: February 21, 2023
+Discord: Gaeguri_wangnuni#9530
+DiscordId: 357502397834330100
+Quest: Question 7
+Reward: 8 XP
+Status: success
+Twitter: gaeguliwangnuni
+answer: 15 days

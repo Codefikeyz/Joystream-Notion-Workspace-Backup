@@ -1,0 +1,13 @@
+# shortsnft
+
+Address: 5Dxtgkn2nW3GmPGqg3kkvR2mouTG6naqGBPFf5g4o5HHW7zR
+Date: February 24, 2023
+Discord: ShortsNFT#3040
+DiscordId: 384002000000000000
+Quest: Give a star our Github repository
+ReviewDate: February 26, 2023 4:08 AM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 33 XP
+Status: success
+Twitter: ShortsNFT_
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-9jALUS-cOL_uzS9pot6Lr-2023-02-24173351.png

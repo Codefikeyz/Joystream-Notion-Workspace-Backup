@@ -1,0 +1,10 @@
+# 0x1809…Dd88
+
+Address: 5CARCsVQ3kZEUfZ2pwXgQoYjxm3Go6zeGhJfYGmao7irn5WM
+Date: February 17, 2023
+Discord: SandraCarterSV#1119
+DiscordId: 1043028390376128500
+Quest: Like, reply, retweet ❤️#2
+Reward: 33 XP
+Status: success
+Twitter: SolanaTanner

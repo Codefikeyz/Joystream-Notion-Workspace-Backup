@@ -1,0 +1,13 @@
+# cristofer
+
+Address: 5G6ePhqAZPKQGYhJqTuJDUwJ7nw8ozoJw8XF2rB4iURBoaQ1
+Date: February 17, 2023
+Discord: cristofer#3849
+DiscordId: 256362000000000000
+Quest: Create a channel 
+ReviewDate: February 19, 2023 3:34 PM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 50 XP
+Status: success
+Twitter: designerpavel
+answer: https://gleev.xyz/channel/21864?tab=Videos

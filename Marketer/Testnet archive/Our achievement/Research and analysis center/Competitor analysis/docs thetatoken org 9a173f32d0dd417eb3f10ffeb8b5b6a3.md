@@ -1,0 +1,51 @@
+# docs.thetatoken.org/
+
+![1633698739234.jpg](docs%20thetatoken%20org/1633698739234.jpg)
+
+# What is [Theta Network](https://www.thetatoken.org/)
+
+Theta Network is the next generation media and entertainment focused blockchain. Theta infrastructure enables existing video and media platforms to drive incremental revenues and reduce content delivery CDN costs while rewards end-users for sharing their storage and/or bandwidth on any PC, mobile, Smart TV or IoT device. Theta supports Turing complete smart contracts, and is fully compatible with Ethereum. This enables a wide range of interesting Web3 applications to be built on the Theta Network. Examples include non-fungible tokens (NFT), decentralized exchanges (DEX/DeFi), and decentralized autonomous organizations (DAO), which could become indispensable building blocks of the next generation media and entertainment platforms.
+Theta’s enterprise validator and governance council is led by global leaders including Google, Samsung, Sony, Creative Artists Agency (CAA), Binance, Blockchain Ventures, DHVC and gumi. Theta leverages its user base of millions of viewers on the Theta Network to seed its peer-to-peer video network along with premium content partnerships with Lionsgate, MGM Studios, NASA, and others. Popular video platforms integrated with Theta infrastructure include CONtv Anime, Party Poker, World Poker Tour, Cinedigm, Samsung VR, GameTalkTalk, MovieBloc, Ultra, GFUEL and other OTT media, entertainment, and live streaming services. Strategic corporate investors include Samsung NEXT, Sony Innovation Fund, Bertelsmann Digital Media Investments (BDMI), Creative Artists Agency (CAA), and Silicon Valley VCs including DCM and Sierra Ventures.
+Theta Network is a "dual network" consisting of two complementary subsystems, the Theta Blockchain and the Theta Edge Network. The Theta blockchain provides payment, reward, and smart contract capabilities, while the edge network is responsible for the storage and delivery of media assets like images and videos. Below we provide more details for the two components.
+Theta Network is NOT a decentralized Youtube or a decentralized Twitch. Rather, Theta is the underlying blockchain and decentralized storage/delivery infrastructure that powers the next generation Web3 video streaming and media entertainment platforms.
+
+# Theta Blockchain
+
+![2022-07-02_15-15-34.png](docs%20thetatoken%20org/2022-07-02_15-15-34.png)
+
+### Unique Consensus Mechanism, Fast and Green
+
+The Theta Blockchain is a purposely-built blockchain designed from the ground up targeting the media and entertainment industry. Theta’s unique multi-level BFT consensus design combines a committee of 20–30 Enterprise Validator Nodes with a second layer of 1000s of community-run Guardian Nodes. Validator Nodes propose and finalize new blocks in the chain, while Guardian Nodes seal blocks and act as a check on malicious or otherwise non-functional Validator Nodes. While the validators alone already provide security on par with most other POS chains (e.g. BSC, Solana, Polygon, etc), the guardians in the thousands offer another layer of security guarantee. A similar strategy is adopted by the Gasper consensus protocol governing the ETH2.0 beacon chain. As of February 2022, Enterprise Validator Nodes on Theta are run by Google, Blockchain Ventures, Samsung, Sony Europe, Binance, gumi Cryptos, Creative Artists Agency, and Theta Labs, with more major enterprises in the process of joining. After the Theta 2.0 launch in May 2020, Guardian Node counts quickly ramped up. Currently, there are more than 3,500 Guardian nodes run by the Theta community members. With this uniquely designed consensus mechanism, the Theta Blockchain is highly decentralized, while being able to process 1,000 transactions per second, with virtually zero carbon footprint.
+The Theta blockchain mainnet provides full support for Turing-complete smart contracts. Smart contracts open up a whole new set of user experiences and new attribution models for DApps built on the Theta network. For example, leveraging smart contracts on the Theta network could enable fully digitized item ownership, innovative payment-consumption models, transparent royalty distributions, trustless crowdfunding mechanisms, and much more. This provides an additional layer of social and economic interactivity that supplements the core functionality of video and data delivery, and significantly increases the engagement and retention of platform users.
+The Theta Virtual Machine is compatible with the Ethereum Virtual Machine (EVM Constantinople fork plus a couple key Istanbul features, including the chainid opcode, and alt_bn128 gas cost reduction). Thus, porting over existing Ethereum-based contracts is simple and thousands of smart contract developers can easily jump to building on Theta.
+Theta's July 2021 v3.1.0 release, along with the Theta/Ethereum RPC adaptor project, provides support for the Ethereum RPC API similar to Binance Smart Chain and Polygon. The Theta/Ethereum RPC adapter software translates the Theta RPC endpoints into the Ethereum RPC APIs. With it, Theta now supports the entire Etherum DApp dev stack including Metamask, Hardhat, Remix, Ethers.js, Web3.js, and Truffle Suite. Ethereum DApps that are ported over to Theta can use the same API calls to interact with Theta blockchain. This means Ethereum DApps can be deployed to Theta with no or minor modifications and tap into the growing Theta user and capital base.
+
+### Theta Edge Network
+
+In addition to the Validator and Guardian Nodes, the Theta community members also host the Theta Edge Nodes, which form the Theta Edge Network, a fully decentralized network for data storage, delivery, and more generally edge computing. As of February 2022, this edge network has grown over 130,000 nodes, covering all the corners of the world.
+Theta Video API
+Decentralized video-on-demand: In November 2021, Theta announced the Theta Video API, a new product powered by the Theta Edge Network for developers. It allows the users to add decentralized video to any website or application without any central servers, content delivery or video hosting software. The ease of use means now anyone will be able to roll out decentralized video to handle delivery, and playback of their videos. Users that watch will then be able to relay video over the Theta Network on a peer-to-peer basis, fully leveraging Theta’s decentralized infrastructure. This isn’t simply embedding an existing video stream — any user can use Theta Video API to upload any video to their website with just a few clicks in a permissionless process.
+Decentralized Livestreaming: Following Theta 2.0, the capability of the Theta Edge Node network was significantly enhanced with the release of Theta’s industry-leading peer-to-peer “EdgeCast” technology. This new fully decentralized technology stack adds the ability to capture live video, transcode it in real-time, cache and relay live stream video data to users globally - all through Theta’s P2P edge network run by thousands of community members. Not a single central server or service is used in this pipeline. This is a huge challenge and huge accomplishment.
+NFT-based Digital Rights Management (DRM): Theta Labs has received patent application approval for USPTO Application №17/218,245, a technology developed for implementing decentralized digital rights management (DRM) via NFTs in a decentralized network. This technology has massive applications for managing rights across a number of domains including, for example, live performances, concerts, and other ticketed events that require authentication, which can now be managed via an NFT that provides true digital ownership by the user which cannot be taken from them. Theta Labs planned to release an implementation of this patented DRM technology in Q2 2022. This upcoming release features interoperability with existing ingest softwares, such as Wowza and FFMPEG, and supports popular livestreaming standards such as HLS. Thus, it can be easily integrated by platform partners and independent streamers.
+Theta EdgeStore
+Decentralized data storage: Theta released the Alpha Preview version of the Theta EdgeStore software in February 2022. Theta EdgeStore is aiming to be an append-only, content-addressing, decentralized key/value storage network for the permanent web. It also acts as a decentralized content delivery network (dCDN) for any type of files. In subsequent releases, EdgeStore is expected to be shipped along with the Edge Node software and becomes an integral part of the Theta Edge Network.
+
+# Tokenomics
+
+![2022-07-02_15-14-42.png](docs%20thetatoken%20org/2022-07-02_15-14-42.png)
+
+### Dual Token Design
+
+Theta Network features a dual token design. The Theta Token (THETA) is the governance token of the Theta protocol. THETA is used to stake as a Validator or Guardian node, contributing to block production and the protocol governance of the Theta Network. By staking and running a node, users will earn a proportional amount of the new TFUEL generated. The supply of THETA is fixed at 1 billion and will never increase. Theta Fuel (TFUEL) is the operational token of the Theta protocol. TFUEL is used for on-chain operations like payments to Edge Node relayers for sharing a video stream, or for deploying or interacting with smart contracts. Relayers earn TFUEL for every video stream they relay to other users on the network. You can think of Theta Fuel as the “gas token” of the protocol. There were 5 billion TFUEL at genesis of Theta blockchain, and the supply increases annually at a fixed percentage set at the protocol level. In December 2020, Theta Labs announced Theta 3.0, which introduces a new crypto-economics design for TFuel, in particular, the concept of TFuel staking and burning. This will greatly expand the capacity and use cases of the network and maximize the utility value of TFuel.
+
+### Today's TFuel price on coinmarketcup is $0.05325
+
+![2022-07-03_17-25-25.png](docs%20thetatoken%20org/2022-07-03_17-25-25.png)
+
+## Theta **$1.20**
+
+![2022-07-03_17-25-48.png](docs%20thetatoken%20org/2022-07-03_17-25-48.png)
+
+# Project roadmap
+
+![2022-07-03_17-47-11.png](docs%20thetatoken%20org/2022-07-03_17-47-11.png)

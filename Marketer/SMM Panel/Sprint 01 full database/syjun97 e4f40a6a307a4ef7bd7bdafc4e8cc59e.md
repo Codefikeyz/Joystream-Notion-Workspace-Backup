@@ -1,0 +1,13 @@
+# syjun97
+
+Address: 5FgqwaHyLUnvsAzF881bHkQ19u4ytGchVUKfGAfRfbNJeFvj
+Date: February 19, 2023
+Discord: syjun97#7611
+DiscordId: 344555626841767940
+Quest: Newsletter Subscriber 📰
+ReviewDate: February 20, 2023 9:10 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: syjun97
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-7L0w2BpGOwn3UnD7IG55n-subscribrtion.png

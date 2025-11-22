@@ -1,0 +1,10 @@
+# TaiGa
+
+Date: October 3, 2023
+Discord: ! TaiGa#7458
+DiscordId: 876538546310217700
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: TaiGa3581321
+answer: joined

@@ -1,0 +1,11 @@
+# DiFors.eth
+
+Address: 5GRMUCKybifdyryKZWorbGsR81TFWfR6CckaumgrbbazANox
+Date: February 17, 2023
+Discord: DiMetelnyi#0186
+DiscordId: 1048533749920440300
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: DiMetelnuy
+answer: joined

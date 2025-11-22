@@ -1,0 +1,13 @@
+# 0xPhoenix.eth
+
+Address: Cd9QEHzh2qnHvP5MjvS1af9LqeSDuEeN2YdfwomgqPxxpvp
+Date: February 21, 2023
+Discord: 0xPhoenix#0001
+DiscordId: 884466483734921200
+Quest: Create a channel 
+ReviewDate: February 21, 2023 7:30 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 50 XP
+Status: success
+Twitter: 0xPhoenixeth
+answer: https://gleev.xyz/member/dropnetwork?tab=NFTs+owned

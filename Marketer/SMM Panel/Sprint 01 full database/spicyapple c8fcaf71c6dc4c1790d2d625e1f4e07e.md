@@ -1,0 +1,10 @@
+# spicyapple
+
+Address: 5CwpyJD8uNYxn4SeAryXvTmkHMdUSpFeqLBLhfshYdxbJHpc
+Date: October 3, 2023
+Discord: spicyapple#0097
+DiscordId: 391973743234383900
+Quest: Daily connect 📆
+Reward: 1 XP
+Status: success
+Twitter: spicyapple16

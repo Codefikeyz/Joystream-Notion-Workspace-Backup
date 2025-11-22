@@ -1,0 +1,11 @@
+# Dizzeriw
+
+Address: 15r1ToXWpYQ2EXguK127JzTPDkpjyDoy8w1omUAKsTV8J5RQ
+Date: February 25, 2023
+Discord: Dizzer#3602
+DiscordId: 960608600710058000
+Quest: Question 3
+Reward: 8 XP
+Status: success
+Twitter: MeganDo94996509
+answer: 164

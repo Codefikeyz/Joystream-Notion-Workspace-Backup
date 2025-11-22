@@ -1,0 +1,11 @@
+# nazarlvr.sui
+
+Address: 16PVjRW8sDd8HR6G4JdDuBmrnG3i86a2bQWQPSFFyXuPX6CF
+Date: February 22, 2023
+Discord: nazyalvr| Sui Global#7108
+DiscordId: 708664000000000000
+Quest: Question 9
+Reward: 8 XP
+Status: success
+Twitter: Nazar__ukr
+answer: 1,000,000,000 $JOY

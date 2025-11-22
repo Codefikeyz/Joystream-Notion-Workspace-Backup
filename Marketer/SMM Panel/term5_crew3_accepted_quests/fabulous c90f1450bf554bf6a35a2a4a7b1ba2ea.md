@@ -1,0 +1,11 @@
+# fabulous
+
+Address: 129nRZKjPgiiTavo2xjGHNz45EFEqYY8FsbvvxxXFTvZYP7D
+Date: February 25, 2023
+Discord: fabulous#9594
+DiscordId: 960999000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: AnayaWells15
+answer: Digital Currency Group (DCG)

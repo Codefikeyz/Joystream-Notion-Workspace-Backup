@@ -1,0 +1,13 @@
+# delegaTOR#6605
+
+Address: 5GsKafCU3z97oTKAiSn8Wxp338mkjBTU8uUMC9Bw1CZVxD8b
+Date: February 25, 2023
+Discord: delegaTOR#6605
+DiscordId: 758021451944034400
+Quest: 3 memes about Joystream on Twitter
+ReviewDate: March 1, 2023 9:07 AM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 45 XP
+Status: success
+Twitter: Wafou36813661
+answer: https://twitter.com/Wafou36813661/status/1629430115816861698?s=20,https://twitter.com/Wafou36813661/status/1629435556944834560?s=20,https://twitter.com/Wafou36813661/status/1629437782329376768?s=20

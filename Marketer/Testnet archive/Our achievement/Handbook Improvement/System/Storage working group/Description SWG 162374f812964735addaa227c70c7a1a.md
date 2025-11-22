@@ -1,0 +1,3 @@
+# Description SWG
+
+The Storage working group is broadly responsible for ensuring storage infrastructure uptime, namely running complete and up-to-date copies of the content directory and accepting inbound uploads from end users. The Storage working group works in close cooperation with the Distribution working group which operates as a mediator between Storage WG and end users of the video platform.

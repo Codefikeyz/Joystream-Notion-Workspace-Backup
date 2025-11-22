@@ -1,0 +1,11 @@
+# dunduck
+
+Address: 5HR7vsgEcrRb7eriLsqo8kKAtvaKKGrCupmh2rG6BaNEaRT8
+Date: February 17, 2023
+Discord: dunduck#0566
+DiscordId: 1046080000000000000
+Quest: Question 5
+Reward: 8 XP
+Status: success
+Twitter: konych1978
+answer: Anti-Corruption WG

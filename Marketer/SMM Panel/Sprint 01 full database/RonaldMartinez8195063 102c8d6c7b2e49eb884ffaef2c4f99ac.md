@@ -1,0 +1,9 @@
+# RonaldMartinez8195063
+
+Address: https://crew3.xyz/c/joystream/invite/_K4AqZ-AUqQdGiJSNS0yk
+Date: February 18, 2023
+Discord: RonaldMartinez8195063#8902
+DiscordId: 976430112390127600
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success

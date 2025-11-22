@@ -1,0 +1,10 @@
+# mamatat
+
+Address: 5Gptucz5mgxRE8DDJQZWi27VM4pacE6QWHj25J3qo5StTX55
+Date: February 21, 2023
+Discord: mamatat#1865
+DiscordId: 931150391712825300
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: TatanaKulikova5

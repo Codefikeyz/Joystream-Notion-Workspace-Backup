@@ -1,0 +1,13 @@
+# Corgi
+
+Address: 16SxYHeCzHjidL1m4BAZtQZjYLbECKKsQS7aakjfS1rCu32j
+Date: January 3, 2023
+Discord: agay | Arbisphere (💙,🧡)#2008
+DiscordId: 786978873602080800
+Quest: Create a channel 
+ReviewDate: March 2, 2023 7:49 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: Satria18193040
+answer: https://gleev.xyz/member/agay12?tab=NFTs+owned

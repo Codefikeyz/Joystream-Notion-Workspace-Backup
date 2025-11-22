@@ -1,0 +1,10 @@
+# Tanjore
+
+Address: 5FvXeSZF2FpXcmdmUtgkTRvWVfJHBRSe5T1TxvLFjXH6zCwP
+Date: February 19, 2023
+Discord: sergei | Alchemist#4069
+DiscordId: 812782508432687100
+Quest: Like, reply, retweet ❤️#5
+Reward: 33 XP
+Status: success
+Twitter: SergeyS10998715

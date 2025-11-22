@@ -1,0 +1,11 @@
+# 0xGHOST
+
+Address: 5CPBpJMW4qRcV41MsrrAYCcFmC8fhmE6JWGmfrbSBAAjTaFL
+Date: February 21, 2023
+Discord: 0xGHOST | SUI BEARS#8247
+DiscordId: 892632000000000000
+Quest: Question 9
+Reward: 8 XP
+Status: success
+Twitter: danilnhk
+answer: 1,000,000,000 $JOY

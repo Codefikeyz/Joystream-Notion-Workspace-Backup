@@ -1,0 +1,10 @@
+# NikkiSotich
+
+Address: 5HimtJtwsRb5ynmiMaDTQLLBaFSJRZywE2wWV2pGHJ86iKMe
+Date: February 18, 2023
+Discord: NikkiSotich#3751
+DiscordId: 214741122587557900
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: nikisotich

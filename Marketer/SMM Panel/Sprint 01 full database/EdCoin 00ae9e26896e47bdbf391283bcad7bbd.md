@@ -1,0 +1,11 @@
+# EdCoin
+
+Address: 13o1fuu8Zoh84BFVsZHLBj3MqvtFyWQHUU1b653VsM698Cp
+Date: February 17, 2023
+Discord: EdCoin_1#3967
+DiscordId: 825231524609392600
+Quest: Question 9
+Reward: 8 XP
+Status: success
+Twitter: EduardKolesnik2
+answer: 1,000,000,000 $JOY

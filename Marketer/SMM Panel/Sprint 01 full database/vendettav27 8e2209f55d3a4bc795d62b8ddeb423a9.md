@@ -1,0 +1,11 @@
+# vendettav27
+
+Address: 5CRtAEfcbTD1zgXjscgPPXTRKojNf3sSMzhMfbBhMdE2JdSA
+Date: February 17, 2023
+Discord: VendettaT#5549
+DiscordId: 289012470058582000
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: TkachukVitalii
+answer: joined

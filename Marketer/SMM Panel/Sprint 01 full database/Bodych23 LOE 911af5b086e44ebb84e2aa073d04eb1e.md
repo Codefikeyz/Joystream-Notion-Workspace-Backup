@@ -1,0 +1,11 @@
+# Bodych23 LOE
+
+Address: 5DXvpHkVAzdQxPJuWBVEsxcazMCuPneYiJjoSVvwuxLfvdpa
+Date: February 27, 2023
+Discord: Bohdan#7702
+DiscordId: 899742562179502100
+Quest: Question 2
+Reward: 8 XP
+Status: success
+Twitter: BohdanStas
+answer: Polkadot

@@ -1,0 +1,10 @@
+# 0xfdfe…0d6f
+
+Address: 5EtJZDJWAhKgGj9kUBZr3GHaEsHuczMUjLsSxSj2c8uaus4w
+Date: February 18, 2023
+Discord: heavennft#4117
+DiscordId: 304305700182556700
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: ddong09171

@@ -1,0 +1,11 @@
+# bruh
+
+Address: 13rjQQi7cZBrHhyZZ4BMQtxjH6cBhhTWgGh7Fg8RnwZoxEq3
+Date: February 24, 2023
+Discord: Eleonor11#1597
+DiscordId: 843573069243220000
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: crysad3
+answer: joined

@@ -1,0 +1,10 @@
+# Beretta
+
+Address: 0xEe39E31d6278867117fFa8aC79B65022048B7525
+Date: May 3, 2023
+Discord: Beretta|Sui Bears#9412
+DiscordId: 981884225621995600
+Quest: Daily connect 📆
+Reward: 1 XP
+Status: success
+Twitter: Aibolit_Beretta

@@ -1,0 +1,11 @@
+# byungjahoran
+
+Address: DK2qdEjcArKfY5BNVycpa74WDtLaVLCbtLu4cqdccM7fSxe
+Date: February 21, 2023
+Discord: byungjahoran#0737
+DiscordId: 920117000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: bytrain61
+answer: Digital Currency Group (DCG)

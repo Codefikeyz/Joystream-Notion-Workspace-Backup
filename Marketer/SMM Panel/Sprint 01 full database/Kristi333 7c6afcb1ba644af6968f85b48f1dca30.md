@@ -1,0 +1,10 @@
+# Kristi333
+
+Address: 5EnhVQgRQe7uGDmzEMsy1BsuqFGnPqiceLgarZ6yGMQSXGrA
+Date: June 3, 2023
+Discord: Drongov27#7662
+DiscordId: 1002168286605230100
+Quest: Like, retweet ❤️#34
+Reward: 15 XP
+Status: success
+Twitter: Zapisnaya333

@@ -1,0 +1,10 @@
+# Bogdantop
+
+Address: 13ujwksGCSKe1rhkVAACpd3h6qT5zSDeC6yWwraiqdhLXgJ4
+Date: February 23, 2023
+Discord: ������ 5  Swash#0587
+DiscordId: 1055580000000000000
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: BogdanDemnuk1

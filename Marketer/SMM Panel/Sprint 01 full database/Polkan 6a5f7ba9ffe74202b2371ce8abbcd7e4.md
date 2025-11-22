@@ -1,0 +1,10 @@
+# Polkan
+
+Address: 16iHg6VHnMezAQDtQmu7geivVB9pQzhPRPs94E5pcibw4SST
+Date: February 17, 2023
+Discord: alexei#8076
+DiscordId: 835274196836679800
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: alexey_shot

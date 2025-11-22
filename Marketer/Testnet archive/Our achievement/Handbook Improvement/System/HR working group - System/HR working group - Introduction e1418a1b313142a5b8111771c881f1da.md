@@ -1,0 +1,5 @@
+# HR working group - Introduction
+
+This working group is responsible for the management of Joystream’s human capital to meet its objectives and improve business performances. The human resources subsystem is an [Operations Working Groups](https://joystream.gitbook.io/testnet-workspace/system/working-groups#operations-working-groups), meaning it has no special on-chain features being what basic working group features exist, described in 👷♀ [Working Groups](https://joystream.gitbook.io/testnet-workspace/system/working-groups). The best way to understand what substantively goes on in this group is therefore to consult the testnet scoring rules for this group, described here [Human Resources Score](https://joystream.gitbook.io/testnet-workspace/testnet/council-period-scoring/human-resources-score).
+
+Human resource management is necessary for the maintenance of the structural and organizational integrity of Joystream. It is a distinctive accession to employment management that aims to accomplish a cooperative advantage through the strategic deployment of a capable workforce using a consolidated disposition of structural techniques.

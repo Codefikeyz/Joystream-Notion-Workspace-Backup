@@ -1,0 +1,13 @@
+# Zagaika
+
+Address: 5HeDW4R4N6B1oYusiKyDoBDXwNY3uWGr6vdqGka4LzD7ap17
+Date: February 23, 2023
+Discord: Zagaika#2667
+DiscordId: 927456208909111300
+Quest: Newsletter Subscriber 📰
+ReviewDate: February 26, 2023 5:45 AM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 33 XP
+Status: success
+Twitter: zagaika777
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-1kT7ou_iwQZp8dehk8-AX-Screenshot_18.jpg

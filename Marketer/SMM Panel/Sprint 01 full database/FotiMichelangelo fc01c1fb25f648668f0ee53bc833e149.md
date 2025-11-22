@@ -1,0 +1,10 @@
+# FotiMichelangelo
+
+Address: 5DWisoyXrFRcGSgUBQbJnT3dfGNZ67pxqtXNkUNqz9pWuYEU
+Date: February 19, 2023
+Discord: FotiMichelangelo#3634
+DiscordId: 919555002391998600
+Quest: Like, reply, retweet ❤️#14
+Reward: 33 XP
+Status: success
+Twitter: Rodyadmitriev1

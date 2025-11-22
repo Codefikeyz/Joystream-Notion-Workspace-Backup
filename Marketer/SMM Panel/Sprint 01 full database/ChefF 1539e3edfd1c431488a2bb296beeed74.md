@@ -1,0 +1,10 @@
+# ChefF
+
+Address: 13m4A6meNpMwUvSPfwEo6FDBPLdzyWXZquQeAac5HaLrQMjw
+Date: February 23, 2023
+Discord: Chef#0956
+DiscordId: 1031469640565657600
+Quest: Like, retweet ❤️#19
+Reward: 15 XP
+Status: success
+Twitter: McLaElla

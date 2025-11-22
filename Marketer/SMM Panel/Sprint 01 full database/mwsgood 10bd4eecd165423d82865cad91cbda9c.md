@@ -1,0 +1,11 @@
+# mwsgood
+
+Address: 12eBpUE8F45anp5z6Tu7a7hEMaR97CXknwNbC3qf3PcfHprh
+Date: February 23, 2023
+Discord: 흑백영화#8201
+DiscordId: 969908244241854500
+Quest: Question 8
+Reward: 8 XP
+Status: success
+Twitter: mwsgood
+answer: $JOY

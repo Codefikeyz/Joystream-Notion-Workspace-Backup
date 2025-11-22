@@ -1,0 +1,11 @@
+# artleo1488
+
+Address: 5CfivbDQMV47NMMmKQGz8iUpNCLb6mE7rHnP9BUgBf8yqyQe
+Date: February 17, 2023
+Discord: w0w#7114
+DiscordId: 505009436394520600
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: ALeohin
+answer: joined

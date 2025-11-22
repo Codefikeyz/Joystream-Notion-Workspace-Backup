@@ -1,0 +1,10 @@
+# Gorika
+
+Address: 5CnxXn7tZhQonjX5mqvUCJBRiQNA8cHszhgKrxdpgPvjxWgH
+Date: March 3, 2023
+Discord: Gorika#2877
+DiscordId: 954381933192810500
+Quest: Like, retweet ❤️#31
+Reward: 15 XP
+Status: success
+Twitter: rolmadegod1972

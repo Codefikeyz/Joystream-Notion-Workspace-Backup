@@ -1,0 +1,13 @@
+# ������
+
+Address: 5CPrDdCRXZT4vsJbjEprJpMgdngSzWLAmz6viBswgeYUji3f
+Date: January 3, 2023
+Discord: ������#2370
+DiscordId: 976604000000000000
+Quest: Join Reddit
+ReviewDate: March 1, 2023 8:00 AM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: ZakonZakon2
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-fzMD5GPmPOPyunLo1E5qU-Screenshot_5.png

@@ -1,0 +1,10 @@
+# lacid726
+
+Address: 5FWAL7jdGSVWWwHtvMFjoCUV49FqWViDU3daAYMs5ke9bkTq
+Date: February 25, 2023
+Discord: lacid726#5780
+DiscordId: 918134157605994500
+Quest: Like, retweet ❤️#24
+Reward: 15 XP
+Status: success
+Twitter: lacid625

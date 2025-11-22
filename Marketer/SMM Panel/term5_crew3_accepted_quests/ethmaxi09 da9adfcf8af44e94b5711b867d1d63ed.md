@@ -1,0 +1,11 @@
+# ethmaxi09
+
+Address: 5CqqhhdBWbdq5UMX8dbsF4SZZEaKP2qqCfy3UdsT2d9foLve
+Date: February 27, 2023
+Discord: ethmaxi#2294
+DiscordId: 1026490000000000000
+Quest: Question 8
+Reward: 8 XP
+Status: success
+Twitter: Ethmaxi9
+answer: $JOY

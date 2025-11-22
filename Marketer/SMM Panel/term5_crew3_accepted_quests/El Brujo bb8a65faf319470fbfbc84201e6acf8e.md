@@ -1,0 +1,13 @@
+# El Brujo
+
+Address: 15dXfdiowr73XLv3dRPaLRHfSsjaJdENhi6PUsT4iHgHa51Q
+Date: February 24, 2023
+Discord: El Brujo#2213
+DiscordId: 649593000000000000
+Quest: Follow us on Coinmarketcap
+ReviewDate: February 27, 2023 2:38 AM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 33 XP
+Status: success
+Twitter: Trilobi56369985
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-oqwo_KxKZItYfFjne_nc9-Opera_2023-02-23_183626_coinmarketcapcom.png

@@ -1,0 +1,10 @@
+# CryptonD
+
+Address: 13Vvh5jgKWYbT3FcimHMKC2kLtD2Lg2rQq772TJo7HK3HDMA
+Date: February 21, 2023
+Discord: CryptonD#6590
+DiscordId: 1033360000000000000
+Quest: Follow Joystream on Twitter??
+Reward: 33 XP
+Status: success
+Twitter: CryptoDivaJoann

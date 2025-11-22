@@ -1,0 +1,13 @@
+# Viktoria Kudryavtseva
+
+Address: 5C7Mbm8cDsEXhn6jWEJvTdxm8AHmkgF7HRTquawty9MRHaL6
+Date: February 23, 2023
+Discord: ViktoriaKudry|ScriptNetwork#3254
+DiscordId: 997141982310826100
+Quest: Joystream in watchlist on CMC
+ReviewDate: February 23, 2023 10:18 AM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: v48806380
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-wjjkKRrtDWP0fDXN8h_Zk-2023-02-22201346.png

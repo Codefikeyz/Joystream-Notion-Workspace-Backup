@@ -1,0 +1,10 @@
+# highway
+
+Address: 5G3ZP2wvoMPhvrm5ArLJPTcaiDmWt7KoLL6epHoFAKZLWsgL
+Date: February 18, 2023
+Discord: highway#2289
+DiscordId: 841461000000000000
+Quest: Follow Joystream on Twitter??
+Reward: 33 XP
+Status: success
+Twitter: Daft_Z

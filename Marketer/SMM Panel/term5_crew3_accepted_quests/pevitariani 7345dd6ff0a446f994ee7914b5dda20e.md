@@ -1,0 +1,10 @@
+# pevitariani
+
+Address: 5Cfq4EGYu5o7j86niKVPNkx2W88ySgAK32Yg7kfXf1oxgTvD
+Date: February 23, 2023
+Discord: Nahin#7188
+DiscordId: 1041660000000000000
+Quest: Like, retweet ??#18
+Reward: 22 XP
+Status: success
+Twitter: pevitariani

@@ -1,0 +1,10 @@
+# OGGerman
+
+Address: 15w6bdGG78x8MwwRj4RbppDF3XfDH5pczGrB7qXW5dJFY7s7
+Date: October 3, 2023
+Discord: German#2007
+DiscordId: 853940993362231300
+Quest: Daily connect 📆
+Reward: 1 XP
+Status: success
+Twitter: OogGerman

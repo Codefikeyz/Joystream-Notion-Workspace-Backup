@@ -1,0 +1,10 @@
+# Кархарт на месте
+
+Address: 5D89ygzRekwV3Ed4DpA6xG9as9BWtnKYQ3YE6p2Pn5sRLfPf
+Date: March 3, 2023
+Discord: Кархарт на месте#8814
+DiscordId: 967397516494635000
+Quest: Daily connect 📆
+Reward: 1 XP
+Status: success
+Twitter: zaharzakon

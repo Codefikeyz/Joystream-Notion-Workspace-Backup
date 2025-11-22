@@ -1,0 +1,10 @@
+# light343
+
+Address: 121MUgZeHgQxsyroydmbXc1Vfot9ZsBGmHvNoBiF9odzwm6u
+Date: February 18, 2023
+Discord: light343#6089
+DiscordId: 882104532488847400
+Quest: Like, reply, retweet ❤️#3
+Reward: 33 XP
+Status: success
+Twitter: cristoforis

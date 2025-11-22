@@ -1,0 +1,10 @@
+# Ihor Votka
+
+Address: 15mBULWPSnrDGWtGUaU7TWTMY1WhYxzUMKgFNFDXSwjBue1W
+Date: February 24, 2023
+Discord: Ihor#0732
+DiscordId: 910279000000000000
+Quest: Like, retweet ??#20
+Reward: 15 XP
+Status: success
+Twitter: IGORmetas

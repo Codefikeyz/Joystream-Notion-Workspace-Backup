@@ -1,0 +1,11 @@
+# haoiwis
+
+Address: 5GWegf71uv3rpC8T5nHFNcmwMeupKKQzYgZNc9rxZ3MdHiMK
+Date: February 24, 2023
+Discord: haoiwi#8255
+DiscordId: 1046800000000000000
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: haoiwis
+answer: joined

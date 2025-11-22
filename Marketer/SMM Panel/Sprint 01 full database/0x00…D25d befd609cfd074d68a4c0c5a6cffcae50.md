@@ -1,0 +1,10 @@
+# 0x00…D25d
+
+Address: 5Hib2jFQ7oui2XQhfczhThJxzHoFZTsiGT2cKig5mkAsZKxe
+Date: June 3, 2023
+Discord: Steven1#3879
+DiscordId: 868602257971765200
+Quest: Daily connect 📆
+Reward: 1 XP
+Status: success
+Twitter: Steven1zeth

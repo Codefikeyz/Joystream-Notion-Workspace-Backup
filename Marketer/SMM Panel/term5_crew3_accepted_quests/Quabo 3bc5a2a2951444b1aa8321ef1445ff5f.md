@@ -1,0 +1,10 @@
+# Quabo
+
+Address: 15QaQ2T7mgWKR3xZENVP5XpmR2nvkaFH6jXCkt4SCueELwmQ
+Date: February 23, 2023
+Discord: Quabo#2909
+DiscordId: 905710000000000000
+Quest: Follow Joystream on Twitter??
+Reward: 33 XP
+Status: success
+Twitter: goldenapple_try

@@ -1,0 +1,3 @@
+# SWG lead description
+
+The head of the working group that sees to the efficient running of the group, sets up and maintains high-performance IT infrastructure. Works with the Councils to set clear priorities and goals for storage representatives, balancing the immediate and long-term needs. The leader mentors and trains storage workers and seeks to continually improve processes DAO-wide and establish adequate performances of storage providers.

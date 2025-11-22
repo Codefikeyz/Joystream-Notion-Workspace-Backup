@@ -1,0 +1,11 @@
+# dorissss33334
+
+Address: 1111111111111111111111
+Date: February 25, 2023
+Discord: dorissss33334#8337
+DiscordId: 964634301599727600
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: UlanovaZena
+answer: joined

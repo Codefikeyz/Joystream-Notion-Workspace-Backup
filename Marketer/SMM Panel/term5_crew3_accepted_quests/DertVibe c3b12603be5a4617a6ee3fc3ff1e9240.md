@@ -1,0 +1,10 @@
+# DertVibe
+
+Address: 5D4wrEuFrMrLs8kbGFfo6Q9Mr2A8NebdR5U6TSKhzazVA1Po5D4wrEuFrMrLs8kbGFfo6Q9Mr2A8NebdR5U6TSKhzazVA1Po
+Date: February 23, 2023
+Discord: DertVibe | Sui Bears#4742
+DiscordId: 792078000000000000
+Quest: Follow Joystream on Twitter??
+Reward: 33 XP
+Status: success
+Twitter: dert_vibe

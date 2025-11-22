@@ -1,0 +1,13 @@
+# Valentin_chudo
+
+Address: 0x92873A7aAfdbA9A8480D35996bF3EC2392FbE0D8
+Date: February 24, 2023
+Discord: Valentin_chudo#1286
+DiscordId: 1021467618747613200
+Quest: Follow us on Coinmarketcap
+ReviewDate: February 27, 2023 3:02 AM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 33 XP
+Status: success
+Twitter: valentin_chudo
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-1olPoNFe9ZA64GtPHlTZB-2023-02-24125909.png

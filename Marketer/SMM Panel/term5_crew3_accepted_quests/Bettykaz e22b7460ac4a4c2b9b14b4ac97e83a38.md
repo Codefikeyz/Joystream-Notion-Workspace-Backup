@@ -1,0 +1,11 @@
+# Bettykaz
+
+Address: 133QKRujcEGbLH7qk7PNJ6AhktCvUn1kRJjiKTDGFEdtEfwK
+Date: March 3, 2023
+Discord: BettyRuth77824342#8927
+DiscordId: 1052970000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: overtly_1993
+answer: Digital Currency Group (DCG)

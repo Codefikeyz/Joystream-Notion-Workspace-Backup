@@ -1,0 +1,10 @@
+# Der_Clown
+
+Address: 0xEEB1c458637850dB053277d7B84a1d37a534DE5C
+Date: April 3, 2023
+Discord: Der_Clown#6703
+DiscordId: 825774731462443000
+Quest: Like, reply, retweet ❤️#11
+Reward: 33 XP
+Status: success
+Twitter: der_clown87

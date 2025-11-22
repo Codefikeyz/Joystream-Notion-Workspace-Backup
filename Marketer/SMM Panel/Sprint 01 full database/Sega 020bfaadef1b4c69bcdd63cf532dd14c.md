@@ -1,0 +1,10 @@
+# Sega
+
+Address: 5Hpbth4CrUaVpcKbSqF8VtJkG2S2d39hZpV2m55YbQ9xfunv
+Date: February 24, 2023
+Discord: SergeiB1#9093
+DiscordId: 866358551991812100
+Quest: Like, reply, retweet ❤️#15
+Reward: 33 XP
+Status: success
+Twitter: Sergei43536751

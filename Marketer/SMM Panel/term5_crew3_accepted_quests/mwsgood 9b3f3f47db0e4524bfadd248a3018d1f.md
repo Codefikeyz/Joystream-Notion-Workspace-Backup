@@ -1,0 +1,10 @@
+# mwsgood
+
+Address: 12eBpUE8F45anp5z6Tu7a7hEMaR97CXknwNbC3qf3PcfHprh
+Date: February 23, 2023
+Discord: ????#8201
+DiscordId: 969908000000000000
+Quest: Follow Joystream on Twitter??
+Reward: 33 XP
+Status: success
+Twitter: mwsgood

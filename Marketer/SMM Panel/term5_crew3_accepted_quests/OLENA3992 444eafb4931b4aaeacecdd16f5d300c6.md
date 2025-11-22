@@ -1,0 +1,11 @@
+# OLENA3992
+
+Address: 13xiNhSBREziwiiW7LvXisqBgUGC9BmL74qCkWZLKwVfa6oJ
+Date: February 19, 2023
+Discord: olena3992#7995
+DiscordId: 952988000000000000
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: visa_ua
+answer: joined

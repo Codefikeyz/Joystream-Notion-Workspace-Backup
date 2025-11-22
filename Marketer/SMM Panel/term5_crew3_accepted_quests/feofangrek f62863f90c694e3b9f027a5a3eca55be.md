@@ -1,0 +1,11 @@
+# feofangrek
+
+Address: 0xd8AaA044a234377A05646dEcFe467C1249d390aD
+Date: February 24, 2023
+Discord: Feofangrek#4881
+DiscordId: 1070270000000000000
+Quest: High-Quality Twitter thread ??
+Reward: 100 XP
+Status: success
+Twitter: GREKFEOFAN85
+answer: https://twitter.com/GREKFEOFAN85/status/1628846250412974085

@@ -1,0 +1,11 @@
+# politol10
+
+Address: 13tyMpF153DZujzfgnSiKMh1kwc3VMRMJN8EhhY1stjpPPAb
+Date: February 19, 2023
+Discord: politol10#0260
+DiscordId: 827973465281658900
+Quest: Tweet about us
+Reward: 83 XP
+Status: success
+Twitter: politol10
+answer: https://twitter.com/politol10/status/1627078324341309440?s=20

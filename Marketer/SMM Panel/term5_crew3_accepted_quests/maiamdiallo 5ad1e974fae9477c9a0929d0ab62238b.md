@@ -1,0 +1,11 @@
+# maiamdiallo
+
+Address: 5EUypA3dbfebtrh6KkU9hBseQuMqqZ3vQTdfiVz6hRRQHCk9
+Date: February 20, 2023
+Discord: maiamdiallo#9966
+DiscordId: 1041050000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: maiamdiallo
+answer: Digital Currency Group (DCG)

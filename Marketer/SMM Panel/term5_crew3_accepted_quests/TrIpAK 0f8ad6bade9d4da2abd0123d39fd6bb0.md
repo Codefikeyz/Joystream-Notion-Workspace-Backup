@@ -1,0 +1,11 @@
+# TrIpAK
+
+Address: 5HK95z7wtdEB9EcdPtBoVYEwkFd22dnnYBZFvZrC7Xn87Ttj
+Date: February 18, 2023
+Discord: TrIpAK#7113
+DiscordId: 957522000000000000
+Quest: Question 8
+Reward: 8 XP
+Status: success
+Twitter: rusaeda1978
+answer: $JOY

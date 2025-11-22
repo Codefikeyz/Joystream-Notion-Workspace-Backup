@@ -1,0 +1,10 @@
+# Unfairness
+
+Address: 5CGBNFFLjD9XqmPGroxWNdFQArH2zqtpWpqjTFCNfgLqy1PX
+Date: February 18, 2023
+Discord: Unfairness#9478
+DiscordId: 312933305035128800
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: Unfairness74

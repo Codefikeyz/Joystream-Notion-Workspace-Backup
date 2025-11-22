@@ -1,0 +1,10 @@
+# 0x3a�ebe2
+
+Address: 12oxqBLJQRiajJ7pdurkwyfoAHFWU74A8Neo3bqBDtsSXzkH
+Date: February 21, 2023
+Discord: ??#3182
+DiscordId: 950740000000000000
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: rh0715you

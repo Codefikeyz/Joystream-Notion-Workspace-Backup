@@ -1,0 +1,11 @@
+# supadope
+
+Address: 13Jq2SuCEd6bTD2dpU1N6GBsLy3BRZheBxWBKe22f9YV1sWL
+Date: February 23, 2023
+Discord: isu#7893
+DiscordId: 970704000000000000
+Quest: Question 6
+Reward: 8 XP
+Status: success
+Twitter: supadope99
+answer: 3

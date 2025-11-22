@@ -1,0 +1,21 @@
+# Test work
+
+| channel name | email | personal web | channel url | twitter handle | date | no. of videos | subscribers | videos published in last month |  Days since last video | Language | Description of channel | tags |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ANTHONY POMPLIANO | **anthony.pompliano@gmail.com** | [https://www.anthonypompliano.com](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwidipbQ15L7AhWLR_EDHeFcDX4QFnoECAsQAQ&url=https%3A%2F%2Fwww.anthonypompliano.com%2F&usg=AOvVaw0Sdi0VaupxfXhZ4RlrE2q0) | [https://www.youtube.com/c/AnthonyPompliano](https://www.youtube.com/c/AnthonyPompliano) | [https://twitter.com/apompliano](https://twitter.com/apompliano) | THE CHANNEL WAS CREATED ON FEB 26, 2018 | 1000 | 455K | 9 | 1 HOUR AGO | ENGLISH | THE CHANNEL HAS INSIGHT ON THE IMPACT OF WEB 3 AND ITS RELATED DEVELOPMENT | #WEB 3 #BITCOIN  |
+| GARY VEE | **gary@vaynermedia.com** | h[ttps://garyvaynerchuk.com](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjPydGK25L7AhX1nf0HHRxjCu8QFnoECA0QAQ&url=https%3A%2F%2Fgaryvaynerchuk.com%2F&usg=AOvVaw0hyrCv_x5kOb8cucSr9Mi2) | [https://www.youtube.com/channel/UCctXZhXmG-kf3tlIXgVZUlw](https://www.youtube.com/channel/UCctXZhXmG-kf3tlIXgVZUlw) | [https://twitter.com/garyvee](https://twitter.com/garyvee) | THE CHANNEL WAS CREATED OCT 6, 2007 | 635 | 4.01 M | NIL | 4 WEEKS AGO | ENGLISH | THE CHANNEL DISCUSSES ENTERPRENEURSHIP, DIGITAL ASSETS AND MARKETING AND ALSO POSITIVE LIFESTYLE CHOICES. IT ASLO REGULARLY INTERVIEWS INDUSTRY STALWARTS FROM THE CRYPTO AND BLOCKCHAIN SPACE. | #CRYPTO #BLOCKCHAIN #DIGITAL MARKETING |
+| BENJAMIN COWEN | ***bcowen@immunomet.com*** | [https://intothecryptoverse.com](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj9mZLU3ZL7AhWkwAIHHcDhC-4QFnoECBEQAQ&url=https%3A%2F%2Fintothecryptoverse.com%2F&usg=AOvVaw1d1GdPehW_b_Q59ZIU3L4t) | [https://www.youtube.com/results?search_query=BENJAMIN+COWEN](https://www.youtube.com/results?search_query=BENJAMIN+COWEN) | [https://twitter.com/intocryptoverse](https://twitter.com/intocryptoverse) | THE CHANNEL WAS CREATED JUNE 14, 2019 | 1753 | 771K | 4 | 4 HOURS AGO | ENGLISH | IDEAL WEB 3 CHANNEL FOR THOSE WHO WANT TO EXPAND THEIR KNOWLEDGRE ON CRYPTO | #WEB 3.0 #CRYPTO |
+| CHRIS DIXON | N/A | [https://cdixon.org](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiypvXE4JL7AhXORPEDHaoeB_QQFnoECBMQAQ&url=https%3A%2F%2Fcdixon.org%2F&usg=AOvVaw3Oavf0WmqF13bNQ2EMBozR) | [https://www.youtube.com/user/chrismdixon10](https://www.youtube.com/user/chrismdixon10) | [https://twitter.com/chrismd10](https://twitter.com/chrismd10) | THE CHANNEL WAS CREATED MAY 6, 2014 | 33 | 474K | NIL | 4 WEEKS AGO | ENGLISH | CHANNEL PROMOTES WEB 3 AND HELPS TO EXPLAIN THE EVOLVING NATURE OF BLOCKCHAIN | #WEB 3.0 #CRYPTO |
+| PATRICK COLLINS | N/A | [https://patrickcollison.com](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjVy_2L45L7AhVVR_EDHYVwC3AQFnoECA8QAQ&url=https%3A%2F%2Fpatrickcollison.com%2Fbookshelf&usg=AOvVaw0fIjYp9ilHf9XKk3-QX5LX) | [https://www.youtube.com/c/PatrickCollins](https://www.youtube.com/c/PatrickCollins) | [https://twitter.com/patrickalphac](https://twitter.com/patrickalphac) | THE CHANNEL WAS CREATED SEPTEMBER 3 2019 | 60 | 49K | NIL | 4 MONTHS AGO | ENGLISH | THE CHANNEL HAS TUTORIALS ON BLOCKCHAIN, FINTECH, SMART CONTRACTS AND POPULAR PROGRAMMING LANGUAGES | #BLOCKCHAIN #TUTORIALS |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |

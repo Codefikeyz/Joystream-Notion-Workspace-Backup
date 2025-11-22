@@ -1,0 +1,10 @@
+# turtle
+
+Address: 15CDS3p8GMPtRZ4ghux5NG7z5hzNc5gr99HzdvMXKaxJ3CFD
+Date: June 3, 2023
+Discord: carrot#3722
+DiscordId: 798551877674991600
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: turlte19

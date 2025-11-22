@@ -1,0 +1,10 @@
+# Kran
+
+Address: 5F6ZmwsxdrtPpTvyW2ooKDHM5iUmZQKMxLoFaum2G5QwK5nV
+Date: October 3, 2023
+Discord: Kran#8274
+DiscordId: 957269664071835600
+Quest: Like, retweet ❤️#37
+Reward: 15 XP
+Status: success
+Twitter: pukaite1976

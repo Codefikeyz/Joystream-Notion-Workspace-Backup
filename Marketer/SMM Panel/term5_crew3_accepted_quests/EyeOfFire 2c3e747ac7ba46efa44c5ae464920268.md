@@ -1,0 +1,11 @@
+# EyeOfFire
+
+Address: 128zKYSZB14xGckEWDFQRQUQP35WXK2TibbM5YbJSXy5GsWJ
+Date: February 19, 2023
+Discord: EyeOfFire#9922
+DiscordId: 961235000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: AdamRic12775560
+answer: Digital Currency Group (DCG)

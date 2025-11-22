@@ -1,0 +1,11 @@
+# Eugene11
+
+Address: 5CJkC6v7m71rDrSVzeJ1ojczskf29P7Re3oMtjM7MG5ga2wa
+Date: February 23, 2023
+Discord: dp1105#2882
+DiscordId: 887742000000000000
+Quest: Question 3
+Reward: 8 XP
+Status: success
+Twitter: nichego_strash
+answer: 164

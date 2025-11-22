@@ -1,0 +1,10 @@
+# Rivera
+
+Address: j4SxZGDhRw8mNvz1TDwag1WwoMgniSD6UXQfKxZTY6FpRKWZu
+Date: March 3, 2023
+Discord: Rivera#7748
+DiscordId: 957720019003928700
+Quest: Like, retweet ❤️#31
+Reward: 15 XP
+Status: success
+Twitter: riveracrypto

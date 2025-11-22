@@ -1,0 +1,10 @@
+# walnut
+
+Address: 15kTW2J6afiq9x6cWFQujHh4HhiThVWEJoKjXh7DKoyKiqy7
+Date: February 23, 2023
+Discord: hoil#2475
+DiscordId: 745868000000000000
+Quest: Like, retweet ??#18
+Reward: 22 XP
+Status: success
+Twitter: linear_hoil

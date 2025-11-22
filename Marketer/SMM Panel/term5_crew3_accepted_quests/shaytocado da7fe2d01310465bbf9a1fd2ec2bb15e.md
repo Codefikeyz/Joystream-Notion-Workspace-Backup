@@ -1,0 +1,13 @@
+# shaytocado
+
+Address: 5FHmux2E4Fd5NtgfUD9HWtznd8hELEkB4e8NYncPc315a69E
+Date: February 20, 2023
+Discord: shaytocado#6464
+DiscordId: 921908000000000000
+Quest: Newsletter Subscriber ??
+ReviewDate: February 20, 2023 9:10 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: shaitex248
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-XB3SdC_N0vBNTWjT_aIaz-_2023-02-20_14-23-29.png

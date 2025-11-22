@@ -1,0 +1,11 @@
+# koreaprins
+
+Address: 1si7u3cy1rK7WBun3tSK7L27mFimu6QbdEP6xQcPg2A5oPw
+Date: February 27, 2023
+Discord: koreaprins#6107
+DiscordId: 846384272951869400
+Quest: Tweet about us
+Reward: 66 XP
+Status: success
+Twitter: PARKMINGYU15
+answer: https://twitter.com/PARKMINGYU15/status/1630068813206265856?s=20

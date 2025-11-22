@@ -1,0 +1,10 @@
+# __MaVKa__(Вова)
+
+Address: 5CdJnqpbeaMCqC1geXpvUCYtHhpVNGZ774xU3H4CJsYcMog7
+Date: February 24, 2023
+Discord: __MaVKa__#8055
+DiscordId: 396256140133924860
+Quest: Like, retweet ❤️#21
+Reward: 15 XP
+Status: success
+Twitter: VMyhailiv

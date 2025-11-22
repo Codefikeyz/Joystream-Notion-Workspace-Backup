@@ -1,0 +1,11 @@
+# Wickeds
+
+Address: 15htsYLaugAXrh6jf3FagWW22FnPGDK6R936i1B8h3t4boXR
+Date: March 3, 2023
+Discord: Wicked#0852
+DiscordId: 1051838376766099500
+Quest: Question 3
+Reward: 8 XP
+Status: success
+Twitter: audre_gamer
+answer: 164

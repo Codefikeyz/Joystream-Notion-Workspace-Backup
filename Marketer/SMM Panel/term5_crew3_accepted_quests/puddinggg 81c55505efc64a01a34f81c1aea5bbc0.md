@@ -1,0 +1,11 @@
+# puddinggg
+
+Address: 13Ku7iAtWe9HMfudsKiK1G3TQkzyU7KkGAZ3yYToYm8Nh4DP
+Date: February 25, 2023
+Discord: pudding#7627
+DiscordId: 961027000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: SusanaR16824746
+answer: Digital Currency Group (DCG)

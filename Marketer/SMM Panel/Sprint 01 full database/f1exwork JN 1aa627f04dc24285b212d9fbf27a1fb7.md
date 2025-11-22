@@ -1,0 +1,11 @@
+# f1exwork | JN
+
+Address: 1R4YNZDMPMEYD1Wsp4C9EjUXTwHyZ63nnwoFxEgtHUDNGFx
+Date: January 3, 2023
+Discord: f1exwork | JN#8247
+DiscordId: 1078316885973672000
+Quest: Tweet about us
+Reward: 66 XP
+Status: success
+Twitter: EralyZhaslan
+answer: https://twitter.com/EralyZhaslan/status/1630794703477063681?s=20

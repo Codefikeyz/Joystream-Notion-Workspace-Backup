@@ -1,0 +1,11 @@
+# teskoto
+
+Address: 0x3cbed818771c967805A85e4132532F1ce5b032D2
+Date: February 18, 2023
+Discord: kotoamotsukami#8226
+DiscordId: 699329153518010500
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: rengokusakuro
+answer: joined

@@ -1,0 +1,11 @@
+# GasVPRO
+
+Address: 16SyCBtbDXW3snnWGhkKdYuzzSksU939k6a2CR1YBVkPeE5b
+Date: February 18, 2023
+Discord: GasVPRO#8810
+DiscordId: 1007070000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: GavinBooker19
+answer: Digital Currency Group (DCG)

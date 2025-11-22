@@ -1,0 +1,11 @@
+# Androids
+
+Address: 13gdZ3LwWfbTgJH6K1CLfF5aUVyvywjL4zqKuweKsCEFNrBv
+Date: February 18, 2023
+Discord: Android#4059
+DiscordId: 963327009252053000
+Quest: Question 3
+Reward: 8 XP
+Status: success
+Twitter: YazminMorrison9
+answer: 164

@@ -1,0 +1,11 @@
+# urusa
+
+Address: 0xC85C19d2513b966840F40EF31CcfE76229761DBB
+Date: February 22, 2023
+Discord: orusa#2225
+DiscordId: 884360000000000000
+Quest: Tweet about us
+Reward: 83 XP
+Status: success
+Twitter: urusa50
+answer: https://twitter.com/urusa50/status/1628136972534353947?s=20

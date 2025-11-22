@@ -1,0 +1,18 @@
+# Fidgetspin
+
+Address: 5CoNKAMs3Etj5F8PDKC28SjodsmfGDLaBCcqjryua5Fm95ZF
+Date: February 3, 2023
+Discord: frey-style#7532
+DiscordId: 1037842744258875400
+Quest: Post comments under different videos
+ReviewDate: March 2, 2023 7:58 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 50 XP
+Status: success
+Twitter: Pejuang9902
+answer: fidgetspin
+https://gleev.xyz/video/855
+https://gleev.xyz/video/759
+https://gleev.xyz/video/875
+https://gleev.xyz/video/837
+https://gleev.xyz/video/838

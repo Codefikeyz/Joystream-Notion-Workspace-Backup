@@ -1,0 +1,10 @@
+# Rodger
+
+Address: 0xaFa85b084015a1E347Ad775CdE5D8573AB13F341
+Date: February 21, 2023
+Discord: rodger#7109
+DiscordId: 1077318809532235900
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: RodgerPanda

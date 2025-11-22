@@ -1,0 +1,10 @@
+# Hwer
+
+Address: 5Do1b1UfFTEczzyfPYeb1R1JHXoTav2XKvpFLxDj1yVWdUhH
+Date: August 3, 2023
+Discord: Gasew#2405
+DiscordId: 995037541457731700
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: KellyWa20155240

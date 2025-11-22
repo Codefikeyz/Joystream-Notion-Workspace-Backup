@@ -1,0 +1,11 @@
+# Karl14
+
+Address: 12BjT6J6ZwpTnkb7KxoLxFdeuTDqbefKmZrmqsQwE7oBmAH8
+Date: February 18, 2023
+Discord: Karl14#2952
+DiscordId: 968877000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: MessiahMccull12
+answer: Digital Currency Group (DCG)

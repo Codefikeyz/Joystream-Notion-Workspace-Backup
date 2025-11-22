@@ -1,0 +1,10 @@
+# kimjm7480
+
+Address: 5DfPS6aXihgSWCbpuFs3SXUrjE8MQ5N5xSbucNGXtcHzfanj
+Date: February 18, 2023
+Discord: kimjm7480#2185
+DiscordId: 919520049839079400
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: kimjm7480

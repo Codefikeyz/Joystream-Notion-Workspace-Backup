@@ -1,0 +1,10 @@
+# ungoo
+
+Address: 5Ckvgvp8eYDaMwq4HayF17XcoXWf7s6MFf9EZJ4E8cjbMb4i
+Date: February 18, 2023
+Discord: ungoo#7652
+DiscordId: 464655000000000000
+Quest: Follow Joystream on Twitter??
+Reward: 33 XP
+Status: success
+Twitter: mtfksob

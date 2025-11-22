@@ -1,0 +1,11 @@
+# denn
+
+Address: 5CPmUW4R4xv7jgDk4sEHpftUa65heb4SwPb2oChBq6YXMRK7
+Date: February 18, 2023
+Discord: denn#9071
+DiscordId: 933736000000000000
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: batdenn
+answer: joined

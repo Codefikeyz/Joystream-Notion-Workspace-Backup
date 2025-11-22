@@ -1,0 +1,13 @@
+# ChiliPepperNFT
+
+Address: 5GxDxMDSHAU7LYowk2LgHkMN9xZaGEEJDHAYqsU4B6QJ298e
+Date: February 25, 2023
+Discord: Artem_sdrnk#5332
+DiscordId: 1058510000000000000
+Quest: Follow us on Coinmarketcap
+ReviewDate: February 27, 2023 3:15 AM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 33 XP
+Status: success
+Twitter: Lefexstudio
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-ZzMV_XZ424ebJOz1cYl7Y-2023-02-241.png

@@ -1,0 +1,11 @@
+# MaxGameR777
+
+Address: 168X6YCFoEDh8ZjxCcwzdjgZZhRjNHG6R45S7A3euxJcNXfN
+Date: February 18, 2023
+Discord: MaxGameR777#9104
+DiscordId: 966083133135003600
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: yakutsk_Ms
+answer: joined

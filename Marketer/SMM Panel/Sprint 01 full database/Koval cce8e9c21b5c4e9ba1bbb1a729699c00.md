@@ -1,0 +1,10 @@
+# Koval
+
+Address: 5DnZndJsqznAijKRuE2aNJUGgsbkJyb8sQQZTwyQerkmYmWS
+Date: February 24, 2023
+Discord: Koval#1014
+DiscordId: 539073276685844500
+Quest: Like, reply, retweet ❤️#1
+Reward: 33 XP
+Status: success
+Twitter: 1986koval

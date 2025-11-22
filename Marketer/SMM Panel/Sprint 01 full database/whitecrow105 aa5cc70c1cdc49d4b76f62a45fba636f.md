@@ -1,0 +1,10 @@
+# whitecrow105
+
+Address: 5DefGfnPiPXgxYEBu44G8CSkEjPezofiZLFgWER8Y5w5QsQz
+Date: February 18, 2023
+Discord: whitecrow105#8827
+DiscordId: 911596970601234400
+Quest: Invite 3 crew3 frens 🤲
+Reward: 100 XP
+Status: success
+Twitter: whitecrow105

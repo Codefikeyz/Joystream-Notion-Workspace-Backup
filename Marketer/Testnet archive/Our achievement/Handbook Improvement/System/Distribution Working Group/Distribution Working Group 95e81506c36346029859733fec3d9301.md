@@ -1,0 +1,3 @@
+# Distribution Working Group
+
+The working group runs and maintains distributor nodes that deliver large volumes of upstream data to a large number of simultaneous end users in Joystream. Distributors are assigned to keeping track of which content nodes stores replicas bucket, based on redundancy and information from the cluster controller. They operate Distribution servers that connect with Storage servers to deliver content quickly to viewers.

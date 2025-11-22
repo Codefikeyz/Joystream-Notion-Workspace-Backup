@@ -1,0 +1,11 @@
+# Tarja922
+
+Address: 162QUEhtSxb4R7uSFWPHNhXJA8oknjTc5nt8jz2xSHxxsi9R
+Date: February 21, 2023
+Discord: Tarja92#0445
+DiscordId: 889510875210346500
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: tarja922
+answer: joined

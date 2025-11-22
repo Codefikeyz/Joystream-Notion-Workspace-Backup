@@ -1,0 +1,13 @@
+# ferdikesh
+
+Address: 5Dh8Lw11DPxmVE5GsFFoBvBHU7XFkdoLh2MzuoK5Sh6r9Aws
+Date: January 27, 2023
+Discord: Ömer_ÖzdemirTR#5183
+DiscordId: 827228948932329500
+Quest: Subscribe to YouTube channel
+ReviewDate: January 26, 2023 10:20 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: Omer_OzdemirTR
+answer: private/4066345b-4195-4a38-a0de-70568adf58a3-jqDGb6lkzpQq-ncB4OU7y-Screenshot_6.png

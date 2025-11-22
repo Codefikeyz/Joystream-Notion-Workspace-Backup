@@ -1,0 +1,11 @@
+# yaro2999
+
+Address: 1HUP3gTNCVMSnjJeCS6LvWvuE1pkk5J8whv6wuFqtjTHtxU
+Date: February 25, 2023
+Discord: yaro2999#2287
+DiscordId: 860203000000000000
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: YarikPavlov4
+answer: joined

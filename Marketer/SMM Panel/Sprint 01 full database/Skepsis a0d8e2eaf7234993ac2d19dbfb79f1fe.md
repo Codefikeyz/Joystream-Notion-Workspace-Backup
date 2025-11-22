@@ -1,0 +1,13 @@
+# Skepsis
+
+Address: 1FQrbJ1R2646occQoNh5qcyhhkTJwmbce1TScUb8iquLjog
+Date: February 22, 2023
+Discord: Skepsis | AptosLaunch TGE 1st De#1797
+DiscordId: 146331072483819520
+Quest: Newsletter Subscriber 📰
+ReviewDate: February 26, 2023 5:40 AM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 33 XP
+Status: success
+Twitter: BobbyWa21757770
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-Ibjw-6-AcCBRSNhFtdO0L-55.jpg

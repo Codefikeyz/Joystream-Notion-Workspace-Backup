@@ -1,0 +1,10 @@
+# Glebasta 99
+
+Address: 15JNxaxCzoQQtYbyK1fyrZsEDo5iDySfFqEPH5ScVwdKF4dU
+Date: July 3, 2023
+Discord: glebasta♒#1682
+DiscordId: 899914634700652700
+Quest: Like, retweet ❤️#35
+Reward: 15 XP
+Status: success
+Twitter: glebasta99

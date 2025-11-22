@@ -1,0 +1,10 @@
+# andrewOzr
+
+Address: 5DX11XMkoH4iT75dZ29zJuqqhqnor5B4gopwJ43itqgH5iKv
+Date: February 27, 2023
+Discord: AndreOzr#3185
+DiscordId: 842464568211013600
+Quest: Like, reply, retweet ❤️#5
+Reward: 33 XP
+Status: success
+Twitter: AndrewTsivilev

@@ -1,0 +1,10 @@
+# Detectorlji
+
+Address: 16hyBzhUnfKe7xgG8eww7pAHSQKc3EpDxrQzvwp8SHCsCD5K
+Date: February 18, 2023
+Discord: Detector#1983
+DiscordId: 1006140000000000000
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: RoryOsb76511201

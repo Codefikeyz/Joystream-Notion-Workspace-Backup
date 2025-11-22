@@ -1,0 +1,11 @@
+# armang777
+
+Address: 14gdkRW7oyhVo6T8sh3ZZQpGpsEMPf19crFG2RXSaEp4v5fR
+Date: February 21, 2023
+Discord: armang#9177
+DiscordId: 895148777999040500
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: armang777
+answer: Digital Currency Group (DCG)

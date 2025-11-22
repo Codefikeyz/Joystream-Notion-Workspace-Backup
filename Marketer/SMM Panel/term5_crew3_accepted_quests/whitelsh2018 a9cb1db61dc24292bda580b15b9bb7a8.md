@@ -1,0 +1,11 @@
+# whitelsh2018
+
+Address: 14TEz7AsR7DaMxLc9GAMeb6PAJCbHqLZL4ynqw9oaVxDQSQn
+Date: February 20, 2023
+Discord: white#9828
+DiscordId: 778227000000000000
+Quest: Tweet about us
+Reward: 83 XP
+Status: success
+Twitter: whitelsh2018
+answer: https://twitter.com/whitelsh2018/status/1627460368980410368?s=20

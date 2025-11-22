@@ -1,0 +1,11 @@
+# Foxie
+
+Address: 13n2vqdHPos66qf5nJRHcizrCcH1zQs8kVn453pTaCqTiTxv
+Date: February 25, 2023
+Discord: Foxie#3608
+DiscordId: 960998000000000000
+Quest: Question 2
+Reward: 8 XP
+Status: success
+Twitter: doshibae1976
+answer: Polkadot

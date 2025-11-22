@@ -1,0 +1,11 @@
+# FixFoxx
+
+Address: 13GQh3FC7kCTCA3AbcvSL729Z8ZM7ixCevaHZv2AHqXt4Eyn
+Date: February 21, 2023
+Discord: ITfoxxx#3672
+DiscordId: 845674000000000000
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: wspolna_sprawa
+answer: joined

@@ -1,0 +1,11 @@
+# stafredtears2
+
+Address: 1cD14J2T1kZFuP6aiQ4p4eZfSvSePugvGo4T69pXcf2XVAX
+Date: February 27, 2023
+Discord: stafredtears2#1943
+DiscordId: 1075970000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: amative_1987
+answer: Digital Currency Group (DCG)

@@ -1,0 +1,11 @@
+# VladimirRaketa
+
+Address: 12uHfH2VKWpLGCosxwPdMQp8CDw49KkPsn7GWiKE1YTSMzy9
+Date: February 20, 2023
+Discord: Raketa | PYME#8129
+DiscordId: 855113000000000000
+Quest: Tweet about us
+Reward: 83 XP
+Status: success
+Twitter: raketa2022
+answer: https://twitter.com/raketa2022/status/1627480000852111366?s=20

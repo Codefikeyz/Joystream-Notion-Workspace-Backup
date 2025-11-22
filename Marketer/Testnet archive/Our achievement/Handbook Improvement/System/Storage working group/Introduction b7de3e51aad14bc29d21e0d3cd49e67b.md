@@ -1,0 +1,3 @@
+# Introduction
+
+Joystream requires a robust storage system and as a result there has been a significant increase in the data sets that require constant assessment and storing. Storage working group is assigned to handle such situations as well as securing data, distributing data to various sources to make it more difficult to hack, encrypting files with passwords and offering efficiency and limpidity in the usage of existing data.

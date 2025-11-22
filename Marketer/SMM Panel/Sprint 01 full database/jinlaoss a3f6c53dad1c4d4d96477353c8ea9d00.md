@@ -1,0 +1,10 @@
+# jinlaoss
+
+Address: 0x72a2c9a21c19d9eda3aa9e8bfd569556c9df99fa
+Date: February 18, 2023
+Discord: jinlaoss#7828
+DiscordId: 953437886064255000
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: TristaHubbard19

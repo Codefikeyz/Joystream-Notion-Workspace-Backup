@@ -1,0 +1,13 @@
+# ZonaV
+
+Address: 12SGppYNQXsvFPRJLP8RHDch16Lo28Jo8no1WE4Bg8Ck61cn
+Date: February 24, 2023
+Discord: ZonaV#3217
+DiscordId: 414946325776564200
+Quest: Joystream in watchlist on CMC
+ReviewDate: February 24, 2023 7:36 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: 0xZonaV
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-LJRYfc1yeKvhWBV3Nmrzk-2023-02-24172619.png

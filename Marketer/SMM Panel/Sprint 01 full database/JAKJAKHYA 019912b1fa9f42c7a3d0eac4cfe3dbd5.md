@@ -1,0 +1,13 @@
+# JAKJAKHYA
+
+Address: 14ziqMoCbWHbt33VLBRRmYx85bCZ29YMV8Zkh5jh7J1ajmsx
+Date: February 19, 2023
+Discord: JAKJAKHYA#4722
+DiscordId: 874832745732390900
+Quest: Post a comment on Reddit
+ReviewDate: February 20, 2023 8:56 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: JAKJAKHYA
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-le5GNSK_FU7HOUbLqZtnN-1.png

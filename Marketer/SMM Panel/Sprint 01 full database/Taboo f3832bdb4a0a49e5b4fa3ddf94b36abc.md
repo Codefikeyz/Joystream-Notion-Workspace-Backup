@@ -1,0 +1,10 @@
+# Taboo
+
+Address: 15Cj13QjCtehG2i6537ukZ7n9Nyx5p2W3K93QFjeSdzhMBJu
+Date: February 17, 2023
+Discord: Taboo#5826
+DiscordId: 946705708852871200
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: a_danilov_a

@@ -1,0 +1,10 @@
+# Dipo777
+
+Address: 5CDNgNvn4bdgNWwUUYLC7Xgs5eDeqDzAvwn9htVWNwAbbwqe
+Date: February 23, 2023
+Discord: BarnacleJollyHook#1021
+DiscordId: 500628671628050400
+Quest: Like, reply, retweet ❤️#17
+Reward: 15 XP
+Status: success
+Twitter: DimaPop42737685

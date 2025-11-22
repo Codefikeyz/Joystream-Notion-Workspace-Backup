@@ -1,0 +1,13 @@
+# PatriciaWright
+
+Address: 5DUtCj4KkJpGxaSV1gty4TafQz6yEv4Wg38Gojd8MmeUnrbM
+Date: February 20, 2023
+Discord: PatriciaWrightSV#7144
+DiscordId: 1043070000000000000
+Quest: Share video 
+ReviewDate: February 20, 2023 2:57 PM (GMT+1)
+ReviewedById: bf66865c-4062-45d3-b40b-d168f2e26136
+Reward: 33 XP
+Status: success
+Twitter: BradtkeJonnie
+answer: https://twitter.com/BradtkeJonnie/status/1627656355229081600?s=20

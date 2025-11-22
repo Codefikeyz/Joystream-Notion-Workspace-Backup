@@ -1,0 +1,11 @@
+# ggvp
+
+Address: 5C5MQhyhFQi2ekd6fMY8dczhuRmBFVyt83y3DbjAtdQcF4Jq
+Date: February 22, 2023
+Discord: ggvp#6817
+DiscordId: 401685000000000000
+Quest: Question 8
+Reward: 8 XP
+Status: success
+Twitter: dkim111313
+answer: $JOY

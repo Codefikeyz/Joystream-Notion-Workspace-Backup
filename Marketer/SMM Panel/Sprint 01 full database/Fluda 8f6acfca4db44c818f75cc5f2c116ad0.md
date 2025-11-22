@@ -1,0 +1,13 @@
+# Fluda
+
+Address: 5G3jfUE6fePJYcL5EWZq1Z6hrPwQPx5V8aTDKYmeTNvzNj1t
+Date: February 18, 2023
+Discord: Fluda#5336
+DiscordId: 905153652828827600
+Quest: Give a star our Github repository
+ReviewDate: February 20, 2023 9:06 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: 0xFluda
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-rkcC13m0ITR_cxBEgA9al-Screenshot2023-02-18at121747.png

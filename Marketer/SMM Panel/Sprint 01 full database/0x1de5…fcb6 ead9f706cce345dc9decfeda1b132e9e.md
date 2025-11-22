@@ -1,0 +1,13 @@
+# 0x1de5…fcb6
+
+Address: 5FmpCPXDZudLd44GXeT9ThLy6fWL1bBuskCfaB3j9vbWR8Sa
+Date: February 27, 2023
+Discord: alphi#5726
+DiscordId: 848172752469098500
+Quest: Joystream in watchlist on CMC
+ReviewDate: February 27, 2023 9:22 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: ZBti13
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-jzj8_aoVve6NQKVMaeruu-20230227_174112.jpg

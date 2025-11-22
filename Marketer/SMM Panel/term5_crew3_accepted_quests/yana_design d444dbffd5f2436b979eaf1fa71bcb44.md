@@ -1,0 +1,10 @@
+# yana_design
+
+Address: 13u6pruJ5tuZj4otVz3VyYPeQz4rnfLwgppFi9ec74CnjF11
+Date: February 26, 2023
+Discord: yana_design#5594
+DiscordId: 1012400000000000000
+Quest: Like, retweet ??#24
+Reward: 15 XP
+Status: success
+Twitter: YLuhovska

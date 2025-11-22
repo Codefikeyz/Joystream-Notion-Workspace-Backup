@@ -1,0 +1,10 @@
+# CrazyEights15
+
+Address: fefsed
+Date: January 3, 2023
+Discord: CrazyEights15#9232
+DiscordId: 1055914887861239900
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+answer: joined

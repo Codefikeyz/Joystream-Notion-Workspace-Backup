@@ -1,0 +1,13 @@
+# eclipsingbinary
+
+Address: 5CDCqEbzTiyxpaNGEK7M7wzEvwrjY6rQpM2Np5zm2nFPEVfj
+Date: February 17, 2023
+Discord: Eclipsingbinary#7338
+DiscordId: 600781995811012600
+Quest: Create a Tiktok/Short video about Joystream
+ReviewDate: February 19, 2023 2:51 PM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 250 XP
+Status: success
+Twitter: EclipsingB
+answer: https://www.youtube.com/shorts/lVGNzGH7Wss

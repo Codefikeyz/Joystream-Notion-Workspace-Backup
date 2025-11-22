@@ -1,0 +1,11 @@
+# Red devil
+
+Address: 15BZ11YZQAgB4cghjePnCJXji9dH1nAFPnrEiR7hUGSVdAat
+Date: February 19, 2023
+Discord: Red devil#1809
+DiscordId: 961224267872239600
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: BrooksB42383034
+answer: Digital Currency Group (DCG)

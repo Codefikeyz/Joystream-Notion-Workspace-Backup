@@ -1,0 +1,10 @@
+# �� ������
+
+Address: 5EZH16Jtw6L9qsSekPSnJfzgSzzSnwDTctZPmytuWghfE9e4
+Date: March 3, 2023
+Discord: dimibla | SWASH#5195
+DiscordId: 939102000000000000
+Quest: Daily connect ??
+Reward: 1 XP
+Status: success
+Twitter: oi_ttl

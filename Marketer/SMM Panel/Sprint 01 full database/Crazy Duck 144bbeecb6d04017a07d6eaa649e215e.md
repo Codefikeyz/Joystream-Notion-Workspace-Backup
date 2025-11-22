@@ -1,0 +1,11 @@
+# Crazy Duck
+
+Address: 0x051519506F5df1B04b038BFCEA2e1f2018f35464
+Date: February 28, 2023
+Discord: Dimon98#4966
+DiscordId: 1076441861482360800
+Quest: Tweet about us
+Reward: 66 XP
+Status: success
+Twitter: DimaLavrik2
+answer: https://twitter.com/DimaLavrik2/status/1630325296212721667?s=20

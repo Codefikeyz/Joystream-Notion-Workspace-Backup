@@ -1,0 +1,11 @@
+# pinkPanter
+
+Address: 131GHfQgYKr7VdgRvWNNEsF8ofXUb4nxzBveWyZqbHNvELCj
+Date: February 25, 2023
+Discord: pinkPanter#5086
+DiscordId: 961035000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: LandonV55181456
+answer: Digital Currency Group (DCG)

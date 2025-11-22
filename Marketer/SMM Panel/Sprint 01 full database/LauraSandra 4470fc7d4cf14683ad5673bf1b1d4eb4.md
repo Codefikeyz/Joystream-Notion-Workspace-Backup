@@ -1,0 +1,11 @@
+# LauraSandra
+
+Address: 15GGX2CkfoxqsW5D3mzcn6ikTNXMEFdN1N65QJQEFPbfjPUS
+Date: February 18, 2023
+Discord: LauraSandra#5125
+DiscordId: 968625551755587600
+Quest: Question 3
+Reward: 8 XP
+Status: success
+Twitter: Phoenix70380084
+answer: 164

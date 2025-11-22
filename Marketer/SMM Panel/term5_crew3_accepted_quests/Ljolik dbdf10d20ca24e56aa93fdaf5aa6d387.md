@@ -1,0 +1,10 @@
+# Ljolik
+
+Address: 5Fh1nr4hCtndVbfDBXbowuR5iaecDXgtNLsyNB2LAp9fZh5o
+Date: February 3, 2023
+Discord: Vita#8296
+DiscordId: 972932000000000000
+Quest: Daily connect ??
+Reward: 1 XP
+Status: success
+Twitter: best0477

@@ -1,0 +1,11 @@
+# 0x6acd…80da
+
+Address: 133UjRTosPq4JXQ3zfLJZiAgEjUCDhKQGuyXxzZruRxGxp9M
+Date: February 19, 2023
+Discord: nawalpro32#8344
+DiscordId: 897504158989549700
+Quest: Question 8
+Reward: 8 XP
+Status: success
+Twitter: nahwansu938
+answer: $JOY

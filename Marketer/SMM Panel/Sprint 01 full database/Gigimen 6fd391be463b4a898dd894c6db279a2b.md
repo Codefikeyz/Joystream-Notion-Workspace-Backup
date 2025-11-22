@@ -1,0 +1,18 @@
+# Gigimen
+
+Address: 12b2ZCr6VsB2JwzJcndejoK1yaZeifXQv7EK5DqsEj9L796U
+Date: February 26, 2023
+Discord: Gigimen#6994
+DiscordId: 1033008569185996900
+Quest: Post comments under different videos
+ReviewDate: February 27, 2023 8:37 AM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 50 XP
+Status: success
+Twitter: HardFrances
+answer: HardFrances
+https://gleev.xyz/video/854
+https://gleev.xyz/video/855
+https://gleev.xyz/video/836
+https://gleev.xyz/video/851
+https://gleev.xyz/video/833

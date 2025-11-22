@@ -1,0 +1,13 @@
+# viktooria
+
+Address: 5E7UoszouazDPQ717JEpKyvtkgpQXjhbbqVgAC4X7EzCRiC8
+Date: February 27, 2023
+Discord: viktooria#3821
+DiscordId: 953964000000000000
+Quest: Write a Medium article about Joystream
+ReviewDate: February 28, 2023 11:18 AM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 200 XP
+Status: success
+Twitter: BuyukdagOvgu
+answer: https://medium.com/@anastasir1994/joystream-������������������-��������������-���-web3-5a3ae45c2318

@@ -1,0 +1,13 @@
+# БРИТАЯ БОШКА
+
+Address: 5HBRPK3bpFmLWcm1cpmG7QvVzobpWHsekJCKnQGH58Rv1VkT
+Date: February 24, 2023
+Discord: Dantess#1813
+DiscordId: 475935017076260860
+Quest: Joystream in watchlist on CMC
+ReviewDate: February 24, 2023 7:36 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: REQCHER1
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-K4BVFCaMqO118ht-a-hHs-joeproject.png

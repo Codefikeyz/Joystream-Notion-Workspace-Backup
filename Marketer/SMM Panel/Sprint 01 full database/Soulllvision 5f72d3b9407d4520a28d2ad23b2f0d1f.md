@@ -1,0 +1,10 @@
+# Soulllvision
+
+Address: 1gx3jVCcpdmKR6f15WQ22uRPTmAx9JZSoCrCZVyTmswqmji
+Date: February 21, 2023
+Discord: Soulllvision#8346
+DiscordId: 799946361478840300
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: soulllvision

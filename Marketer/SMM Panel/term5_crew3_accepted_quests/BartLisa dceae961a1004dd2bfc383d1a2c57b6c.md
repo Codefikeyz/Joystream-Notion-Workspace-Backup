@@ -1,0 +1,11 @@
+# BartLisa
+
+Address: 5CPEaZ5uQHQ2wWZx3UqFEshtvf66rHcVSAaoSqXkC46yxhiw
+Date: February 18, 2023
+Discord: BartLisa#8368
+DiscordId: 957526000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: taringo1981
+answer: Digital Currency Group (DCG)

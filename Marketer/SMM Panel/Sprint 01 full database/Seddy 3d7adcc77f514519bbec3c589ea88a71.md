@@ -1,0 +1,10 @@
+# Seddy
+
+Address: 5HE1K6ZM3kJ91zZXHAHH5mEqxLMBhFreTP2mUzYuXM6cQ35T
+Date: February 17, 2023
+Discord: Seddy | Sui Bears#0928
+DiscordId: 839572870777667600
+Quest: Like, reply, retweet ❤️#10
+Reward: 33 XP
+Status: success
+Twitter: SedYuri

@@ -1,0 +1,11 @@
+# kream
+
+Address: 15LyJLeG6sosX84jipW8W6hW6znhFwsKooRh9Mqg8cb6eiZR
+Date: February 25, 2023
+Discord: kream#1068
+DiscordId: 961018000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: KaraMor46383965
+answer: Digital Currency Group (DCG)

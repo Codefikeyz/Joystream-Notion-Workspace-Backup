@@ -1,0 +1,11 @@
+# Lync12
+
+Address: 15Dwtk8S4guWv44fJyVaRvyBrak1s7CV4a3nKGbzXixTZViW
+Date: August 3, 2023
+Discord: Lync12#8072
+DiscordId: 1007321488367550600
+Quest: Question 2
+Reward: 8 XP
+Status: success
+Twitter: ASpysnik
+answer: Polkadot

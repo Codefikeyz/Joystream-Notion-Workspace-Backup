@@ -1,0 +1,10 @@
+# sergeu
+
+Address: 15JpAicECQkhMBiwreCZLcUYfNtTB2YbXrfT4WYmmECpAcDZ
+Date: February 27, 2023
+Discord: sergeu#6028
+DiscordId: 947441739902378000
+Quest: Like, retweet ❤️#25
+Reward: 15 XP
+Status: success
+Twitter: sergeikrotenko

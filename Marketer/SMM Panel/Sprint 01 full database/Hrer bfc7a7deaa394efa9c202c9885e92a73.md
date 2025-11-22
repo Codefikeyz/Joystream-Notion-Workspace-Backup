@@ -1,0 +1,10 @@
+# Hrer
+
+Address: 5EqAXUfc6ytwzhBpd4AiEZGzM3UyYYTd2BhAeLcLNR9HnYgi
+Date: September 3, 2023
+Discord: Sosochka#9353
+DiscordId: 902221493348495400
+Quest: Daily connect 📆
+Reward: 1 XP
+Status: success
+Twitter: Jocelyn98196044

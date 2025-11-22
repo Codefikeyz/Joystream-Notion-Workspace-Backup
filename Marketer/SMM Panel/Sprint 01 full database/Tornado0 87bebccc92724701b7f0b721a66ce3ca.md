@@ -1,0 +1,11 @@
+# Tornado0
+
+Address: 15tmBnrB7hrj2sqDxGefJREmF5sj3NS9q1F4kWQ6xBWbyTgj
+Date: February 19, 2023
+Discord: Tornado#4971
+DiscordId: 961229463213969500
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: Brandon54410366
+answer: Digital Currency Group (DCG)

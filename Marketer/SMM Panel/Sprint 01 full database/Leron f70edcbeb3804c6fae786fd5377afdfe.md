@@ -1,0 +1,11 @@
+# Leron
+
+Address: 5HNcK1vjWywb2kowPoYkRduxZu2edGBCmQDEEdyTtkmCM2nE
+Date: October 3, 2023
+Discord: Scocr90#3050
+DiscordId: 965086321162997800
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: KizangiM
+answer: joined

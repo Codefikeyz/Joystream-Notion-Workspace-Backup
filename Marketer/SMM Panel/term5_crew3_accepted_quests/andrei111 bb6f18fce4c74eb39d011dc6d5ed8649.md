@@ -1,0 +1,10 @@
+# andrei111
+
+Address: 5DDZ9oHEnJ8pZE6chsNmgAtan2EpHFTTSLVx4hBLpk55NmHv
+Date: February 24, 2023
+Discord: andrei.l| AptosLaunch TG#7765
+DiscordId: 842815000000000000
+Quest: Like, retweet ??#18
+Reward: 22 XP
+Status: success
+Twitter: AlSvarnoy

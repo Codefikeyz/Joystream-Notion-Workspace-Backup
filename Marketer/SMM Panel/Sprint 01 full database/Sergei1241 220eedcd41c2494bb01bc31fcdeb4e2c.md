@@ -1,0 +1,10 @@
+# Sergei1241
+
+Address: 5D2LBovfZZwA4wYm1t5SM11fLFWBTCNAG9sQQwUTuYBfWhmC
+Date: August 3, 2023
+Discord: Sergei1241#2253
+DiscordId: 1054309025149370400
+Quest: Daily connect 📆
+Reward: 1 XP
+Status: success
+Twitter: bondarenko1241

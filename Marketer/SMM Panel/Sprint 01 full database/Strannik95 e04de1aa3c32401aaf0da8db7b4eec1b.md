@@ -1,0 +1,11 @@
+# Strannik95
+
+Address: 5GpVttkPhEmU6irNuQtQTVF3438gmnJHnm9NatgJCa1vHNnx
+Date: February 22, 2023
+Discord: Magomed#2135
+DiscordId: 1000046345542975500
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: muvahhid95
+answer: joined

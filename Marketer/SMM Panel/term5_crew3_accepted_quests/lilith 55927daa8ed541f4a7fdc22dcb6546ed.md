@@ -1,0 +1,11 @@
+# lilith
+
+Address: 16XWJbW9gS9jPB8nbwwZD2DjaU9gPdiLqr69BuqFW78ME4f
+Date: January 3, 2023
+Discord: lilith#3245
+DiscordId: 919558000000000000
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: HodzoanLilit
+answer: joined

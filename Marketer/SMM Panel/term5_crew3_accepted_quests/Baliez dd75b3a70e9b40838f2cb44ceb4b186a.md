@@ -1,0 +1,13 @@
+# Baliez
+
+Address: 1V67fTU6LcQRS5P4vVpEra2jJhXdsE7aFGkrHXBhuT69JeE
+Date: February 20, 2023
+Discord: Baliez#2072
+DiscordId: 910951000000000000
+Quest: Share video 
+ReviewDate: February 20, 2023 3:06 PM (GMT+1)
+ReviewedById: bf66865c-4062-45d3-b40b-d168f2e26136
+Reward: 33 XP
+Status: success
+Twitter: BilykJohn
+answer: https://twitter.com/BilykJohn/status/1627533863810646016?s=20

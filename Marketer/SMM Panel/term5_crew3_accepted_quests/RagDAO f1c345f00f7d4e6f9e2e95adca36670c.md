@@ -1,0 +1,13 @@
+# RagDAO
+
+Address: 5HpYWuwQQRgDbYNvh7W1sh2En4Kw1VRWtKKYN4oY1D49aZSu
+Date: February 25, 2023
+Discord: ingtellect#0751
+DiscordId: 222477000000000000
+Quest: Joystream in watchlist on CMC
+ReviewDate: February 27, 2023 9:22 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: CryptoRagDAO
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-tIDQetuoXGGJVl-asIYR2-Joystream-price-today-JOY-to-KRW-live-marketcap-and-chart-CoinMarketCap.png

@@ -1,0 +1,11 @@
+# waleron
+
+Address: 5HHYuzL7WcDi9J34Zd88cuZhv4szDJ3j4brsrTamPzPkQdnN
+Date: February 22, 2023
+Discord: waleron#5817
+DiscordId: 957537000000000000
+Quest: Tweet about us
+Reward: 83 XP
+Status: success
+Twitter: zurinaka1975
+answer: https://twitter.com/zurinaka1975/status/1628396445677019136?s=20

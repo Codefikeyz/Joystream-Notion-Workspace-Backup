@@ -1,0 +1,10 @@
+# dzhigis
+
+Address: 16d1PhWhzTuDozTxQntxdMY6zbFEuqSUozW5A9V4sktn7ars
+Date: February 17, 2023
+Discord: dzhigis 💀👑#3514
+DiscordId: 693555607394975900
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: dzhigis

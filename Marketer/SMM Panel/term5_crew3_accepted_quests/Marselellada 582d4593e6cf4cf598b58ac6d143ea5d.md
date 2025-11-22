@@ -1,0 +1,10 @@
+# Marselellada
+
+Address: 5FCd4gQqkRvUNyThC1hKeskjqZEigxnCiCvHuKecG1BQpCmb
+Date: February 18, 2023
+Discord: marselellada#8222
+DiscordId: 896371000000000000
+Quest: Follow Joystream on Twitter??
+Reward: 33 XP
+Status: success
+Twitter: Marselellada

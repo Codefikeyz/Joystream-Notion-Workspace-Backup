@@ -1,0 +1,11 @@
+# fullnethell
+
+Address: 16DBwYxPxiNg1jd1TNBz1uw4EHkcRAk5dJEm277pZmdUYS3f
+Date: February 25, 2023
+Discord: fullnethell#5047
+DiscordId: 960563813130846200
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: JoyButcher18
+answer: Digital Currency Group (DCG)

@@ -1,0 +1,11 @@
+# Iquzoo
+
+Address: 13JnBoU5tyyVFDU8tNJ1jZ2kdazFX7oJixVsMWcrr1VuHY4t
+Date: March 3, 2023
+Discord: iquzoo#5983
+DiscordId: 945207000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: iquzoo1
+answer: Digital Currency Group (DCG)

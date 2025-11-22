@@ -1,0 +1,13 @@
+# Nol
+
+Address: 5DPycT2NFqWPmRzYzGwYG6AuguS5c8fhZDxf3tTzY8GmzuiX
+Date: February 24, 2023
+Discord: 420grandmasterbit#3009
+DiscordId: 931850186685284400
+Quest: Joystream in watchlist on CMC
+ReviewDate: February 23, 2023 9:11 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: RuslanStorozuk
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-dLMbjq81b9fU8O0j5ZsfI-334.jpg

@@ -1,0 +1,10 @@
+# GGhost
+
+Address: 5GgGEzk1FLkDMTofhuW7Bx82S4wMuPGwUpozQi3nApMKEvQ8
+Date: December 3, 2023
+Discord: GGhost#3838
+DiscordId: 521716794277494800
+Quest: Daily connect 📆
+Reward: 1 XP
+Status: success
+Twitter: GGho19st

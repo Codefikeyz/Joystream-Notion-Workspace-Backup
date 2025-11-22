@@ -1,0 +1,11 @@
+# Aleksandr
+
+Address: 14zfFQnNEgz7Xvp6fAZ9UrazY5z4r9wYvR5wonpiFJBejQ4H
+Date: February 17, 2023
+Discord: Aleksandr#9788
+DiscordId: 665606000000000000
+Quest: Question 7
+Reward: 8 XP
+Status: success
+Twitter: AleksandrLutsk1
+answer: 15 days

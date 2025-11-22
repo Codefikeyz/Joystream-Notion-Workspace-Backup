@@ -1,0 +1,10 @@
+# kurokin
+
+Address: 1xUW3dfnK5iKYYkv2JB73kH7ckyd1bnkXKcoaCyNeZPNoc2
+Date: February 19, 2023
+Discord: Kurokin#2717
+DiscordId: 1023690000000000000
+Quest: Follow Joystream on Twitter??
+Reward: 33 XP
+Status: success
+Twitter: KelliLe50494034

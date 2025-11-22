@@ -1,0 +1,13 @@
+# MaxBlok
+
+Address: 16kwDY15Hnz3t3aTY14TKmsALmzLdBXQcrKsPfPSRyr5JxB6
+Date: February 27, 2023
+Discord: maxim2389#4717
+DiscordId: 656542000000000000
+Quest: Newsletter Subscriber ??
+ReviewDate: February 27, 2023 8:38 AM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: MaxJurov
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-vbRcsQiTB3K2KTvA4SYpo-111.png

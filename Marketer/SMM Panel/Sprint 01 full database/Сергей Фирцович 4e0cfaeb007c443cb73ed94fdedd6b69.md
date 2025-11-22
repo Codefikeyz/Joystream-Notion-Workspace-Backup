@@ -1,0 +1,13 @@
+# Сергей Фирцович
+
+Address: 1dgmfrqLiwsNnkkfeh22CCASLqPmxkS6LETWNjzswM2CG2D
+Date: February 20, 2023
+Discord: SergeyFirtsovich#4837
+DiscordId: 989629270685007900
+Quest: Share video 
+ReviewDate: February 21, 2023 6:08 AM (GMT+1)
+ReviewedById: bf66865c-4062-45d3-b40b-d168f2e26136
+Reward: 33 XP
+Status: success
+Twitter: S_Firtsovych
+answer: https://twitter.com/S_Firtsovych/status/1627380688386154496?s=20

@@ -1,0 +1,13 @@
+# esuza
+
+Address: 5FUK47JQfoFVUuMQ4vLT7L6SfKYGQVR52LNnaeADdocu12MY
+Date: February 20, 2023
+Discord: esuza#2993
+DiscordId: 1054320000000000000
+Quest: Joystream in watchlist on CMC
+ReviewDate: February 20, 2023 8:56 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: YarikSologub
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-NDIIClekRUYjexmX_jXwx-199.png

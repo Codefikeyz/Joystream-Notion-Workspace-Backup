@@ -1,0 +1,11 @@
+# twistzz
+
+Address: 13VqpRPhhJASV1ssQnHzixKVY2GAuCDjrVwner4xVXohTFxQ
+Date: February 25, 2023
+Discord: twistzz#8353
+DiscordId: 960607000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: Chrissy91601213
+answer: Digital Currency Group (DCG)

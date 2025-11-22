@@ -1,0 +1,10 @@
+# Fluda
+
+Address: 1Che2YzRnTd1cgmpWsWLGCHusnVJQN6u1N9RqoJHnBgSnwb
+Date: February 18, 2023
+Discord: Fluda#5336
+DiscordId: 905154000000000000
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: 0xFluda

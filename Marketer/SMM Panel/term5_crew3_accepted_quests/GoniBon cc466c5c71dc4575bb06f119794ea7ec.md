@@ -1,0 +1,18 @@
+# GoniBon
+
+Address: 5CwUBYjrG6WJHaYBasQ97eGeL6ijZ18hKh9RqJ38b9xyqVvm
+Date: February 26, 2023
+Discord: GoniBon#4570
+DiscordId: 956994000000000000
+Quest: Post comments under different videos
+ReviewDate: February 27, 2023 8:37 AM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 50 XP
+Status: success
+Twitter: tranlacvero1988
+answer: kisumura
+https://gleev.xyz/video/784
+https://gleev.xyz/video/776
+https://gleev.xyz/video/778
+https://gleev.xyz/video/779
+https://gleev.xyz/video/884

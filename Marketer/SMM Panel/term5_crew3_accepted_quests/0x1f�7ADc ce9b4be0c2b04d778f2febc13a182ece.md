@@ -1,0 +1,10 @@
+# 0x1f�7ADc
+
+Address: 5E24S8DevfaGdCaoZyWSqAmuggUKkac2beP2dXpesFMia7Ja
+Date: February 20, 2023
+Discord: Chou#6892
+DiscordId: 894590000000000000
+Quest: Follow Joystream on Twitter??
+Reward: 33 XP
+Status: success
+Twitter: vioet0

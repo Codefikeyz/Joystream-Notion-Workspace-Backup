@@ -1,0 +1,13 @@
+# goodpeopleboss
+
+Address: 12gQY3E4SDThTiGspaRTHb8Tz2BkM68xXKexUz7kxXbL5eEW
+Date: February 21, 2023
+Discord: Nimere#5228
+DiscordId: 707956345587892400
+Quest: Create a channel 
+ReviewDate: February 21, 2023 7:30 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 50 XP
+Status: success
+Twitter: Goodpeopleboss
+answer: https://gleev.xyz/studio/channel

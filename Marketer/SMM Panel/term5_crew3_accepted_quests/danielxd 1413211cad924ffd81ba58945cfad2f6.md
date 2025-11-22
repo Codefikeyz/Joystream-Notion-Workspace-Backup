@@ -1,0 +1,10 @@
+# danielxd
+
+Address: 5GTnQg716AdVF7cg8cXRaiE6yXpT2GCrhptBaq26zgWTttY8
+Date: February 19, 2023
+Discord: danielxd#4243
+DiscordId: 539146000000000000
+Quest: Follow Joystream on Twitter??
+Reward: 33 XP
+Status: success
+Twitter: a10kra0

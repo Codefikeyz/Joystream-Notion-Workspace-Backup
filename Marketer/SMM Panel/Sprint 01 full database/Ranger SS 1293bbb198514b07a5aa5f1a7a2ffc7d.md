@@ -1,0 +1,10 @@
+# Ranger SS
+
+Address: 0x8071bC96d3E4A70F09a502f0bD4cB7F190510544
+Date: February 27, 2023
+Discord: Ranger SS#2733
+DiscordId: 447741979460239360
+Quest: Like, retweet ❤️#25
+Reward: 15 XP
+Status: success
+Twitter: XjQvuoHo1qO8WjD

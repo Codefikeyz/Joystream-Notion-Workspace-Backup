@@ -1,0 +1,10 @@
+# Luka's
+
+Address: 5DF3hXpStMR17dFzdQxTBw9oMZvgiVb3MAWZ4aNsfjf77TUh
+Date: March 3, 2023
+Discord: Luka's#9600
+DiscordId: 874216269732257800
+Quest: Daily connect 📆
+Reward: 1 XP
+Status: success
+Twitter: bk2843

@@ -1,0 +1,10 @@
+# Sooulge
+
+Address: j4TKovfBswhEkZiGrUaGeFkwiJEPQ1VscKLe1fGKpanutNtHS
+Date: July 3, 2023
+Discord: Sooulge#8853
+DiscordId: 773289087973064800
+Quest: Daily connect 📆
+Reward: 1 XP
+Status: success
+Twitter: sooulge

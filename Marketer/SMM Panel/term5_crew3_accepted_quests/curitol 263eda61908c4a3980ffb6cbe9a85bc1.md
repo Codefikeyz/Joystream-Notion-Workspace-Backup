@@ -1,0 +1,11 @@
+# curitol
+
+Address: 5F9RiGY56B6kFLHonzPC2CnTrpbHb7uzskNzoQHb2e73bQKS
+Date: February 20, 2023
+Discord: sbarkonni#8087
+DiscordId: 402382000000000000
+Quest: High-Quality Twitter thread ??
+Reward: 250 XP
+Status: success
+Twitter: sambarkonni
+answer: https://twitter.com/sambarkonni/status/1627558860587413504

@@ -1,0 +1,10 @@
+# obour
+
+Address: 12LKpHZHCSsKpHtDTphFmfZaQqnZoXuiC5XNk7DLnfHoq39j
+Date: January 28, 2023
+Discord: obour#7952
+DiscordId: 722785023958450200
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: Cionboss

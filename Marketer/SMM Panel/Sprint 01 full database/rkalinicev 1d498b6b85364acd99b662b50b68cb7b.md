@@ -1,0 +1,10 @@
+# rkalinicev
+
+Address: j4Wr3kRDhAyYjjA7yCsaDz9jwHDvg1yAn7E6NjUbqKpy9GRdk
+Date: February 18, 2023
+Discord: rkalinicev#3619
+DiscordId: 1048795468513148900
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: kazane05256

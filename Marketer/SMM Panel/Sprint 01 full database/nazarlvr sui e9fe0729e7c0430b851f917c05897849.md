@@ -1,0 +1,10 @@
+# nazarlvr.sui
+
+Address: 16PVjRW8sDd8HR6G4JdDuBmrnG3i86a2bQWQPSFFyXuPX6CF
+Date: February 22, 2023
+Discord: nazyalvr| Sui Global#7108
+DiscordId: 708663668304511100
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: Nazar__ukr

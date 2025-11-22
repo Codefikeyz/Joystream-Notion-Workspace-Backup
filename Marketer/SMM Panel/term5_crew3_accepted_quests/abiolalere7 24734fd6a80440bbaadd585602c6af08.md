@@ -1,0 +1,10 @@
+# abiolalere7
+
+Address: j4VAteaqSd2d1675CKX2RRmySNwMZpcah8NfAHVSYmh9t2eXM
+Date: February 3, 2023
+Discord: abiolalere7#1797
+DiscordId: 1015070000000000000
+Quest: Follow Joystream on Twitter??
+Reward: 33 XP
+Status: success
+Twitter: OlalereDavid4

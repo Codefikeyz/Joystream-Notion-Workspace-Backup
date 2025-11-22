@@ -1,0 +1,11 @@
+# Luckerr
+
+Address: 1Qr9bSMCKXcqF9jt1dbXpkfq11tfGFWzYpBxTBwQ2E3ZceT
+Date: February 18, 2023
+Discord: Luckerr#1648
+DiscordId: 1007480000000000000
+Quest: Question 3
+Reward: 8 XP
+Status: success
+Twitter: WilsonO99926125
+answer: 164

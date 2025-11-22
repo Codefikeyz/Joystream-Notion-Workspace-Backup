@@ -1,0 +1,11 @@
+# YN_crypto7
+
+Address: 0x5A4b7d1bd440e084D4F9be981BC741aaA8e7F2D1
+Date: February 25, 2023
+Discord: YN_crypto7#8577
+DiscordId: 1037970000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: YN_crypto7
+answer: Digital Currency Group (DCG)

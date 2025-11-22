@@ -1,0 +1,10 @@
+# 0x0c1d�bd9c
+
+Address: 12K4wJWpRRHh4NSoAnkXQyUqeaq4boZHTkiKuiMzXhswdDmn
+Date: February 19, 2023
+Discord: mila lila | IO#0901
+DiscordId: 891673000000000000
+Quest: Follow Joystream on Twitter??
+Reward: 33 XP
+Status: success
+Twitter: MilaKhvyl

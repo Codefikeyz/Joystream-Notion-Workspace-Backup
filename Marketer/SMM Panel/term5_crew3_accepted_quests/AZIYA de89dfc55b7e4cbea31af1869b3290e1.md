@@ -1,0 +1,11 @@
+# AZIYA
+
+Address: 15SEU93szNwhabxEYf4CVDFEgyGNueovgeFfCdRLXpifsfpm
+Date: February 18, 2023
+Discord: AZIYA#7837
+DiscordId: 688718000000000000
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: aziya2627
+answer: joined

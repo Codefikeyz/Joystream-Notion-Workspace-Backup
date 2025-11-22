@@ -1,0 +1,10 @@
+# narniec
+
+Address: 167v6g7PYyZvdzuWWdH25gnzAqUe6VX9gDvhAeRrVKmKaSC9
+Date: January 3, 2023
+Discord: leski#7163
+DiscordId: 401476000000000000
+Quest: Like, retweet ??#29
+Reward: 15 XP
+Status: success
+Twitter: Ruslan67539331

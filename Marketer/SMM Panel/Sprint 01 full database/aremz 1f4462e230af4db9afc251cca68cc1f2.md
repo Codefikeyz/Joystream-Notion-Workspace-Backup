@@ -1,0 +1,10 @@
+# aremz
+
+Address: 122KreWDGGcznDCHBUMNVUDZDJ8QMo5F714ax49vjn7DFEwC
+Date: March 3, 2023
+Discord: aremz#2383
+DiscordId: 1080076554530467800
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: aremz11

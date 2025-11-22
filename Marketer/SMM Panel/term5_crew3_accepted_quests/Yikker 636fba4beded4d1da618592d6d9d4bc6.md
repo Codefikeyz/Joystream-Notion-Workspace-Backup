@@ -1,0 +1,10 @@
+# Yikker
+
+Address: 1X3hjDHjpiFRPdcGRsixwk96c37TCf1ESsvivtGAZwB1oDM
+Date: February 17, 2023
+Discord: Yikker#6846
+DiscordId: 256452000000000000
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: abrwrc

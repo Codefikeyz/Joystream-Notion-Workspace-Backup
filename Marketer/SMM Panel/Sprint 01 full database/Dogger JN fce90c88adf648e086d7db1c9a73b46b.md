@@ -1,0 +1,11 @@
+# Dogger | JN
+
+Address: 5Cqg4hyeW8UYAsxor7DM2cbue1b8hkMxc5jm3qvG78tyjfU8
+Date: February 24, 2023
+Discord: Dogger | JN#8246
+DiscordId: 1078029595158265900
+Quest: Tweet about us
+Reward: 83 XP
+Status: success
+Twitter: DoggerJN
+answer: https://twitter.com/DoggerJN/status/1628997276323512320?s=20

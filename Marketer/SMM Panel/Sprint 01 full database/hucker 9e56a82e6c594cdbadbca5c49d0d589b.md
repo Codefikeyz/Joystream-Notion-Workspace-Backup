@@ -1,0 +1,11 @@
+# hucker
+
+Address: 16DstDTQw5Y7Nc4d3znHcxBXaRPsQxUA5XAsua5h7szAWXgX
+Date: February 18, 2023
+Discord: kimsun#6361
+DiscordId: 912677685489184800
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: withmetallica
+answer: joined

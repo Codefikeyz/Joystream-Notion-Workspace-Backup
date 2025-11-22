@@ -1,0 +1,13 @@
+# Shama
+
+Address: 5EBxsRuAKg1EcyNLpWpnN4hsxp49BeABZQ9Ae6XmitsVeCyx
+Date: February 24, 2023
+Discord: Shama| Sui Global#8176
+DiscordId: 1006558077069295900
+Quest: Give a star our Github repository
+ReviewDate: February 26, 2023 4:10 AM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 33 XP
+Status: success
+Twitter: ShamilS25488655
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-vHON6HS93Z0KBkSLZnmjb-Screenshot_3.png

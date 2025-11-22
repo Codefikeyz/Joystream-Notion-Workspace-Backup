@@ -1,0 +1,11 @@
+# blackdevil12
+
+Address: 14ywCMfLaozXuWpWpPNjpJqvBSjc5kjt32M1X94HhRzzQTrh
+Date: February 27, 2023
+Discord: blackdevil12#1029
+DiscordId: 1075970222315544600
+Quest: Question 3
+Reward: 8 XP
+Status: success
+Twitter: cylix_1942
+answer: 164

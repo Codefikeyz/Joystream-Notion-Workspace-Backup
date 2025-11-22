@@ -1,0 +1,13 @@
+# johnber.kang
+
+Address: 5HnLkLCfVAXurgSGL8NNKr3ZbphSqf3cvbdcBruGcxQrLjYx
+Date: February 26, 2023
+Discord: johnber.kang#3489
+DiscordId: 1074430431358877800
+Quest: Meme for Joystream
+ReviewDate: February 26, 2023 10:09 AM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 15 XP
+Status: success
+Twitter: rektJohnberwang
+answer: https://discord.com/channels/811216481340751934/812346722113814538/1079167981415845919

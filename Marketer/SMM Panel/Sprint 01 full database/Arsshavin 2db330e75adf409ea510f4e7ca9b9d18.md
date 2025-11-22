@@ -1,0 +1,10 @@
+# Arsshavin
+
+Address: 5DSaj1ssMPdGBeruV3JhFYdUPm9J45PazPxqYmJqiE7ukeBK
+Date: May 3, 2023
+Discord: NJ_K#9703
+DiscordId: 361112800434585600
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: cryptoNJK

@@ -1,0 +1,10 @@
+# Genius
+
+Address: 5DUnrFPnwi2XRyC6erEFduwsfhuLPFeD1BPFZiGuFVRPEt6Y
+Date: February 22, 2023
+Discord: Genius#7148
+DiscordId: 419876000000000000
+Quest: Like, reply, retweet ??#14
+Reward: 33 XP
+Status: success
+Twitter: Sackycryptoking

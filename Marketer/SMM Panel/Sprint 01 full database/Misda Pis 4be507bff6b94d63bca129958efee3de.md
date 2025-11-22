@@ -1,0 +1,11 @@
+# Misda Pis
+
+Address: 0x7c175F1c8fcAa40B3Da7AC36A9773a9d1f7c56f3
+Date: February 26, 2023
+Discord: Felix321#2389
+DiscordId: 1034539991579242500
+Quest: Question 8
+Reward: 8 XP
+Status: success
+Twitter: mohitmishra4281
+answer: $JOY

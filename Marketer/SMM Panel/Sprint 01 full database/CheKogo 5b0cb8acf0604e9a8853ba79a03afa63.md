@@ -1,0 +1,11 @@
+# CheKogo
+
+Address: dmyjpCwfy5BGhH6XkkWBtbqsa2Mjhg8YxGfFuCnjG5PPiCLx4
+Date: February 21, 2023
+Discord: CheKogo#6029
+DiscordId: 515825573658886140
+Quest: Question 5
+Reward: 8 XP
+Status: success
+Twitter: saintpcrypto
+answer: Anti-Corruption WG

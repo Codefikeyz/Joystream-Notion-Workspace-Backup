@@ -1,0 +1,11 @@
+# lrynya
+
+Address: 5HHZNmv3yTK654ghasAw35QcNDjVP3jp7Nu6X3sW84pYrv1H
+Date: February 18, 2023
+Discord: lrynya#8872
+DiscordId: 956175000000000000
+Quest: Question 8
+Reward: 8 XP
+Status: success
+Twitter: ange_luafa
+answer: $JOY

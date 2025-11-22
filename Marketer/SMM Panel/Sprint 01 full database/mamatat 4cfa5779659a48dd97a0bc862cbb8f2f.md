@@ -1,0 +1,10 @@
+# mamatat
+
+Address: 5Gptucz5mgxRE8DDJQZWi27VM4pacE6QWHj25J3qo5StTX55
+Date: March 3, 2023
+Discord: mamatat#1865
+DiscordId: 931150391712825300
+Quest: Like, retweet ❤️#29
+Reward: 15 XP
+Status: success
+Twitter: TatanaKulikova5

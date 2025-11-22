@@ -1,0 +1,10 @@
+# Hardoviy
+
+Address: 1695Z6VZT4GCgjkMD62Vd5AtotNTqr9d9oh8T8wAEXtQeXHw
+Date: February 24, 2023
+Discord: Hardoviy#8620
+DiscordId: 1035816371835125800
+Quest: Like, retweet ❤️#21
+Reward: 15 XP
+Status: success
+Twitter: gdasgadg

@@ -1,0 +1,13 @@
+# Gorika
+
+Address: 5CnxXn7tZhQonjX5mqvUCJBRiQNA8cHszhgKrxdpgPvjxWgH
+Date: February 21, 2023
+Discord: Gorika#2877
+DiscordId: 954381933192810500
+Quest: Create a channel 
+ReviewDate: February 21, 2023 7:30 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 50 XP
+Status: success
+Twitter: rolmadegod1972
+answer: https://gleev.xyz/member/trilion?tab=NFTs+owned

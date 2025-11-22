@@ -1,0 +1,18 @@
+# 0x1acb�87cf
+
+Address: 5EAWTrEGFECHQq7qVQ1SNKNNECZNAcZhSa18F5qNfzLJ72Hr
+Date: February 19, 2023
+Discord: TerenDev#0673
+DiscordId: 837060000000000000
+Quest: Post comments under different videos
+ReviewDate: February 20, 2023 9:39 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 83 XP
+Status: success
+Twitter: TerenDev
+answer: All comments under TerenDev:
+1. https://gleev.xyz/video/664
+2. https://gleev.xyz/video/670
+3. https://gleev.xyz/video/669
+4. https://gleev.xyz/video/667
+5. https://gleev.xyz/video/665

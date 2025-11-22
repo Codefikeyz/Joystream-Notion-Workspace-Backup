@@ -1,0 +1,11 @@
+# Roughmini
+
+Address: 5FLKs7QwoVzWFEP3YCkCE635Xiyn36v5QmLWnRWBmt1aYTnc
+Date: February 25, 2023
+Discord: Roughmini#9670
+DiscordId: 934008990235492400
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: RoughMini
+answer: joined

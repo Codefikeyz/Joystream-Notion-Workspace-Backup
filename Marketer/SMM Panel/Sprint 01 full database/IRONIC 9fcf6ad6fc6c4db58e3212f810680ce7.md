@@ -1,0 +1,10 @@
+# IRONIC
+
+Address: 12YEYv3SUNvABe1Pm2X7nYXfNfRE5RjgDqN4B67JErfr9ohV
+Date: February 18, 2023
+Discord: [MKG]아이러닉#6176
+DiscordId: 429269366098493440
+Quest: Like, reply, retweet ❤️#9
+Reward: 33 XP
+Status: success
+Twitter: PSeongwan

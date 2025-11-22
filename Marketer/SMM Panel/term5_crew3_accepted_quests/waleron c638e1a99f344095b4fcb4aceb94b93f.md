@@ -1,0 +1,13 @@
+# waleron
+
+Address: 5HHYuzL7WcDi9J34Zd88cuZhv4szDJ3j4brsrTamPzPkQdnN
+Date: February 18, 2023
+Discord: waleron#5817
+DiscordId: 957537000000000000
+Quest: Level up your Twitter bio
+ReviewDate: February 19, 2023 2:09 PM (GMT+1)
+ReviewedById: 0ec5bd56-5a60-49fc-b2b5-42971dc1304f
+Reward: 66 XP
+Status: success
+Twitter: zurinaka1975
+answer: https://twitter.com/zurinaka1975

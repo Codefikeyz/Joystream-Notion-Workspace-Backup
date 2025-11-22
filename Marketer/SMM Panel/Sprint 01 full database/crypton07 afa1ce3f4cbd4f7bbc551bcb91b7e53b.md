@@ -1,0 +1,17 @@
+# crypton07
+
+Address: 5GznmuS9soLyTDUvkFJATKFtYix4FoWvApNAN6RsUx1WEwb4
+Date: February 25, 2023
+Discord: crypton07#9255
+DiscordId: 885762772758044700
+Quest: Post comments under different videos
+ReviewDate: February 27, 2023 8:37 AM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 50 XP
+Status: success
+Twitter: StMaslov07
+answer: https://gleev.xyz/video/5 crypton07
+https://gleev.xyz/video/834 crypton07
+https://gleev.xyz/video/645 crypton07
+https://gleev.xyz/video/488 crypton07
+https://gleev.xyz/video/342 crypton07

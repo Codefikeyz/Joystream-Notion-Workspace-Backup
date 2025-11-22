@@ -1,0 +1,10 @@
+# LexaLex
+
+Address: 5HTfiW4uVDonAUQ77gWuPiwXBcKHatrvftkHwnR827twCKs9
+Date: February 22, 2023
+Discord: LexaLex#0596
+DiscordId: 1072576969029468300
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: changchorang

@@ -1,0 +1,11 @@
+# RikiOs
+
+Address: 0x51eD8d85e3aB800a3f9219224fFFF1E3D5C51d38
+Date: February 27, 2023
+Discord: RikiOs#1039
+DiscordId: 1034555511913324500
+Quest: Question 4
+Reward: 8 XP
+Status: success
+Twitter: MohammadiLudov1
+answer: 9

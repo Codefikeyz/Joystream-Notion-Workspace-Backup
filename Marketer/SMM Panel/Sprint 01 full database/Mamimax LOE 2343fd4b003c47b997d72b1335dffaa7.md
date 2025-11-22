@@ -1,0 +1,11 @@
+# Mamimax | LOE
+
+Address: 0x99062931da9010e96e188e08ad1006ba4b4b0949
+Date: February 23, 2023
+Discord: mamimax | 420#4977
+DiscordId: 330289417308864500
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: Mamimax3
+answer: Digital Currency Group (DCG)

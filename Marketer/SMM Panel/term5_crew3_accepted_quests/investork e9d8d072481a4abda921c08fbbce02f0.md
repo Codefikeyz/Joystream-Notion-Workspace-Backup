@@ -1,0 +1,9 @@
+# investork
+
+Address: 0x2ACf81fF53408E54AFcD2b5658444FF60F5B476E
+Date: January 3, 2023
+Discord: investork#0381
+DiscordId: 959142000000000000
+Quest: Join discord
+Reward: 33 XP
+Status: success

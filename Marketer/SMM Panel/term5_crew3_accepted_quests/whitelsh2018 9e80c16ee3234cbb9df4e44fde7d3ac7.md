@@ -1,0 +1,11 @@
+# whitelsh2018
+
+Address: 14TEz7AsR7DaMxLc9GAMeb6PAJCbHqLZL4ynqw9oaVxDQSQn
+Date: February 19, 2023
+Discord: white#9828
+DiscordId: 778227000000000000
+Quest: Question 7
+Reward: 8 XP
+Status: success
+Twitter: whitelsh2018
+answer: 15 days

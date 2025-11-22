@@ -1,0 +1,10 @@
+# bizzyn
+
+Address: 14N2fjyKbWdN4j6cosUbHvh8U4xeDaijrd45DJwZuecKPyr1
+Date: March 3, 2023
+Discord: bizzyn#3857
+DiscordId: 922616000000000000
+Quest: Daily connect ??
+Reward: 1 XP
+Status: success
+Twitter: igoa_nft

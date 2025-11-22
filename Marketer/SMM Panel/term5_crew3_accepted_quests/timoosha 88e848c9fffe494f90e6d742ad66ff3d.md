@@ -1,0 +1,13 @@
+# timoosha
+
+Address: what
+Date: February 26, 2023
+Discord: timoosha/mTrader#1446
+DiscordId: 603167000000000000
+Quest: Write a Medium article about Joystream
+ReviewDate: February 28, 2023 10:49 AM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 200 XP
+Status: success
+Twitter: jhbhjvgjh
+answer: https://medium.com/@pro100tima2018/joystream-crypto-project-4b23f83e4127

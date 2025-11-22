@@ -1,0 +1,11 @@
+# Ljolik
+
+Address: 5Fh1nr4hCtndVbfDBXbowuR5iaecDXgtNLsyNB2LAp9fZh5o
+Date: February 24, 2023
+Discord: Vita#8296
+DiscordId: 972931906486292600
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: best0477
+answer: joined

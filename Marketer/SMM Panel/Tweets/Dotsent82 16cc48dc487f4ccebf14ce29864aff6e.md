@@ -1,0 +1,11 @@
+# Dotsent82
+
+Address: 1RA8KwErPsuM6nRqvqHnzYaXrGY8WAQESu4PQugpBATuaaa
+Date: February 18, 2023
+Discord: Ihor|$NOM#0884
+DiscordId: 713362586774536200
+Quest: Tweet about us
+Reward: 83 XP
+Status: success
+Twitter: Dotsent832
+answer: https://twitter.com/Dotsent832/status/1626961229964095491

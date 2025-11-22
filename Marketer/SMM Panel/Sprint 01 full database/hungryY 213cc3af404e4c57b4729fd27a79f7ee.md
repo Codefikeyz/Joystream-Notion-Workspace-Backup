@@ -1,0 +1,11 @@
+# hungryY
+
+Address: 13fxjciZDE7CNmeFRD4gx8f4ssPYaG5Mv57Gw1r5dC5BeZGP
+Date: February 25, 2023
+Discord: hungryY#7649
+DiscordId: 960992458987176000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: JaydinDunlap12
+answer: Digital Currency Group (DCG)

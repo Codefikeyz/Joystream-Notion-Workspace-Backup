@@ -1,0 +1,11 @@
+# TechN0
+
+Address: 0x4Ac73F2F3131814893E48B50031454f5Deeee215
+Date: February 24, 2023
+Discord: TΞchN0#9902
+DiscordId: 558023435150950400
+Quest: High-Quality Twitter thread 🐦
+Reward: 100 XP
+Status: success
+Twitter: Crypto_Techn0
+answer: https://twitter.com/Crypto_Techn0/status/1628795978441453568?s=20

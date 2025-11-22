@@ -1,0 +1,11 @@
+# AOAOA
+
+Address: 15hmdUBCc16eVf6wDQT7Ta8avzomNUQcUNpihDhf3zUAVoeD
+Date: April 3, 2023
+Discord: AOA#4274
+DiscordId: 689815854938063000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: bitcoin_scam18
+answer: Digital Currency Group (DCG)

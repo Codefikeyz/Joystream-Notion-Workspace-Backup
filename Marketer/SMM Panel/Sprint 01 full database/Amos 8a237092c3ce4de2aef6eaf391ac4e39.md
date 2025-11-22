@@ -1,0 +1,10 @@
+# Amos
+
+Address: j4VG73X169vHixxrvBCE7mpvzJgfGfumQcKjLe17cEn82iDMk
+Date: February 26, 2023
+Discord: Amos#3029
+DiscordId: 957663768840646700
+Quest: Like, retweet ❤️#25
+Reward: 15 XP
+Status: success
+Twitter: Amos15Amos

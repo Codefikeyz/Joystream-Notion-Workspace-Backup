@@ -1,0 +1,13 @@
+# lightbird
+
+Address: 5GHiweu3UZ6gpqGivyJE1zUsrzrPNor8HFb9XaSJGVVGUK3Y
+Date: February 24, 2023
+Discord: lightbird#2752
+DiscordId: 304982000000000000
+Quest: Follow us on Coinmarketcap
+ReviewDate: February 27, 2023 2:51 AM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 33 XP
+Status: success
+Twitter: crazylightbird
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-dBtjW4ClieoRZ9x8Lta3O-1.jpg

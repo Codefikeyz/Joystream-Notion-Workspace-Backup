@@ -1,0 +1,11 @@
+# NFTKINGJO
+
+Address: 14KPzvZnDimkjbEJzsQb9ZWdLEXHGaV1iNqSDFZJxKeAFMJ7
+Date: February 19, 2023
+Discord: NFTKINGJO#4940
+DiscordId: 548263813850595400
+Quest: Tweet about us
+Reward: 83 XP
+Status: success
+Twitter: NFTKINGJO
+answer: https://twitter.com/NFTKINGJO/status/1627296171696996352?s=20

@@ -1,0 +1,11 @@
+# valya.novikov
+
+Address: 5DheDcNL7XjQoD1bWACtNyk15wc3wSpAc6nZgdfW6HSA78eA
+Date: February 18, 2023
+Discord: valya.novikov#8300
+DiscordId: 958721000000000000
+Quest: High-Quality Twitter thread ??
+Reward: 250 XP
+Status: success
+Twitter: hemedi_jean
+answer: https://twitter.com/hemedi_jean/status/1626934548578574337?s=20

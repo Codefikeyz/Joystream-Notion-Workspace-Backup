@@ -1,0 +1,10 @@
+# oleghes
+
+Address: 15wumNoKQoRBkVistnb3Bd7P27HbYDKHxK6nMTQTufxGcABk
+Date: January 3, 2023
+Discord: oleghes#9356
+DiscordId: 918574000000000000
+Quest: Daily connect ??
+Reward: 1 XP
+Status: success
+Twitter: OlegNesterenko7

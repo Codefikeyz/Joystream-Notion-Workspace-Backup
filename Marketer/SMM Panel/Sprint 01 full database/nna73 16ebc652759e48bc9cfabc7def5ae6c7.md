@@ -1,0 +1,11 @@
+# nna73
+
+Address: 12x1pZUvbP31xaWGMayF8Xy4hC14BZHvUb9c1wbNGn4bCbTD
+Date: February 24, 2023
+Discord: nna73#9901
+DiscordId: 898894255987253200
+Quest: Tweet about us
+Reward: 83 XP
+Status: success
+Twitter: nnanna322
+answer: https://twitter.com/nnanna322/status/1629045275237949441

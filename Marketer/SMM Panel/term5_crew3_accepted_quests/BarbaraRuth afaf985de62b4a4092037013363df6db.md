@@ -1,0 +1,11 @@
+# BarbaraRuth
+
+Address: 16VPEz4JjkjytnKokm2NfzUw1gtmR3YJrrWyaRtop49udCU7
+Date: February 18, 2023
+Discord: BarbaraRuth#8804
+DiscordId: 968933000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: AngelGa50927300
+answer: Digital Currency Group (DCG)

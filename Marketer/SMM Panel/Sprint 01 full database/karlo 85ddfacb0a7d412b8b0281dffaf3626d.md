@@ -1,0 +1,10 @@
+# karlo
+
+Address: 5EtVy9ajrVevNLvRetduceo1igqRCjCRXHNBYQd6Z3ao65vb
+Date: February 17, 2023
+Discord: karlo#0291
+DiscordId: 806047096238637000
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: Karlo5791

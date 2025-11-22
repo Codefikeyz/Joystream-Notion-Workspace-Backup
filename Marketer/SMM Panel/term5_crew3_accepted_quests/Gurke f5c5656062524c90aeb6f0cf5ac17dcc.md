@@ -1,0 +1,10 @@
+# Gurke
+
+Address: 165rRPKjS8om2a4mJB5YMy1unwGMDec49uQyu7G4cfuKbHTw
+Date: February 18, 2023
+Discord: Gurke#9711
+DiscordId: 1005460000000000000
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: SamaraShields20

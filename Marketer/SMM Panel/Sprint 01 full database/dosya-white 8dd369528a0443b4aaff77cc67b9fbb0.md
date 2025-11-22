@@ -1,0 +1,13 @@
+# dosya-white
+
+Address: 5DcgEcyTqr3tMyrx1TfhkgTryKFyK55uUZSjFMEzykrkwYHG
+Date: February 23, 2023
+Discord: dosya-white#4451
+DiscordId: 879771654962679900
+Quest: Write a comment on the forum
+ReviewDate: February 27, 2023 10:03 AM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: dardosya
+answer: https://pioneerapp.xyz/#/forum/thread/240

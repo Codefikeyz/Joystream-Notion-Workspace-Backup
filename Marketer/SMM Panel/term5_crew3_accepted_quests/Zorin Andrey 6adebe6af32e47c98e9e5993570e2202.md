@@ -1,0 +1,11 @@
+# Zorin Andrey
+
+Address: 5E71cHqSeikePHSvYLPmH9CxhCNmFV586bzUSoGGV4yak79Y
+Date: February 22, 2023
+Discord: Ashera#9830
+DiscordId: 885597000000000000
+Quest: Tweet about us
+Reward: 83 XP
+Status: success
+Twitter: AndreyZorin99
+answer: https://twitter.com/AndreyZorin99/status/1628297730933096449?s=20

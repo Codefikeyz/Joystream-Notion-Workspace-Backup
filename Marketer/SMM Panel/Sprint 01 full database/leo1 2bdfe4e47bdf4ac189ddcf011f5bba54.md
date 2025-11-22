@@ -1,0 +1,11 @@
+# leo1
+
+Address: 15kxPKnadMsCdhsoQTwjoB6fz1R86ehTpv74jJjqGfAxFMX7
+Date: February 27, 2023
+Discord: leo1/Sui Bears#8468
+DiscordId: 873841154733518800
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: PvTzh5J98AHCfg3
+answer: Digital Currency Group (DCG)

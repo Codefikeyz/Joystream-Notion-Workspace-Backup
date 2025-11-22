@@ -1,0 +1,10 @@
+# Baliez
+
+Address: 1V67fTU6LcQRS5P4vVpEra2jJhXdsE7aFGkrHXBhuT69JeE
+Date: February 19, 2023
+Discord: Baliez#2072
+DiscordId: 910951178496512000
+Quest: Reply Twitter use case Joystream 
+Reward: 5 XP
+Status: success
+Twitter: BilykJohn

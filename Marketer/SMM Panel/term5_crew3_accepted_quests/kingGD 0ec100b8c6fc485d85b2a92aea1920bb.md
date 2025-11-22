@@ -1,0 +1,10 @@
+# kingGD
+
+Address: 12WZVtDSfgCv4xYcgHuR7ikkeLKN1xupZmbMpzoUeuN4nKgB
+Date: February 19, 2023
+Discord: kingGD#1212
+DiscordId: 370242000000000000
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: Kinggdlee

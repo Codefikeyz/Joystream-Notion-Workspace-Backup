@@ -1,0 +1,11 @@
+# crritt
+
+Address: 0x214Ec003C7c34Be09a5CE691FD6Aa6ecF2108a49
+Date: February 25, 2023
+Discord: крит#1189
+DiscordId: 456120904909324300
+Quest: Tweet about us
+Reward: 66 XP
+Status: success
+Twitter: CDCDell
+answer: https://twitter.com/CDCDell/status/1629477992094212097?s=20

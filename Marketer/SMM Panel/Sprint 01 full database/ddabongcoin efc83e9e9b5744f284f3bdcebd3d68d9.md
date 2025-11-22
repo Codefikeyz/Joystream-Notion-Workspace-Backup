@@ -1,0 +1,10 @@
+# ddabongcoin
+
+Address: 15FqtQmoSTsqvhyREjrfZyB5NwZ7rz66CCTkDsvNGDdeev2Z
+Date: January 3, 2023
+Discord: ddabongcoin#7807
+DiscordId: 1068596623833317400
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: ddabongcoin

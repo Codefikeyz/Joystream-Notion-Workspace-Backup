@@ -1,0 +1,10 @@
+# arcane
+
+Address: 5Hh3WMfXZB22rrKWRjXidrjdPnSuuLPS6WzFAJv95LxL4EjV
+Date: February 25, 2023
+Discord: Arcanblast | Sisu Network#1430
+DiscordId: 449612000000000000
+Quest: Invite 3 crew3 frens ??
+Reward: 100 XP
+Status: success
+Twitter: arcaneblast01

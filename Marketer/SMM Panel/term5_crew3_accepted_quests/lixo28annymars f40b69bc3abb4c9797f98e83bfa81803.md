@@ -1,0 +1,11 @@
+# lixo28annymars
+
+Address: 16apj5T8gFPXZf4WLJZmyS16Aq3ncx4VCdvp2GTXRxVXQ6XH
+Date: February 27, 2023
+Discord: lixo28annymars#1355
+DiscordId: 1075970000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: MaudieRebcca
+answer: Digital Currency Group (DCG)

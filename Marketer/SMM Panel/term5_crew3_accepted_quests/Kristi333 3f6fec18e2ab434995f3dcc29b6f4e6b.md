@@ -1,0 +1,10 @@
+# Kristi333
+
+Address: 5EnhVQgRQe7uGDmzEMsy1BsuqFGnPqiceLgarZ6yGMQSXGrA
+Date: March 3, 2023
+Discord: Drongov27#7662
+DiscordId: 1002170000000000000
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: Zapisnaya333

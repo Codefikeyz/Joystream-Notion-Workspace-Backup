@@ -1,0 +1,11 @@
+# DKFLJS
+
+Address: 0x315e25e168bfe4d42a09b332b10896efce5f2988
+Date: December 3, 2023
+Discord: DKFLJS#8553
+DiscordId: 1060988939562922000
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: dfdfdf88537081
+answer: joined

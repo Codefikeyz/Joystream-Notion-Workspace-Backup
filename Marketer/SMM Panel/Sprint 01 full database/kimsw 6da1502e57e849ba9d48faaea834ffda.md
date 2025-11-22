@@ -1,0 +1,11 @@
+# kimsw
+
+Address: 5GUAB9ASd6RpufWfb812u5MEQpon24eSzNFxc8tdiq8vSQfq
+Date: February 18, 2023
+Discord: kimsw#7328
+DiscordId: 364256788918304800
+Quest: Question 9
+Reward: 8 XP
+Status: success
+Twitter: kimzzik7
+answer: 1,000,000,000 $JOY

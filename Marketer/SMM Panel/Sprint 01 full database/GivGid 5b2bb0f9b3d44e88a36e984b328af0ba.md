@@ -1,0 +1,10 @@
+# GivGid
+
+Address: 131Fd6qAzEAGdBjap81zU5encTpjD7WtegkopNgTCakUN8a9
+Date: June 3, 2023
+Discord: GivGid#4871
+DiscordId: 895777337570910200
+Quest: Daily connect 📆
+Reward: 1 XP
+Status: success
+Twitter: givgid

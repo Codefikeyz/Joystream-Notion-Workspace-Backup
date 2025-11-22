@@ -1,0 +1,11 @@
+# leejun
+
+Address: 5CFUogywVRUefFZgkYHGPUBapN8Z2h8Tvtw4ptA57eouf2Jd
+Date: February 20, 2023
+Discord: leejun#6049
+DiscordId: 1017120000000000000
+Quest: Tweet about us
+Reward: 83 XP
+Status: success
+Twitter: tartashailyni
+answer: https://twitter.com/tartashailyni/status/1627355509321003010?s=20

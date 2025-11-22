@@ -1,0 +1,11 @@
+# EvaB
+
+Address: 5GVswjmpBkfKHFCaZDEDuGwQCawKr5Fmho3JKu9sKcbcK9Bk
+Date: June 3, 2023
+Discord: EvaB#6157
+DiscordId: 1034474741987283100
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: galyshev
+answer: joined

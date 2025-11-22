@@ -1,0 +1,11 @@
+# Kenly | LOE
+
+Address: 5CSq7FZP6QECE99wEHKWmZsH5MkbAhgxfrtf4soiqFkJFPu5
+Date: February 16, 2023
+Discord: Kenly#0487
+DiscordId: 918826422884253700
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: kenly_fan
+answer: Digital Currency Group (DCG)

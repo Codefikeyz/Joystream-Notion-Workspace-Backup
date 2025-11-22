@@ -1,0 +1,10 @@
+# anka-love
+
+Address: 5GFBUomfU9hNAJhB2NLBpyebNYCqhm2vpa9nFibVTfa5FW8w
+Date: February 28, 2023
+Discord: anka-love#9042
+DiscordId: 954440000000000000
+Quest: Daily connect ??
+Reward: 1 XP
+Status: success
+Twitter: NormanAyebare

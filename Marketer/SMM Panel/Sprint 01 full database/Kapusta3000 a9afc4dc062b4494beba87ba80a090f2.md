@@ -1,0 +1,11 @@
+# Kapusta3000
+
+Address: 5FjVzJxmZF3wAnHviixXn4jHkRZiBsQnAz4PBSkHUrzWAzsf
+Date: February 18, 2023
+Discord: DominikEz#9409
+DiscordId: 435821909616099300
+Quest: Question 8
+Reward: 8 XP
+Status: success
+Twitter: Alexshury
+answer: $JOY

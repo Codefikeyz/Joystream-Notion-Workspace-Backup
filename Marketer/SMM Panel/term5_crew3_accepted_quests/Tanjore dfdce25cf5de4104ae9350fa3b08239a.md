@@ -1,0 +1,13 @@
+# Tanjore
+
+Address: 14rpnmpJt3614JeHSXjkbakfMHHvsizn9wjx8DKcHcJdAnvC
+Date: February 20, 2023
+Discord: sergei | Alchemist#4069
+DiscordId: 812783000000000000
+Quest: Meme for Joystream
+ReviewDate: February 21, 2023 3:32 AM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 15 XP
+Status: success
+Twitter: SergeyS10998715
+answer: https://discord.com/channels/811216481340751934/812346722113814538/1077182364565901363

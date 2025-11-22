@@ -1,0 +1,11 @@
+# Overnox
+
+Address: 5GEknAAEo1M5THLNq7k7NkZRVkiHSe83PdDErM92hKLE8oi4
+Date: July 3, 2023
+Discord: 매냥/35/창#2580
+DiscordId: 399137187746021400
+Quest: Question 9
+Reward: 8 XP
+Status: success
+Twitter: overnox2023
+answer: 1,000,000,000 $JOY

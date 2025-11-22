@@ -1,0 +1,11 @@
+# Vlad_Demon
+
+Address: 1yGx4Byv894i5nAMqAhTRfNU7jGCadiqRYJJq74n2VxqJk8
+Date: February 26, 2023
+Discord: Vlad_Demon#6593
+DiscordId: 352899063517282300
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: VladislavDanev4
+answer: joined

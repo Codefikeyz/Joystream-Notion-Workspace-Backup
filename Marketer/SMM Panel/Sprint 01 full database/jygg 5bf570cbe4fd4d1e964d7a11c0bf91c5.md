@@ -1,0 +1,10 @@
+# jygg
+
+Address: 5Cqjbxta4MznTQjGyrDdPUNuy3Z9uvEos1zbYiy8YYroPNzA
+Date: June 3, 2023
+Discord: syg1#0849
+DiscordId: 895115508918132700
+Quest: Like, retweet ❤️#33
+Reward: 15 XP
+Status: success
+Twitter: jyg222

@@ -1,0 +1,13 @@
+# dunduck
+
+Address: 5HR7vsgEcrRb7eriLsqo8kKAtvaKKGrCupmh2rG6BaNEaRT8
+Date: February 22, 2023
+Discord: dunduck#0566
+DiscordId: 1046083999254200400
+Quest: Join Reddit
+ReviewDate: February 26, 2023 5:17 AM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 33 XP
+Status: success
+Twitter: konych1978
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-4SChCWXyg1kGonysL8rzi-006.jpg

@@ -1,0 +1,10 @@
+# trevorphilipse
+
+Address: 13EErM8GZqNPZKY5ZWM8tvnRrPccQYNBrTVchRPBLVEmzY4Q
+Date: February 19, 2023
+Discord: putler#5896
+DiscordId: 1037035245943398400
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: Sergj964622731

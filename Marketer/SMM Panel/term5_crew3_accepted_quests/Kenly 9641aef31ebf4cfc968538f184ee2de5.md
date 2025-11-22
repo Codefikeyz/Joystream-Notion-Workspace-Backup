@@ -1,0 +1,10 @@
+# Kenly
+
+Address: 5CSq7FZP6QECE99wEHKWmZsH5MkbAhgxfrtf4soiqFkJFPu5
+Date: February 23, 2023
+Discord: Kenly#0487
+DiscordId: 918826000000000000
+Quest: Like, retweet ??#19
+Reward: 15 XP
+Status: success
+Twitter: kenly_fan

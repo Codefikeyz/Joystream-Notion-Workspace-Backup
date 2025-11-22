@@ -1,0 +1,10 @@
+# MegaCrypto
+
+Address: 15fVZa5Puv3s7BRhQtdbiSnukMavfEg18DqfuyYbMKtKq9jn
+Date: February 21, 2023
+Discord: MegaCrypto#8762
+DiscordId: 1033109488955297900
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: TiltSophie

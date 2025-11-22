@@ -1,0 +1,10 @@
+# bohovytsch
+
+Address: 16XKbeZjGnixtaSm4bM5AU6rvu39DCNFpEbjaJEaYbdjhACb
+Date: January 3, 2023
+Discord: �����#9251
+DiscordId: 907908000000000000
+Quest: Daily connect ??
+Reward: 1 XP
+Status: success
+Twitter: ABohovych

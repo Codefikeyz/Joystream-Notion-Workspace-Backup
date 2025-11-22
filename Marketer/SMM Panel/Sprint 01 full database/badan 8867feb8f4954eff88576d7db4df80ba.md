@@ -1,0 +1,13 @@
+# badan
+
+Address: 15M68RTKCG2TqR7a9bspz6231SaH5GuaRREsWVeM32jvNzPe
+Date: February 20, 2023
+Discord: badan#3465
+DiscordId: 784048127828164600
+Quest: Meme for Joystream
+ReviewDate: February 19, 2023 8:17 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 15 XP
+Status: success
+Twitter: Bogdan18104
+answer: https://discord.com/channels/811216481340751934/812346722113814538/1076896631712125021

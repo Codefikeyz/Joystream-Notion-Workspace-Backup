@@ -1,0 +1,13 @@
+# XVAN | JN
+
+Address: 5DLN9rvWqdgvj3MydmF8j4vyzgqH1K85rDXD7L3CwXzcLrZ8
+Date: February 28, 2023
+Discord: XVAN | JN#4481
+DiscordId: 1078040000000000000
+Quest: Create a channel 
+ReviewDate: February 27, 2023 9:21 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: JnXvan
+answer: https://gleev.xyz/member/JN?tab=NFTs+owned

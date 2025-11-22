@@ -1,0 +1,11 @@
+# Patrol
+
+Address: 13fe5Lb821xgjfwyNfVBseqH6iwWEiqpKwLvpzjMF5XGpMZ2
+Date: February 18, 2023
+Discord: Patrol#1786
+DiscordId: 1069899649638477800
+Quest: Question 5
+Reward: 8 XP
+Status: success
+Twitter: dsergeeff000
+answer: Anti-Corruption WG

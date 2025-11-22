@@ -1,0 +1,11 @@
+# Pilikan
+
+Address: 5DnrPiZ1Ui9D7pjLWMkKAA3QoXht4Rsxo97zTSqPCXm7dre2
+Date: February 17, 2023
+Discord: Pilikan#2681
+DiscordId: 954425490658197500
+Quest: Question 9
+Reward: 8 XP
+Status: success
+Twitter: glarhildowntop1
+answer: 1,000,000,000 $JOY

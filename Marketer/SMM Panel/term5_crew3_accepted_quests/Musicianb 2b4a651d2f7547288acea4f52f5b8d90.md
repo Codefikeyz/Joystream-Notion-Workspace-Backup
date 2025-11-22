@@ -1,0 +1,11 @@
+# Musicianb
+
+Address: 12HNognp4QEwqrroX3j85uzUGmmYUQhwoUwaCjU96fjV6Qe9
+Date: February 27, 2023
+Discord: Musician#1284
+DiscordId: 960910000000000000
+Quest: Question 3
+Reward: 8 XP
+Status: success
+Twitter: MagazinLuevnada
+answer: 164

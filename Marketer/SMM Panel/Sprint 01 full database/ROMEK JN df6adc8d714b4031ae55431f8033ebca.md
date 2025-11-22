@@ -1,0 +1,12 @@
+# ROMEK / JN
+
+Date: February 23, 2023
+Discord: Fj#5092
+DiscordId: 1078048006420582500
+Quest: Joystream in watchlist on CMC
+ReviewDate: February 23, 2023 10:18 AM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: sensaa27
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-EUV4gb8L1Ae5reV98ACX7-5b24a399-977d-4d96-829e-ddee419d3a73.png

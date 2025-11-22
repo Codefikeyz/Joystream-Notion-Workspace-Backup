@@ -1,0 +1,11 @@
+# baconsoi
+
+Address: 5DyBWGbMHsKs5F1ETkNqYoCio4buRzpi4zhxv2HP6DeyxmiH
+Date: February 19, 2023
+Discord: baconsoi#0680
+DiscordId: 1008598303392403600
+Quest: High-Quality Twitter thread 🐦
+Reward: 250 XP
+Status: success
+Twitter: cuonghanns
+answer: https://twitter.com/cuonghanns/status/1627326596414853120?s=20

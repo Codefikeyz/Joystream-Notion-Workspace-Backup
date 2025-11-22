@@ -1,0 +1,11 @@
+# LolMegaTrol
+
+Address: 12YLDuVeHuUbRpbLzMgkMJBa9L17gQFWot3U975zoEd3hWbL
+Date: February 25, 2023
+Discord: LolMegaTrol#2329
+DiscordId: 960884947822997500
+Quest: Question 2
+Reward: 8 XP
+Status: success
+Twitter: KelliEnglert1
+answer: Polkadot

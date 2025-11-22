@@ -1,0 +1,10 @@
+# ferdinand
+
+Address: 5FHC8eYCjuJPQLiPtg2EUva6LNeDYZxCRQv1Wdnnng8AcK2Z
+Date: November 3, 2023
+Discord: ferdinand#4624
+DiscordId: 955489006701908000
+Quest: Like, retweet ❤️#37
+Reward: 15 XP
+Status: success
+Twitter: Gumwmn8JvLM6R3e

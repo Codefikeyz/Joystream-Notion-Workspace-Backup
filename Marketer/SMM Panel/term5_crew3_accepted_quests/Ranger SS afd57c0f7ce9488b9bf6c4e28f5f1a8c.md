@@ -1,0 +1,13 @@
+# Ranger SS
+
+Address: 0x8071bC96d3E4A70F09a502f0bD4cB7F190510544
+Date: February 3, 2023
+Discord: Ranger SS#2733
+DiscordId: 447742000000000000
+Quest: Create a membership
+ReviewDate: March 2, 2023 8:01 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: XjQvuoHo1qO8WjD
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-gCO8D3_vBudPmbqq-8tZ4-20230302_161106.png

@@ -1,0 +1,11 @@
+# Mashymahaa
+
+Address: j4WwKyie7UVE72jdH97NJW9Ee829FWmawEQ8cmgbemU4GV3qi
+Date: February 20, 2023
+Discord: mashymahaa#9316
+DiscordId: 875028658996265000
+Quest: Question 6
+Reward: 8 XP
+Status: success
+Twitter: mashymahaa
+answer: 3

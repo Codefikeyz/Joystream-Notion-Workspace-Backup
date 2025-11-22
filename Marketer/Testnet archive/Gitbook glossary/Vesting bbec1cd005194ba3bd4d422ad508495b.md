@@ -1,0 +1,5 @@
+# Vesting
+
+Tags: Pending
+Files/Screenshot: 2022-04-14_22-39-27.png
+Link: https://joystream.gitbook.io/testnet-workspace/system/accounts-and-staking

@@ -1,0 +1,11 @@
+# Rudovskiy
+
+Address: 5GHmUJSEiuv2JhofeAQpVSi4k25tWTMnuFBksqnoVWa83sR2
+Date: February 22, 2023
+Discord: ChillPill#0428
+DiscordId: 986674000000000000
+Quest: Question 9
+Reward: 8 XP
+Status: success
+Twitter: Man_7289
+answer: 1,000,000,000 $JOY

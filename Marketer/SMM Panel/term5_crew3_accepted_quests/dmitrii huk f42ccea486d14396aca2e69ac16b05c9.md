@@ -1,0 +1,10 @@
+# dmitrii huk
+
+Address: 5Ct6EaXrCU29R7cKjuy6zmF3WKxP5URG17YbiEugvXzPaHES
+Date: January 3, 2023
+Discord: dmitrii huk#4400
+DiscordId: 953979000000000000
+Quest: Daily connect ??
+Reward: 1 XP
+Status: success
+Twitter: SalcanJale

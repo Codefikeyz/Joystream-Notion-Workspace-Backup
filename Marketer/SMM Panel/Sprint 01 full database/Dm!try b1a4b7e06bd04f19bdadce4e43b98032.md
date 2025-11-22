@@ -1,0 +1,10 @@
+# Dm!try
+
+Date: February 25, 2023
+Discord: dmitry#3977
+DiscordId: 729397659571585200
+Quest: Question 9
+Reward: 8 XP
+Status: success
+Twitter: _Panasenkov_
+answer: 1,000,000,000 $JOY

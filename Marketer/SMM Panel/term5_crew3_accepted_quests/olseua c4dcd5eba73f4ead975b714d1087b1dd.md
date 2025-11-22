@@ -1,0 +1,13 @@
+# olseua
+
+Address: 5Gzj2hFuvdaFQvBZKbRphRJBadE9bqL5DMKYMScdcrpQev8H
+Date: February 27, 2023
+Discord: direktorzhizni#8380
+DiscordId: 888027000000000000
+Quest: Meme for Joystream
+ReviewDate: February 27, 2023 9:37 AM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 15 XP
+Status: success
+Twitter: alexmonopol
+answer: https://discord.com/channels/811216481340751934/812346722113814538/1079457948771819620

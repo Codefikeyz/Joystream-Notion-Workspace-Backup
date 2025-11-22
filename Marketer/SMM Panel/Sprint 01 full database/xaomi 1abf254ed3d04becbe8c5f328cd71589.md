@@ -1,0 +1,11 @@
+# xaomi
+
+Address: 16CaTX8LSRtXS8RHrFmVqR25KGca98pBhQ77EUWcREkqL7cv
+Date: February 19, 2023
+Discord: xaomi#0039
+DiscordId: 1050838754853666800
+Quest: Question 7
+Reward: 8 XP
+Status: success
+Twitter: EasyCoinInfo1
+answer: 15 days

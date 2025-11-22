@@ -1,0 +1,13 @@
+# Gladium
+
+Address: 5GnjfHkJQx5G3aCfLS3cGVwiKFUdkVXni5MBKWyz3ptkMMaB
+Date: April 3, 2023
+Discord: Gladium#2131
+DiscordId: 918911025733050400
+Quest: Create a Tiktok/Short video about Joystream
+ReviewDate: March 4, 2023 5:50 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 50 XP
+Status: success
+Twitter: CollinLatt
+answer: https://vm.tiktok.com/ZMYffcSYM/

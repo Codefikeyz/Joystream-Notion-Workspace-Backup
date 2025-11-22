@@ -1,0 +1,10 @@
+# Ihor Votka
+
+Address: 15mBULWPSnrDGWtGUaU7TWTMY1WhYxzUMKgFNFDXSwjBue1W
+Date: March 3, 2023
+Discord: Ihor#0732
+DiscordId: 910279246864335000
+Quest: Daily connect 📆
+Reward: 1 XP
+Status: success
+Twitter: IGORmetas

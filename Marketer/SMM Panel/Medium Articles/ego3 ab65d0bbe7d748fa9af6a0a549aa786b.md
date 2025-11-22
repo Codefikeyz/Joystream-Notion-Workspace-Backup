@@ -1,0 +1,13 @@
+# ego3
+
+Address: 5EFizJuZRFLrHsMKTZ9ujB8Pika3D68RdQw8gHE8Vez1VBQE
+Date: February 18, 2023
+Discord: ego#6617
+DiscordId: 802345006856929300
+Quest: Write a Medium article about Joystream
+ReviewDate: February 19, 2023 9:36 AM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 200 XP
+Status: success
+Twitter: nirvana_369_
+answer: https://medium.com/@saomai_42019/joystream-revolutionizing-the-video-streaming-industry-with-web3-technology-55ef237bd40

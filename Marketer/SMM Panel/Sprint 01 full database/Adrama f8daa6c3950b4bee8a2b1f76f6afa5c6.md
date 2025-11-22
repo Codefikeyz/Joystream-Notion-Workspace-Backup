@@ -1,0 +1,11 @@
+# Adrama
+
+Address: 0xeDfb68109D0D533B93EFEb1Fffc2F431A698C8cb
+Date: July 3, 2023
+Discord: EverLast#1829
+DiscordId: 1025710533275557900
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: AnastasiaDrano1
+answer: Digital Currency Group (DCG)

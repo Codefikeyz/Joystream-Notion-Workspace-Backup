@@ -1,0 +1,10 @@
+# yorong
+
+Address: 5Hg4BHQSvMWJ6SGaLGqdFt9GLZgzdKEVoHQ6b8nKj9aWLbJT
+Date: February 19, 2023
+Discord: yorong#2388
+DiscordId: 909594000000000000
+Quest: Follow Joystream on Twitter??
+Reward: 33 XP
+Status: success
+Twitter: yorong2063

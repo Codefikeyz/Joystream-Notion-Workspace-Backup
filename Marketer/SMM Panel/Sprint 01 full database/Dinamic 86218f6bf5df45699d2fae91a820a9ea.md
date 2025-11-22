@@ -1,0 +1,10 @@
+# Dinamic
+
+Address: 12rei8Pz69xstbffL7zPVuhBh9nbTXCWVW4ihDTuM1PPXtry
+Date: June 3, 2023
+Discord: Dinamic#3004
+DiscordId: 701140172754124800
+Quest: Daily connect 📆
+Reward: 1 XP
+Status: success
+Twitter: 33Dinamic

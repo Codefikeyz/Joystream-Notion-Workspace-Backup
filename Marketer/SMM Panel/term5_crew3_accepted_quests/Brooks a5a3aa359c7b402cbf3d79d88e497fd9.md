@@ -1,0 +1,11 @@
+# Brooks
+
+Address: j4RTdR84wtazMzTaj2cdGzHMH7pPDYojYEL34Lqg3nntme8Ry
+Date: February 20, 2023
+Discord: Brooks#5909
+DiscordId: 957693000000000000
+Quest: Question 8
+Reward: 8 XP
+Status: success
+Twitter: io_brooks
+answer: $JOY

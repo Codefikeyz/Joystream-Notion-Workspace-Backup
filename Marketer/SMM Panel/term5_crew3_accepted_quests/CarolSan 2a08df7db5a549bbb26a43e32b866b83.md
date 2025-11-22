@@ -1,0 +1,11 @@
+# CarolSan
+
+Address: 114SUbKCXjmb9czpWTtS3JANSmNRwVa4mRG1kDH5
+Date: February 18, 2023
+Discord: CarolSandra87514035#0014
+DiscordId: 1055860000000000000
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: MeganYo85855865
+answer: joined

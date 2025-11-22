@@ -1,0 +1,11 @@
+# EthanHall
+
+Address: 16iVNrg8MzUVurT2Nz9fPdHRbsnjgRU6uEboh4sJVYYttcvY
+Date: February 18, 2023
+Discord: EthanHall#9137
+DiscordId: 951910439606976500
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: DarrenG01469931
+answer: Digital Currency Group (DCG)

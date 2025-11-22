@@ -1,0 +1,11 @@
+# mizuco
+
+Address: 5EZY1ifywH9Qm9ofLEMiGRuKXLzzrAdSsVVLEp4maTnXymut
+Date: February 18, 2023
+Discord: cypress77#7276
+DiscordId: 917915594051965000
+Quest: High-Quality Twitter thread 🐦
+Reward: 250 XP
+Status: success
+Twitter: KiKim87403794
+answer: https://twitter.com/KiKim87403794/status/1626725620796227587?s=20

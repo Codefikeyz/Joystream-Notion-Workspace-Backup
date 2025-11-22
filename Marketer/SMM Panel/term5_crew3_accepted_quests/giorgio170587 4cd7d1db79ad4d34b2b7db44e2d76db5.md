@@ -1,0 +1,13 @@
+# giorgio170587
+
+Address: 5D7EiRfUNPBsntDbwoGbLWKqBmZyGgfC6Kv3mjt4L5NkA5Jo
+Date: February 22, 2023
+Discord: giorgio170587#1539
+DiscordId: 284752000000000000
+Quest: Post a comment on Reddit
+ReviewDate: February 21, 2023 7:42 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: giorgio170587
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-5mjVayn4BvcrDau4vhReW-2023-02-20212847.jpg

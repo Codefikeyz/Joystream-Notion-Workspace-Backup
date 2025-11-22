@@ -1,0 +1,11 @@
+# Gonzila
+
+Address: 13ozgYGJWbtJBMaeo7YawRXUzbKwoE4A8fCH9jvzRJSE5VQJ
+Date: February 19, 2023
+Discord: Gonzila#1196
+DiscordId: 961230186605588600
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: KaelynMunoz12
+answer: Digital Currency Group (DCG)

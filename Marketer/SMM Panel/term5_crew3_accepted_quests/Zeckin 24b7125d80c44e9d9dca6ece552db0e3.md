@@ -1,0 +1,11 @@
+# Zeckin
+
+Address: 12HFymxpDmi4XXPHaEMp74CNpRhkqwG5qxnrgikkhon1XMrj
+Date: February 18, 2023
+Discord: Zeckin#4309
+DiscordId: 963271000000000000
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: pernambuco_33
+answer: joined

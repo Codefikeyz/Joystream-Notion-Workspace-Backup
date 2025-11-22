@@ -1,0 +1,13 @@
+# Dotsent82 | LOE
+
+Address: 1RA8KwErPsuM6nRqvqHnzYaXrGY8WAQESu4PQugpBATuaaa
+Date: February 24, 2023
+Discord: Ihor|$NOM#0884
+DiscordId: 713362586774536200
+Quest: Share video 
+ReviewDate: February 27, 2023 8:37 AM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: Dotsent832
+answer: https://twitter.com/Dotsent832/status/1628871165467820040

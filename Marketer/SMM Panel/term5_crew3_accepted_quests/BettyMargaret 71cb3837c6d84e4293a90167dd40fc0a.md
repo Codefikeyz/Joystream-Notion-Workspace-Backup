@@ -1,0 +1,11 @@
+# BettyMargaret
+
+Address: 1vLiLXkAvXrQCtF4YVtjEou7x8VDuc1bAF1UC4Grg5cN7mS
+Date: March 3, 2023
+Discord: BettyMargaret79162457#1356
+DiscordId: 1052960000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: hardshell_1998
+answer: Digital Currency Group (DCG)

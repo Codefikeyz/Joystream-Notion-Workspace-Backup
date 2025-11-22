@@ -1,0 +1,13 @@
+# aleksa
+
+Address: 5EeG3MHVDjrjeDgJHrSJjH4Ko6MJh97hwNLnhxrSBzdYJ2JR
+Date: February 25, 2023
+Discord: aleksa#1213
+DiscordId: 953946319532212200
+Quest: 3 memes about Joystream on Twitter
+ReviewDate: March 2, 2023 3:30 PM (GMT+1)
+ReviewedById: 7ea8f152-4669-4f92-bb2c-3319a59e7daa
+Reward: 45 XP
+Status: success
+Twitter: liliankam
+answer: https://twitter.com/liliankam/status/1629467025859923968?s=20

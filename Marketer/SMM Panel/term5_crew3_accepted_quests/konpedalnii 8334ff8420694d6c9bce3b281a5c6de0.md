@@ -1,0 +1,13 @@
+# konpedalnii
+
+Address: 164spxKvQsnZ3EznULoyk9BSFCwA5BGv67FLxxi2u24vVw5y
+Date: February 17, 2023
+Discord: konpedalnii#0322
+DiscordId: 876783000000000000
+Quest: Newsletter Subscriber ??
+ReviewDate: February 17, 2023 3:53 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: AleksejVolkov16
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-e9iwPQdoK4cnX-DsLYemf-2023-02-17151431.jpg

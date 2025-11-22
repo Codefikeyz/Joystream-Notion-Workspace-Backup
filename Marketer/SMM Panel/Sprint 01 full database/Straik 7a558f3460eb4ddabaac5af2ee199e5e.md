@@ -1,0 +1,10 @@
+# Straik
+
+Address: 141wMiM7kPmkccnvwE3xUUG2Xv9bYTVc12NVaShz5iYKyjEn
+Date: October 3, 2023
+Discord: Straik#0354
+DiscordId: 893549033182855200
+Quest: Like, retweet ❤️#36
+Reward: 15 XP
+Status: success
+Twitter: StraiK80097576

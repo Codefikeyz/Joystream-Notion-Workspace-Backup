@@ -1,0 +1,13 @@
+# crritt
+
+Address: 0x214Ec003C7c34Be09a5CE691FD6Aa6ecF2108a49
+Date: February 25, 2023
+Discord: крит#1189
+DiscordId: 456120904909324300
+Quest: Follow us on Coinmarketcap
+ReviewDate: February 27, 2023 3:23 AM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 33 XP
+Status: success
+Twitter: CDCDell
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-ocOdin-xp8mlE_8ouvZA2-Screenshot_2.png

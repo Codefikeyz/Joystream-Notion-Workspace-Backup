@@ -1,0 +1,13 @@
+# Bogdi
+
+Address: 5DX9qG7NNZFd7iMtdWMhUvRT61BBzHhkmfZq5oqgMTEJ2qv9
+Date: February 19, 2023
+Discord: Bogdi#5696
+DiscordId: 422987735091904500
+Quest: Create a Tiktok/Short video about Joystream
+ReviewDate: February 19, 2023 3:02 PM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 250 XP
+Status: success
+Twitter: cryptobogdi
+answer: https://vm.tiktok.com/ZMYk7wy54/

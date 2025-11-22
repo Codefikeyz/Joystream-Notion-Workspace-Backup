@@ -1,0 +1,11 @@
+# anatoliy
+
+Address: 1ez4Jsg5zCo6HcPsMXbQZnepjBzZWHMk2T2z2FQj8Pw3egr
+Date: February 25, 2023
+Discord: anatoliy#4653
+DiscordId: 1015899028074012800
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: Anatoliyataman
+answer: Digital Currency Group (DCG)

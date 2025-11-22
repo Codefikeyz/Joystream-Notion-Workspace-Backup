@@ -1,0 +1,11 @@
+# Stuaerer
+
+Address: 16GGvQascEcrsr91e8rCciYoF3FVbdiN8A7N7vhwDbnsA3S1
+Date: February 22, 2023
+Discord: stuaerer | Sui Global#1091
+DiscordId: 976555000000000000
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: StuaerE
+answer: joined

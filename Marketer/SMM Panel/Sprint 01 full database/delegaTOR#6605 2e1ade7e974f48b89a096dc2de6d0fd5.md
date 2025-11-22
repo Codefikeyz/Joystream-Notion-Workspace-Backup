@@ -1,0 +1,10 @@
+# delegaTOR#6605
+
+Address: 5GsKafCU3z97oTKAiSn8Wxp338mkjBTU8uUMC9Bw1CZVxD8b
+Date: March 13, 2023
+Discord: delegaTOR#6605
+DiscordId: 758021451944034400
+Quest: Like, retweet ❤️#39
+Reward: 15 XP
+Status: success
+Twitter: Wafou36813661

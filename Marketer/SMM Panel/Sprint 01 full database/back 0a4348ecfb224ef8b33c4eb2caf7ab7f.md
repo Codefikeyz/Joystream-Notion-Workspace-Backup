@@ -1,0 +1,10 @@
+# back
+
+Address: 5FR9wbFaGRQHpip4FuujLe7E3cXiXBjmjBbQkRE2awnBKjze
+Date: February 18, 2023
+Discord: baek1961#2723
+DiscordId: 943741070452355100
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: 1988backback

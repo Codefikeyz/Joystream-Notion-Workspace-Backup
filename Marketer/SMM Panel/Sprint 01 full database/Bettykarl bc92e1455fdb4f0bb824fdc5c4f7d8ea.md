@@ -1,0 +1,10 @@
+# Bettykarl
+
+Address: 14bLNR6fJDbUK6yUDVFRvdx8BJi8d3DQmXRj1MqrmxXUhJHg
+Date: February 18, 2023
+Discord: Bettykarl#5720
+DiscordId: 968910299921010700
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: AlexaZa29248419

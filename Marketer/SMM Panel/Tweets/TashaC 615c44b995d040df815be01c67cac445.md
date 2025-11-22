@@ -1,0 +1,11 @@
+# TashaC
+
+Address: 14r3WKk5XxMoMiTnBdgaWcgEJXXZ6eq6eU1m7mvGACKiaz82
+Date: February 19, 2023
+Discord: TashaC#4677
+DiscordId: 1039977794307887100
+Quest: Tweet about us
+Reward: 83 XP
+Status: success
+Twitter: TashaCannn
+answer: https://twitter.com/TashaCannn/status/1627018935391465472

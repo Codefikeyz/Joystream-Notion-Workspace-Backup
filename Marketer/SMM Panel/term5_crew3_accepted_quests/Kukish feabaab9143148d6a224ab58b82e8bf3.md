@@ -1,0 +1,11 @@
+# Kukish
+
+Address: 121pJzKX5EaZFPMcpAq3TLM8erjconrpqWe58FTfNaaSm7sY
+Date: January 3, 2023
+Discord: Kukish#6289
+DiscordId: 1032200000000000000
+Quest: Tweet about us
+Reward: 66 XP
+Status: success
+Twitter: AliaProto
+answer: https://twitter.com/AliaProto/status/1630617251501031427?s=20

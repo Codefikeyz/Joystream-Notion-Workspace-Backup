@@ -1,0 +1,10 @@
+# kirill111
+
+Address: EoXwHMs83driGNka76aAHjno5TmYj1hZuGZ6LPtnHRmNaDb
+Date: February 17, 2023
+Discord: kirill111#1986
+DiscordId: 861309000000000000
+Quest: Follow Joystream on Twitter??
+Reward: 33 XP
+Status: success
+Twitter: Kirill28773339

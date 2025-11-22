@@ -1,0 +1,11 @@
+# wertelyafiat
+
+Address: 5G1i2UtzG2Cie8omzVxfib3jJBRxHHz2zxnjcVdfbtS7Xsy1
+Date: February 22, 2023
+Discord: wertelyafiat#9628
+DiscordId: 879763170749718500
+Quest: Tweet about us
+Reward: 83 XP
+Status: success
+Twitter: zabavamers
+answer: https://twitter.com/zabavamers/status/1628298960971366400?s=20

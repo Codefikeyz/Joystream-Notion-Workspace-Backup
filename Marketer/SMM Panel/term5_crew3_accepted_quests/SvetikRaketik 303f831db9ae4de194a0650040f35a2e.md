@@ -1,0 +1,11 @@
+# SvetikRaketik
+
+Address: 5Csv2BZReuMHvzJyXERsV56gBATsnpFCvvh11bigCY2WmxST
+Date: February 3, 2023
+Discord: SvetikRaketik#5059
+DiscordId: 876559000000000000
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: KaramavrovaS
+answer: joined

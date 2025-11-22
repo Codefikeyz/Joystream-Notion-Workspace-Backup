@@ -1,0 +1,10 @@
+# Baliez
+
+Address: 1V67fTU6LcQRS5P4vVpEra2jJhXdsE7aFGkrHXBhuT69JeE
+Date: February 27, 2023
+Discord: Baliez#2072
+DiscordId: 910951000000000000
+Quest: Like, retweet ??#27
+Reward: 15 XP
+Status: success
+Twitter: BilykJohn

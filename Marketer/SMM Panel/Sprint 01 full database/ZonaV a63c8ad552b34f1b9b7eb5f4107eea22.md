@@ -1,0 +1,11 @@
+# ZonaV
+
+Address: 12SGppYNQXsvFPRJLP8RHDch16Lo28Jo8no1WE4Bg8Ck61cn
+Date: February 24, 2023
+Discord: ZonaV#3217
+DiscordId: 414946325776564200
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: 0xZonaV
+answer: joined

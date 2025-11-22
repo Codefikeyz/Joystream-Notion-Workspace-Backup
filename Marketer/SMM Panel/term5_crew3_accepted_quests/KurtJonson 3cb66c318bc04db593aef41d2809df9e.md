@@ -1,0 +1,13 @@
+# KurtJonson
+
+Address: 16f2w6wvAmuVZFHa37ZY4WNzBXRa9fwT4DYxwW5cQNetkfxk
+Date: February 27, 2023
+Discord: Spartak#5662
+DiscordId: 1049360000000000000
+Quest: 3 memes about Joystream on Twitter
+ReviewDate: March 2, 2023 8:57 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 45 XP
+Status: success
+Twitter: KurtecJonson
+answer: https://twitter.com/KurtecJonson/status/1630220015520587777?s=20

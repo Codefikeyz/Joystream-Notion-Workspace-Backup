@@ -1,0 +1,10 @@
+# VladPvlnk
+
+Address: 5FRmXf4GfkQjoy4obcjQKFncbAE7N7WmBiQUYBLQsgEpmmpJ
+Date: January 3, 2023
+Discord: VladPvlnk#9686
+DiscordId: 1057658576421802000
+Quest: Daily connect 📆
+Reward: 1 XP
+Status: success
+Twitter: VladPavlenko122

@@ -1,0 +1,13 @@
+# ViktoriiaN
+
+Address: 5EqZbtJbkVn9Csgk7dx852LD4A5qfLq2a8XNUVUwjjo1LjPT
+Date: February 23, 2023
+Discord: ViktoriiaN#7846
+DiscordId: 830893000000000000
+Quest: Create infographics about Joystream
+ReviewDate: February 23, 2023 11:23 AM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 100 XP
+Status: success
+Twitter: aqilanur24
+answer: https://twitter.com/aqilanur24/status/1628457513862500352?s=20

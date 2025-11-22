@@ -1,0 +1,10 @@
+# 이희상
+
+Address: ZFkvdRNsMcWA6hsdoS3uu2uwF8m9CeHMMRjY1TGq4RAcXnE
+Date: September 3, 2023
+Discord: LEEHEESANG#5046
+DiscordId: 361227090999377900
+Quest: Daily connect 📆
+Reward: 1 XP
+Status: success
+Twitter: ihuisang5

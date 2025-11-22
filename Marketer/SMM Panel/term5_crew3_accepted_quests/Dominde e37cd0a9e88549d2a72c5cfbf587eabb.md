@@ -1,0 +1,11 @@
+# Dominde
+
+Address: onomy140yza9ezratuyr9rwnv5jvhy3pr2sa9jpkt2lw
+Date: February 17, 2023
+Discord: dominde#2196
+DiscordId: 1060490000000000000
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: dominde4
+answer: joined

@@ -1,0 +1,11 @@
+# kioshima
+
+Address: 13sP8LouP2K7SxVijdKxKghDSbKWs6TciCUt25y4zquFTC6
+Date: February 25, 2023
+Discord: kioshima#1356
+DiscordId: 967983631702315100
+Quest: Question 2
+Reward: 8 XP
+Status: success
+Twitter: Cassand80600534
+answer: Polkadot

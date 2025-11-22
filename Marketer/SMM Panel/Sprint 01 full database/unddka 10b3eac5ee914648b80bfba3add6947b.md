@@ -1,0 +1,10 @@
+# unddka
+
+Address: 1HXeAKZSVT9XnZBf2pKD3J1f6RyYzcASLekbL775mEaa91H
+Date: January 17, 2023
+Discord: unddka#7658
+DiscordId: 911927224540729300
+Quest: Invite 3 crew3 frens 🤲
+Reward: 7 XP
+Status: success
+Twitter: IkotnikSeryi

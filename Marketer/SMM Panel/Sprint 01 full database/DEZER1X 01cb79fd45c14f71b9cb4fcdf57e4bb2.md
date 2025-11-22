@@ -1,0 +1,11 @@
+# DEZER1X
+
+Address: 5FsunyRGrJe38gghivQj4jgoBbqpKYdzp6KwNHcUxygmhyCi
+Date: April 3, 2023
+Discord: Dezer1x#4898
+DiscordId: 867139025625153500
+Quest: Question 5
+Reward: 8 XP
+Status: success
+Twitter: bugaj_vlad
+answer: Anti-Corruption WG

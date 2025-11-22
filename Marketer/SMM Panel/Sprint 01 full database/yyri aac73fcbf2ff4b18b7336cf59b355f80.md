@@ -1,0 +1,11 @@
+# yyri
+
+Address: 1gxsXqxuySAWcgwvkwE12fnBw99E6KvdDDdt3U3gttbHSqR
+Date: June 3, 2023
+Discord: aey#0881
+DiscordId: 885028548270755800
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: aeyo119
+answer: joined

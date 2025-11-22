@@ -1,0 +1,11 @@
+# AndersonHannah
+
+Address: 12s3eZeqVBBU4M27N4To6wHiKNSsuRzstMLPSjPHFJ7WX7Xn
+Date: February 27, 2023
+Discord: AndersonHannah#8461
+DiscordId: 1042180000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: hyphenate_2
+answer: Digital Currency Group (DCG)

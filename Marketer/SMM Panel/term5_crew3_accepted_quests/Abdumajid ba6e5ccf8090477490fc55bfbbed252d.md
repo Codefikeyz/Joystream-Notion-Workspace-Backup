@@ -1,0 +1,10 @@
+# Abdumajid
+
+Address: 5DF1YhtnJcxkA29PtDsGKonWPTzCW9Ft9KJiZri7Amw5WRE2
+Date: February 23, 2023
+Discord: Abdumajid  Sui Global#0096
+DiscordId: 1016400000000000000
+Quest: Follow Joystream on Twitter??
+Reward: 33 XP
+Status: success
+Twitter: abdumajid9117

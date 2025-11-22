@@ -1,0 +1,10 @@
+# MagicMan
+
+Address: 5CXADeiScHx19iDQq6kq8pNvBC2V2e9F7HK54VtnZPQ4pyEN
+Date: February 28, 2023
+Discord: Акиджи#5395
+DiscordId: 224199542487121920
+Quest: Daily connect 📆
+Reward: 1 XP
+Status: success
+Twitter: MagicMan_z

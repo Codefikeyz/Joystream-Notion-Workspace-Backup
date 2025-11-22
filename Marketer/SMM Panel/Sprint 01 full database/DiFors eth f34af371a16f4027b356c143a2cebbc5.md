@@ -1,0 +1,13 @@
+# DiFors.eth
+
+Address: 5GRMUCKybifdyryKZWorbGsR81TFWfR6CckaumgrbbazANox
+Date: February 21, 2023
+Discord: DiMetelnyi#0186
+DiscordId: 1048533749920440300
+Quest: Meme for Joystream
+ReviewDate: February 21, 2023 10:03 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 15 XP
+Status: success
+Twitter: DiMetelnuy
+answer: https://discordapp.com/channels/811216481340751934/812346722113814538/1077612420043915264

@@ -1,0 +1,10 @@
+# Criptanata
+
+Address: 16MP2k8KuEQZkDo5qyGHC7d3SpyT7xtru4g5kvv5eAPs8xTZ
+Date: February 17, 2023
+Discord: Titova#7563
+DiscordId: 911355000000000000
+Quest: Like, reply, retweet ??#1
+Reward: 33 XP
+Status: success
+Twitter: Natalia7Titova

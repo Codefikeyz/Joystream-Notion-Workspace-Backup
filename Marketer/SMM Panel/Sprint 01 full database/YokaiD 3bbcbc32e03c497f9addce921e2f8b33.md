@@ -1,0 +1,11 @@
+# YokaiD
+
+Address: 121PXi4rQiz5sHVH2GYuGfiYEHPLau36xiSJncjhuQgKKYvR
+Date: February 27, 2023
+Discord: Yokai#6784
+DiscordId: 1033364868528619500
+Quest: Tweet about us
+Reward: 66 XP
+Status: success
+Twitter: ShavondWeldon
+answer: https://twitter.com/ShavondWeldon/status/1629910533053857796?s=20

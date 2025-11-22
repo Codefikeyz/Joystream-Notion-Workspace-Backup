@@ -1,0 +1,10 @@
+# sope4bw
+
+Address: 1535QWFju9WCRXnLZb8PRpoxpUym5rM7yfTAjQHpHo7usZZh
+Date: February 26, 2023
+Discord: sope4bw#4850
+DiscordId: 1048230000000000000
+Quest: Follow Joystream on Twitter??
+Reward: 33 XP
+Status: success
+Twitter: cneistc

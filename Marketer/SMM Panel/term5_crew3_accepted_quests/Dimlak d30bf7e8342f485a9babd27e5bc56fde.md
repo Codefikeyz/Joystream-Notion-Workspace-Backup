@@ -1,0 +1,10 @@
+# Dimlak
+
+Address: 12GSworYc9tap6Xg76MY3rybTT7KJNHU4vbxThKKsPx1a3f2
+Date: February 24, 2023
+Discord: Dimlak#7104
+DiscordId: 809142000000000000
+Quest: Like, retweet ??#20
+Reward: 15 XP
+Status: success
+Twitter: SergeiTestj

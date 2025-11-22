@@ -1,0 +1,11 @@
+# maxboowwoow
+
+Address: 14BQgtJRQFRXRZAqamynqb4QVLNyFyxmMJmspUpLU2Mrh6eQ
+Date: February 18, 2023
+Discord: maxboowwoow#6574
+DiscordId: 1076050000000000000
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: maxboowwoow
+answer: joined

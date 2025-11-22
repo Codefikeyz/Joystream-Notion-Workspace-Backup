@@ -1,0 +1,11 @@
+# Turuu
+
+Address: 5CANzfJquvQwxkU53SDX3DyhzZZG7762tcBbVBY7SaFW1Wyo
+Date: February 20, 2023
+Discord: Happy24Club#1782
+DiscordId: 985159652293607400
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: Happy24Mongolia
+answer: joined

@@ -1,0 +1,10 @@
+# Asterlok
+
+Address: 5EeVCHCjDjn7R9S4c8x1pVSASJhVmAQe4ovyv1SawtX3ARYd
+Date: January 3, 2023
+Discord: SweetTolyan#0704
+DiscordId: 449951000000000000
+Quest: Daily connect ??
+Reward: 1 XP
+Status: success
+Twitter: DabDab82400595

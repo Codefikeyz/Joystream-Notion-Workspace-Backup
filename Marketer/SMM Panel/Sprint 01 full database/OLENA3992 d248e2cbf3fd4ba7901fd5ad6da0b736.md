@@ -1,0 +1,10 @@
+# OLENA3992
+
+Address: 13xiNhSBREziwiiW7LvXisqBgUGC9BmL74qCkWZLKwVfa6oJ
+Date: July 3, 2023
+Discord: olena3992#7995
+DiscordId: 952987539772412000
+Quest: Like, retweet ❤️#35
+Reward: 15 XP
+Status: success
+Twitter: visa_ua

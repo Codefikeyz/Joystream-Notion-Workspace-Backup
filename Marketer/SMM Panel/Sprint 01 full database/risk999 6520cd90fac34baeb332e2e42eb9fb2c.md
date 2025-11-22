@@ -1,0 +1,10 @@
+# risk999
+
+Address: 5G4CWyxxRFz1tKNqKo3gEMw4DqkagC2wKAhB9NePESSKhTV6
+Date: February 23, 2023
+Discord: ris8ks00b9d#6805
+DiscordId: 959736499262337000
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: Jennife10896098

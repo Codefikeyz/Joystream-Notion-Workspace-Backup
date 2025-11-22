@@ -1,0 +1,10 @@
+# Xoxne
+
+Address: 5FvqUDhtHAYDYQVSy4TDqhDvHyQ4MvTaWuTXjWRtwuMB35fh
+Date: May 3, 2023
+Discord: Tyfhxn#6211
+DiscordId: 959824532024221700
+Quest: Daily connect 📆
+Reward: 1 XP
+Status: success
+Twitter: Bybyko6

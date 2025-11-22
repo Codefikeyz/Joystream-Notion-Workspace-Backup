@@ -1,0 +1,11 @@
+# bohovytsch
+
+Address: 16XKbeZjGnixtaSm4bM5AU6rvu39DCNFpEbjaJEaYbdjhACb
+Date: February 21, 2023
+Discord: �����#9251
+DiscordId: 907908000000000000
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: ABohovych
+answer: joined

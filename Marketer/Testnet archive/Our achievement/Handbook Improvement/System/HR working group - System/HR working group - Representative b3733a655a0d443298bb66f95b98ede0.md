@@ -1,0 +1,3 @@
+# HR working group - Representative
+
+The Integrator ******in the Human Resource working group helps new and existing members get involved in the project and pushes them to become Founding Members. The integrator should be aware of the availability of vacant seats in the working group and try to find a suitable worker for each position. The next main part for the Integrators is to work with the CRM system. The Jsgenesis Customer Relationship Management (CRM) system is a data warehouse operated by Jsgenesis as a central source of truth for the state and history of the Joystream testnets.

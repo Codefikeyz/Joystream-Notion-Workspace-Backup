@@ -1,0 +1,11 @@
+# chocolateBomb
+
+Address: 155pZtKSZgMWMMFqFKeWvfUPRzSDj3f3w9VtCZmXGoSDLKui
+Date: February 25, 2023
+Discord: chocolateBomb#8337
+DiscordId: 960966000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: Barbara66600696
+answer: Digital Currency Group (DCG)

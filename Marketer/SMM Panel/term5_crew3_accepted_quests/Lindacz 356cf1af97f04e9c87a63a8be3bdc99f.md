@@ -1,0 +1,11 @@
+# Lindacz
+
+Address: 14oPP4SiUy74TmGHWm4yR1CfaC1KGgpathZ8mdgX4hn8wCjK
+Date: February 18, 2023
+Discord: Lindacz#6276
+DiscordId: 951912000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: yugutsuki1975
+answer: Digital Currency Group (DCG)

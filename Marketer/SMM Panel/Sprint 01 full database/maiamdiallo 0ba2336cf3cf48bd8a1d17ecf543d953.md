@@ -1,0 +1,11 @@
+# maiamdiallo
+
+Address: 5EUypA3dbfebtrh6KkU9hBseQuMqqZ3vQTdfiVz6hRRQHCk9
+Date: February 20, 2023
+Discord: maiamdiallo#9966
+DiscordId: 1041048252075737200
+Quest: Question 8
+Reward: 8 XP
+Status: success
+Twitter: maiamdiallo
+answer: $JOY

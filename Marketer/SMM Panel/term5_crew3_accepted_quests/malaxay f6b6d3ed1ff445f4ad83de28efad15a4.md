@@ -1,0 +1,10 @@
+# malaxay
+
+Address: 5C814LX1uHMpnpWp6XtwjkckUBbThVggScoGD1X5ox7Xv6Sv
+Date: February 22, 2023
+Discord: malaxay#6038
+DiscordId: 930550000000000000
+Quest: Like, reply, retweet ??#8
+Reward: 33 XP
+Status: success
+Twitter: holovchak

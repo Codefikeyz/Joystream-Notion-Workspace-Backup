@@ -1,0 +1,10 @@
+# whitelsh2018
+
+Address: 14TEz7AsR7DaMxLc9GAMeb6PAJCbHqLZL4ynqw9oaVxDQSQn
+Date: February 19, 2023
+Discord: white#9828
+DiscordId: 778226505506357200
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: whitelsh2018

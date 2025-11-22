@@ -1,0 +1,11 @@
+# poppop
+
+Address: 11MLGaMndScfWSi27ye87i14d6BgerGhv1sfyUt2iT97fxv
+Date: February 19, 2023
+Discord: DFSD#7076
+DiscordId: 882260000000000000
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: jsosj48241238
+answer: joined

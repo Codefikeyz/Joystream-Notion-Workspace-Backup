@@ -1,0 +1,10 @@
+# boram
+
+Address: 12n9J1DHLx6Ww7eYCEpH5p6jm96NiRXUz7WpNgLcogocbR3C
+Date: February 23, 2023
+Discord: boram#7758
+DiscordId: 386118000000000000
+Quest: Like, retweet ??#20
+Reward: 15 XP
+Status: success
+Twitter: oxks123

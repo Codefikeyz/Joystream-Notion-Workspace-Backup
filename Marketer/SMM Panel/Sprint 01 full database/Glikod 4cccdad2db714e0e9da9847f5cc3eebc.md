@@ -1,0 +1,11 @@
+# Glikod
+
+Address: 0x032cc58DaF06a5070399d8B8eb22e35237b2de5D
+Date: February 27, 2023
+Discord: Glikod#0054
+DiscordId: 1034560471291941000
+Quest: Question 2
+Reward: 8 XP
+Status: success
+Twitter: GaleanAriel
+answer: Polkadot

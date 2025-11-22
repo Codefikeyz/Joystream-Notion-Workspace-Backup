@@ -1,0 +1,11 @@
+# Ruslanod
+
+Address: 1pmJAzBTaqm7iuhWBAFxbqTWx264wuNqtE3XWVZHma3znF1
+Date: April 3, 2023
+Discord: Ruslan od#6400
+DiscordId: 905234181381050400
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: ElvinGrandfath1
+answer: joined

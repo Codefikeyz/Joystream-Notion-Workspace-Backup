@@ -1,0 +1,3 @@
+# Forum working group Intro
+
+The Forum working group monitors and supervises public communication channels for compliance with usage moderation policies. The forum is hierarchically organized into a tree of categories, each with designated moderators. It is the main place for community-wide asynchronous written communication about all topics relevant to the platform among Joystream members. To create a thread or posts an initial deposit is needed that goes into a thread account.

@@ -1,0 +1,3 @@
+# US person isn’t eligible for FM program
+
+[Here](https://joystream.gitbook.io/testnet-workspace/testnet/founding-member-program#us-persons-are-not-eligible-for-usdjoy), we clearly describe that US person isn’t eligible to enroll in founding member program. To avoid, any discrimination and for the purpose of user friendliness. We need to define why are these persons aren’t eligible for this program which is good gesture.

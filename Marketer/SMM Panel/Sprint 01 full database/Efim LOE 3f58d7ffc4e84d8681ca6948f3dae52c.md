@@ -1,0 +1,11 @@
+# Efim LOE
+
+Address: 5Haso8GB77f8zuPt44XGN5pX9cwdfGkNLbQTz4ywTDgJJPK5
+Date: February 23, 2023
+Discord: FimaHuligan#6822
+DiscordId: 768935795788611600
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: Shima30695750
+answer: Digital Currency Group (DCG)

@@ -1,0 +1,10 @@
+# StefY
+
+Address: 0x871b57e4e99b210fc97354bd2779911e75774341
+Date: February 18, 2023
+Discord: StefY#7138
+DiscordId: 957394863819731000
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: AshleyATYS

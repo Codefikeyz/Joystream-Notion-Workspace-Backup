@@ -1,0 +1,10 @@
+# D1ksasik
+
+Address: 1aQfemL92watDbJS24L3QvaVzThpd9cC33cbJKGBVPF2Jjb
+Date: February 27, 2023
+Discord: D1ksasik#3869
+DiscordId: 433604526554087400
+Quest: Like, retweet ❤️#25
+Reward: 15 XP
+Status: success
+Twitter: d1ksasik

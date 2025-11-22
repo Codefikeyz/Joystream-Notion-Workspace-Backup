@@ -1,0 +1,10 @@
+# Seungjae
+
+Address: 15QcJ3iBGue7xPwsVYCWWh82uXryX22PbfDZHREGfHo1tf95
+Date: February 25, 2023
+Discord: ???#6830
+DiscordId: 453579000000000000
+Quest: Like, retweet ??#22
+Reward: 15 XP
+Status: success
+Twitter: STMD_001

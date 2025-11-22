@@ -1,0 +1,10 @@
+# MegaCrypto
+
+Address: 15fVZa5Puv3s7BRhQtdbiSnukMavfEg18DqfuyYbMKtKq9jn
+Date: February 27, 2023
+Discord: MegaCrypto#8762
+DiscordId: 1033109488955297900
+Quest: Like, retweet ❤️#25
+Reward: 15 XP
+Status: success
+Twitter: TiltSophie

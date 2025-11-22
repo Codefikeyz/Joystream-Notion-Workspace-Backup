@@ -1,0 +1,13 @@
+# Үндсэн 9d3a
+
+Address: 13GPz7jZmyoBSsgWaN5JGHShpcJcnAqZ2T14CHq9GYfQGJ1E
+Date: February 20, 2023
+Discord: battur.kh#1654
+DiscordId: 865239155402473500
+Quest: Post a comment on Reddit
+ReviewDate: February 20, 2023 8:56 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: btordmp2898
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-l7s4EOFwOFdJUzTHtaFxU-Webcapture_20-2-2023_231225_wwwredditcom.jpeg

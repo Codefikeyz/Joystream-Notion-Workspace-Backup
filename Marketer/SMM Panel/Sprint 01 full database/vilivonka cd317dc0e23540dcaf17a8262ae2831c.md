@@ -1,0 +1,11 @@
+# vilivonka
+
+Address: 5DCS2cEyZwbmU5ixPJNXySPLiKhB2L7kCAhjWG3kHpXHqWYc
+Date: February 18, 2023
+Discord: vilivonka#9088
+DiscordId: 957151463497433100
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: raikii1986
+answer: Digital Currency Group (DCG)

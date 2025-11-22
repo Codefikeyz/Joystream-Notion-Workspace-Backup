@@ -1,0 +1,10 @@
+# wertelyafiat
+
+Address: 5G1i2UtzG2Cie8omzVxfib3jJBRxHHz2zxnjcVdfbtS7Xsy1
+Date: February 28, 2023
+Discord: wertelyafiat#9628
+DiscordId: 879763170749718500
+Quest: Invite 3 crew3 frens 🤲
+Reward: 100 XP
+Status: success
+Twitter: zabavamers

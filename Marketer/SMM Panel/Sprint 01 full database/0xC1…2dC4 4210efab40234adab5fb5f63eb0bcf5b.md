@@ -1,0 +1,10 @@
+# 0xC1…2dC4
+
+Address: 5GGzB918k8fzEJDZQ1EBtmYPUV7rHTLFYFLUmitgdFAsBmVZ
+Date: December 3, 2023
+Discord: max#4758
+DiscordId: 965647923792707700
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: fae_gs

@@ -1,0 +1,10 @@
+# kotov
+
+Address: 13po9tgDiJCo5VRB5qL3t1z5wBKevLWjqoFgzmPD8f5U4zN2
+Date: January 3, 2023
+Discord: kotov#9211
+DiscordId: 815420000000000000
+Quest: Like, retweet ??#29
+Reward: 15 XP
+Status: success
+Twitter: LehiOleg

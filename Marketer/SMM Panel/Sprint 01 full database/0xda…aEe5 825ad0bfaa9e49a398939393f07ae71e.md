@@ -1,0 +1,10 @@
+# 0xda…aEe5
+
+Address: 5CrKu4nnUuKd9oNBDsNsoAV2ZVJdsRGygccZhDHRB6gBCHzp
+Date: May 3, 2023
+Discord: EUNSOO#8174
+DiscordId: 969245570474582000
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: xtory123

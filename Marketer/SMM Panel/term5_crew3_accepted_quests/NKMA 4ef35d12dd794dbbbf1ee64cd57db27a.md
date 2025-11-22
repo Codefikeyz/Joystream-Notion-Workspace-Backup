@@ -1,0 +1,11 @@
+# NKMA
+
+Address: 5DLtMDEQsZ7wYtUvhT5cMqhuvzbLhkkVULNDtwmf4ra8zxDg
+Date: February 18, 2023
+Discord: Nekoma#8629
+DiscordId: 263343000000000000
+Quest: Question 8
+Reward: 8 XP
+Status: success
+Twitter: Ne_k0_ma
+answer: $JOY

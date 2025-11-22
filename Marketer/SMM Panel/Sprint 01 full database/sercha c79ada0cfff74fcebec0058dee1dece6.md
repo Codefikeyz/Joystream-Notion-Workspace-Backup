@@ -1,0 +1,10 @@
+# sercha
+
+Address: 5G782XgF9D6pGsSJ8tVbHRQrtF4fzmx3ic1G5n35Jw24tJdT
+Date: March 3, 2023
+Discord: sercha#1720
+DiscordId: 861523561256321000
+Quest: Daily connect 📆
+Reward: 1 XP
+Status: success
+Twitter: ZUUAtqCvqoKX1vR

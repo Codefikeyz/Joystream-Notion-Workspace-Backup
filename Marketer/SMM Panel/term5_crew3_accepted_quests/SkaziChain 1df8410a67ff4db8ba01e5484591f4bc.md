@@ -1,0 +1,11 @@
+# SkaziChain
+
+Address: 5HBMxpbYS7FHn2hoUQc6R8NG2q5rbgUaFT9JAYikuFA1vASM
+Date: February 17, 2023
+Discord: SkaziChain#7158
+DiscordId: 966756000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: SkaziChain
+answer: Digital Currency Group (DCG)

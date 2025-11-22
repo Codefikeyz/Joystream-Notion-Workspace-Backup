@@ -1,0 +1,13 @@
+# glorya
+
+Address: 12RUZ6wHT7JqzzNduLEcETeUoJuK16KQf4YNHKmT1scNodjc
+Date: February 24, 2023
+Discord: glorya#7887
+DiscordId: 414930000000000000
+Quest: Level up your Twitter bio
+ReviewDate: February 27, 2023 5:59 AM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 66 XP
+Status: success
+Twitter: pak_jiminpak
+answer: https://twitter.com/pak_jiminpak

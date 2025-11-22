@@ -1,0 +1,11 @@
+# Superpower
+
+Address: 1c3URgCTTRh1nFPaUSvYVWHeHnvbKfkoTfnUNeoLeVaHsat
+Date: February 19, 2023
+Discord: Superpower#4840
+DiscordId: 961084000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: ZaraGarrett15
+answer: Digital Currency Group (DCG)

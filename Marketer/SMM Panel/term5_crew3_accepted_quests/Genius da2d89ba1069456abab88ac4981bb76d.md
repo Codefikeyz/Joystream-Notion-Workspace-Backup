@@ -1,0 +1,13 @@
+# Genius
+
+Address: 5DUnrFPnwi2XRyC6erEFduwsfhuLPFeD1BPFZiGuFVRPEt6Y
+Date: February 17, 2023
+Discord: Genius#7148
+DiscordId: 419876000000000000
+Quest: Level up your Twitter bio
+ReviewDate: February 17, 2023 12:30 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 66 XP
+Status: success
+Twitter: Sackycryptoking
+answer: https://twitter.com/Sackycryptoking?s=09

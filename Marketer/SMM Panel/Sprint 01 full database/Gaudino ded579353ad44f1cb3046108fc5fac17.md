@@ -1,0 +1,13 @@
+# Gaudino
+
+Address: 0x45c06934C458a8ee9A3d2B855dE5370EB6d45109
+Date: February 21, 2023
+Discord: Gaudino#0824
+DiscordId: 931094750562504700
+Quest: Give a star our Github repository
+ReviewDate: February 21, 2023 7:40 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: tarantul03
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-LupVDjUB0TY5pgI3ZRTFG-Screenshot_2023-02-21-14-30-02-04_40deb401b9ffe8e1df2f1cc5ba480b12.jpg

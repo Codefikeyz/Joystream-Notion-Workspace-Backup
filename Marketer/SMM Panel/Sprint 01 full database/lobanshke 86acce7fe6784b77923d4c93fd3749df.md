@@ -1,0 +1,13 @@
+# lobanshke
+
+Address: 5HNUrsKZLzFnP72X4ZcdbTEgKK9wvxEw1Q2Aq2xgaob9WSuH
+Date: February 18, 2023
+Discord: lobanshke#7414
+DiscordId: 778984254545592400
+Quest: Create a Tiktok/Short video about Joystream
+ReviewDate: February 19, 2023 2:59 PM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 250 XP
+Status: success
+Twitter: ShaunQuintana4
+answer: https://www.tiktok.com/@patrickfromskyborne/video/7201479127474425093?lang=en

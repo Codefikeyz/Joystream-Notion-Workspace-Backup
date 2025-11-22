@@ -1,0 +1,10 @@
+# �����
+
+Address: 5HgcHqbNQEMo8eNN7eNywQkCZfqUKYbmnhwjzor7DYsq5rE7
+Date: February 23, 2023
+Discord: povarlife#3737
+DiscordId: 954399000000000000
+Quest: Like, retweet ??#18
+Reward: 22 XP
+Status: success
+Twitter: EudoxieMvui

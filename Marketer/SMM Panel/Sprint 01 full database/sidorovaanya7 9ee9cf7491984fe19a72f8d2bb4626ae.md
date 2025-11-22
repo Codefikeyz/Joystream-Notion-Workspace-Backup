@@ -1,0 +1,13 @@
+# sidorovaanya7
+
+Address: 16JrE2uG42sj3EUQ4AkKn21T37MfkHZZTUKkcq5pRWcSyKhw
+Date: February 24, 2023
+Discord: sidorovaanya7#4560
+DiscordId: 1054478087867351200
+Quest: Write a Medium article about Joystream
+ReviewDate: February 25, 2023 8:17 AM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 200 XP
+Status: success
+Twitter: Edyguy33
+answer: https://medium.com/@sidorovaanya7/using-non-fungible-tokens-nfts-on-joystream-d97789a755b7

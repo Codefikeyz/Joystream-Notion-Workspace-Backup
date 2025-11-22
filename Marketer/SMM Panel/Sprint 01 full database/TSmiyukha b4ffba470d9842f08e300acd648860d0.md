@@ -1,0 +1,11 @@
+# TSmiyukha
+
+Address: 5G8uZ2DiYBgxfpKB3BzXL9MrQ1o5ybryQbXyayg2nFM3d4LU
+Date: February 18, 2023
+Discord: TatyanaSm#0814
+DiscordId: 995648385241600100
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: TSmiyukha
+answer: Digital Currency Group (DCG)

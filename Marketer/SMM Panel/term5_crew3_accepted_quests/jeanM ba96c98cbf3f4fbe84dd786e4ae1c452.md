@@ -1,0 +1,11 @@
+# jeanM
+
+Address: 5HnGTYYXA5yp2fo37JB2fvTgDkdxPrwbLJGAJyMQXRFLEPDq
+Date: February 19, 2023
+Discord: jy#4300
+DiscordId: 894947000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: 1648moon
+answer: Digital Currency Group (DCG)

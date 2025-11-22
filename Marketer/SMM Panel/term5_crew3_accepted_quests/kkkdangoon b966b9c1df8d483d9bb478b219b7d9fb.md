@@ -1,0 +1,10 @@
+# kkkdangoon
+
+Address: 1RCCMWFoA9wNiHzhkaEWz7P93cP5VtWj8QXvmnMU3j9JBz1
+Date: February 28, 2023
+Discord: ??#3558
+DiscordId: 291115000000000000
+Quest: Daily connect ??
+Reward: 1 XP
+Status: success
+Twitter: kkkdangoon

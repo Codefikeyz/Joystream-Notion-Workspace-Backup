@@ -1,0 +1,10 @@
+# chopik
+
+Address: 5G6Lg98d4AzXVGWBxKRhyychcWs46NMB5GwZddr8QBvuXMCc
+Date: March 3, 2023
+Discord: Romatopt| Swash#1260
+DiscordId: 1056590000000000000
+Quest: Like, reply, retweet ??#15
+Reward: 33 XP
+Status: success
+Twitter: okkkkkkde

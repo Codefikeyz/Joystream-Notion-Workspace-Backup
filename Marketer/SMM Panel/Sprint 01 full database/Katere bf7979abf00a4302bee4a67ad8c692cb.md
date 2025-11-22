@@ -1,0 +1,12 @@
+# Katere
+
+Address: 5CcJPsYZXp3ZF7SViq5tSQ95mGkQbVoW9o3CXDhfx7pRBqd3
+Date: February 23, 2023
+Discord: katere#7990
+DiscordId: 1007657218948210800
+Quest: Create infographics about Joystream
+ReviewDate: February 23, 2023 11:21 AM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 100 XP
+Status: success
+answer: https://twitter.com/faqkdd/status/1628427143108599810?s=46&t=VBcMwIsaJD27aFJvp9yUbQ

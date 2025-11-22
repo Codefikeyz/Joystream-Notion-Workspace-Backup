@@ -1,0 +1,11 @@
+# Riungi
+
+Address: 15JMfqPSthTsiiaq3bUQjMosZ5KZ3aUo4Pr2kJdbEgzy3W7n
+Date: February 18, 2023
+Discord: Riungi#6825
+DiscordId: 936129100828016800
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: declamatory_198
+answer: joined

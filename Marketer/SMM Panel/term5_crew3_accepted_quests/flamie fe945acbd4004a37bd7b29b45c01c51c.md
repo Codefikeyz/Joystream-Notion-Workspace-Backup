@@ -1,0 +1,11 @@
+# flamie
+
+Address: 16G7GcrtKprzk7FD53irxH1HAYvqWJjZgEs6YENQYhN8XTv5
+Date: February 25, 2023
+Discord: flamie#2665
+DiscordId: 960975000000000000
+Quest: Question 3
+Reward: 8 XP
+Status: success
+Twitter: JaidaGuerrero2
+answer: 164

@@ -1,0 +1,11 @@
+# windboss
+
+Address: 5DhDbyZ3G78bbRCGi6LzQX1osSnXv5ekViruBsGntiRyrNMF
+Date: February 28, 2023
+Discord: windboss#3525
+DiscordId: 901207000000000000
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: Mona_Fritzz
+answer: joined

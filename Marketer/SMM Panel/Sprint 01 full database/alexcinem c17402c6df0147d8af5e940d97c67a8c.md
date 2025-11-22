@@ -1,0 +1,11 @@
+# alexcinem
+
+Address: 5EhGnPD6qzuBE6bHat3LSYfD7cxfkV3EhrtWWrxSV1GLuKCx
+Date: February 18, 2023
+Discord: alexcinema#1365
+DiscordId: 953985033406910500
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: elieebengo2
+answer: Digital Currency Group (DCG)

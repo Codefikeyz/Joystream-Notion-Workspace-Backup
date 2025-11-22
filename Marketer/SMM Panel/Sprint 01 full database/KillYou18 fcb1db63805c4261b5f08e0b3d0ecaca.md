@@ -1,0 +1,13 @@
+# KillYou18
+
+Address: 5F92Uuv7e6q5QBD3LUrueJed8GkBy3xAyM6JpdUGE9qWKJng
+Date: February 26, 2023
+Discord: NomadYam#8135
+DiscordId: 869478262793961500
+Quest: 3 memes about Joystream on Twitter
+ReviewDate: March 2, 2023 3:50 PM (GMT+1)
+ReviewedById: 7ea8f152-4669-4f92-bb2c-3319a59e7daa
+Reward: 45 XP
+Status: success
+Twitter: YamNomad
+answer: https://twitter.com/YamNomad/status/1629693160694882305?s=20

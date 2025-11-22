@@ -1,0 +1,10 @@
+# Comic
+
+Address: j4VB4r7xsd5VtiCowLC5hcSJzUhZy6u2KE5DZsrvZpS6SVxaH
+Date: February 24, 2023
+Discord: Comic#3105
+DiscordId: 957645061959589900
+Quest: Like, reply, retweet ❤️#14
+Reward: 33 XP
+Status: success
+Twitter: comic_comic1

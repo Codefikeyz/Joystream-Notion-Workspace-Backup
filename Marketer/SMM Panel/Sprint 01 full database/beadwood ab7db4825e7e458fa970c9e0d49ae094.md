@@ -1,0 +1,10 @@
+# beadwood
+
+Address: 5DRh41FXq7mNcyrRDMnLdCUxrjeheBoJWbD9xXphbkqqW6Eb
+Date: February 18, 2023
+Discord: beadwood#8448
+DiscordId: 939051796876369900
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: DennisKassler

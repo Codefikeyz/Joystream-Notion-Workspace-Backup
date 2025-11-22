@@ -1,0 +1,11 @@
+# yuralvr
+
+Address: 1FJKwEDQgFe79wzBLQZEJRRE8UrMv928dmHZfRw8RXBgYeb
+Date: February 23, 2023
+Discord: Yuriy | Sui Global#9838
+DiscordId: 844802768707387400
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: yuralvr1
+answer: joined

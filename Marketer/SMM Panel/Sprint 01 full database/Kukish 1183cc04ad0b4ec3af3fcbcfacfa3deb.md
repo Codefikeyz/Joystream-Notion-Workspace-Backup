@@ -1,0 +1,18 @@
+# Kukish
+
+Address: 121pJzKX5EaZFPMcpAq3TLM8erjconrpqWe58FTfNaaSm7sY
+Date: February 26, 2023
+Discord: Kukish#6289
+DiscordId: 1032195994730905600
+Quest: Post comments under different videos
+ReviewDate: February 27, 2023 8:37 AM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 50 XP
+Status: success
+Twitter: AliaProto
+answer: AliaProto
+https://gleev.xyz/video/705
+https://gleev.xyz/video/5
+https://gleev.xyz/video/338
+https://gleev.xyz/video/876
+https://gleev.xyz/video/803

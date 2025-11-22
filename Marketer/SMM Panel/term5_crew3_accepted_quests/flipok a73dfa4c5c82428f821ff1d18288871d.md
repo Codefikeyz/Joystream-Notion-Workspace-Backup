@@ -1,0 +1,8 @@
+# flipok
+
+Address: ihn
+Date: February 23, 2023
+DiscordId: 0
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success

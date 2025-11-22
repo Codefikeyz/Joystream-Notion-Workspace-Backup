@@ -1,0 +1,10 @@
+# Gslava
+
+Address: 14zLdq24pkcWEYRknuNQH9kNDPw9K3mhU2Gdf1HDQSoG7heV
+Date: February 25, 2023
+Discord: slava#8137
+DiscordId: 913391000000000000
+Quest: Like, retweet ??#22
+Reward: 15 XP
+Status: success
+Twitter: slavagorvat

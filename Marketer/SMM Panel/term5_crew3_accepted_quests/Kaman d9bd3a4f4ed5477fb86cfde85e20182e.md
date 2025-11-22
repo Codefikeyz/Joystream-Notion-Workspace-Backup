@@ -1,0 +1,11 @@
+# Kaman
+
+Address: 0xceB6dd944b16cA8463772B2EF3703a2001f5fDa6
+Date: February 19, 2023
+Discord: Kaman#8884
+DiscordId: 373807000000000000
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: Bohdan13012111
+answer: joined

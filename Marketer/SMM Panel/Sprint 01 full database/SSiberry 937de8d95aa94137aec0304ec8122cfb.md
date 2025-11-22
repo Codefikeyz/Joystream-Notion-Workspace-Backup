@@ -1,0 +1,11 @@
+# SSiberry
+
+Address: 5CrLyuHSZEmCCBxcwhcuNnzajSrCi25oYPGeYrtnS2KDwdtH
+Date: May 3, 2023
+Discord: SSiberry#1903
+DiscordId: 384285124956782600
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: wlstn7189
+answer: Digital Currency Group (DCG)

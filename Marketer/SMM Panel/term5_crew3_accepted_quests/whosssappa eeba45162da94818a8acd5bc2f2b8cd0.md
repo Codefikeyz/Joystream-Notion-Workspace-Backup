@@ -1,0 +1,13 @@
+# whosssappa
+
+Address: 5F6UUMXMjPf34CuJS75rzRHBDw19rq6Brc5bfUjH8W84aWBv
+Date: February 24, 2023
+Discord: whosssappa#9307
+DiscordId: 198083000000000000
+Quest: Write a Medium article about Joystream
+ReviewDate: February 25, 2023 7:57 AM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 200 XP
+Status: success
+Twitter: SappaDima
+answer: https://medium.com/@SappaDima/joystream-decentralizing-content-distribution-through-blockchain-technology-bd471bfaea19

@@ -1,0 +1,13 @@
+# OxRafy | LOE
+
+Address: 5FyUSgB7atRmf4boE6VLRqL6HBA1siwPhr8jPMWyy4VwKZkN
+Date: February 25, 2023
+Discord: OxRafy#2154
+DiscordId: 863953393948426200
+Quest: Post a comment on Reddit
+ReviewDate: February 26, 2023 9:35 AM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 33 XP
+Status: success
+Twitter: OxRafy
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-Zo9OdGoGkdNChde4fbD0E-IMG_20230225_010449.jpg

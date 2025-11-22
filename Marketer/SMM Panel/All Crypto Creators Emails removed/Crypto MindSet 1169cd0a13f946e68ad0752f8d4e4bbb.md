@@ -1,0 +1,15 @@
+# Crypto MindSet
+
+Avatar_Image: https://yt3.ggpht.com/mL8xdyzuHAKLAEWY_16MzS6Jbmf7TfmeotTn-qbiH0Oa7xLmigM0fSsGwd61M0iLwCBCv_FE=s800-c-k-c0x00ffffff-no-rj
+CODE: US
+Channel_URL: /channel/UCtwnS9P1cjqAOkU_C-Bg6Qw
+Country: United States
+Description: Crypto trading and investing channel, chart analysis and price prediction  of cryptocurrencies
+This channel is dedicated to find the super performers of the crypto market , alert from upcoming dangers or a new bullish phase emerging
+
+ETH BTC ADA LINK XRP DOT UNI BCH BNB SOL AVAX MATIC TRX ETC NEAR LTC LINK FTT CRO ATOM XLM XMR ALGO VET FIL ICP MANA XTZ HBAR SAND THETA AXS AAVE QNT EGLD EOS OKB BSV ZEC HNY MKR FTM GRT KCS RUNE KLAY CHZ NEO HT LDO CRV BAT STX WAVES LUNA ZIL ENJ CAKE DASH CEL MINA KAVA BTC NEXO CELO KSM DCR ROSE 1INCH TWT ANKR GNO SNX HOT QTUM GALA RVN YFI TFUEL THETA KDA UTU OP AMP ONE IOTX DAR BORA OMG RSR AUDIO ZRX JST IOST GNT SRM ZEN BAL STORJ IMX ONT SXP WAXP SC SRM BAL SLP POLY CSPR XCH METIS SUDHI MXC SCRT CELR REN LSK KEEP MIR REN RNDR CVC SPELL NANO ONG NU OCEAN REQ COTI RLY ARDR INJ CHR BNT NMR SYS DENT UOS RAY CTSI RLC XYO LYXE STEEM STRAT TEL ELF FGXS REP MTL PERP NEST MOB FUN STMX 
+
+Language: en
+SUBS: 9950
+Topic_categories: ["knowledge", "society"]
+Views: 591269

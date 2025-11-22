@@ -1,0 +1,10 @@
+# dead moroz
+
+Address: 0x9D1329fC9394DA9d68649b71F68CC01aDe9F05cF
+Date: February 24, 2023
+Discord: hghj#1516
+DiscordId: 890603678371811300
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: ChepelDanil

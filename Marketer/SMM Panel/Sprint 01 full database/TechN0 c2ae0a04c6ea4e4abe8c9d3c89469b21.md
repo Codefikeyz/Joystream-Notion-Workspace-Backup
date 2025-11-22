@@ -1,0 +1,13 @@
+# TechN0
+
+Address: 0x4Ac73F2F3131814893E48B50031454f5Deeee215
+Date: February 20, 2023
+Discord: TΞchN0#9902
+DiscordId: 558023435150950400
+Quest: Level up your Twitter bio
+ReviewDate: February 20, 2023 3:31 PM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 66 XP
+Status: success
+Twitter: Crypto_Techn0
+answer: https://twitter.com/Crypto_Techn0?t=IEUbuhfP8ktBN-HrUjQX7A&s=09

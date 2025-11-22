@@ -1,0 +1,10 @@
+# F1exx
+
+Address: 0x6419Ec2B6BA7D03f918a2FD186471317e7E2A9d8
+Date: February 28, 2023
+Discord: F1exx#3175
+DiscordId: 440568350867980300
+Quest: Like, retweet ❤️#28
+Reward: 15 XP
+Status: success
+Twitter: FbFlexx

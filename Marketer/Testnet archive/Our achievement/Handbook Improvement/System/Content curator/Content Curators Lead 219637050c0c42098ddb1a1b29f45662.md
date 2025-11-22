@@ -1,0 +1,3 @@
+# Content Curators Lead
+
+Content Curators Lead manage and coordinate the actions of the Content Working Group. The Content Lead also decides on priorities for curation. The Council has the power to appoint the Content Curator Lead for the network who can hire further Content Curators. The Lead of the Content curators working group is responsible for preparing weekly plans/summary/reports and optimising the Content working group score.

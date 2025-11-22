@@ -1,0 +1,11 @@
+# Kichwangumu1
+
+Address: 15apjb1k8NBZNsUr93tcffaGU6Z6erUm8TjSawpTWc8WAaKP
+Date: February 18, 2023
+Discord: Kichwangumu#3537
+DiscordId: 935997634995421200
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: sigman_NFT
+answer: joined

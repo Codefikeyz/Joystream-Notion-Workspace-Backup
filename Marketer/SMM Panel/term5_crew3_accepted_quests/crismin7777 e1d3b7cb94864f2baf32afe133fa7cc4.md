@@ -1,0 +1,11 @@
+# crismin7777
+
+Address: 5EsK8x9zooCcyaEnHNznYYSgNzoFGngudR1wB6W2RWWaroov
+Date: February 23, 2023
+Discord: crismin7777#0789
+DiscordId: 960176000000000000
+Quest: Question 5
+Reward: 8 XP
+Status: success
+Twitter: crismin7777
+answer: Anti-Corruption WG

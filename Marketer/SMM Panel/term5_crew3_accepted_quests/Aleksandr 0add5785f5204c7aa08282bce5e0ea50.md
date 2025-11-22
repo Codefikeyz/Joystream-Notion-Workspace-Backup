@@ -1,0 +1,10 @@
+# Aleksandr
+
+Address: 14zfFQnNEgz7Xvp6fAZ9UrazY5z4r9wYvR5wonpiFJBejQ4H
+Date: February 27, 2023
+Discord: Aleksandr#9788
+DiscordId: 665606000000000000
+Quest: Like, retweet ??#26
+Reward: 15 XP
+Status: success
+Twitter: AleksandrLutsk1

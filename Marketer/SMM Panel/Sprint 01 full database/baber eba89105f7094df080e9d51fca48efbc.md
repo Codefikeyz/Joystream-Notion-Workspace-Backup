@@ -1,0 +1,11 @@
+# baber
+
+Address: 5Df2uHTnixUmSf3Y1BofPeq44LuaXzq1pTHLDTmVuJgqvoWc
+Date: February 18, 2023
+Discord: baber#5122
+DiscordId: 320131262129897500
+Quest: Question 5
+Reward: 8 XP
+Status: success
+Twitter: HaykanushKhrys1
+answer: Anti-Corruption WG

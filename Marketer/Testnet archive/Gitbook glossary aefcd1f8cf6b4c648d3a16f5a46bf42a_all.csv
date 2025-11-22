@@ -1,0 +1,74 @@
+﻿Name,Comment,Files/Screenshot,Link,Tags
+OG-contributor,,Gitbook%20glossary/2022-04-09_19-08-35.png,https://joystream.gitbook.io/testnet-workspace/testnet/founding-member-program,Pending
+https://w3f-research.readthedocs.io/en/latest/polkadot/overview/2-token-economics.html?highlight=transaction%20fee,,Gitbook%20glossary/2022-04-09_19-33-57.png,https://wiki.polkadot.network/docs/learn-transaction-fees,Pending
+parachain,,Gitbook%20glossary/2022-04-09_19-00-13.png,https://joystream.gitbook.io/testnet-workspace/usdjoy,Pending
+BFT consensus,,Gitbook%20glossary/2022-04-09_19-36-38.png,https://joystream.gitbook.io/testnet-workspace/system/validation,Pending
+Gateways,,,https://joystream.gitbook.io/testnet-workspace/system/gateways,Pending
+staking on-chain,,Gitbook%20glossary/2022-04-10_22-18-10.png,https://joystream.gitbook.io/testnet-workspace/testnet/usdtjoy,Pending
+dashboard,,Gitbook%20glossary/2022-04-10_22-27-32.png,https://joystream.gitbook.io/testnet-workspace/testnet/usdtjoy#value,Pending
+discretionary spending,,Gitbook%20glossary/2022-04-10_22-52-08.png,https://joystream.gitbook.io/testnet-workspace/system/bounties,Pending
+council financing quorum,,Gitbook%20glossary/2022-04-10_22-54-05.png,https://joystream.gitbook.io/testnet-workspace/system/bounties,Pending
+NFT,non-fungible token,Gitbook%20glossary/4ECB056C-2678-4FD3-89FD-4896A76A5F18.png,https://joystream.gitbook.io/testnet-workspace/testnet/founding-member-program,Pending
+Pallet,,Gitbook%20glossary/FC3255F6-E07B-4549-83B5-921EF55671D4.png,https://joystream.gitbook.io/testnet-workspace/system/accounts-and-staking,Pending
+Testnet,,Gitbook%20glossary/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2022-04-14_%D0%B2_16.58.32.png,https://joystream.gitbook.io/testnet-workspace/jsgenesis,Pending
+Mainnet,,Gitbook%20glossary/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2022-04-14_%D0%B2_17.11.20.png,https://joystream.gitbook.io/testnet-workspace/jsgenesis,Pending
+allocations,,Gitbook%20glossary/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2022-04-14_%D0%B2_17.17.10.png,https://joystream.gitbook.io/testnet-workspace/testnet/testnet-rewards,Pending
+Validators,,Gitbook%20glossary/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2022-04-14_%D0%B2_17.19.09.png,https://joystream.gitbook.io/testnet-workspace/testnet/testnet-rewards,Pending
+mint,,Gitbook%20glossary/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2022-04-14_%D0%B2_17.24.05.png,https://joystream.gitbook.io/testnet-workspace/testnet/usdtjoy,Pending
+fiat currency,,Gitbook%20glossary/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2022-04-14_%D0%B2_17.31.42.png,https://joystream.gitbook.io/testnet-workspace/testnet/usdtjoy,Pending
+total supply,,Gitbook%20glossary/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2022-04-14_%D0%B2_17.30.13.png,https://joystream.gitbook.io/testnet-workspace/testnet/usdtjoy,Pending
+issuance,,Gitbook%20glossary/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2022-04-14_%D0%B2_17.30.26.png,https://joystream.gitbook.io/testnet-workspace/testnet/usdtjoy,Pending
+Pioneer,,Gitbook%20glossary/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2022-04-14_%D0%B2_17.34.15.png,https://joystream.gitbook.io/testnet-workspace/testnet/usdtjoy,Pending
+Atlas,,Gitbook%20glossary/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2022-04-14_%D0%B2_17.34.10.png,https://joystream.gitbook.io/testnet-workspace/testnet/usdtjoy,Pending
+Founding Member (FM),,Gitbook%20glossary/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2022-04-14_%D0%B2_17.46.32.png,https://joystream.gitbook.io/testnet-workspace/testnet/founding-member-program#introduction,Pending
+DAO,,Gitbook%20glossary/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2022-04-14_%D0%B2_17.55.25.png,https://joystream.gitbook.io/testnet-workspace/testnet/founding-member-program#introduction,Pending
+fiat pool,,Gitbook%20glossary/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2022-04-14_%D0%B2_17.58.57.png,https://joystream.gitbook.io/testnet-workspace/testnet/founding-member-program#introduction,Pending
+KPI,,Gitbook%20glossary/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2022-04-14_%D0%B2_17.59.28.png,https://joystream.gitbook.io/testnet-workspace/testnet/founding-member-program#introduction,Pending
+bonding,,Gitbook%20glossary/2022-04-14_22-19-10%201.png,https://joystream.gitbook.io/testnet-workspace/system/accounts-and-staking,Pending
+unstaking terms,,Gitbook%20glossary/2022-04-14_22-19-10.png,https://joystream.gitbook.io/testnet-workspace/system/accounts-and-staking,Pending
+cryptographic,,Gitbook%20glossary/2022-04-14_22-29-27.png,https://joystream.gitbook.io/testnet-workspace/system/accounts-and-staking,Pending
+Vesting,,Gitbook%20glossary/2022-04-14_22-39-27.png,https://joystream.gitbook.io/testnet-workspace/system/accounts-and-staking,Pending
+Binding,,Gitbook%20glossary/2022-04-14_22-39-27%201.png,https://joystream.gitbook.io/testnet-workspace/system/accounts-and-staking,Pending
+Locks,,Gitbook%20glossary/2022-04-14_22-39-27%202.png,https://joystream.gitbook.io/testnet-workspace/system/accounts-and-staking,Pending
+rivalrous and non-rivalrous locks,,Gitbook%20glossary/2022-04-14_22-53-48.png,https://joystream.gitbook.io/testnet-workspace/system/accounts-and-staking,Pending
+ID,,Gitbook%20glossary/2022-04-14_22-56-33.png,https://joystream.gitbook.io/testnet-workspace/system/accounts-and-staking,Pending
+Slashing,,Gitbook%20glossary/2022-04-14_23-03-31.png,https://joystream.gitbook.io/testnet-workspace/system/accounts-and-staking,Pending
+State bloat,,Gitbook%20glossary/2022-04-14_23-03-31%201.png,https://joystream.gitbook.io/testnet-workspace/system/accounts-and-staking,Pending
+pallet_staking,,Gitbook%20glossary/2022-04-14_23-07-46.png,https://joystream.gitbook.io/testnet-workspace/system/proposal-system#effect-12,Pending
+Root Account,,Gitbook%20glossary/2022-04-15_10-06-53.png,https://joystream.gitbook.io/testnet-workspace/system/memberships,Pending
+SUDO call,,Gitbook%20glossary/2022-04-15_10-13-30.png,https://joystream.gitbook.io/testnet-workspace/system/memberships,Pending
+Metadata,,Gitbook%20glossary/73991D12-1585-49C6-99FD-7C87DBDF89F2.png,https://joystream.gitbook.io/testnet-workspace/system/memberships,Pending
+referral cut,,Gitbook%20glossary/D940D5DF-A2A4-4387-805D-1A3E41575048.png,https://joystream.gitbook.io/testnet-workspace/system/memberships,Pending
+membership_price,,Gitbook%20glossary/1289C7CE-D145-4517-A486-F56F33922228.png,https://joystream.gitbook.io/testnet-workspace/system/memberships,Pending
+default_invite_count,,Gitbook%20glossary/65C2916F-4B33-489A-883A-2A2EE951B001.png,https://joystream.gitbook.io/testnet-workspace/system/memberships,Pending
+invite quota,,Gitbook%20glossary/E246FE51-AFB2-4315-9DD3-D888AE5E8378.png,https://joystream.gitbook.io/testnet-workspace/system/memberships,Pending
+Council,,Gitbook%20glossary/2022-04-16_14-06-36.png,https://joystream.gitbook.io/testnet-workspace/system/council,Pending
+councilor_reward,,Gitbook%20glossary/2022-04-16_23-03-20.png,https://joystream.gitbook.io/testnet-workspace/system/council,Pending
+encoding,,Gitbook%20glossary/2022-04-16_23-28-07.png,https://joystream.gitbook.io/testnet-workspace/system/council,Pending
+Cycle Id,,Gitbook%20glossary/2022-04-16_23-28-07%201.png,https://joystream.gitbook.io/testnet-workspace/system/council,Pending
+opaque hash digest,,Gitbook%20glossary/2022-04-16_23-49-55.png,https://joystream.gitbook.io/testnet-workspace/system/council,Pending
+CLI,,Gitbook%20glossary/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2022-04-19_%D0%B2_23.01.50.png,https://joystream.gitbook.io/testnet-workspace/testnet/council-period-scoring/builders-score,Pending
+Joystream Stats,,,https://joystream.gitbook.io/testnet-workspace/testnet/council-period-scoring/builders-score,Pending
+node,,,https://www.notion.so/d34c0f54ac804b429db4c260ddac29ba?pvs=21,Pending
+family buckets,,,https://joystream.gitbook.io/testnet-workspace/testnet/council-period-scoring/distributors-score,Pending
+Distributor,,,https://joystream.gitbook.io/testnet-workspace/testnet/council-period-scoring/distributors-score,Pending
+cach,,,https://joystream.gitbook.io/testnet-workspace/testnet/council-period-scoring/distributors-score,Pending
+CRM,,,https://joystream.gitbook.io/testnet-workspace/testnet/council-period-scoring/human-resources-score,Pending
+oracle,,,https://joystream.gitbook.io/testnet-workspace/testnet/council-period-scoring/human-resources-score,Pending
+ETA,,,https://joystream.gitbook.io/testnet-workspace/testnet/council-period-scoring/human-resources-score,Pending
+Storage Providers,,,https://joystream.gitbook.io/testnet-workspace/testnet/council-period-scoring/storage-providers-score,Pending
+membership evangelists,,,https://joystream.gitbook.io/testnet-workspace/testnet/testnet-faq,Pending
+Extrinsics,,,https://joystream.gitbook.io/testnet-workspace/system/memberships,Pending
+sniping,,,https://joystream.gitbook.io/testnet-workspace/system/content-directory/nft,Pending
+Royalty,,,https://joystream.gitbook.io/testnet-workspace/system/content-directory/nft,Pending
+Claim,,,https://joystream.gitbook.io/testnet-workspace/system/content-directory/nft,Pending
+proof-of-concept,,,https://joystream.gitbook.io/testnet-workspace/system/storage,Pending
+AWS,,,https://joystream.gitbook.io/testnet-workspace/system/storage,Pending
+roadmap,,,https://joystream.gitbook.io/testnet-workspace/system/storage,Pending
+Proof-of-Stake,,,https://joystream.gitbook.io/testnet-workspace/system/validation,Pending
+Thread,,,https://joystream.gitbook.io/testnet-workspace/system/forum,Pending
+a blockchain consensus system,,,https://joystream.gitbook.io/testnet-workspace/system/validation,Pending
+classical BFT consensus,,,https://joystream.gitbook.io/testnet-workspace/system/validation,Pending
+Stage,,,https://joystream.gitbook.io/testnet-workspace/system/bounties,Pending
+cherry,,,https://joystream.gitbook.io/testnet-workspace/system/bounties,Pending
+bounty,,,https://joystream.gitbook.io/testnet-workspace/system/bounties,Pending

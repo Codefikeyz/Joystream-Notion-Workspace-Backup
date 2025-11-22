@@ -1,0 +1,13 @@
+# teras
+
+Address: 5HWXxSyYqgGdpmzm5cxiuwnV9843H2vTbeSKZjchWRbh1LTg
+Date: November 3, 2023
+Discord: Waet#2190
+DiscordId: 995032930558681200
+Quest: Joystream in watchlist on CMC
+ReviewDate: March 12, 2023 8:42 AM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: NancyRo71611655
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-m86K9hH8-Bvl5XFGkJwAT-1.png

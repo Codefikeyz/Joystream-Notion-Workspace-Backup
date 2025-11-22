@@ -1,0 +1,10 @@
+# Argos
+
+Address: 12BgETLhTgdpHNe8dDidzfzNbEP8MjpKMnhkejp15obnMEnf
+Date: February 20, 2023
+Discord: Argos#5028
+DiscordId: 410587124782465000
+Quest: Like, reply, retweet ❤️#8
+Reward: 33 XP
+Status: success
+Twitter: ArgosShift

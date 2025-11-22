@@ -1,0 +1,11 @@
+# Aleksandr
+
+Address: 14zfFQnNEgz7Xvp6fAZ9UrazY5z4r9wYvR5wonpiFJBejQ4H
+Date: February 17, 2023
+Discord: dismiss#5406
+DiscordId: 1076178679320805500
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: AleksandrLutsk1
+answer: Digital Currency Group (DCG)

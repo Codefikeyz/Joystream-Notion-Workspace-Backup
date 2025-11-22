@@ -1,0 +1,11 @@
+# zhowka
+
+Address: 16VAs9NEA4aH1Y6CDrjEpW6gDRomk3GgEgcuGtrEnju7Vasm
+Date: February 22, 2023
+Discord: zhowka#6557
+DiscordId: 833687000000000000
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: zhowka
+answer: joined

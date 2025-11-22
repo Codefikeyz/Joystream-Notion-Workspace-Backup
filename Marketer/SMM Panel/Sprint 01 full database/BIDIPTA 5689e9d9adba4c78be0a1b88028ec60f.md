@@ -1,0 +1,11 @@
+# BIDIPTA....
+
+Address: 14MvgGf3PzgsEmMBHxdqwQrfhEzsGhzPReATQdpLVpN6aK6U
+Date: February 18, 2023
+Discord: BIDIPTA....#5456
+DiscordId: 955622789342199800
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: sinusoidal_DJ_
+answer: joined

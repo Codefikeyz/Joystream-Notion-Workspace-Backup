@@ -1,0 +1,10 @@
+# Valey13 | LOE
+
+Address: 1npGxWqUCggd8gb84Ut8c5yL36yr2R3u57BH61eKxpqs2nu
+Date: April 3, 2023
+Discord: Valey13#4230
+DiscordId: 932294119043256400
+Quest: Daily connect 📆
+Reward: 1 XP
+Status: success
+Twitter: Valey_13

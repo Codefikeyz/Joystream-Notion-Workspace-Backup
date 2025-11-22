@@ -1,0 +1,10 @@
+# 0xb54d…9cd4
+
+Address: 5CPPXSE8xHtHRgdJQTnTGoENXy61mFp4FGpUq1EHwhwBnvak
+Date: February 18, 2023
+Discord: collaborationspair#5768
+DiscordId: 1029126874405798000
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: PlamdyM

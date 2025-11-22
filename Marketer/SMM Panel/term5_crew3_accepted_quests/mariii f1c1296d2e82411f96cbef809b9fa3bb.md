@@ -1,0 +1,10 @@
+# mariii
+
+Address: 12s1uQorHKs4FLNY8bHrRRowH49w9THqMFV8eWSeKk5zHSQB
+Date: February 18, 2023
+Discord: mariii#1414
+DiscordId: 995034000000000000
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: juuli1414

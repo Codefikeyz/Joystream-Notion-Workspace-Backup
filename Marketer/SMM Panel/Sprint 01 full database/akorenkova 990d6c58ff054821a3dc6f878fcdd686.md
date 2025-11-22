@@ -1,0 +1,11 @@
+# akorenkova
+
+Address: 5HNizrs2gPs9kk9K7zye5uapESMwxLNp43oJB8BCseZUyYqv
+Date: December 2, 2023
+Discord: akorenkova#4636
+DiscordId: 966691708697989100
+Quest: Question 8
+Reward: 8 XP
+Status: success
+Twitter: Kora_terpsihora
+answer: $JOY

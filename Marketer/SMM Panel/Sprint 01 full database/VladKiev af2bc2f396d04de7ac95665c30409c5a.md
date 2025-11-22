@@ -1,0 +1,11 @@
+# VladKiev
+
+Address: 5HpZNQvJ4KLUJBsp4youhrw199CSMK6aCxsz3pmaXEcMcHRm
+Date: February 22, 2023
+Discord: VladKiev#9755
+DiscordId: 1072577114110435500
+Quest: Question 9
+Reward: 8 XP
+Status: success
+Twitter: Pitanzegeno
+answer: 1,000,000,000 $JOY

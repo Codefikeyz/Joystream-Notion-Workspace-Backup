@@ -1,0 +1,11 @@
+# 이도류
+
+Address: 5CmKuq2sqSJtFcTUMjnPkz67eQLrgdf5dMsdZvQdAP8Un7QV
+Date: February 20, 2023
+Discord: z442#1191
+DiscordId: 382387153633804300
+Quest: Question 6
+Reward: 8 XP
+Status: success
+Twitter: ll2442ll
+answer: 3

@@ -1,0 +1,13 @@
+# jindian
+
+Address: 0x6a56DA21fe699ec233521d51D580eA6E39D39966
+Date: February 24, 2023
+Discord: 섭계 | LN(링크단)#7741
+DiscordId: 821734524840181800
+Quest: Follow us on Coinmarketcap
+ReviewDate: February 27, 2023 3:04 AM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 33 XP
+Status: success
+Twitter: jindian777
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-EUOVe_7hv2KQYOKwYn827-joystream.png

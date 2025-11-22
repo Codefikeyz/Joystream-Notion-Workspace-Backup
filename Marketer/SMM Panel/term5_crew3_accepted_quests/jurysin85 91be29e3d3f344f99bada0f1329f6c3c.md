@@ -1,0 +1,10 @@
+# jurysin85
+
+Address: 14aeWX1bQYm6iDf3w3YfCpAVewBUTQTHhd8EWEjjUpSLQ5BJ
+Date: February 25, 2023
+Discord: jsin#9885
+DiscordId: 812720000000000000
+Quest: Like, retweet ??#18
+Reward: 22 XP
+Status: success
+Twitter: jurysin

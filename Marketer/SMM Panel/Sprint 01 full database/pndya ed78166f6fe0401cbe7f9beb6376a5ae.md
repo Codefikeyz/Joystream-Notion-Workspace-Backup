@@ -1,0 +1,11 @@
+# pndya
+
+Address: 126Y1tJ8LnPA1T4x8eqn8Vw6oAihymHhvGF6rspHWLKB1teW
+Date: February 20, 2023
+Discord: pndya#9712
+DiscordId: 977881469190045700
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: numerokoar13
+answer: joined

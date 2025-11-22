@@ -1,0 +1,13 @@
+# jackie0
+
+Address: 0xc782d7c1f65470f29cf7cf3e6c681dd6cd343d1fd593809c69f22fdfc300e5cc
+Date: February 26, 2023
+Discord: ajon5024#1435
+DiscordId: 1044449966199935000
+Quest: Newsletter Subscriber 📰
+ReviewDate: February 26, 2023 5:54 AM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 33 XP
+Status: success
+Twitter: miklo64359650
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-_lhkahlia1nw0ntQ5lIOl-5cb542b4-b30a-4882-982b-5bd47f8e092e-image.png

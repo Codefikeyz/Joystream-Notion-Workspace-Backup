@@ -1,0 +1,13 @@
+# DronPelya
+
+Address: 12Gi6re34vtkQ2PRW8bM3w6gwDz8XtpzN1afgZxzp4W3kgYg
+Date: February 18, 2023
+Discord: Dron#7236
+DiscordId: 812975000000000000
+Quest: Newsletter Subscriber ??
+ReviewDate: February 20, 2023 9:09 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: Lunar_Crank
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-C4-2KJkPQudT9lVsbCl9f-855.PNG

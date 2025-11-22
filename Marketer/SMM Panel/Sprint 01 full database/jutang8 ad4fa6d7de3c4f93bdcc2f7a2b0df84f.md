@@ -1,0 +1,10 @@
+# jutang8
+
+Address: 5ERRJNFVneM2QhgEoo3GVH91awpbw8djZuz22VF2ysjzPcfm
+Date: February 19, 2023
+Discord: jutang8#1639
+DiscordId: 750948237929611400
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: TangJoo4

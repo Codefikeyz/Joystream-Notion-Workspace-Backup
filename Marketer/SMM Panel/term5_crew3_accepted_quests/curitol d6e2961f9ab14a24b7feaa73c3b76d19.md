@@ -1,0 +1,10 @@
+# curitol
+
+Address: 5F9RiGY56B6kFLHonzPC2CnTrpbHb7uzskNzoQHb2e73bQKS
+Date: February 23, 2023
+Discord: sbarkonni#8087
+DiscordId: 402382000000000000
+Quest: Like, retweet ??#20
+Reward: 15 XP
+Status: success
+Twitter: sambarkonni

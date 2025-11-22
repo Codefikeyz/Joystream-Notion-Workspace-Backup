@@ -1,0 +1,10 @@
+# CRYPTO SANTA 2.0
+
+Avatar_Image: https://yt3.ggpht.com/XPR_cjWmRU23zDGFjkAtH8RMne4bVjYPKSgRBIjNcSTvshrtb-i7sOnV3mbgyPCJmtUPRHPeSBE=s800-c-k-c0x00ffffff-no-rj
+Channel_URL: /channel/UCI6cLzoN1p3H2sEKzNgaDkQ
+Description: *DISCLAIMER:*
+*I AM NOT PROFESSIONAL ANALYST. ALL POSTS ARE EDUCATONAL PURPOSES. NON ADVISORY, DISCRETIONAL. NO CLAIMS, RIGHTS RESERVED. I AM NOT RESPONSIBLE FOR YOUR PROFIT OR LOSS. PLEASE CONSULT YOUR FINANCIAL ADVISOR BEFORE INVESTING.*
+Language: en
+SUBS: 4940
+Topic_categories: ["knowledge", "lifestyle (sociology)", "society", "technology"]
+Views: 97152

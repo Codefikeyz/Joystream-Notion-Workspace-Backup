@@ -1,0 +1,11 @@
+# seosj90
+
+Address: 5CXTNEJ6VaRT5VXMXUqNxeuKkwXa7g9FRTHZ23VgHZYevi4W
+Date: February 23, 2023
+Discord: seosj90#2014
+DiscordId: 345506281479471100
+Quest: Tweet about us
+Reward: 83 XP
+Status: success
+Twitter: ssj9010
+answer: https://twitter.com/ssj9010/status/1628574517638619137

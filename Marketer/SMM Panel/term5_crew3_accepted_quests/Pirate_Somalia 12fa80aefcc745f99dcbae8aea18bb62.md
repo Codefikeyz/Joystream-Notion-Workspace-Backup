@@ -1,0 +1,10 @@
+# Pirate_Somalia
+
+Address: 136bu5Czmykb9fyZwWvhRpUpyVnZDYBjAyyiQ636oDZWKXLb
+Date: February 17, 2023
+Discord: Pirate_Somalia#6014
+DiscordId: 839442000000000000
+Quest: Follow Joystream on Twitter??
+Reward: 33 XP
+Status: success
+Twitter: Pirate04992963

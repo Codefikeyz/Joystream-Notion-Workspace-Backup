@@ -1,0 +1,9 @@
+# CoolShooter37
+
+Address: sfsfd
+Date: January 3, 2023
+Discord: CoolShooter37#0382
+DiscordId: 1056132807631573000
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success

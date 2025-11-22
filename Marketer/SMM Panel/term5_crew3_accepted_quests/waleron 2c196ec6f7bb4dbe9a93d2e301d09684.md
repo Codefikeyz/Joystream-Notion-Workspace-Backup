@@ -1,0 +1,13 @@
+# waleron
+
+Address: 5HHYuzL7WcDi9J34Zd88cuZhv4szDJ3j4brsrTamPzPkQdnN
+Date: February 27, 2023
+Discord: waleron#5817
+DiscordId: 957537000000000000
+Quest: Post a comment on Reddit
+ReviewDate: March 2, 2023 8:02 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: zurinaka1975
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-98RZDOMEi9b160TVrzPji-2023-02-26211558.jpg

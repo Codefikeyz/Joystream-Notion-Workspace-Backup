@@ -1,0 +1,11 @@
+# Amos
+
+Address: j4VG73X169vHixxrvBCE7mpvzJgfGfumQcKjLe17cEn82iDMk
+Date: February 22, 2023
+Discord: Amos#3029
+DiscordId: 957663768840646700
+Quest: Question 3
+Reward: 8 XP
+Status: success
+Twitter: Amos15Amos
+answer: 164

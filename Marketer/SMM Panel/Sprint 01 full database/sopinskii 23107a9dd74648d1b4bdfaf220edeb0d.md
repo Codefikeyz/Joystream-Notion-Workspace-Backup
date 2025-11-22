@@ -1,0 +1,10 @@
+# sopinskii
+
+Address: 13mToMPc9UeJ4F8hVvPDn255xfFuhj7bR6NWT1BrXryJsZ1E
+Date: July 3, 2023
+Discord: Mikhail#0108
+DiscordId: 419191476724039700
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: sopinskii2

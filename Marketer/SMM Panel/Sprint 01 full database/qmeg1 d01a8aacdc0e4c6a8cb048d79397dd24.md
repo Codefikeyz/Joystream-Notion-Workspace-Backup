@@ -1,0 +1,13 @@
+# qmeg1
+
+Address: 0x8DA30345c4C75771360EDDA78939Db8e44C6Dad60x8DA30345c4C75771360EDDA78939Db8e44C6Dad6
+Date: February 26, 2023
+Discord: qmeg1#8932
+DiscordId: 931827646801793000
+Quest: Joystream in watchlist on CMC
+ReviewDate: February 27, 2023 9:22 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: qmeg12
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-L_S8wA6fWmFgP9gERHD2f-41.png

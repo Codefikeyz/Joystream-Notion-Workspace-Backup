@@ -1,0 +1,10 @@
+# fulgez8-cenm
+
+Address: 0x730be0B9253c87D86FcE78ec44292490f92145D4
+Date: February 3, 2023
+Discord: fulgez8-cenm#5286
+DiscordId: 989367000000000000
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: Emerald23111841

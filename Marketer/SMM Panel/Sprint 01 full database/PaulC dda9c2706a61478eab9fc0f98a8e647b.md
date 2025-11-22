@@ -1,0 +1,11 @@
+# PaulC
+
+Address: 14K87aPKRTk4aF7Pv6omf32oiS5PdLXQiXppkdK7uw75dyPF
+Date: February 18, 2023
+Discord: PaulChoi#1915
+DiscordId: 421117282836807700
+Quest: Question 8
+Reward: 8 XP
+Status: success
+Twitter: waterboy815
+answer: $JOY

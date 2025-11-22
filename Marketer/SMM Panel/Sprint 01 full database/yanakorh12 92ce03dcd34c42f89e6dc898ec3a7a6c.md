@@ -1,0 +1,10 @@
+# yanakorh12
+
+Address: 5FZCHBYH9UM5ZKbwTwuAzmzdxqjw4tiD2x94nZShamB5Sn9S
+Date: March 3, 2023
+Discord: yanakorh12#4460
+DiscordId: 985283582287282200
+Quest: Daily connect 📆
+Reward: 1 XP
+Status: success
+Twitter: korh_yana

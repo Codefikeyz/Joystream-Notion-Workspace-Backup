@@ -1,0 +1,9 @@
+# Bvcvrdi
+
+Date: February 20, 2023
+Discord: BACARDI#0287
+DiscordId: 993630396635939000
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: kenzooriginall

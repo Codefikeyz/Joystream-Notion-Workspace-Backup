@@ -1,0 +1,10 @@
+# SkaziChain
+
+Address: 5HBMxpbYS7FHn2hoUQc6R8NG2q5rbgUaFT9JAYikuFA1vASM
+Date: April 3, 2023
+Discord: SkaziChain#7158
+DiscordId: 966756027527733400
+Quest: Daily connect 📆
+Reward: 1 XP
+Status: success
+Twitter: SkaziChain

@@ -1,0 +1,10 @@
+# glorya
+
+Address: 12RUZ6wHT7JqzzNduLEcETeUoJuK16KQf4YNHKmT1scNodjc
+Date: October 3, 2023
+Discord: glorya#7887
+DiscordId: 414929628797468700
+Quest: Like, retweet ❤️#36
+Reward: 15 XP
+Status: success
+Twitter: pak_jiminpak

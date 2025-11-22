@@ -1,0 +1,10 @@
+# YuriyAlf
+
+Address: 5Fh39HFLuNZWsxnHzYevzMByLV6ukWyPHUYfPYs9EwmV4gdr
+Date: February 24, 2023
+Discord: yuriy.alf#9621
+DiscordId: 917868500540862500
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: YLipilin

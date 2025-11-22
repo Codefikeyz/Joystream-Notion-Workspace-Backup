@@ -1,0 +1,11 @@
+# Tulibad
+
+Address: 14YJ65XGirqoKHLvRjMFEhyn17KUjoqQrwpAuMMUKFCYwCsT
+Date: February 17, 2023
+Discord: Anatoly#4180
+DiscordId: 916684978560065700
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: Tulibad
+answer: Digital Currency Group (DCG)

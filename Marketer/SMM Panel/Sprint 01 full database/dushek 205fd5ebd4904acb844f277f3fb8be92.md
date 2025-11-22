@@ -1,0 +1,11 @@
+# dushek
+
+Address: 16V2t7dFVu65Msj4NhNmxTsmJFBdMB5TCasDxsXfSsk39ueQ
+Date: February 22, 2023
+Discord: Vitaly Nalivkin#7646
+DiscordId: 249087642421952500
+Quest: Question 9
+Reward: 8 XP
+Status: success
+Twitter: dushek2
+answer: 1,000,000,000 $JOY

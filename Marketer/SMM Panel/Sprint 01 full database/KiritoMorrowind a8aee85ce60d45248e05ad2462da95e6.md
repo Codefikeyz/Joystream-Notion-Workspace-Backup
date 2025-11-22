@@ -1,0 +1,13 @@
+# KiritoMorrowind
+
+Address: 0x48a1ED33445de5f9c3411ae0B08483E4eCF3d574
+Date: February 20, 2023
+Discord: Geralt.of.Rivia#1287
+DiscordId: 421933989402509300
+Quest: Level up your Twitter bio
+ReviewDate: February 20, 2023 3:42 PM (GMT+1)
+ReviewedById: dd4f87e1-cdcb-4881-bbf6-e83b83d1f5ed
+Reward: 66 XP
+Status: success
+Twitter: KiriloMordvinov
+answer: https://twitter.com/KiriloMordvinov

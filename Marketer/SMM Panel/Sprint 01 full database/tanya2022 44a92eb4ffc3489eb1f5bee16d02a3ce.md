@@ -1,0 +1,13 @@
+# tanya2022
+
+Address: 5FZBFCDdzyghbzD8WohsRwm5u1G4c32DE7X4E5wDtbuQhpMU
+Date: February 18, 2023
+Discord: tanya2022#2713
+DiscordId: 953971650947338200
+Quest: Create a channel 
+ReviewDate: February 20, 2023 8:56 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 50 XP
+Status: success
+Twitter: BenanKaradal
+answer: https://gleev.xyz/member/tanya?tab=NFTs+owned

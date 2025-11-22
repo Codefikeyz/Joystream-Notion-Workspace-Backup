@@ -1,0 +1,10 @@
+# PreFIRE
+
+Address: 15BWVpujHFdG1d2L8tAGao6rZ3NszgmEEn1vby1Z68CPUy4A
+Date: May 3, 2023
+Discord: Pre_FIRE#1139
+DiscordId: 405751743326978050
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: PFREE_FIRE

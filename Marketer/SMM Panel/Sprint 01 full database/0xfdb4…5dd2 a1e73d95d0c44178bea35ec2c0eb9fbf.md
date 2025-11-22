@@ -1,0 +1,11 @@
+# 0xfdb4…5dd2
+
+Address: 5GRjqrLTrA1xgzqrYzKWDjWY4rNzp9Vv2Vzn9MRmx4DxfKL7
+Date: February 18, 2023
+Discord: rehearsalforte#7625
+DiscordId: 1029123746981748700
+Quest: High-Quality Twitter thread 🐦
+Reward: 250 XP
+Status: success
+Twitter: yasmine968
+answer: https://twitter.com/yasmine968/status/1626838024045858816?s=20

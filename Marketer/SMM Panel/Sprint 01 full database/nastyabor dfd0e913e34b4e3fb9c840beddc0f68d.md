@@ -1,0 +1,11 @@
+# nastyabor
+
+Address: 13GbPWDFSRHdD98Nx3wt3SDsJ5ixYJTEPLGcpyLJbXC5kT2H
+Date: February 16, 2023
+Discord: anastasiiya#4603
+DiscordId: 824599953565155300
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: rJMvw4eQPbia2xG
+answer: joined

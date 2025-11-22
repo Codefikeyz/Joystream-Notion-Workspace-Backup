@@ -1,0 +1,11 @@
+# Goddes
+
+Address: 16LUHfBK6JRmt3QbJUt8cRTfWc9HRnzSmy6HQ3toWpvP5BV6
+Date: February 25, 2023
+Discord: Goddes#8380
+DiscordId: 960988693403955200
+Quest: Question 2
+Reward: 8 XP
+Status: success
+Twitter: shirindo1989
+answer: Polkadot

@@ -1,0 +1,11 @@
+# Pashaaaa
+
+Address: dmtz2RShxNccNiB1FePkY1Uf2WhXFzP2pzgfuyFxJ2SGPFT1v
+Date: January 3, 2023
+Discord: pavlo#9303
+DiscordId: 925451000000000000
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: OvsianykPavlo
+answer: joined

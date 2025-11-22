@@ -1,0 +1,11 @@
+# viktooria
+
+Address: 5E7UoszouazDPQ717JEpKyvtkgpQXjhbbqVgAC4X7EzCRiC8
+Date: February 18, 2023
+Discord: viktooria#3821
+DiscordId: 953963578287882200
+Quest: Question 9
+Reward: 8 XP
+Status: success
+Twitter: BuyukdagOvgu
+answer: 1,000,000,000 $JOY

@@ -1,0 +1,10 @@
+# uconnie
+
+Address: 17MiiBVvFAPTpNkwQJ42ZQwHGNXCKP5kXEuSoNCMg5XANs3
+Date: April 3, 2023
+Discord: isuran#1022
+DiscordId: 838216237280264200
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: hjk403

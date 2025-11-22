@@ -1,0 +1,11 @@
+# Topaichik
+
+Address: 5EjhRZMxd7SjtDMudTxw1cHeuPY1pweGkb5dy2bwZZQr5cni
+Date: February 22, 2023
+Discord: Topaichik#6282
+DiscordId: 1070314368375476200
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: mckenzie3194
+answer: Digital Currency Group (DCG)

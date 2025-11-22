@@ -1,0 +1,10 @@
+# RoMe0
+
+Address: 12sSmqCN2yGiX9ZA7v4oFoiVMC3jsMmTx5XPXjgVWXCC1GKM
+Date: February 18, 2023
+Discord: RoMe0#7550
+DiscordId: 1006941017112592400
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: SimoneS04721786

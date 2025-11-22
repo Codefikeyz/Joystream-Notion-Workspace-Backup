@@ -1,0 +1,11 @@
+# klarastonec
+
+Address: 14zbZWGxLBpiDfb5eHPLqZBJoskVaqnNkeb4deARDWDtDfhJ
+Date: February 18, 2023
+Discord: klarastonec#6563
+DiscordId: 996014000000000000
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: klarastoness
+answer: joined

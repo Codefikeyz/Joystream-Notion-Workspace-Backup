@@ -1,0 +1,10 @@
+# Alexander26
+
+Address: 5CLsxDxKsodu13PjiFe4CGkMVhoLMt15C2KpECDBDPoYZFT4
+Date: March 3, 2023
+Discord: Alexander Solncev#8694
+DiscordId: 827918700848873500
+Quest: Like, retweet ❤️#32
+Reward: 15 XP
+Status: success
+Twitter: Alexander_Sol26

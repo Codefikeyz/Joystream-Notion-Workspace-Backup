@@ -1,0 +1,10 @@
+# neodallas
+
+Address: 14wq9oV7xCdcPvzGS9CmybKHL5QNDj2Z3uK7wxXQ7duKvJvy
+Date: May 3, 2023
+Discord: neodallas#1249
+DiscordId: 896411627660914700
+Quest: Like, retweet ❤️#34
+Reward: 15 XP
+Status: success
+Twitter: AndrewMasyuta

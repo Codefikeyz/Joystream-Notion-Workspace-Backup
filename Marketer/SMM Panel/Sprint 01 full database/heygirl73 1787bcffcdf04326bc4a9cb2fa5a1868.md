@@ -1,0 +1,11 @@
+# heygirl73
+
+Address: 5EvS8A28k5jkkhbBzzb4PSvEReQ9r2BWzU1JtX5L6rQn565Z
+Date: September 3, 2023
+Discord: heygirl73#0934
+DiscordId: 838954864083206100
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: johnnyhhhhhhhh
+answer: joined

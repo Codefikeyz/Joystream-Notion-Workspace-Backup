@@ -1,0 +1,10 @@
+# Valentin_chudo
+
+Address: 0x92873A7aAfdbA9A8480D35996bF3EC2392FbE0D8
+Date: March 3, 2023
+Discord: Valentin_chudo| HabitTrade#1286
+DiscordId: 1021470000000000000
+Quest: Daily connect ??
+Reward: 1 XP
+Status: success
+Twitter: valentin_chudo

@@ -1,0 +1,11 @@
+# curitol
+
+Address: 5F9RiGY56B6kFLHonzPC2CnTrpbHb7uzskNzoQHb2e73bQKS
+Date: February 18, 2023
+Discord: sbarkonni#8087
+DiscordId: 402382104673124350
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: sambarkonni
+answer: joined

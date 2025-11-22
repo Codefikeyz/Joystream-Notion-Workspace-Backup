@@ -1,0 +1,10 @@
+# dalkismh
+
+Address: 5CcPU1uTqGHVrERT7r94kHSvYBjEWNZ8Pfrw2L7V1vV25bRq
+Date: February 18, 2023
+Discord: ttorong#8702
+DiscordId: 914337737061072900
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: hanmihye1

@@ -1,0 +1,10 @@
+# Comic
+
+Address: j4VB4r7xsd5VtiCowLC5hcSJzUhZy6u2KE5DZsrvZpS6SVxaH
+Date: February 28, 2023
+Discord: Comic#3105
+DiscordId: 957645000000000000
+Quest: Daily connect ??
+Reward: 1 XP
+Status: success
+Twitter: comic_comic1

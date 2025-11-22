@@ -1,0 +1,10 @@
+# yeNOT
+
+Address: 5CrGJTj74gxwWCJeSQWSB8c9ePxoCSvb88U3skWeC3fghmSN
+Date: January 3, 2023
+Discord: yenotov.y#6182
+DiscordId: 953637000000000000
+Quest: Like, retweet ??#29
+Reward: 15 XP
+Status: success
+Twitter: morozov_moscow

@@ -1,0 +1,10 @@
+# 0xPhoenix.eth
+
+Address: Cd9QEHzh2qnHvP5MjvS1af9LqeSDuEeN2YdfwomgqPxxpvp
+Date: February 19, 2023
+Discord: 0xPhoenix#0001
+DiscordId: 884466483734921200
+Quest: Like, reply, retweet ❤️#14
+Reward: 33 XP
+Status: success
+Twitter: 0xPhoenixeth

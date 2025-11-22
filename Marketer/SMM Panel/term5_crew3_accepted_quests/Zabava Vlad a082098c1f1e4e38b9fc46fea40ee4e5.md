@@ -1,0 +1,10 @@
+# Zabava Vlad
+
+Address: 5G1i2UtzG2Cie8omzVxfib3jJBRxHHz2zxnjcVdfbtS7Xsy1
+Date: March 3, 2023
+Discord: wertelyafiat#9628
+DiscordId: 879763000000000000
+Quest: Daily connect ??
+Reward: 1 XP
+Status: success
+Twitter: zabavamers

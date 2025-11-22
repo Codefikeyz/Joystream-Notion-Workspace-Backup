@@ -1,0 +1,11 @@
+# Shama
+
+Address: 5EBxsRuAKg1EcyNLpWpnN4hsxp49BeABZQ9Ae6XmitsVeCyx
+Date: February 22, 2023
+Discord: Shama| Sui Global#8176
+DiscordId: 1006558077069295900
+Quest: Question 4
+Reward: 8 XP
+Status: success
+Twitter: ShamilS25488655
+answer: 9

@@ -1,0 +1,11 @@
+# gotorich
+
+Address: 1seGRsRKQVXix1NpQytFtCPYStY51nXVAN6cjeZvb1KXXt5
+Date: February 21, 2023
+Discord: 민석이#6588
+DiscordId: 902389446433984500
+Quest: Question 7
+Reward: 8 XP
+Status: success
+Twitter: ms0405Kim
+answer: 15 days

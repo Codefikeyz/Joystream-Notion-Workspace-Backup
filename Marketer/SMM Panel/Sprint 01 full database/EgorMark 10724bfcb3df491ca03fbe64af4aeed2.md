@@ -1,0 +1,13 @@
+# EgorMark
+
+Address: 5G28HZqMV6oQNdNRoSK9TDC5bFh15DqshqxwLyzPudn8PEtY
+Date: February 22, 2023
+Discord: EgorMark#9352
+DiscordId: 833657197066059800
+Quest: Meme for Joystream
+ReviewDate: February 23, 2023 10:54 AM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 15 XP
+Status: success
+Twitter: EgorMarkulan
+answer: https://discord.com/channels/811216481340751934/812346722113814538/1077709955504816278

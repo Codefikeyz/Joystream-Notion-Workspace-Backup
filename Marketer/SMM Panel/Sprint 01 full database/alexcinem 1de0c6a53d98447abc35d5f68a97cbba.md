@@ -1,0 +1,11 @@
+# alexcinem
+
+Address: 5EhGnPD6qzuBE6bHat3LSYfD7cxfkV3EhrtWWrxSV1GLuKCx
+Date: February 22, 2023
+Discord: alexcinema#1365
+DiscordId: 953985033406910500
+Quest: Tweet about us
+Reward: 83 XP
+Status: success
+Twitter: elieebengo2
+answer: https://twitter.com/elieebengo2/status/1628301643275030529?s=20

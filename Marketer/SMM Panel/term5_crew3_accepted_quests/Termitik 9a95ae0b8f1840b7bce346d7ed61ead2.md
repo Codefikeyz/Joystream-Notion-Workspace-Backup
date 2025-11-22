@@ -1,0 +1,11 @@
+# Termitik
+
+Address: 12xzfpif6J6kMing6SGSRX4T6cMCqty8eqKfp2AztqLNhsr5
+Date: February 25, 2023
+Discord: Termit#6435
+DiscordId: 960482000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: MistyHe57414799
+answer: Digital Currency Group (DCG)

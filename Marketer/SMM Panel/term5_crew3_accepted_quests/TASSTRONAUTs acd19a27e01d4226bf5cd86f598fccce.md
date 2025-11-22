@@ -1,0 +1,11 @@
+# TASSTRONAUTs
+
+Address: 11cq8MnmRnpik13eUdzBchrZWKU8ZLPVLNWwx7yjy7hYmsf
+Date: February 18, 2023
+Discord: TASSTRONAUT#9997
+DiscordId: 963278000000000000
+Quest: Question 2
+Reward: 8 XP
+Status: success
+Twitter: MarielaBlackb12
+answer: Polkadot

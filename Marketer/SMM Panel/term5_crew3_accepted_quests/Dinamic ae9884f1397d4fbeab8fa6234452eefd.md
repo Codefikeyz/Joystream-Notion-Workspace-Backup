@@ -1,0 +1,11 @@
+# Dinamic
+
+Address: 12rei8Pz69xstbffL7zPVuhBh9nbTXCWVW4ihDTuM1PPXtry
+Date: February 18, 2023
+Discord: Dinamic#3004
+DiscordId: 701140000000000000
+Quest: Question 6
+Reward: 8 XP
+Status: success
+Twitter: 33Dinamic
+answer: 3

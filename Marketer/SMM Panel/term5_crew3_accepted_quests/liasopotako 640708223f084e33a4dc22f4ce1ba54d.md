@@ -1,0 +1,10 @@
+# liasopotako
+
+Address: 5H3ribUgRHpqefKzNnXUK66RSiFpapheKNmF2SDx7FYSaEyt
+Date: February 20, 2023
+Discord: liasopotako#2147
+DiscordId: 1041050000000000000
+Quest: Like, reply, retweet ??#1
+Reward: 33 XP
+Status: success
+Twitter: liasopotako

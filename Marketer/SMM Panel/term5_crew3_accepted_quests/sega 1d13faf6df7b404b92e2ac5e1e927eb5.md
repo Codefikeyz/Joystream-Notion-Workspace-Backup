@@ -1,0 +1,10 @@
+# sega
+
+Address: 1266PeyAL6ZB7xL2B6EhMRJbnyXRgpx1cwEhC3fAhNo2BAC3
+Date: February 28, 2023
+Discord: ukiojo#8132
+DiscordId: 445417000000000000
+Quest: Like, reply, retweet ??#11
+Reward: 33 XP
+Status: success
+Twitter: jozianaida

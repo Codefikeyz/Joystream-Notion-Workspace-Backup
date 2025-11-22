@@ -1,0 +1,11 @@
+# gogi1231123
+
+Address: 0x8768d4f35AE0F55bD244ba249e0F4192c85c59cE
+Date: February 25, 2023
+Discord: gogi#5363
+DiscordId: 1038160000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: Brittan86008860
+answer: Digital Currency Group (DCG)

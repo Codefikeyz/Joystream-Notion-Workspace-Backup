@@ -1,0 +1,11 @@
+# berreta
+
+Address: 15PeFV3j2zko3LrN2QLAts6seJyQYfCfxNXcoewfu2b89Mxu
+Date: February 25, 2023
+Discord: berreta#9023
+DiscordId: 960456000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: AndreaK17352510
+answer: Digital Currency Group (DCG)

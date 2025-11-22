@@ -1,0 +1,11 @@
+# IvanNambaOne
+
+Address: 16iAdrNu9t2gtd8tu67kNv9YKBNHDxoNyQwyRMvTGjzWU3wk
+Date: February 18, 2023
+Discord: IvanNambaOne#3594
+DiscordId: 131866217941172220
+Quest: Join Telegram chat 2
+Reward: 16 XP
+Status: success
+Twitter: UnoSuicide
+answer: joined

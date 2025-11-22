@@ -1,0 +1,10 @@
+# alexcinem
+
+Address: 5EhGnPD6qzuBE6bHat3LSYfD7cxfkV3EhrtWWrxSV1GLuKCx
+Date: February 28, 2023
+Discord: alexcinema#1365
+DiscordId: 953985000000000000
+Quest: Daily connect ??
+Reward: 1 XP
+Status: success
+Twitter: elieebengo2

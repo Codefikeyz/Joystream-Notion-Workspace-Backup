@@ -1,0 +1,10 @@
+# Rudovskiy
+
+Address: 5GHmUJSEiuv2JhofeAQpVSi4k25tWTMnuFBksqnoVWa83sR2
+Date: February 26, 2023
+Discord: ChillPill#0428
+DiscordId: 986674000000000000
+Quest: Like, reply, retweet ??#1
+Reward: 33 XP
+Status: success
+Twitter: Man_7289

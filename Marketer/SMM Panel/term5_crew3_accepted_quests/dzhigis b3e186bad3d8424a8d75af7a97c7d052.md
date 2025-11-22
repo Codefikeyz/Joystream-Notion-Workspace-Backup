@@ -1,0 +1,11 @@
+# dzhigis
+
+Address: 16d1PhWhzTuDozTxQntxdMY6zbFEuqSUozW5A9V4sktn7ars
+Date: February 17, 2023
+Discord: dzhigis ????#3514
+DiscordId: 693556000000000000
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: dzhigis
+answer: joined

@@ -1,0 +1,1 @@
+# Add a guide how  to take part in the bounty

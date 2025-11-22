@@ -1,0 +1,11 @@
+# DorotyD
+
+Address: 5FWgQJi46G1TcAtrYJ2rQpZdzDhxnvfyjd9GHaMdDCyTNPpJ
+Date: February 26, 2023
+Discord: DorotyD#3349
+DiscordId: 900737172905295900
+Quest: Join Telegram Announcements
+Reward: 33 XP
+Status: success
+Twitter: KirstenBrauch
+answer: joined

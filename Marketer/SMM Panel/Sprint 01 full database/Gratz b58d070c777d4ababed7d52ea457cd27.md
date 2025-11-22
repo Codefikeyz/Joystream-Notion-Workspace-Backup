@@ -1,0 +1,10 @@
+# Gratz
+
+Address: 0xE891beDaed840A8A581664Daa1463E9e29A916FA
+Date: February 3, 2023
+Discord: Gratz#5715
+DiscordId: 828315538584502300
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: KusnirIl

@@ -1,0 +1,10 @@
+# Marry0104
+
+Address: 13TG8B4XSLLBdsvpW5FAtqJznWfnch3hweb2PhAYRDjZECFJ
+Date: February 20, 2023
+Discord: MarinaMelnik#2709
+DiscordId: 882609794215735400
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: Maryna_Melnyk_

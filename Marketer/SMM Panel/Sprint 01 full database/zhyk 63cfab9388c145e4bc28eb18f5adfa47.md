@@ -1,0 +1,13 @@
+# zhyk
+
+Address: 5EZzp5NgmMMnEDqj3KFHTg8GC965g9UL78rUQo7oiNbwyziQ
+Date: January 3, 2023
+Discord: zhyk#1793
+DiscordId: 954376390969524200
+Quest: Create a channel 
+ReviewDate: March 2, 2023 7:49 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: nathanmbuebue
+answer: https://gleev.xyz/channel/23634?tab=Videos

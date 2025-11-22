@@ -1,0 +1,11 @@
+# get_right
+
+Address: 13VNCy9Zvqb9eFU2jMArqc3TsWriqyqLCUDNkGvPBoQNxF7T
+Date: February 25, 2023
+Discord: get_right#1083
+DiscordId: 967978413912629200
+Quest: Question 2
+Reward: 8 XP
+Status: success
+Twitter: TracyMu15802965
+answer: Polkadot

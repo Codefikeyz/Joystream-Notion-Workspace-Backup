@@ -1,0 +1,17 @@
+# shaytocado
+
+Address: 5FHmux2E4Fd5NtgfUD9HWtznd8hELEkB4e8NYncPc315a69E
+Date: February 20, 2023
+Discord: shaytocado#6464
+DiscordId: 921908272657743900
+Quest: Post comments under different videos
+ReviewDate: February 20, 2023 9:39 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 83 XP
+Status: success
+Twitter: shaitex248
+answer: https://gleev.xyz/video/705 nick: shaytocado
+https://gleev.xyz/video/702 nick: shaytocado
+https://gleev.xyz/video/703 nick: shaytocado
+https://gleev.xyz/video/682 nick: shaytocado
+https://gleev.xyz/video/5 nick: shaytocado

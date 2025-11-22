@@ -1,0 +1,13 @@
+# Abbas12
+
+Address: 5FCwGqLGDiX8u5tf4fcde52REUwNn7KVtrcmLX8PUszyZFzP
+Date: February 21, 2023
+Discord: Abbas.eth#3581
+DiscordId: 868096937692381200
+Quest: Level up your Twitter bio
+ReviewDate: February 21, 2023 7:42 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 66 XP
+Status: success
+Twitter: Abbas1_eth
+answer: https://twitter.com/Abbas1_eth

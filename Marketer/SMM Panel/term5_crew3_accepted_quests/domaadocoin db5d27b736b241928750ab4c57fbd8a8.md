@@ -1,0 +1,10 @@
+# domaadocoin
+
+Address: 15YRRnUBW6KBvP6oU51Qie2XyeU2ZBdK5Kkvb19muPozcJxt
+Date: February 18, 2023
+Discord: domaadocoin#5159
+DiscordId: 914932000000000000
+Quest: Follow Joystream on Twitter??
+Reward: 33 XP
+Status: success
+Twitter: domaadocoin

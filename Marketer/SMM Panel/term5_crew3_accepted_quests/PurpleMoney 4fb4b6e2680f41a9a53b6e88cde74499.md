@@ -1,0 +1,11 @@
+# PurpleMoney
+
+Address: 16cCQZCxzfxBqShCFPBHasaxM3sdo765LKo2wLMaog2sLzeE
+Date: February 25, 2023
+Discord: Purple Money#4488
+DiscordId: 748858000000000000
+Quest: Tweet about us
+Reward: 66 XP
+Status: success
+Twitter: Purple_M0ney
+answer: https://twitter.com/Purple_M0ney/status/1629436007362822146

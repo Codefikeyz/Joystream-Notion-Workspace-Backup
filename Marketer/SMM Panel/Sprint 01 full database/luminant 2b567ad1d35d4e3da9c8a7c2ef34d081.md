@@ -1,0 +1,10 @@
+# luminant
+
+Address: 15G2N7mntzxBRceCoqaG65fUBaXCWG4Tua4jSGCSEm8jvH9T
+Date: February 18, 2023
+Discord: luminant#6205
+DiscordId: 831360813818052600
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: hikkis_lumi

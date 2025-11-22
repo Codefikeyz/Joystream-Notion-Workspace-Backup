@@ -1,0 +1,11 @@
+# yamakasi_808
+
+Address: 5G3xPbh4cUaY3mxniib5kiLPZjLVFVv42rzfUE28rqnNJWGF
+Date: June 3, 2023
+Discord: Mary#8105
+DiscordId: 653503571865763800
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: Pandashorts3
+answer: joined

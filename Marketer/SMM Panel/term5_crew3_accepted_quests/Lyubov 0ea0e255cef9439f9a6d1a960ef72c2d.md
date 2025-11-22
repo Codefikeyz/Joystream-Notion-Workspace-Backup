@@ -1,0 +1,11 @@
+# Lyubov
+
+Address: 5G3cz5mX8xv88PafmhurDfN23QxfNBuqgjHXmKw7EoT1YN1H
+Date: February 21, 2023
+Discord: Lyubov#5860
+DiscordId: 906277000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: LubovSemcuk
+answer: Digital Currency Group (DCG)

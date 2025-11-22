@@ -1,0 +1,10 @@
+# wazirr15
+
+Address: 155RV9rxrJh2oPZAub3NNzhaKWGMeXTrbhszSE47rDfEpski
+Date: March 3, 2023
+Discord: wazirr15#1839
+DiscordId: 882292654610718700
+Quest: Like, retweet ❤️#29
+Reward: 15 XP
+Status: success
+Twitter: wazirr155

@@ -1,0 +1,13 @@
+# TechN0
+
+Address: 0x4Ac73F2F3131814893E48B50031454f5Deeee215
+Date: February 24, 2023
+Discord: T?chN0#9902
+DiscordId: 558023000000000000
+Quest: Create a membership
+ReviewDate: February 23, 2023 9:07 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: Crypto_Techn0
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-WMTbOQAcktKuqNYxzSF8J-.PNG

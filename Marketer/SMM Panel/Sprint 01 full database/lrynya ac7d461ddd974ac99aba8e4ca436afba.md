@@ -1,0 +1,10 @@
+# lrynya
+
+Address: 5HHZNmv3yTK654ghasAw35QcNDjVP3jp7Nu6X3sW84pYrv1H
+Date: February 18, 2023
+Discord: lrynya#8872
+DiscordId: 956175170953969700
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: ange_luafa

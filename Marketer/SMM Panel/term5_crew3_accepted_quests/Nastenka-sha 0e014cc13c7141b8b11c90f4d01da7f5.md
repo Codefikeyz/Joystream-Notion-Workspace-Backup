@@ -1,0 +1,10 @@
+# Nastenka-sha
+
+Address: 5EsXqSaeBWEUV5ucUHKcW6C24spVFtdVyXMSFnLGJQ8F8Ym6
+Date: March 3, 2023
+Discord: Nastenka-sha#8724
+DiscordId: 954426000000000000
+Quest: Invite 3 crew3 frens ??
+Reward: 100 XP
+Status: success
+Twitter: fixed_matches21

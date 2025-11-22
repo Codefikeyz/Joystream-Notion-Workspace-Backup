@@ -1,0 +1,11 @@
+# 0x72a6…a41d
+
+Address: 1uqdtof6npkYVtCQYkUy1QPTjWDkqSEUtifcvQyTamiL5RM
+Date: February 19, 2023
+Discord: Libido77#6905
+DiscordId: 897504890249707500
+Quest: Question 8
+Reward: 8 XP
+Status: success
+Twitter: lido98751
+answer: $JOY

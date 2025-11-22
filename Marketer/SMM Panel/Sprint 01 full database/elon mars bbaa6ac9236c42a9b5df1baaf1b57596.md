@@ -1,0 +1,10 @@
+# elon mars
+
+Address: 0xFc0cA6A414D1E7210DDb1ADff9449E8c4957DD27
+Date: February 19, 2023
+Discord: villy867#3930
+DiscordId: 997895168155988100
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: DimaPet42899838

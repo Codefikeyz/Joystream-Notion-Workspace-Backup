@@ -1,0 +1,11 @@
+# DanielCl
+
+Address: 1J2GCqoGJBWmX3tU9H9ZZZrKC7imV4RrNKiJeRm4AFE2her
+Date: February 18, 2023
+Discord: DanielCl#9881
+DiscordId: 951910000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: AlexKan28859245
+answer: Digital Currency Group (DCG)

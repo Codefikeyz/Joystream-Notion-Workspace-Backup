@@ -1,0 +1,13 @@
+# JJUBi
+
+Address: 5GLDEb4m94K18Jik8BmyC9LEpsjq99TBjPryKEzmAf4MUSUv
+Date: February 23, 2023
+Discord: JJUBi#9823
+DiscordId: 806889000000000000
+Quest: Create a membership
+ReviewDate: February 23, 2023 9:07 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: 0xJJUBi_eth
+answer: public/4066345b-4195-4a38-a0de-70568adf58a3-pW_wI766e75cThKVoDMfN-cvcvc.PNG

@@ -1,0 +1,10 @@
+# Vidomina33
+
+Address: 5GzyBB6Akhh2DzyfXo65Hy2g5AwRhMSf68DUjZ1P1nChe2To
+Date: February 24, 2023
+Discord: Vidomina33#6968
+DiscordId: 1023910000000000000
+Quest: Like, retweet ??#20
+Reward: 15 XP
+Status: success
+Twitter: dhdjjdids

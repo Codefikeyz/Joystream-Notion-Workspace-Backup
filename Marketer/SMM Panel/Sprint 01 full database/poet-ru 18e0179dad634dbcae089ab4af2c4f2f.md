@@ -1,0 +1,11 @@
+# poet-ru
+
+Address: 5Epqgf2GA99XquU5U34iAvkjatmSnvAJNrHcvqLr2AiGzD3Q
+Date: February 18, 2023
+Discord: poet-ru#8630
+DiscordId: 953947753547960300
+Quest: High-Quality Twitter thread 🐦
+Reward: 250 XP
+Status: success
+Twitter: lahafullwork198
+answer: https://twitter.com/lahafullwork198/status/1626866314194067456?s=20

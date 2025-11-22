@@ -1,0 +1,10 @@
+# Bake
+
+Address: 16d8DJv46AR7Snuzi5NazWHr7JNKSYkSz6K81m46WvfyU24q
+Date: February 21, 2023
+Discord: Bake0043#6286
+DiscordId: 1027172732460347500
+Quest: Follow Joystream on Twitter🌈
+Reward: 33 XP
+Status: success
+Twitter: BakeBak3

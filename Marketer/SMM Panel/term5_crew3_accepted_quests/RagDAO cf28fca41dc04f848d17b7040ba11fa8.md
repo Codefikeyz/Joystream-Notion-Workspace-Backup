@@ -1,0 +1,11 @@
+# RagDAO
+
+Address: 5HpYWuwQQRgDbYNvh7W1sh2En4Kw1VRWtKKYN4oY1D49aZSu
+Date: February 20, 2023
+Discord: ingtellect#0751
+DiscordId: 222477000000000000
+Quest: Tweet about us
+Reward: 83 XP
+Status: success
+Twitter: CryptoRagDAO
+answer: https://twitter.com/CryptoRagDAO/status/1627406287221952513?s=20

@@ -1,0 +1,10 @@
+# Vadisha
+
+Address: 14GGPFVGKTanCwvAdMdaG1jL6XNDEU8WS3Q9jcsz4Gyh6cNo
+Date: February 21, 2023
+Discord: Vadisha#2331
+DiscordId: 817345000000000000
+Quest: Follow Joystream on Twitter??
+Reward: 33 XP
+Status: success
+Twitter: crash_bmk

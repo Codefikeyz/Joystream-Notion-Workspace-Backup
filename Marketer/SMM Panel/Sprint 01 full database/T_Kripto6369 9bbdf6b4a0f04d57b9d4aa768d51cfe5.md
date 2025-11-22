@@ -1,0 +1,10 @@
+# T_Kripto6369
+
+Address: 5Hmjv5c4kjoLaPeMBXeNZf3TBmAQapQYLKtdSnB9ELwwXscg
+Date: February 22, 2023
+Discord: T_Kripto mTrader#6369
+DiscordId: 869401078825881600
+Quest: Join discord
+Reward: 33 XP
+Status: success
+Twitter: TKolomejceva

@@ -1,0 +1,10 @@
+# Gektor1
+
+Address: 5EfLs14MbeSRgpn94Sx1or8FxH3YjBa1C7YnY98fLNaaF2gp
+Date: January 3, 2023
+Discord: Gektor#9179
+DiscordId: 954420523310411900
+Quest: Like, retweet ❤️#28
+Reward: 15 XP
+Status: success
+Twitter: SatishV73999251

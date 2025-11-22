@@ -1,0 +1,10 @@
+# Rudovskiy
+
+Address: 5GHmUJSEiuv2JhofeAQpVSi4k25tWTMnuFBksqnoVWa83sR2
+Date: April 3, 2023
+Discord: ChillPill#0428
+DiscordId: 986673661538861000
+Quest: Daily connect 📆
+Reward: 1 XP
+Status: success
+Twitter: Man_7289

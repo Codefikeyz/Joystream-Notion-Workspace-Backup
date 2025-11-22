@@ -1,0 +1,11 @@
+# Crystaliks
+
+Address: 16XSkwcgdQdCsJCatZzWdJziKqb6BJfPnfuNtjs5R5BjYELg
+Date: March 3, 2023
+Discord: Crystaliks#3468
+DiscordId: 1053010000000000000
+Quest: Question 3
+Reward: 8 XP
+Status: success
+Twitter: aridatha_1982
+answer: 164

@@ -1,0 +1,11 @@
+# sega
+
+Address: 1266PeyAL6ZB7xL2B6EhMRJbnyXRgpx1cwEhC3fAhNo2BAC3
+Date: February 19, 2023
+Discord: ukiojo#8132
+DiscordId: 445417000000000000
+Quest: Question 5
+Reward: 8 XP
+Status: success
+Twitter: jozianaida
+answer: Anti-Corruption WG

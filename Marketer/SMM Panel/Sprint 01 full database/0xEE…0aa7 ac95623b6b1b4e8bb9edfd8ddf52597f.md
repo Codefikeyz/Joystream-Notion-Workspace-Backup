@@ -1,0 +1,10 @@
+# 0xEE…0aa7
+
+Address: 5DCZumAQpS3NJz94MSqB5TS6knNyVH2TgmdUiY2Fh6WbE5ou
+Date: February 28, 2023
+Discord: Ridik#4045
+DiscordId: 868247235312357400
+Quest: Daily connect 📆
+Reward: 1 XP
+Status: success
+Twitter: ridik_suwondo

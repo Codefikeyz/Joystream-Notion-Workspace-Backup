@@ -1,0 +1,10 @@
+# EdCoin
+
+Address: 13o1fuu8Zoh84BFVsZHLBj3MqvtFyWQHUU1b653VsM698Cp
+Date: February 17, 2023
+Discord: EdCoin_1#3967
+DiscordId: 825232000000000000
+Quest: Like, reply, retweet ??#2
+Reward: 33 XP
+Status: success
+Twitter: EduardKolesnik2

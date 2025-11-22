@@ -1,0 +1,10 @@
+# Kama pulya
+
+Address: 5GhP5uP9bB22y1MAfhzmMeMQaGhcjop9wLvgULhCpvfpGBf9
+Date: February 28, 2023
+Discord: Kama pulya#5550
+DiscordId: 957150000000000000
+Quest: Like, retweet ??#25
+Reward: 15 XP
+Status: success
+Twitter: yasurimo1982

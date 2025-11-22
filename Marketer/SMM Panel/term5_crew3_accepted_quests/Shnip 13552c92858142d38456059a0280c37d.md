@@ -1,0 +1,10 @@
+# Shnip
+
+Address: 5CibDLmHGs7bzdxfoEFoRKV85PRkDdzP8UFW3v4NPa71Ez6P
+Date: February 26, 2023
+Discord: skanvorder |#4853
+DiscordId: 318094000000000000
+Quest: Follow Joystream on Twitter??
+Reward: 33 XP
+Status: success
+Twitter: MrShnip

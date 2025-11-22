@@ -1,0 +1,11 @@
+# Seddy
+
+Address: 5HE1K6ZM3kJ91zZXHAHH5mEqxLMBhFreTP2mUzYuXM6cQ35T
+Date: February 19, 2023
+Discord: Seddy | Sui Bears#0928
+DiscordId: 839572870777667600
+Quest: Question 9
+Reward: 8 XP
+Status: success
+Twitter: SedYuri
+answer: 1,000,000,000 $JOY

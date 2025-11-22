@@ -1,0 +1,11 @@
+# kort
+
+Address: 5Cex6Gifvat5qxW4AwJVseQjv6yjTpEm6wzkpSvJN4cM5kEy
+Date: February 18, 2023
+Discord: kort#0403
+DiscordId: 876200206658596900
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: olgaa0641
+answer: Digital Currency Group (DCG)

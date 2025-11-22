@@ -1,0 +1,11 @@
+# parapa28
+
+Address: 1278t8nV7MqrV2vTLeBoTm7bmfktrDeENq6ExHTSSQj8KWnS
+Date: February 21, 2023
+Discord: moonking#8468
+DiscordId: 925824000000000000
+Quest: Tweet about us
+Reward: 83 XP
+Status: success
+Twitter: parapa28
+answer: https://twitter.com/parapa28/status/1627781678105239554?s=20

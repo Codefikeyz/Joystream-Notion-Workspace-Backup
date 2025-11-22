@@ -1,0 +1,13 @@
+# 76valeriy
+
+Address: 13wtdZMBSmJgdP4y5AS7nAHUsf1WKdNJeazZ1KCpCMd8ajTW
+Date: February 17, 2023
+Discord: Valeriy#1621
+DiscordId: 892470619516579800
+Quest: Create a channel 
+ReviewDate: February 17, 2023 2:42 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 50 XP
+Status: success
+Twitter: ValeriyT76
+answer: https://gleev.xyz/channel/21863?tab=Videos

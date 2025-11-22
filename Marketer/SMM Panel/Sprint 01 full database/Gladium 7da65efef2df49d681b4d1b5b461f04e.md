@@ -1,0 +1,10 @@
+# Gladium
+
+Address: 5GnjfHkJQx5G3aCfLS3cGVwiKFUdkVXni5MBKWyz3ptkMMaB
+Date: February 26, 2023
+Discord: Gladium#2131
+DiscordId: 918911025733050400
+Quest: Like, retweet ❤️#24
+Reward: 15 XP
+Status: success
+Twitter: CollinLatt

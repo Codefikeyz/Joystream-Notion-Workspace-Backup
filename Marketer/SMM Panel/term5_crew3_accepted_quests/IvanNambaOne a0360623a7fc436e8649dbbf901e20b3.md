@@ -1,0 +1,11 @@
+# IvanNambaOne
+
+Address: 16iAdrNu9t2gtd8tu67kNv9YKBNHDxoNyQwyRMvTGjzWU3wk
+Date: February 17, 2023
+Discord: IvanNambaOne#3594
+DiscordId: 131866000000000000
+Quest: Question 7
+Reward: 8 XP
+Status: success
+Twitter: UnoSuicide
+answer: 15 days

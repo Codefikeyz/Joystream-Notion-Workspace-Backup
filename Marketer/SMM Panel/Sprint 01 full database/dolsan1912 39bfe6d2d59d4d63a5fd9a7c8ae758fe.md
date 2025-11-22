@@ -1,0 +1,11 @@
+# dolsan1912
+
+Address: 5DrFmnGwWzcskkGYQXpNZRCDskciFFqV6W5Xajc47nbiausg
+Date: January 3, 2023
+Discord: 돌산1912#4651
+DiscordId: 893752765443100700
+Quest: Join Telegram chat
+Reward: 33 XP
+Status: success
+Twitter: dolsan1912
+answer: joined

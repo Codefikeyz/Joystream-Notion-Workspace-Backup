@@ -1,0 +1,13 @@
+# tanya2022
+
+Address: 5FZBFCDdzyghbzD8WohsRwm5u1G4c32DE7X4E5wDtbuQhpMU
+Date: February 27, 2023
+Discord: tanya2022#2713
+DiscordId: 953972000000000000
+Quest: 3 memes about Joystream on Twitter
+ReviewDate: March 2, 2023 8:12 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 45 XP
+Status: success
+Twitter: BenanKaradal
+answer: https://twitter.com/BenanKaradal/status/1629882871413452804?s=20

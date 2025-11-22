@@ -1,0 +1,11 @@
+# basheeme
+
+Address: 14wa7CcFqZSYLXTmXtAww4eLvkwWMXP1HsZ6ESXDUnGUgy5w
+Date: February 25, 2023
+Discord: basheeme#8184
+DiscordId: 960453000000000000
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: Michell29524822
+answer: Digital Currency Group (DCG)

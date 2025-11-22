@@ -1,0 +1,10 @@
+# Criptofarm01
+
+Address: 5E7DVQ9qk6Bjc598xGgeo4oJTgvgtojXhqB124cYdGDbC6ZZ
+Date: February 21, 2023
+Discord: cryptoparf01ram#3546
+DiscordId: 1006110000000000000
+Quest: Follow Joystream on Twitter??
+Reward: 33 XP
+Status: success
+Twitter: LStaseva

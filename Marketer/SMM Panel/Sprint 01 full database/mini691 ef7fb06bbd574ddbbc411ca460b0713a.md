@@ -1,0 +1,11 @@
+# mini691
+
+Address: 5FRWvKGkK9DAHREJmQd5RsfLtwWiJcTXsdXf6ebMnAZEjuA3
+Date: February 18, 2023
+Discord: mini691#8501
+DiscordId: 959042718535917600
+Quest: Question 1
+Reward: 8 XP
+Status: success
+Twitter: Joeodinga1
+answer: Digital Currency Group (DCG)

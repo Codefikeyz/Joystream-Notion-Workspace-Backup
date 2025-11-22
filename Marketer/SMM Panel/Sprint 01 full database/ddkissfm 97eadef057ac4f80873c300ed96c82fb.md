@@ -1,0 +1,13 @@
+# ddkissfm
+
+Address: j4VdFRR557fN5CYfyG5xq6HDPMzySUxPbhNn6BHeqyUYVR5cp
+Date: February 21, 2023
+Discord: ddkissfm#4214
+DiscordId: 887808300933087400
+Quest: Share video 
+ReviewDate: February 21, 2023 7:46 PM (GMT+1)
+ReviewedById: b13c2bd9-bc43-4b82-bd21-f5e972e648be
+Reward: 33 XP
+Status: success
+Twitter: AleksejPavlinic
+answer: https://twitter.com/aleksejpavlinic/status/1627976302413205504?s=21&t=icLr3IzpHH5qVswZElVzOw

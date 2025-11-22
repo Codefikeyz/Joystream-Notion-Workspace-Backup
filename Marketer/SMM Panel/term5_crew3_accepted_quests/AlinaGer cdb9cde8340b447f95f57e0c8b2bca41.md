@@ -1,0 +1,10 @@
+# AlinaGer
+
+Address: dmxFHh2g5n5xAXtAQwzjhT33HkHB5PAgVCDHX1TzNvRRU314Y
+Date: February 22, 2023
+Discord: AlinaGer#5022
+DiscordId: 787021000000000000
+Quest: Follow Joystream on Twitter??
+Reward: 33 XP
+Status: success
+Twitter: G7Artur
